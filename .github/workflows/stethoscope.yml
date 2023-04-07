@@ -1,6 +1,7 @@
 name: Stethoscope CI
 on:
   schedule:
+    # runs at 12:00 AM
     - cron: "0 0 * * *"
   repository_dispatch:
     types: [stethoscope]
