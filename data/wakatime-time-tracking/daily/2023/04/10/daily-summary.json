@@ -1,20 +1,115 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "1.02",
+        "digital": "1:01:28",
+        "hours": 1,
+        "minutes": 1,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 28,
+        "text": "1 hr 1 min",
+        "total_seconds": 3688.397149
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "1.02",
+        "digital": "1:01:28",
+        "hours": 1,
+        "minutes": 1,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 28,
+        "text": "1 hr 1 min",
+        "total_seconds": 3688.397149
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.02",
+      "digital": "1:01",
+      "hours": 1,
+      "minutes": 1,
+      "text": "1 hr 1 min",
+      "total_seconds": 3688.397149
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.88",
+        "digital": "0:53:51",
+        "hours": 0,
+        "minutes": 53,
+        "name": "JavaScript",
+        "percent": 87.62,
+        "seconds": 51,
+        "text": "53 mins",
+        "total_seconds": 3231.933788
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:36",
+        "hours": 0,
+        "minutes": 7,
+        "name": "JSON",
+        "percent": 12.38,
+        "seconds": 36,
+        "text": "7 mins",
+        "total_seconds": 456.463361
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.02",
+        "digital": "1:01:28",
+        "hours": 1,
+        "machine_name_id": "ae53b440-753d-42d9-8893-6a8bcf8fbffa",
+        "minutes": 1,
+        "name": "Zaid-Laptop",
+        "percent": 100,
+        "seconds": 28,
+        "text": "1 hr 1 min",
+        "total_seconds": 3688.397149
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.02",
+        "digital": "1:01:28",
+        "hours": 1,
+        "minutes": 1,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 28,
+        "text": "1 hr 1 min",
+        "total_seconds": 3688.397149
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.88",
+        "digital": "0:53:51",
+        "hours": 0,
+        "minutes": 53,
+        "name": "ai-3d-website",
+        "percent": 87.62,
+        "seconds": 51,
+        "text": "53 mins",
+        "total_seconds": 3231.933788
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:36",
+        "hours": 0,
+        "minutes": 7,
+        "name": "uptime-kuma",
+        "percent": 12.38,
+        "seconds": 36,
+        "text": "7 mins",
+        "total_seconds": 456.463361
+      }
+    ],
     "range": {
       "date": "2023-04-11",
       "end": "2023-04-11T18:59:59Z",
