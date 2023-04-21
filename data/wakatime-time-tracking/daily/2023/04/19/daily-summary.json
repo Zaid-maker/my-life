@@ -1,20 +1,104 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:19",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 19,
+        "text": "3 mins",
+        "total_seconds": 199.179491
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:19",
+        "hours": 0,
+        "minutes": 3,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 19,
+        "text": "3 mins",
+        "total_seconds": 199.179491
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.05",
+      "digital": "0:03",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 3,
+      "text": "3 mins",
+      "total_seconds": 199.179491
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.03",
+        "digital": "0:02:57",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JavaScript",
+        "percent": 89.37,
+        "seconds": 57,
+        "text": "2 mins",
+        "total_seconds": 177.998724
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 10.63,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.180767
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:19",
+        "hours": 0,
+        "machine_name_id": "ae53b440-753d-42d9-8893-6a8bcf8fbffa",
+        "minutes": 3,
+        "name": "Zaid-Laptop",
+        "percent": 100,
+        "seconds": 19,
+        "text": "3 mins",
+        "total_seconds": 199.179491
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:19",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Windows",
+        "percent": 100,
+        "seconds": 19,
+        "text": "3 mins",
+        "total_seconds": 199.179491
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.05",
+        "digital": "0:03:19",
+        "hours": 0,
+        "minutes": 3,
+        "name": "joke-bot-2",
+        "percent": 100,
+        "seconds": 19,
+        "text": "3 mins",
+        "total_seconds": 199.179491
+      }
+    ],
     "range": {
       "date": "2023-04-20",
       "end": "2023-04-20T18:59:59Z",
