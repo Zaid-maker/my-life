@@ -2,15 +2,15 @@
   {
     "categories": [
       {
-        "decimal": "1.00",
-        "digital": "1:00:50",
+        "decimal": "1.02",
+        "digital": "1:01:57",
         "hours": 1,
-        "minutes": 0,
+        "minutes": 1,
         "name": "Coding",
         "percent": 100,
-        "seconds": 50,
-        "text": "1 hr",
-        "total_seconds": 3650.103401
+        "seconds": 57,
+        "text": "1 hr 1 min",
+        "total_seconds": 3717.95378
       }
     ],
     "dependencies": [
@@ -19,7 +19,62 @@
         "digital": "0:00:24",
         "hours": 0,
         "minutes": 0,
+        "name": "dotenv",
+        "percent": 8.33,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.878621
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
+        "name": "prettier",
+        "percent": 8.33,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.878621
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
+        "name": "topgg-autoposter",
+        "percent": 8.33,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.878621
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
         "name": "quick.db",
+        "percent": 8.33,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.878621
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
+        "name": "chalk",
+        "percent": 8.33,
+        "seconds": 24,
+        "text": "24 secs",
+        "total_seconds": 24.878621
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:24",
+        "hours": 0,
+        "minutes": 0,
+        "name": "node-recursive-directory",
         "percent": 8.33,
         "seconds": 24,
         "text": "24 secs",
@@ -63,62 +118,7 @@
         "digital": "0:00:24",
         "hours": 0,
         "minutes": 0,
-        "name": "topgg-autoposter",
-        "percent": 8.33,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.878621
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:24",
-        "hours": 0,
-        "minutes": 0,
-        "name": "dotenv",
-        "percent": 8.33,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.878621
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:24",
-        "hours": 0,
-        "minutes": 0,
-        "name": "node-recursive-directory",
-        "percent": 8.33,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.878621
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:24",
-        "hours": 0,
-        "minutes": 0,
-        "name": "chalk",
-        "percent": 8.33,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.878621
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:24",
-        "hours": 0,
-        "minutes": 0,
         "name": "npm",
-        "percent": 8.33,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.878621
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:24",
-        "hours": 0,
-        "minutes": 0,
-        "name": "better-sqlite3",
         "percent": 8.33,
         "seconds": 24,
         "text": "24 secs",
@@ -140,7 +140,7 @@
         "digital": "0:00:24",
         "hours": 0,
         "minutes": 0,
-        "name": "prettier",
+        "name": "better-sqlite3",
         "percent": 8.33,
         "seconds": 24,
         "text": "24 secs",
@@ -149,36 +149,36 @@
     ],
     "editors": [
       {
-        "decimal": "1.00",
-        "digital": "1:00:50",
+        "decimal": "1.02",
+        "digital": "1:01:57",
         "hours": 1,
-        "minutes": 0,
+        "minutes": 1,
         "name": "VS Code",
         "percent": 100,
-        "seconds": 50,
-        "text": "1 hr",
-        "total_seconds": 3650.103401
+        "seconds": 57,
+        "text": "1 hr 1 min",
+        "total_seconds": 3717.95378
       }
     ],
     "grand_total": {
-      "decimal": "1.00",
-      "digital": "1:00",
+      "decimal": "1.02",
+      "digital": "1:01",
       "hours": 1,
-      "minutes": 0,
-      "text": "1 hr",
-      "total_seconds": 3650.103401
+      "minutes": 1,
+      "text": "1 hr 1 min",
+      "total_seconds": 3717.95378
     },
     "languages": [
       {
-        "decimal": "1.00",
-        "digital": "1:00:17",
+        "decimal": "1.02",
+        "digital": "1:01:25",
         "hours": 1,
-        "minutes": 0,
+        "minutes": 1,
         "name": "JavaScript",
-        "percent": 99.1,
-        "seconds": 17,
-        "text": "1 hr",
-        "total_seconds": 3617.405204
+        "percent": 99.12,
+        "seconds": 25,
+        "text": "1 hr 1 min",
+        "total_seconds": 3685.255583
       },
       {
         "decimal": "0.00",
@@ -186,7 +186,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "JSON",
-        "percent": 0.68,
+        "percent": 0.67,
         "seconds": 24,
         "text": "24 secs",
         "total_seconds": 24.878621
@@ -205,42 +205,42 @@
     ],
     "machines": [
       {
-        "decimal": "1.00",
-        "digital": "1:00:50",
+        "decimal": "1.02",
+        "digital": "1:01:57",
         "hours": 1,
         "machine_name_id": "ae53b440-753d-42d9-8893-6a8bcf8fbffa",
-        "minutes": 0,
+        "minutes": 1,
         "name": "Zaid-Laptop",
         "percent": 100,
-        "seconds": 50,
-        "text": "1 hr",
-        "total_seconds": 3650.103401
+        "seconds": 57,
+        "text": "1 hr 1 min",
+        "total_seconds": 3717.95378
       }
     ],
     "operating_systems": [
       {
-        "decimal": "1.00",
-        "digital": "1:00:50",
+        "decimal": "1.02",
+        "digital": "1:01:57",
         "hours": 1,
-        "minutes": 0,
+        "minutes": 1,
         "name": "Windows",
         "percent": 100,
-        "seconds": 50,
-        "text": "1 hr",
-        "total_seconds": 3650.103401
+        "seconds": 57,
+        "text": "1 hr 1 min",
+        "total_seconds": 3717.95378
       }
     ],
     "projects": [
       {
-        "decimal": "1.00",
-        "digital": "1:00:50",
+        "decimal": "1.02",
+        "digital": "1:01:57",
         "hours": 1,
-        "minutes": 0,
+        "minutes": 1,
         "name": "joke-bot-2",
         "percent": 100,
-        "seconds": 50,
-        "text": "1 hr",
-        "total_seconds": 3650.103401
+        "seconds": 57,
+        "text": "1 hr 1 min",
+        "total_seconds": 3717.95378
       }
     ],
     "range": {
