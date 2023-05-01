@@ -1,110 +1,24 @@
 [
   {
-    "categories": [
-      {
-        "decimal": "2.57",
-        "digital": "2:34:45",
-        "hours": 2,
-        "minutes": 34,
-        "name": "Coding",
-        "percent": 100,
-        "seconds": 45,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9285.219168
-      }
-    ],
-    "dependencies": [],
-    "editors": [
-      {
-        "decimal": "2.57",
-        "digital": "2:34:45",
-        "hours": 2,
-        "minutes": 34,
-        "name": "VS Code",
-        "percent": 100,
-        "seconds": 45,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9285.219168
-      }
-    ],
+    "languages": [],
     "grand_total": {
-      "decimal": "2.57",
-      "digital": "2:34",
-      "hours": 2,
-      "minutes": 34,
-      "text": "2 hrs 34 mins",
-      "total_seconds": 9285.219168
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
     },
-    "languages": [
-      {
-        "decimal": "2.57",
-        "digital": "2:34:45",
-        "hours": 2,
-        "minutes": 34,
-        "name": "JavaScript",
-        "percent": 100,
-        "seconds": 45,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9285.219168
-      }
-    ],
-    "machines": [
-      {
-        "decimal": "2.57",
-        "digital": "2:34:45",
-        "hours": 2,
-        "machine_name_id": "5a4ce00a-40ba-44ae-805b-720ed1132eb4",
-        "minutes": 34,
-        "name": "Zaid-Laptop",
-        "percent": 100,
-        "seconds": 45,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9285.219168
-      }
-    ],
-    "operating_systems": [
-      {
-        "decimal": "2.57",
-        "digital": "2:34:45",
-        "hours": 2,
-        "minutes": 34,
-        "name": "Windows",
-        "percent": 100,
-        "seconds": 45,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9285.219168
-      }
-    ],
-    "projects": [
-      {
-        "color": null,
-        "decimal": "2.57",
-        "digital": "2:34:45",
-        "hours": 2,
-        "minutes": 34,
-        "name": "ai-3d-website",
-        "percent": 100,
-        "seconds": 45,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9285.219168
-      },
-      {
-        "color": null,
-        "decimal": "0.00",
-        "digital": "0:00:00",
-        "hours": 0,
-        "minutes": 0,
-        "name": "joke-bot-2",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
-      }
-    ],
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
     "range": {
-      "date": "2023-04-27",
-      "end": "2023-04-27T18:59:59Z",
       "start": "2023-04-26T19:00:00Z",
+      "end": "2023-04-27T18:59:59Z",
+      "date": "2023-04-27",
       "text": "Thu Apr 27th 2023",
       "timezone": "Asia/Karachi"
     }
