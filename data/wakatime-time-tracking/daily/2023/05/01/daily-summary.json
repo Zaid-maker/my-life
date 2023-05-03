@@ -1,26 +1,132 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 5992.605823,
+        "digital": "1:39:52",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 52,
+        "percent": 91.13
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 510.26597,
+        "digital": "0:08:30",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 30,
+        "percent": 7.76
+      },
+      {
+        "name": "Other",
+        "total_seconds": 72.708392,
+        "digital": "0:01:12",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 1.11
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 49,
+      "total_seconds": 6575.580185,
+      "digital": "1:49",
+      "decimal": "1.82",
+      "text": "1 hr 49 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6575.580185,
+        "digital": "1:49:35",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6575.580185,
+        "digital": "1:49:35",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6575.580185,
+        "digital": "1:49:35",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 6575.580185,
+        "machine_name_id": "ff2a3259-f24a-405b-81f7-bfed8604cd88",
+        "digital": "1:49:35",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "joke-bot-2",
+        "total_seconds": 3460.425626,
+        "digital": "0:57:40",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 40,
+        "percent": 52.63
+      },
+      {
+        "name": "hello-vscode",
+        "total_seconds": 3115.154559,
+        "digital": "0:51:55",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 55,
+        "percent": 47.37
+      }
+    ],
     "range": {
       "start": "2023-05-01T19:00:00Z",
       "end": "2023-05-02T18:59:59Z",
       "date": "2023-05-02",
       "text": "Tue May 2nd 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
