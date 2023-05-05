@@ -84,7 +84,51 @@
     ],
     "dependencies": [
       {
+        "name": "typescript",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
         "name": "@vscode/test-electron",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
+        "name": "npm",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
+        "name": "mocha",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
@@ -106,7 +150,18 @@
         "percent": 10
       },
       {
-        "name": "typescript",
+        "name": "@types/vscode",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
+        "name": "glob",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
@@ -137,61 +192,6 @@
         "minutes": 0,
         "seconds": 33,
         "percent": 10
-      },
-      {
-        "name": "eslint",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
-      },
-      {
-        "name": "@types/vscode",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
-      },
-      {
-        "name": "mocha",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
-      },
-      {
-        "name": "glob",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
-      },
-      {
-        "name": "npm",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
       }
     ],
     "machines": [
@@ -212,6 +212,7 @@
       {
         "name": "hello-vscode",
         "total_seconds": 3106.049374,
+        "color": null,
         "digital": "0:51:46",
         "decimal": "0.85",
         "text": "51 mins",

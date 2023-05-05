@@ -1,26 +1,110 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 1136.733014,
+        "digital": "0:18:56",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 56,
+        "percent": 92.5
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 92.121889,
+        "digital": "0:01:32",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 32,
+        "percent": 7.5
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 20,
+      "total_seconds": 1228.854903,
+      "digital": "0:20",
+      "decimal": "0.33",
+      "text": "20 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1228.854903,
+        "digital": "0:20:28",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1228.854903,
+        "digital": "0:20:28",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1228.854903,
+        "digital": "0:20:28",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 1228.854903,
+        "machine_name_id": "184221de-14b6-4564-aba6-0151c86f446a",
+        "digital": "0:20:28",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "hello-vscode",
+        "total_seconds": 1228.854903,
+        "digital": "0:20:28",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-05-03T19:00:00Z",
       "end": "2023-05-04T18:59:59Z",
       "date": "2023-05-04",
       "text": "Thu May 4th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
