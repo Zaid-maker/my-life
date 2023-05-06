@@ -1,26 +1,221 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 2509.845026,
+        "digital": "0:41:49",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 49,
+        "percent": 99.47
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.53
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 42,
+      "total_seconds": 2523.126582,
+      "digital": "0:42",
+      "decimal": "0.70",
+      "text": "42 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2523.126582,
+        "digital": "0:42:03",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2523.126582,
+        "digital": "0:42:03",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2523.126582,
+        "digital": "0:42:03",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "npm",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "@types/mocha",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "mocha",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "@vscode/test-electron",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "glob",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "@types/vscode",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      },
+      {
+        "name": "@types/glob",
+        "total_seconds": 13.281556,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 10
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 2523.126582,
+        "machine_name_id": "184221de-14b6-4564-aba6-0151c86f446a",
+        "digital": "0:42:03",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "hello-vscode",
+        "total_seconds": 2523.126582,
+        "digital": "0:42:03",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-05-04T19:00:00Z",
       "end": "2023-05-05T18:59:59Z",
       "date": "2023-05-05",
       "text": "Fri May 5th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
