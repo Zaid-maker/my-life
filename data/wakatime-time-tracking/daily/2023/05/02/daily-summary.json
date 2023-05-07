@@ -84,18 +84,7 @@
     ],
     "dependencies": [
       {
-        "name": "typescript",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
-      },
-      {
-        "name": "@vscode/test-electron",
+        "name": "@types/vscode",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
@@ -107,17 +96,6 @@
       },
       {
         "name": "npm",
-        "total_seconds": 33.583359,
-        "digital": "0:00:33",
-        "decimal": "0.00",
-        "text": "33 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 33,
-        "percent": 10
-      },
-      {
-        "name": "eslint",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
@@ -150,7 +128,18 @@
         "percent": 10
       },
       {
-        "name": "@types/vscode",
+        "name": "@vscode/test-electron",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
+        "name": "typescript",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
@@ -172,7 +161,7 @@
         "percent": 10
       },
       {
-        "name": "@types/node",
+        "name": "@types/glob",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
@@ -183,7 +172,18 @@
         "percent": 10
       },
       {
-        "name": "@types/glob",
+        "name": "eslint",
+        "total_seconds": 33.583359,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 10
+      },
+      {
+        "name": "@types/node",
         "total_seconds": 33.583359,
         "digital": "0:00:33",
         "decimal": "0.00",
