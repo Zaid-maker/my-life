@@ -1,26 +1,320 @@
 [
   {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 100
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
-      "total_seconds": 0,
+      "total_seconds": 50.683438,
       "digital": "0:00",
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-router-dom",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "@react-three/fiber",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "react-vertical-timeline-component",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "vite",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "@emailjs/browser",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "npm",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "react-tilt",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "react",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "three",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "maath",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "autoprefixer",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "@react-three/drei",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "framer-motion",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      },
+      {
+        "name": "@vitejs/plugin-react",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 5.26
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 50.683438,
+        "machine_name_id": "184221de-14b6-4564-aba6-0151c86f446a",
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "3d_portfolio",
+        "total_seconds": 50.683438,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-05-06T19:00:00Z",
       "end": "2023-05-07T18:59:59Z",
       "date": "2023-05-07",
       "text": "Sun May 7th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
