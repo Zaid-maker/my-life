@@ -106,7 +106,7 @@
     ],
     "dependencies": [
       {
-        "name": "@types/mocha",
+        "name": "@types/glob",
         "total_seconds": 403.166159,
         "digital": "0:06:43",
         "decimal": "0.10",
@@ -117,7 +117,7 @@
         "percent": 10
       },
       {
-        "name": "typescript",
+        "name": "glob",
         "total_seconds": 403.166159,
         "digital": "0:06:43",
         "decimal": "0.10",
@@ -139,7 +139,18 @@
         "percent": 10
       },
       {
-        "name": "@types/glob",
+        "name": "@vscode/test-electron",
+        "total_seconds": 403.166159,
+        "digital": "0:06:43",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 43,
+        "percent": 10
+      },
+      {
+        "name": "@types/node",
         "total_seconds": 403.166159,
         "digital": "0:06:43",
         "decimal": "0.10",
@@ -172,40 +183,29 @@
         "percent": 10
       },
       {
-        "name": "glob",
-        "total_seconds": 403.166159,
-        "digital": "0:06:43",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 43,
-        "percent": 10
-      },
-      {
-        "name": "@types/node",
-        "total_seconds": 403.166159,
-        "digital": "0:06:43",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 43,
-        "percent": 10
-      },
-      {
-        "name": "@vscode/test-electron",
-        "total_seconds": 403.166159,
-        "digital": "0:06:43",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 43,
-        "percent": 10
-      },
-      {
         "name": "eslint",
+        "total_seconds": 403.166159,
+        "digital": "0:06:43",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 43,
+        "percent": 10
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 403.166159,
+        "digital": "0:06:43",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 43,
+        "percent": 10
+      },
+      {
+        "name": "@types/mocha",
         "total_seconds": 403.166159,
         "digital": "0:06:43",
         "decimal": "0.10",
@@ -234,6 +234,7 @@
       {
         "name": "hello-vscode",
         "total_seconds": 661.774617,
+        "color": null,
         "digital": "0:11:01",
         "decimal": "0.18",
         "text": "11 mins",
@@ -245,6 +246,7 @@
       {
         "name": "joke-bot-2",
         "total_seconds": 531.79227,
+        "color": null,
         "digital": "0:08:51",
         "decimal": "0.13",
         "text": "8 mins",
