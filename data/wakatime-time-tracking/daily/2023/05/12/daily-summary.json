@@ -1,26 +1,243 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1140.412474,
+        "digital": "0:19:00",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 33.11
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1006.787596,
+        "digital": "0:16:46",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 46,
+        "percent": 29.23
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 734.620287,
+        "digital": "0:12:14",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 14,
+        "percent": 21.33
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 521.446029,
+        "digital": "0:08:41",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 41,
+        "percent": 15.14
+      },
+      {
+        "name": "Other",
+        "total_seconds": 34.941199,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 1.01
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 6.159342,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.18
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 57,
+      "total_seconds": 3444.366927,
+      "digital": "0:57",
+      "decimal": "0.95",
+      "text": "57 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3444.366927,
+        "digital": "0:57:24",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3444.366927,
+        "digital": "0:57:24",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3444.366927,
+        "digital": "0:57:24",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 1006.787596,
+        "digital": "0:16:46",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 46,
+        "percent": 22.29
+      },
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 1006.787596,
+        "digital": "0:16:46",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 46,
+        "percent": 22.29
+      },
+      {
+        "name": "npm",
+        "total_seconds": 734.620287,
+        "digital": "0:12:14",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 14,
+        "percent": 16.26
+      },
+      {
+        "name": "request",
+        "total_seconds": 729.839665,
+        "digital": "0:12:09",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 9,
+        "percent": 16.16
+      },
+      {
+        "name": "axios",
+        "total_seconds": 429.898284,
+        "digital": "0:07:09",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 9,
+        "percent": 9.52
+      },
+      {
+        "name": "express",
+        "total_seconds": 304.722003,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 6.75
+      },
+      {
+        "name": "body-parser",
+        "total_seconds": 304.722003,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 6.75
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 3444.366927,
+        "machine_name_id": "fa374ce4-0ed2-4ea3-8434-fd3e847ef050",
+        "digital": "0:57:24",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "discord-jokes",
+        "total_seconds": 2437.579331,
+        "digital": "0:40:37",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 37,
+        "percent": 70.77
+      },
+      {
+        "name": "GitFinder",
+        "total_seconds": 1006.787596,
+        "digital": "0:16:46",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 46,
+        "percent": 29.23
+      }
+    ],
     "range": {
       "start": "2023-05-12T19:00:00Z",
       "end": "2023-05-13T18:59:59Z",
       "date": "2023-05-13",
       "text": "Sat May 13th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
