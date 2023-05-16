@@ -1,26 +1,155 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 420.912836,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 67.68
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 159.700428,
+        "digital": "0:02:39",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 39,
+        "percent": 25.68
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 41.307354,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 6.64
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 10,
+      "total_seconds": 621.920618,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 621.920618,
+        "digital": "0:10:21",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 621.920618,
+        "digital": "0:10:21",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 621.920618,
+        "digital": "0:10:21",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 420.912836,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 50
+      },
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 420.912836,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 50
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 621.920618,
+        "machine_name_id": "4893f6c8-0136-46f9-8f31-c196814531ba",
+        "digital": "0:10:21",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "GitFinder",
+        "total_seconds": 420.912836,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 67.68
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 201.007782,
+        "digital": "0:03:21",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 21,
+        "percent": 32.32
+      }
+    ],
     "range": {
       "start": "2023-05-14T19:00:00Z",
       "end": "2023-05-15T18:59:59Z",
       "date": "2023-05-15",
       "text": "Mon May 15th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
