@@ -1,26 +1,166 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 998.064453,
+        "digital": "0:16:38",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 38,
+        "percent": 43.86
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 825.77731,
+        "digital": "0:13:45",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 45,
+        "percent": 36.29
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 348.149442,
+        "digital": "0:05:48",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 48,
+        "percent": 15.3
+      },
+      {
+        "name": "Text",
+        "total_seconds": 71.284171,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 3.13
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 32.18934,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 1.41
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 37,
+      "total_seconds": 2275.464716,
+      "digital": "0:37",
+      "decimal": "0.62",
+      "text": "37 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2275.464716,
+        "digital": "0:37:55",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2275.464716,
+        "digital": "0:37:55",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2275.464716,
+        "digital": "0:37:55",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 998.064453,
+        "digital": "0:16:38",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 38,
+        "percent": 50
+      },
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 998.064453,
+        "digital": "0:16:38",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 38,
+        "percent": 50
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 2275.464716,
+        "machine_name_id": "4893f6c8-0136-46f9-8f31-c196814531ba",
+        "digital": "0:37:55",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "GitFinder",
+        "total_seconds": 2275.464716,
+        "digital": "0:37:55",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-05-15T19:00:00Z",
       "end": "2023-05-16T18:59:59Z",
       "date": "2023-05-16",
       "text": "Tue May 16th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
