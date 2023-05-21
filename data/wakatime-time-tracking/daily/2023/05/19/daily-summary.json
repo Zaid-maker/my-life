@@ -1,26 +1,265 @@
 [
   {
+    "languages": [
+      {
+        "name": "CSS",
+        "total_seconds": 4946.308513,
+        "digital": "1:22:26",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 26,
+        "percent": 47.52
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 4829.890288,
+        "digital": "1:20:29",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 29,
+        "percent": 46.4
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.55
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 173.114604,
+        "digital": "0:02:53",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 53,
+        "percent": 1.66
+      },
+      {
+        "name": "Text",
+        "total_seconds": 53.955537,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 0.52
+      },
+      {
+        "name": "Other",
+        "total_seconds": 35.963123,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.35
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 53,
+      "total_seconds": 10408.920498,
+      "digital": "2:53",
+      "decimal": "2.88",
+      "text": "2 hrs 53 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10408.920498,
+        "digital": "2:53:28",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10408.920498,
+        "digital": "2:53:28",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10408.920498,
+        "digital": "2:53:28",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 4829.890288,
+        "digital": "1:20:29",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 29,
+        "percent": 39.44
+      },
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 4829.890288,
+        "digital": "1:20:29",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 29,
+        "percent": 39.44
+      },
+      {
+        "name": "request",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      },
+      {
+        "name": "rollup",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      },
+      {
+        "name": "express",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      },
+      {
+        "name": "discord.js",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      },
+      {
+        "name": "npm",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      },
+      {
+        "name": "body-parser",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      },
+      {
+        "name": "mongodb",
+        "total_seconds": 369.688433,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 3.02
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 10408.920498,
+        "machine_name_id": "4893f6c8-0136-46f9-8f31-c196814531ba",
+        "digital": "2:53:28",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "GitFinder",
+        "total_seconds": 9830.154338,
+        "digital": "2:43:50",
+        "decimal": "2.72",
+        "text": "2 hrs 43 mins",
+        "hours": 2,
+        "minutes": 43,
+        "seconds": 50,
+        "percent": 94.44
+      },
+      {
+        "name": "GitHub-Updates-Bot",
+        "total_seconds": 578.76616,
+        "digital": "0:09:38",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 38,
+        "percent": 5.56
+      }
+    ],
     "range": {
       "start": "2023-05-19T19:00:00Z",
       "end": "2023-05-20T18:59:59Z",
       "date": "2023-05-20",
       "text": "Sat May 20th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
