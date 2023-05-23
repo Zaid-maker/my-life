@@ -1,26 +1,110 @@
 [
   {
+    "languages": [
+      {
+        "name": "CSS",
+        "total_seconds": 4450.702717,
+        "digital": "1:14:10",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 10,
+        "percent": 98.29
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 77.606535,
+        "digital": "0:01:17",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 17,
+        "percent": 1.71
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 15,
+      "total_seconds": 4528.309252,
+      "digital": "1:15",
+      "decimal": "1.25",
+      "text": "1 hr 15 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4528.309252,
+        "digital": "1:15:28",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4528.309252,
+        "digital": "1:15:28",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4528.309252,
+        "digital": "1:15:28",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 4528.309252,
+        "machine_name_id": "08bca7d8-469b-4a44-98ff-50bdad1c3ddc",
+        "digital": "1:15:28",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "GitFinder",
+        "total_seconds": 4528.309252,
+        "digital": "1:15:28",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-05-21T19:00:00Z",
       "end": "2023-05-22T18:59:59Z",
       "date": "2023-05-22",
       "text": "Mon May 22nd 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
