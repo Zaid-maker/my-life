@@ -1,26 +1,332 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 16962.713179,
+        "digital": "4:42:42",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 42,
+        "percent": 94.3
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 1016.370047,
+        "digital": "0:16:56",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 56,
+        "percent": 5.65
+      },
+      {
+        "name": "XML",
+        "total_seconds": 8.76794,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.05
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 4,
+      "minutes": 59,
+      "total_seconds": 17987.851166,
+      "digital": "4:59",
+      "decimal": "4.98",
+      "text": "4 hrs 59 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 16962.713179,
+        "digital": "4:42:42",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 42,
+        "percent": 94.3
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1025.137987,
+        "digital": "0:17:05",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 5,
+        "percent": 5.7
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17987.851166,
+        "digital": "4:59:47",
+        "decimal": "4.98",
+        "text": "4 hrs 59 mins",
+        "hours": 4,
+        "minutes": 59,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 16962.713179,
+        "digital": "4:42:42",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 42,
+        "percent": 94.3
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1025.137987,
+        "digital": "0:17:05",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 5,
+        "percent": 5.7
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 16962.713179,
+        "machine_name_id": "0972e0ec-733a-4827-9ef3-ca1e5e0679f4",
+        "digital": "4:42:42",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 42,
+        "percent": 94.3
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 1025.137987,
+        "machine_name_id": "08bca7d8-469b-4a44-98ff-50bdad1c3ddc",
+        "digital": "0:17:05",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 5,
+        "percent": 5.7
+      }
+    ],
+    "projects": [
+      {
+        "name": "my-vscode-extension",
+        "total_seconds": 10000.911108,
+        "digital": "2:46:40",
+        "decimal": "2.77",
+        "text": "2 hrs 46 mins",
+        "hours": 2,
+        "minutes": 46,
+        "seconds": 40,
+        "percent": 55.6
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 1834,
+        "digital": "0:30:34",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 34,
+        "percent": 10.2
+      },
+      {
+        "name": "devmirza-blog-backend",
+        "total_seconds": 1578,
+        "digital": "0:26:18",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 18,
+        "percent": 8.77
+      },
+      {
+        "name": "GitFinder",
+        "total_seconds": 1333.137987,
+        "digital": "0:22:13",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 13,
+        "percent": 7.41
+      },
+      {
+        "name": "VideoStreamingServer",
+        "total_seconds": 1312.228514,
+        "digital": "0:21:52",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 52,
+        "percent": 7.3
+      },
+      {
+        "name": "top-github-users-list",
+        "total_seconds": 1013,
+        "digital": "0:16:53",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 53,
+        "percent": 5.63
+      },
+      {
+        "name": "opencommit",
+        "total_seconds": 448,
+        "digital": "0:07:28",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 28,
+        "percent": 2.49
+      },
+      {
+        "name": "filmlane",
+        "total_seconds": 140,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 0.78
+      },
+      {
+        "name": "vscode-subway-surfers",
+        "total_seconds": 108.573557,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 0.6
+      },
+      {
+        "name": "email-tracker",
+        "total_seconds": 94,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 0.52
+      },
+      {
+        "name": "joke-bot-2",
+        "total_seconds": 61,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.34
+      },
+      {
+        "name": "workspace-images",
+        "total_seconds": 42,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.23
+      },
+      {
+        "name": "actions",
+        "total_seconds": 21,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.12
+      },
+      {
+        "name": "github_editor?redirect=%2FZaid-maker%2Ftop-github-users-list&requestId=9f1e9260-3640-4157-99dd-50ff239713e1",
+        "total_seconds": 2,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
     "range": {
       "start": "2023-05-24T19:00:00Z",
       "end": "2023-05-25T18:59:59Z",
       "date": "2023-05-25",
       "text": "Thu May 25th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
