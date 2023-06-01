@@ -1,26 +1,387 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 14731.304673,
+        "digital": "4:05:31",
+        "decimal": "4.08",
+        "text": "4 hrs 5 mins",
+        "hours": 4,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 87.91
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1591.860175,
+        "digital": "0:26:31",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 31,
+        "percent": 9.5
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 278.569051,
+        "digital": "0:04:38",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 38,
+        "percent": 1.66
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 63.807403,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 0.38
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 57.263969,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.34
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 34.194729,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.2
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 4,
+      "minutes": 39,
+      "total_seconds": 16757,
+      "digital": "4:39",
+      "decimal": "4.65",
+      "text": "4 hrs 39 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 14731.304673,
+        "digital": "4:05:31",
+        "decimal": "4.08",
+        "text": "4 hrs 5 mins",
+        "hours": 4,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 87.91
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2025.695327,
+        "digital": "0:33:45",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 45,
+        "percent": 12.09
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 16757,
+        "digital": "4:39:17",
+        "decimal": "4.65",
+        "text": "4 hrs 39 mins",
+        "hours": 4,
+        "minutes": 39,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 14731.304673,
+        "digital": "4:05:31",
+        "decimal": "4.08",
+        "text": "4 hrs 5 mins",
+        "hours": 4,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 87.91
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 2025.695327,
+        "digital": "0:33:45",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 45,
+        "percent": 12.09
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 1591.860175,
+        "digital": "0:26:31",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 31,
+        "percent": 48.26
+      },
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 1591.860175,
+        "digital": "0:26:31",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 31,
+        "percent": 48.26
+      },
+      {
+        "name": "axios",
+        "total_seconds": 57.263969,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 1.74
+      },
+      {
+        "name": "npm",
+        "total_seconds": 57.263969,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 1.74
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 14731.304673,
+        "machine_name_id": "0972e0ec-733a-4827-9ef3-ca1e5e0679f4",
+        "digital": "4:05:31",
+        "decimal": "4.08",
+        "text": "4 hrs 5 mins",
+        "hours": 4,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 87.91
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 2025.695327,
+        "machine_name_id": "08bca7d8-469b-4a44-98ff-50bdad1c3ddc",
+        "digital": "0:33:45",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 45,
+        "percent": 12.09
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 13372.304673,
+        "digital": "3:42:52",
+        "decimal": "3.70",
+        "text": "3 hrs 42 mins",
+        "hours": 3,
+        "minutes": 42,
+        "seconds": 52,
+        "percent": 79.8
+      },
+      {
+        "name": "GitFinder",
+        "total_seconds": 1934.236629,
+        "digital": "0:32:14",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 14,
+        "percent": 11.54
+      },
+      {
+        "name": "uptime-monitor",
+        "total_seconds": 446,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 2.66
+      },
+      {
+        "name": "uptime-kuma-api",
+        "total_seconds": 348,
+        "digital": "0:05:48",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 48,
+        "percent": 2.08
+      },
+      {
+        "name": "status",
+        "total_seconds": 199,
+        "digital": "0:03:19",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 19,
+        "percent": 1.19
+      },
+      {
+        "name": "discord-jokes",
+        "total_seconds": 147.458698,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 0.88
+      },
+      {
+        "name": "status-page",
+        "total_seconds": 126,
+        "digital": "0:02:06",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 6,
+        "percent": 0.75
+      },
+      {
+        "name": "billing",
+        "total_seconds": 36,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.21
+      },
+      {
+        "name": "vscode-subway-surfers",
+        "total_seconds": 33,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 0.2
+      },
+      {
+        "name": "mongodb-vercel",
+        "total_seconds": 29,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.17
+      },
+      {
+        "name": "my-vscode-extension",
+        "total_seconds": 23,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.14
+      },
+      {
+        "name": "forza-horizon-5",
+        "total_seconds": 23,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.14
+      },
+      {
+        "name": "profile",
+        "total_seconds": 17,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.1
+      },
+      {
+        "name": "codespaces",
+        "total_seconds": 17,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.1
+      },
+      {
+        "name": "upptime",
+        "total_seconds": 6,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      }
+    ],
     "range": {
       "start": "2023-05-30T19:00:00Z",
       "end": "2023-05-31T18:59:59Z",
       "date": "2023-05-31",
       "text": "Wed May 31st 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
