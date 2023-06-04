@@ -1,26 +1,475 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 16440.525316,
+        "digital": "4:34:00",
+        "decimal": "4.57",
+        "text": "4 hrs 34 mins",
+        "hours": 4,
+        "minutes": 34,
+        "seconds": 0,
+        "percent": 94.2
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 571.99199,
+        "digital": "0:09:31",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 31,
+        "percent": 3.28
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 409.099987,
+        "digital": "0:06:49",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 49,
+        "percent": 2.34
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 30.367048,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.17
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 4,
+      "minutes": 50,
+      "total_seconds": 17451.984341,
+      "digital": "4:50",
+      "decimal": "4.83",
+      "text": "4 hrs 50 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 16440.525316,
+        "digital": "4:34:00",
+        "decimal": "4.57",
+        "text": "4 hrs 34 mins",
+        "hours": 4,
+        "minutes": 34,
+        "seconds": 0,
+        "percent": 94.2
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1011.459025,
+        "digital": "0:16:51",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 5.8
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17451.984341,
+        "digital": "4:50:51",
+        "decimal": "4.83",
+        "text": "4 hrs 50 mins",
+        "hours": 4,
+        "minutes": 50,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 16440.525316,
+        "digital": "4:34:00",
+        "decimal": "4.57",
+        "text": "4 hrs 34 mins",
+        "hours": 4,
+        "minutes": 34,
+        "seconds": 0,
+        "percent": 94.2
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1011.459025,
+        "digital": "0:16:51",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 5.8
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 205.587565,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 50
+      },
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 205.587565,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 50
+      },
+      {
+        "name": "\"https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js\"",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "\"/assets/js/script.js\"",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "\"https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js\"",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 16440.525316,
+        "machine_name_id": "0972e0ec-733a-4827-9ef3-ca1e5e0679f4",
+        "digital": "4:34:00",
+        "decimal": "4.57",
+        "text": "4 hrs 34 mins",
+        "hours": 4,
+        "minutes": 34,
+        "seconds": 0,
+        "percent": 94.2
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 1011.459025,
+        "machine_name_id": "08bca7d8-469b-4a44-98ff-50bdad1c3ddc",
+        "digital": "0:16:51",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 5.8
+      }
+    ],
+    "projects": [
+      {
+        "name": "awesome-selfhosted#games",
+        "total_seconds": 6501,
+        "digital": "1:48:21",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 21,
+        "percent": 37.25
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 5338.340404,
+        "digital": "1:28:58",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 58,
+        "percent": 30.59
+      },
+      {
+        "name": "hextris",
+        "total_seconds": 2454,
+        "digital": "0:40:54",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 54,
+        "percent": 14.06
+      },
+      {
+        "name": "filmlane",
+        "total_seconds": 1049.877944,
+        "digital": "0:17:29",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 29,
+        "percent": 6.02
+      },
+      {
+        "name": "awesome-selfhosted#analytics",
+        "total_seconds": 519,
+        "digital": "0:08:39",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 39,
+        "percent": 2.97
+      },
+      {
+        "name": "GitFinder",
+        "total_seconds": 262.587565,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 1.5
+      },
+      {
+        "name": "top-github-users-list",
+        "total_seconds": 244,
+        "digital": "0:04:04",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 4,
+        "percent": 1.4
+      },
+      {
+        "name": "MetaTube",
+        "total_seconds": 213,
+        "digital": "0:03:33",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 33,
+        "percent": 1.22
+      },
+      {
+        "name": "0ad",
+        "total_seconds": 161,
+        "digital": "0:02:41",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 0.92
+      },
+      {
+        "name": "joke-bot-2",
+        "total_seconds": 150,
+        "digital": "0:02:30",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 30,
+        "percent": 0.86
+      },
+      {
+        "name": "vscode-subway-surfers",
+        "total_seconds": 138.821458,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 0.8
+      },
+      {
+        "name": "MobileView",
+        "total_seconds": 132.35697,
+        "digital": "0:02:12",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 12,
+        "percent": 0.76
+      },
+      {
+        "name": "awesome-selfhosted#automation",
+        "total_seconds": 119,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 0.68
+      },
+      {
+        "name": "my-vscode-extension",
+        "total_seconds": 31,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.18
+      },
+      {
+        "name": "react",
+        "total_seconds": 27,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.15
+      },
+      {
+        "name": "blocky",
+        "total_seconds": 26,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.15
+      },
+      {
+        "name": "active_workflow",
+        "total_seconds": 20,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.11
+      },
+      {
+        "name": "Ackee",
+        "total_seconds": 17,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.1
+      },
+      {
+        "name": "adarkroom",
+        "total_seconds": 13,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.07
+      },
+      {
+        "name": "DiscordBot-Template",
+        "total_seconds": 10,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.06
+      },
+      {
+        "name": "awesome-selfhosted#dns",
+        "total_seconds": 9,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.05
+      },
+      {
+        "name": "my-dev.to",
+        "total_seconds": 6,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.03
+      },
+      {
+        "name": "awesome-selfhosted",
+        "total_seconds": 5,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.03
+      },
+      {
+        "name": "oauth",
+        "total_seconds": 5,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.03
+      }
+    ],
     "range": {
       "start": "2023-06-02T19:00:00Z",
       "end": "2023-06-03T18:59:59Z",
       "date": "2023-06-03",
       "text": "Sat Jun 3rd 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
