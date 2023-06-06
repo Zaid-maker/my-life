@@ -1,26 +1,266 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 5589.536712,
+        "digital": "1:33:09",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 9,
+        "percent": 91.46
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 508.220312,
+        "digital": "0:08:28",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 28,
+        "percent": 8.32
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 13.862896,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.23
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 41,
+      "total_seconds": 6111.61992,
+      "digital": "1:41",
+      "decimal": "1.68",
+      "text": "1 hr 41 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 5589.536712,
+        "digital": "1:33:09",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 9,
+        "percent": 91.46
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 522.083208,
+        "digital": "0:08:42",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 42,
+        "percent": 8.54
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6111.61992,
+        "digital": "1:41:51",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 5589.536712,
+        "digital": "1:33:09",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 9,
+        "percent": 91.46
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 522.083208,
+        "digital": "0:08:42",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 42,
+        "percent": 8.54
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./assets/js/app.js\"",
+        "total_seconds": 508.220312,
+        "digital": "0:08:28",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 28,
+        "percent": 50
+      },
+      {
+        "name": "\"./assets/js//theme.js\"",
+        "total_seconds": 508.220312,
+        "digital": "0:08:28",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 28,
+        "percent": 50
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 5589.536712,
+        "machine_name_id": "0972e0ec-733a-4827-9ef3-ca1e5e0679f4",
+        "digital": "1:33:09",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 9,
+        "percent": 91.46
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 522.083208,
+        "machine_name_id": "08bca7d8-469b-4a44-98ff-50bdad1c3ddc",
+        "digital": "0:08:42",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 42,
+        "percent": 8.54
+      }
+    ],
+    "projects": [
+      {
+        "name": "awesome-selfhosted#games",
+        "total_seconds": 3183.536712,
+        "digital": "0:53:03",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 3,
+        "percent": 52.09
+      },
+      {
+        "name": "my-vscode-extension",
+        "total_seconds": 1421,
+        "digital": "0:23:41",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 41,
+        "percent": 23.25
+      },
+      {
+        "name": "GitFinder",
+        "total_seconds": 967.220312,
+        "digital": "0:16:07",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 7,
+        "percent": 15.83
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 482,
+        "digital": "0:08:02",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 2,
+        "percent": 7.89
+      },
+      {
+        "name": "vscode-subway-surfers",
+        "total_seconds": 19,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.31
+      },
+      {
+        "name": "filmlane",
+        "total_seconds": 13.862896,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.23
+      },
+      {
+        "name": "posio",
+        "total_seconds": 10,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.16
+      },
+      {
+        "name": "EmuLinkerSF",
+        "total_seconds": 8,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.13
+      },
+      {
+        "name": "base",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.11
+      }
+    ],
     "range": {
       "start": "2023-06-04T19:00:00Z",
       "end": "2023-06-05T18:59:59Z",
       "date": "2023-06-05",
       "text": "Mon Jun 5th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
