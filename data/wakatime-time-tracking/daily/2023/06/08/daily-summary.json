@@ -1,26 +1,231 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 12939,
+        "digital": "3:35:39",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 3,
+      "minutes": 35,
+      "total_seconds": 12939,
+      "digital": "3:35",
+      "decimal": "3.58",
+      "text": "3 hrs 35 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 12939,
+        "digital": "3:35:39",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12939,
+        "digital": "3:35:39",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 12939,
+        "digital": "3:35:39",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 12939,
+        "machine_name_id": "001c99fd-dd55-41bc-9c87-3c76c0649faa",
+        "digital": "3:35:39",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "statsigstatus",
+        "total_seconds": 4414,
+        "digital": "1:13:34",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 34,
+        "percent": 34.11
+      },
+      {
+        "name": "social-alert",
+        "total_seconds": 3947,
+        "digital": "1:05:47",
+        "decimal": "1.08",
+        "text": "1 hr 5 mins",
+        "hours": 1,
+        "minutes": 5,
+        "seconds": 47,
+        "percent": 30.5
+      },
+      {
+        "name": "stale-repos",
+        "total_seconds": 1490,
+        "digital": "0:24:50",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 50,
+        "percent": 11.52
+      },
+      {
+        "name": "awesome-selfhosted#games",
+        "total_seconds": 1018,
+        "digital": "0:16:58",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 58,
+        "percent": 7.87
+      },
+      {
+        "name": "status-page",
+        "total_seconds": 848,
+        "digital": "0:14:08",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 8,
+        "percent": 6.55
+      },
+      {
+        "name": "Green-bot",
+        "total_seconds": 510,
+        "digital": "0:08:30",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 30,
+        "percent": 3.94
+      },
+      {
+        "name": "node-js-server-sdk",
+        "total_seconds": 304,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 2.35
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 153,
+        "digital": "0:02:33",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 33,
+        "percent": 1.18
+      },
+      {
+        "name": "repos-report",
+        "total_seconds": 79,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.61
+      },
+      {
+        "name": "google-play-api",
+        "total_seconds": 61,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.47
+      },
+      {
+        "name": "playwright",
+        "total_seconds": 50,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.39
+      },
+      {
+        "name": "google-play-scraper",
+        "total_seconds": 34,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.26
+      },
+      {
+        "name": "status-page-advanced",
+        "total_seconds": 31,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.24
+      }
+    ],
     "range": {
       "start": "2023-06-08T19:00:00Z",
       "end": "2023-06-09T18:59:59Z",
       "date": "2023-06-09",
       "text": "Fri Jun 9th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
