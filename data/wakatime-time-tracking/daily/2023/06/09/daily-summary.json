@@ -1,26 +1,409 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 5885,
+        "digital": "1:38:05",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 97.75
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 127.247893,
+        "digital": "0:02:07",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 7,
+        "percent": 2.11
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.07
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 2.426732,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.04
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 1.680935,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 40,
+      "total_seconds": 6020.48901,
+      "digital": "1:40",
+      "decimal": "1.67",
+      "text": "1 hr 40 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 5885,
+        "digital": "1:38:05",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 97.75
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 135.48901,
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 2.25
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6020.48901,
+        "digital": "1:40:20",
+        "decimal": "1.67",
+        "text": "1 hr 40 mins",
+        "hours": 1,
+        "minutes": 40,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 5885,
+        "digital": "1:38:05",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 97.75
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 135.48901,
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 2.25
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "@types/node",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "fix-esm",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "@types/express",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "glob",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "npm",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "ts-node",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "ts-node-dev",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "@types/glob",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "@voidpkg/console",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "@voidpkg/social-alert",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      },
+      {
+        "name": "discord.js",
+        "total_seconds": 4.13345,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 8.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 5885,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "1:38:05",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 97.75
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 135.48901,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 2.25
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 4436,
+        "digital": "1:13:56",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 56,
+        "percent": 73.68
+      },
+      {
+        "name": "devmirza-blog-backend",
+        "total_seconds": 666,
+        "digital": "0:11:06",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 6,
+        "percent": 11.06
+      },
+      {
+        "name": "social-alert",
+        "total_seconds": 420,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 6.98
+      },
+      {
+        "name": "twitch-stream-bot",
+        "total_seconds": 266.48901,
+        "digital": "0:04:26",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 26,
+        "percent": 4.43
+      },
+      {
+        "name": "stale-repos",
+        "total_seconds": 160,
+        "digital": "0:02:40",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 40,
+        "percent": 2.66
+      },
+      {
+        "name": "actions",
+        "total_seconds": 36,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.6
+      },
+      {
+        "name": "circleci",
+        "total_seconds": 19,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.32
+      },
+      {
+        "name": "awesome-selfhosted#games",
+        "total_seconds": 9,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.15
+      },
+      {
+        "name": "buildpulse",
+        "total_seconds": 8,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.13
+      },
+      {
+        "name": "statsigstatus",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2023-06-09T19:00:00Z",
       "end": "2023-06-10T18:59:59Z",
       "date": "2023-06-10",
       "text": "Sat Jun 10th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
