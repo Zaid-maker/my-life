@@ -128,7 +128,7 @@
     ],
     "dependencies": [
       {
-        "name": "wait",
+        "name": "core",
         "total_seconds": 6.38689,
         "digital": "0:00:06",
         "decimal": "0.00",
@@ -139,7 +139,7 @@
         "percent": 50
       },
       {
-        "name": "core",
+        "name": "wait",
         "total_seconds": 6.38689,
         "digital": "0:00:06",
         "decimal": "0.00",
@@ -180,6 +180,7 @@
       {
         "name": "better-uptime-monitor",
         "total_seconds": 3952.363935,
+        "color": null,
         "digital": "1:05:52",
         "decimal": "1.08",
         "text": "1 hr 5 mins",
@@ -191,6 +192,7 @@
       {
         "name": "better-upptime-monitor",
         "total_seconds": 2178,
+        "color": null,
         "digital": "0:36:18",
         "decimal": "0.60",
         "text": "36 mins",
@@ -202,6 +204,7 @@
       {
         "name": "repos-report",
         "total_seconds": 1811,
+        "color": null,
         "digital": "0:30:11",
         "decimal": "0.50",
         "text": "30 mins",
@@ -213,6 +216,7 @@
       {
         "name": "devhome",
         "total_seconds": 1586,
+        "color": null,
         "digital": "0:26:26",
         "decimal": "0.43",
         "text": "26 mins",
@@ -224,6 +228,7 @@
       {
         "name": "life",
         "total_seconds": 864,
+        "color": null,
         "digital": "0:14:24",
         "decimal": "0.23",
         "text": "14 mins",
@@ -235,6 +240,7 @@
       {
         "name": "uptime-monitor",
         "total_seconds": 835,
+        "color": null,
         "digital": "0:13:55",
         "decimal": "0.22",
         "text": "13 mins",
@@ -246,6 +252,7 @@
       {
         "name": "devmirza-blog-frontend",
         "total_seconds": 222,
+        "color": null,
         "digital": "0:03:42",
         "decimal": "0.05",
         "text": "3 mins",
@@ -257,6 +264,7 @@
       {
         "name": "stale-repos",
         "total_seconds": 146,
+        "color": null,
         "digital": "0:02:26",
         "decimal": "0.03",
         "text": "2 mins",
@@ -268,6 +276,7 @@
       {
         "name": "uptime-kuma-wiki",
         "total_seconds": 102,
+        "color": null,
         "digital": "0:01:42",
         "decimal": "0.02",
         "text": "1 min",
@@ -279,6 +288,7 @@
       {
         "name": "status",
         "total_seconds": 94,
+        "color": null,
         "digital": "0:01:34",
         "decimal": "0.02",
         "text": "1 min",
@@ -290,6 +300,7 @@
       {
         "name": "uptime-kuma",
         "total_seconds": 79,
+        "color": null,
         "digital": "0:01:19",
         "decimal": "0.02",
         "text": "1 min",
@@ -301,6 +312,7 @@
       {
         "name": "joke-bot-2",
         "total_seconds": 73,
+        "color": null,
         "digital": "0:01:13",
         "decimal": "0.02",
         "text": "1 min",
@@ -312,6 +324,7 @@
       {
         "name": "uptime-kuma-website",
         "total_seconds": 72,
+        "color": null,
         "digital": "0:01:12",
         "decimal": "0.02",
         "text": "1 min",
@@ -323,6 +336,7 @@
       {
         "name": "upptime",
         "total_seconds": 66,
+        "color": null,
         "digital": "0:01:06",
         "decimal": "0.02",
         "text": "1 min",
@@ -334,6 +348,7 @@
       {
         "name": "github-actions-starter",
         "total_seconds": 60,
+        "color": null,
         "digital": "0:01:00",
         "decimal": "0.02",
         "text": "1 min",
@@ -345,6 +360,7 @@
       {
         "name": "my-life",
         "total_seconds": 43,
+        "color": null,
         "digital": "0:00:43",
         "decimal": "0.00",
         "text": "43 secs",
@@ -356,6 +372,7 @@
       {
         "name": "typescript-action",
         "total_seconds": 26,
+        "color": null,
         "digital": "0:00:26",
         "decimal": "0.00",
         "text": "26 secs",
@@ -367,6 +384,7 @@
       {
         "name": "twitch-stream-bot",
         "total_seconds": 18,
+        "color": null,
         "digital": "0:00:18",
         "decimal": "0.00",
         "text": "18 secs",
@@ -378,6 +396,7 @@
       {
         "name": "dependabot-core",
         "total_seconds": 13,
+        "color": null,
         "digital": "0:00:13",
         "decimal": "0.00",
         "text": "13 secs",
@@ -389,6 +408,7 @@
       {
         "name": "social-alert",
         "total_seconds": 9,
+        "color": null,
         "digital": "0:00:09",
         "decimal": "0.00",
         "text": "9 secs",
@@ -400,6 +420,7 @@
       {
         "name": "devmirza-blog-backend",
         "total_seconds": 8,
+        "color": null,
         "digital": "0:00:08",
         "decimal": "0.00",
         "text": "8 secs",
@@ -411,6 +432,7 @@
       {
         "name": "stethoscope",
         "total_seconds": 7,
+        "color": null,
         "digital": "0:00:07",
         "decimal": "0.00",
         "text": "7 secs",
@@ -422,6 +444,7 @@
       {
         "name": "dependabot-script",
         "total_seconds": 1,
+        "color": null,
         "digital": "0:00:01",
         "decimal": "0.00",
         "text": "1 sec",
