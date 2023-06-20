@@ -1,26 +1,110 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 3385,
+        "digital": "0:56:25",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 56,
+      "total_seconds": 3385,
+      "digital": "0:56",
+      "decimal": "0.93",
+      "text": "56 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 3385,
+        "digital": "0:56:25",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3385,
+        "digital": "0:56:25",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 3385,
+        "digital": "0:56:25",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 3385,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "0:56:25",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 3339,
+        "digital": "0:55:39",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 39,
+        "percent": 98.64
+      },
+      {
+        "name": "joke-bot-2",
+        "total_seconds": 46,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 1.36
+      }
+    ],
     "range": {
       "start": "2023-06-18T19:00:00Z",
       "end": "2023-06-19T18:59:59Z",
       "date": "2023-06-19",
       "text": "Mon Jun 19th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
