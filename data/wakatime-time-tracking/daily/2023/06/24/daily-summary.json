@@ -1,26 +1,409 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 12390.893093,
+        "digital": "3:26:30",
+        "decimal": "3.43",
+        "text": "3 hrs 26 mins",
+        "hours": 3,
+        "minutes": 26,
+        "seconds": 30,
+        "percent": 90.99
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 924.702927,
+        "digital": "0:15:24",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 24,
+        "percent": 6.79
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 213.89851,
+        "digital": "0:03:33",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 33,
+        "percent": 1.57
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.35
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 39.562651,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.29
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 3,
+      "minutes": 46,
+      "total_seconds": 13617.120938,
+      "digital": "3:46",
+      "decimal": "3.77",
+      "text": "3 hrs 46 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 12358.003007,
+        "digital": "3:25:58",
+        "decimal": "3.42",
+        "text": "3 hrs 25 mins",
+        "hours": 3,
+        "minutes": 25,
+        "seconds": 58,
+        "percent": 90.75
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1259.117931,
+        "digital": "0:20:59",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 59,
+        "percent": 9.25
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13617.120938,
+        "digital": "3:46:57",
+        "decimal": "3.77",
+        "text": "3 hrs 46 mins",
+        "hours": 3,
+        "minutes": 46,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 12358.003007,
+        "digital": "3:25:58",
+        "decimal": "3.42",
+        "text": "3 hrs 25 mins",
+        "hours": 3,
+        "minutes": 25,
+        "seconds": 58,
+        "percent": 90.75
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1259.117931,
+        "digital": "0:20:59",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 59,
+        "percent": 9.25
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "prettier",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "topgg-autoposter",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "npm",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "chalk",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "nodemon",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "quick.db",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "node-recursive-directory",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "fero-ms",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "discord.js",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "better-sqlite3",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      },
+      {
+        "name": "discord-jokes",
+        "total_seconds": 48.063757,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 8.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 12358.003007,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "3:25:58",
+        "decimal": "3.42",
+        "text": "3 hrs 25 mins",
+        "hours": 3,
+        "minutes": 25,
+        "seconds": 58,
+        "percent": 90.75
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 1259.117931,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:20:59",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 59,
+        "percent": 9.25
+      }
+    ],
+    "projects": [
+      {
+        "name": "flexibble",
+        "total_seconds": 5470.120938,
+        "digital": "1:31:10",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 10,
+        "percent": 40.17
+      },
+      {
+        "name": "joke-bot-2",
+        "total_seconds": 5311.045796,
+        "digital": "1:28:31",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 31,
+        "percent": 39
+      },
+      {
+        "name": "status-page",
+        "total_seconds": 1049,
+        "digital": "0:17:29",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 29,
+        "percent": 7.7
+      },
+      {
+        "name": "redbean-node",
+        "total_seconds": 774,
+        "digital": "0:12:54",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 54,
+        "percent": 5.68
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 524.954204,
+        "digital": "0:08:44",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 44,
+        "percent": 3.86
+      },
+      {
+        "name": "project_nextjs13_flexibble",
+        "total_seconds": 361,
+        "digital": "0:06:01",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 1,
+        "percent": 2.65
+      },
+      {
+        "name": "graphiql",
+        "total_seconds": 65,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.48
+      },
+      {
+        "name": "changesets",
+        "total_seconds": 28,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.21
+      },
+      {
+        "name": "discord-jokes",
+        "total_seconds": 25,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.18
+      },
+      {
+        "name": "social-alert",
+        "total_seconds": 9,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.07
+      }
+    ],
     "range": {
       "start": "2023-06-24T19:00:00Z",
       "end": "2023-06-25T18:59:59Z",
       "date": "2023-06-25",
       "text": "Sun Jun 25th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
