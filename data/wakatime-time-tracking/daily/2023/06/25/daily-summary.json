@@ -1,26 +1,110 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 13505,
+        "digital": "3:45:05",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 3,
+      "minutes": 45,
+      "total_seconds": 13505,
+      "digital": "3:45",
+      "decimal": "3.75",
+      "text": "3 hrs 45 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 13505,
+        "digital": "3:45:05",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13505,
+        "digital": "3:45:05",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 13505,
+        "digital": "3:45:05",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 13505,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "3:45:05",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 13497,
+        "digital": "3:44:57",
+        "decimal": "3.73",
+        "text": "3 hrs 44 mins",
+        "hours": 3,
+        "minutes": 44,
+        "seconds": 57,
+        "percent": 99.94
+      },
+      {
+        "name": "awesome-selfhosted#games",
+        "total_seconds": 8,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.06
+      }
+    ],
     "range": {
       "start": "2023-06-25T19:00:00Z",
       "end": "2023-06-26T18:59:59Z",
       "date": "2023-06-26",
       "text": "Mon Jun 26th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
