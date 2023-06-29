@@ -1,26 +1,187 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 8294,
+        "digital": "2:18:14",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 18,
+      "total_seconds": 8294,
+      "digital": "2:18",
+      "decimal": "2.30",
+      "text": "2 hrs 18 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 8294,
+        "digital": "2:18:14",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8294,
+        "digital": "2:18:14",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 8294,
+        "digital": "2:18:14",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 8294,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "2:18:14",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 4302,
+        "digital": "1:11:42",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 51.87
+      },
+      {
+        "name": "devmirza-profile",
+        "total_seconds": 1745,
+        "digital": "0:29:05",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 5,
+        "percent": 21.04
+      },
+      {
+        "name": "flowlist-api",
+        "total_seconds": 1726,
+        "digital": "0:28:46",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 46,
+        "percent": 20.81
+      },
+      {
+        "name": "flowlist.xyz",
+        "total_seconds": 289,
+        "digital": "0:04:49",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 49,
+        "percent": 3.48
+      },
+      {
+        "name": "status-page",
+        "total_seconds": 101,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 1.22
+      },
+      {
+        "name": "devmirza-blog-backend",
+        "total_seconds": 62,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 0.75
+      },
+      {
+        "name": "api-flowlist",
+        "total_seconds": 47,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.57
+      },
+      {
+        "name": "discord-jokes",
+        "total_seconds": 19,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.23
+      },
+      {
+        "name": "awesome-selfhosted#games",
+        "total_seconds": 3,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.04
+      }
+    ],
     "range": {
       "start": "2023-06-27T19:00:00Z",
       "end": "2023-06-28T18:59:59Z",
       "date": "2023-06-28",
       "text": "Wed Jun 28th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
