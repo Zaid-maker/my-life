@@ -1,26 +1,353 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 15054,
+        "digital": "4:10:54",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 54,
+        "percent": 99.91
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 14.078853,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.09
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 4,
+      "minutes": 11,
+      "total_seconds": 15068.078853,
+      "digital": "4:11",
+      "decimal": "4.18",
+      "text": "4 hrs 11 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 15054,
+        "digital": "4:10:54",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 54,
+        "percent": 99.91
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 14.078853,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.09
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15068.078853,
+        "digital": "4:11:08",
+        "decimal": "4.18",
+        "text": "4 hrs 11 mins",
+        "hours": 4,
+        "minutes": 11,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 15054,
+        "digital": "4:10:54",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 54,
+        "percent": 99.91
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 14.078853,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.09
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 15054,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "4:10:54",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 54,
+        "percent": 99.91
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 14.078853,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.09
+      }
+    ],
+    "projects": [
+      {
+        "name": "rfcs",
+        "total_seconds": 4599,
+        "digital": "1:16:39",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 39,
+        "percent": 30.52
+      },
+      {
+        "name": "uptime-monitor",
+        "total_seconds": 3741,
+        "digital": "1:02:21",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 24.83
+      },
+      {
+        "name": "flexibble",
+        "total_seconds": 2052.078853,
+        "digital": "0:34:12",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 12,
+        "percent": 13.62
+      },
+      {
+        "name": "node-ping",
+        "total_seconds": 1150,
+        "digital": "0:19:10",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 10,
+        "percent": 7.63
+      },
+      {
+        "name": "status-page-advanced",
+        "total_seconds": 986,
+        "digital": "0:16:26",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 26,
+        "percent": 6.54
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 948,
+        "digital": "0:15:48",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 48,
+        "percent": 6.29
+      },
+      {
+        "name": "bloop",
+        "total_seconds": 899,
+        "digital": "0:14:59",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 59,
+        "percent": 5.97
+      },
+      {
+        "name": "workspace-images",
+        "total_seconds": 197,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 1.31
+      },
+      {
+        "name": "notes-summary",
+        "total_seconds": 190,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 1.26
+      },
+      {
+        "name": "notes",
+        "total_seconds": 108,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 0.72
+      },
+      {
+        "name": "rfcs-action",
+        "total_seconds": 54,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.36
+      },
+      {
+        "name": "upptime",
+        "total_seconds": 38,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.25
+      },
+      {
+        "name": "device",
+        "total_seconds": 37,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.25
+      },
+      {
+        "name": "joke-bot-",
+        "total_seconds": 18,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.12
+      },
+      {
+        "name": "projects",
+        "total_seconds": 14,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.09
+      },
+      {
+        "name": "actions",
+        "total_seconds": 13,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "okrs",
+        "total_seconds": 12,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.08
+      },
+      {
+        "name": "demo-kuma",
+        "total_seconds": 10,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.07
+      },
+      {
+        "name": "github_editor?redirect=%2Fupptime%2Frfcs&requestId=98fc697a-96b2-4e87-a374-0db608b3c83f",
+        "total_seconds": 2,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
     "range": {
       "start": "2023-07-05T19:00:00Z",
       "end": "2023-07-06T18:59:59Z",
       "date": "2023-07-06",
       "text": "Thu Jul 6th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
