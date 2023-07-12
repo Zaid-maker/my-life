@@ -1,26 +1,232 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 6415,
+        "digital": "1:46:55",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 55,
+        "percent": 93.13
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 472.942759,
+        "digital": "0:07:52",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 52,
+        "percent": 6.87
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 54,
+      "total_seconds": 6887.942759,
+      "digital": "1:54",
+      "decimal": "1.90",
+      "text": "1 hr 54 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 6415,
+        "digital": "1:46:55",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 55,
+        "percent": 93.13
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 472.942759,
+        "digital": "0:07:52",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 52,
+        "percent": 6.87
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6887.942759,
+        "digital": "1:54:47",
+        "decimal": "1.90",
+        "text": "1 hr 54 mins",
+        "hours": 1,
+        "minutes": 54,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 6415,
+        "digital": "1:46:55",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 55,
+        "percent": 93.13
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 472.942759,
+        "digital": "0:07:52",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 52,
+        "percent": 6.87
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 6415,
+        "machine_name_id": "4d061011-925f-4c9e-9bae-d64a2a8b403f",
+        "digital": "1:46:55",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 55,
+        "percent": 93.13
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 472.942759,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:07:52",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 52,
+        "percent": 6.87
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 3589,
+        "digital": "0:59:49",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 49,
+        "percent": 52.11
+      },
+      {
+        "name": "flexibble",
+        "total_seconds": 955.942759,
+        "digital": "0:15:55",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 55,
+        "percent": 13.88
+      },
+      {
+        "name": "blog-nextjs-13",
+        "total_seconds": 903,
+        "digital": "0:15:03",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 3,
+        "percent": 13.11
+      },
+      {
+        "name": "opencommit",
+        "total_seconds": 599,
+        "digital": "0:09:59",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 59,
+        "percent": 8.7
+      },
+      {
+        "name": "devmirza-blog-backend",
+        "total_seconds": 500,
+        "digital": "0:08:20",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 20,
+        "percent": 7.26
+      },
+      {
+        "name": "setup-node",
+        "total_seconds": 312,
+        "digital": "0:05:12",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 12,
+        "percent": 4.53
+      },
+      {
+        "name": "joke-bot-2",
+        "total_seconds": 11,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.16
+      },
+      {
+        "name": "treblle-strapi",
+        "total_seconds": 10,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.15
+      },
+      {
+        "name": "Uptime-Kuma-Template",
+        "total_seconds": 8,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.12
+      }
+    ],
     "range": {
       "start": "2023-07-10T19:00:00Z",
       "end": "2023-07-11T18:59:59Z",
       "date": "2023-07-11",
       "text": "Tue Jul 11th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
