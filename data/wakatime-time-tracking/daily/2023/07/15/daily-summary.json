@@ -1,26 +1,232 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 15019.597813,
+        "digital": "4:10:19",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 19,
+        "percent": 89.56
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1122.266463,
+        "digital": "0:18:42",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 42,
+        "percent": 6.69
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 619.825313,
+        "digital": "0:10:19",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 19,
+        "percent": 3.7
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 8.690316,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.05
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 4,
+      "minutes": 39,
+      "total_seconds": 16770.379905,
+      "digital": "4:39",
+      "decimal": "4.65",
+      "text": "4 hrs 39 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 15019.597813,
+        "digital": "4:10:19",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 19,
+        "percent": 89.56
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1750.782092,
+        "digital": "0:29:10",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 10,
+        "percent": 10.44
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 16770.379905,
+        "digital": "4:39:30",
+        "decimal": "4.65",
+        "text": "4 hrs 39 mins",
+        "hours": 4,
+        "minutes": 39,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 15019.597813,
+        "digital": "4:10:19",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 19,
+        "percent": 89.56
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1750.782092,
+        "digital": "0:29:10",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 10,
+        "percent": 10.44
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 15019.597813,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "4:10:19",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 19,
+        "percent": 89.56
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 1750.782092,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:29:10",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 10,
+        "percent": 10.44
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 9362.658039,
+        "digital": "2:36:02",
+        "decimal": "2.60",
+        "text": "2 hrs 36 mins",
+        "hours": 2,
+        "minutes": 36,
+        "seconds": 2,
+        "percent": 55.83
+      },
+      {
+        "name": "project_nextjs13_flexibble",
+        "total_seconds": 3242.081332,
+        "digital": "0:54:02",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 2,
+        "percent": 19.33
+      },
+      {
+        "name": "flexibble",
+        "total_seconds": 3187.803572,
+        "digital": "0:53:07",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 7,
+        "percent": 19.01
+      },
+      {
+        "name": "archiver",
+        "total_seconds": 739,
+        "digital": "0:12:19",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 19,
+        "percent": 4.41
+      },
+      {
+        "name": "Impostor",
+        "total_seconds": 208.836962,
+        "digital": "0:03:28",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 28,
+        "percent": 1.25
+      },
+      {
+        "name": "TheOtherRoles",
+        "total_seconds": 28,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.17
+      },
+      {
+        "name": "github_editor?redirect=%2FZaid-maker%2Farchiver&requestId=cd8eb5b1-8bdc-4a19-9f94-aba9fe09abca",
+        "total_seconds": 2,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
     "range": {
       "start": "2023-07-15T19:00:00Z",
       "end": "2023-07-16T18:59:59Z",
       "date": "2023-07-16",
       "text": "Sun Jul 16th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
