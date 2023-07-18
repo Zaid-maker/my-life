@@ -1,26 +1,276 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 6768.667723,
+        "digital": "1:52:48",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 48,
+        "percent": 98.31
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 116.107853,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.69
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 54,
+      "total_seconds": 6884.775576,
+      "digital": "1:54",
+      "decimal": "1.90",
+      "text": "1 hr 54 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 6768.667723,
+        "digital": "1:52:48",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 48,
+        "percent": 98.31
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 116.107853,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.69
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6884.775576,
+        "digital": "1:54:44",
+        "decimal": "1.90",
+        "text": "1 hr 54 mins",
+        "hours": 1,
+        "minutes": 54,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 6768.667723,
+        "digital": "1:52:48",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 48,
+        "percent": 98.31
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 116.107853,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.69
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 6768.667723,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "1:52:48",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 48,
+        "percent": 98.31
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 116.107853,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.69
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 5818.667723,
+        "digital": "1:36:58",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 58,
+        "percent": 84.51
+      },
+      {
+        "name": "life",
+        "total_seconds": 421,
+        "digital": "0:07:01",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 6.11
+      },
+      {
+        "name": "stethoscope",
+        "total_seconds": 141,
+        "digital": "0:02:21",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 2.05
+      },
+      {
+        "name": "flexibble",
+        "total_seconds": 116.107853,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.69
+      },
+      {
+        "name": "node-windows",
+        "total_seconds": 116,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.68
+      },
+      {
+        "name": "actions",
+        "total_seconds": 96,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 1.39
+      },
+      {
+        "name": "integrations",
+        "total_seconds": 46,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.67
+      },
+      {
+        "name": "watchman",
+        "total_seconds": 39,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.57
+      },
+      {
+        "name": "supervisor",
+        "total_seconds": 36,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.52
+      },
+      {
+        "name": "forever",
+        "total_seconds": 32,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 0.46
+      },
+      {
+        "name": "project_nextjs13_flexibble",
+        "total_seconds": 22,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.32
+      },
+      {
+        "name": "Submerged",
+        "total_seconds": 1,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "runner-images",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2023-07-16T19:00:00Z",
       "end": "2023-07-17T18:59:59Z",
       "date": "2023-07-17",
       "text": "Mon Jul 17th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
