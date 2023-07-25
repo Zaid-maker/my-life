@@ -1,26 +1,398 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 11236.180325,
+        "digital": "3:07:16",
+        "decimal": "3.12",
+        "text": "3 hrs 7 mins",
+        "hours": 3,
+        "minutes": 7,
+        "seconds": 16,
+        "percent": 86.65
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1719.734283,
+        "digital": "0:28:39",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 39,
+        "percent": 13.26
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 11.355421,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.09
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 3,
+      "minutes": 36,
+      "total_seconds": 12967.270029,
+      "digital": "3:36",
+      "decimal": "3.60",
+      "text": "3 hrs 36 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 11210.358135,
+        "digital": "3:06:50",
+        "decimal": "3.10",
+        "text": "3 hrs 6 mins",
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 50,
+        "percent": 86.45
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1756.911894,
+        "digital": "0:29:16",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 16,
+        "percent": 13.55
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12967.270029,
+        "digital": "3:36:07",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 11210.358135,
+        "digital": "3:06:50",
+        "decimal": "3.10",
+        "text": "3 hrs 6 mins",
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 50,
+        "percent": 86.45
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1756.911894,
+        "digital": "0:29:16",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 16,
+        "percent": 13.55
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "axios",
+        "total_seconds": 309.447839,
+        "digital": "0:05:09",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 11210.358135,
+        "machine_name_id": "d0b1d22b-7f75-438e-a22e-31c531ce4c1f",
+        "digital": "3:06:50",
+        "decimal": "3.10",
+        "text": "3 hrs 6 mins",
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 50,
+        "percent": 86.45
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 1756.911894,
+        "machine_name_id": "2d9530e7-543f-4b3c-acd8-5c80db7bc0b5",
+        "digital": "0:29:16",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 16,
+        "percent": 13.55
+      }
+    ],
+    "projects": [
+      {
+        "name": "panel",
+        "total_seconds": 3685,
+        "digital": "1:01:25",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 28.42
+      },
+      {
+        "name": "flexibble",
+        "total_seconds": 2540.83106,
+        "digital": "0:42:20",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 20,
+        "percent": 19.59
+      },
+      {
+        "name": "localGPT",
+        "total_seconds": 1926.7212,
+        "digital": "0:32:06",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 6,
+        "percent": 14.86
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 1728,
+        "digital": "0:28:48",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 48,
+        "percent": 13.33
+      },
+      {
+        "name": "project_nextjs13_flexibble",
+        "total_seconds": 1168.44774,
+        "digital": "0:19:28",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 28,
+        "percent": 9.01
+      },
+      {
+        "name": "devmirza-blog-frontend",
+        "total_seconds": 702.270029,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 5.42
+      },
+      {
+        "name": "billing",
+        "total_seconds": 313,
+        "digital": "0:05:13",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 13,
+        "percent": 2.41
+      },
+      {
+        "name": "discord.js-lava",
+        "total_seconds": 281,
+        "digital": "0:04:41",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 2.17
+      },
+      {
+        "name": "amazon-blockchain",
+        "total_seconds": 257,
+        "digital": "0:04:17",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 17,
+        "percent": 1.98
+      },
+      {
+        "name": "My-NodeJS-Projects",
+        "total_seconds": 150,
+        "digital": "0:02:30",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 30,
+        "percent": 1.16
+      },
+      {
+        "name": "Yukitoki",
+        "total_seconds": 77,
+        "digital": "0:01:17",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 17,
+        "percent": 0.59
+      },
+      {
+        "name": "storage",
+        "total_seconds": 44,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.34
+      },
+      {
+        "name": "discord.js",
+        "total_seconds": 19,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.15
+      },
+      {
+        "name": "web3-crowdfunding-app",
+        "total_seconds": 17,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.13
+      },
+      {
+        "name": "profile",
+        "total_seconds": 12,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.09
+      },
+      {
+        "name": "signup",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "dis-giveaway-bot",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "spotify-blockchain",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "medium-clone-nextjs",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "robinhood-blockchain",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "coinmakercap",
+        "total_seconds": 6,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.05
+      },
+      {
+        "name": "facebook-blockchain",
+        "total_seconds": 5,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.04
+      }
+    ],
     "range": {
       "start": "2023-07-23T19:00:00Z",
       "end": "2023-07-24T18:59:59Z",
       "date": "2023-07-24",
       "text": "Mon Jul 24th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
