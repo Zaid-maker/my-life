@@ -1,26 +1,232 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 8498.953054,
+        "digital": "2:21:38",
+        "decimal": "2.35",
+        "text": "2 hrs 21 mins",
+        "hours": 2,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 63.33
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 4851.000161,
+        "digital": "1:20:51",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 51,
+        "percent": 36.15
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 69.712761,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 0.52
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 3,
+      "minutes": 43,
+      "total_seconds": 13419.665976,
+      "digital": "3:43",
+      "decimal": "3.72",
+      "text": "3 hrs 43 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 8498.953054,
+        "digital": "2:21:38",
+        "decimal": "2.35",
+        "text": "2 hrs 21 mins",
+        "hours": 2,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 63.33
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 4920.712922,
+        "digital": "1:22:00",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 0,
+        "percent": 36.67
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13419.665976,
+        "digital": "3:43:39",
+        "decimal": "3.72",
+        "text": "3 hrs 43 mins",
+        "hours": 3,
+        "minutes": 43,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 8498.953054,
+        "digital": "2:21:38",
+        "decimal": "2.35",
+        "text": "2 hrs 21 mins",
+        "hours": 2,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 63.33
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 4920.712922,
+        "digital": "1:22:00",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 0,
+        "percent": 36.67
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 8498.953054,
+        "machine_name_id": "794ccd45-82af-481a-95a7-9b48f8f2eadb",
+        "digital": "2:21:38",
+        "decimal": "2.35",
+        "text": "2 hrs 21 mins",
+        "hours": 2,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 63.33
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 4920.712922,
+        "machine_name_id": "bec5cbdf-2677-4671-8daf-c98f0a194da7",
+        "digital": "1:22:00",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 0,
+        "percent": 36.67
+      }
+    ],
+    "projects": [
+      {
+        "name": "flexibble",
+        "total_seconds": 7327.815172,
+        "digital": "2:02:07",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
+        "hours": 2,
+        "minutes": 2,
+        "seconds": 7,
+        "percent": 54.61
+      },
+      {
+        "name": "contacts",
+        "total_seconds": 2778.402706,
+        "digital": "0:46:18",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 18,
+        "percent": 20.7
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 2092.294066,
+        "digital": "0:34:52",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 52,
+        "percent": 15.59
+      },
+      {
+        "name": "project_nextjs13_flexibble",
+        "total_seconds": 430.154032,
+        "digital": "0:07:10",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 10,
+        "percent": 3.21
+      },
+      {
+        "name": "cli",
+        "total_seconds": 376,
+        "digital": "0:06:16",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 16,
+        "percent": 2.8
+      },
+      {
+        "name": "insta-v4",
+        "total_seconds": 326,
+        "digital": "0:05:26",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 26,
+        "percent": 2.43
+      },
+      {
+        "name": "benchmarks",
+        "total_seconds": 85,
+        "digital": "0:01:25",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 0.63
+      },
+      {
+        "name": "localGPT",
+        "total_seconds": 4,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      }
+    ],
     "range": {
       "start": "2023-07-26T19:00:00Z",
       "end": "2023-07-27T18:59:59Z",
       "date": "2023-07-27",
       "text": "Thu Jul 27th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
