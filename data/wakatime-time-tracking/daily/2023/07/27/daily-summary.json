@@ -1,26 +1,331 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 10165.120381,
+        "digital": "2:49:25",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 25,
+        "percent": 77.22
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 2951.9307,
+        "digital": "0:49:11",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 11,
+        "percent": 22.43
+      },
+      {
+        "name": "XML",
+        "total_seconds": 20.62769,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.16
+      },
+      {
+        "name": "GraphQL",
+        "total_seconds": 13.136485,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.1
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 11.623397,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.09
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 0.99893,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 3,
+      "minutes": 39,
+      "total_seconds": 13163.437583,
+      "digital": "3:39",
+      "decimal": "3.65",
+      "text": "3 hrs 39 mins"
     },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 10165.120381,
+        "digital": "2:49:25",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 25,
+        "percent": 77.22
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2998.317202,
+        "digital": "0:49:58",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 58,
+        "percent": 22.78
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13163.437583,
+        "digital": "3:39:23",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 10165.120381,
+        "digital": "2:49:25",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 25,
+        "percent": 77.22
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 2998.317202,
+        "digital": "0:49:58",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 58,
+        "percent": 22.78
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 10165.120381,
+        "machine_name_id": "794ccd45-82af-481a-95a7-9b48f8f2eadb",
+        "digital": "2:49:25",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 25,
+        "percent": 77.22
+      },
+      {
+        "name": "Zaid-Laptop",
+        "total_seconds": 2998.317202,
+        "machine_name_id": "bec5cbdf-2677-4671-8daf-c98f0a194da7",
+        "digital": "0:49:58",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 58,
+        "percent": 22.78
+      }
+    ],
+    "projects": [
+      {
+        "name": "flexibble",
+        "total_seconds": 6195.819219,
+        "digital": "1:43:15",
+        "decimal": "1.72",
+        "text": "1 hr 43 mins",
+        "hours": 1,
+        "minutes": 43,
+        "seconds": 15,
+        "percent": 47.07
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 3235,
+        "digital": "0:53:55",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 55,
+        "percent": 24.58
+      },
+      {
+        "name": "devmirza-blog-backend-new",
+        "total_seconds": 1098,
+        "digital": "0:18:18",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 18,
+        "percent": 8.34
+      },
+      {
+        "name": "carbon-lang",
+        "total_seconds": 833.691734,
+        "digital": "0:13:53",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 53,
+        "percent": 6.33
+      },
+      {
+        "name": "jsdoc",
+        "total_seconds": 544,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 4.13
+      },
+      {
+        "name": "community",
+        "total_seconds": 500.675606,
+        "digital": "0:08:20",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 20,
+        "percent": 3.8
+      },
+      {
+        "name": "project_nextjs13_flexibble",
+        "total_seconds": 358.251024,
+        "digital": "0:05:58",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 58,
+        "percent": 2.72
+      },
+      {
+        "name": "portmaster",
+        "total_seconds": 160,
+        "digital": "0:02:40",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 40,
+        "percent": 1.22
+      },
+      {
+        "name": "DevMirza-Blog",
+        "total_seconds": 116,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 0.88
+      },
+      {
+        "name": "devmirza-blog-backend",
+        "total_seconds": 50,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.38
+      },
+      {
+        "name": "devmirza-blog-frontend",
+        "total_seconds": 45,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.34
+      },
+      {
+        "name": "generative-models",
+        "total_seconds": 20,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.15
+      },
+      {
+        "name": "signup?editor=copilot_1.99.289",
+        "total_seconds": 7,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "localGPT",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2023-07-27T19:00:00Z",
       "end": "2023-07-28T18:59:59Z",
       "date": "2023-07-28",
       "text": "Fri Jul 28th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
