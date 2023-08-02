@@ -3,14 +3,14 @@
     "languages": [
       {
         "name": "Other",
-        "total_seconds": 6813.612924,
-        "digital": "1:53:33",
-        "decimal": "1.88",
-        "text": "1 hr 53 mins",
+        "total_seconds": 7056.455439,
+        "digital": "1:57:36",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
         "hours": 1,
-        "minutes": 53,
-        "seconds": 33,
-        "percent": 75.56
+        "minutes": 57,
+        "seconds": 36,
+        "percent": 76.2
       },
       {
         "name": "JavaScript",
@@ -21,7 +21,7 @@
         "hours": 0,
         "minutes": 29,
         "seconds": 52,
-        "percent": 19.88
+        "percent": 19.36
       },
       {
         "name": "Markdown",
@@ -32,7 +32,7 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 10,
-        "percent": 2.78
+        "percent": 2.7
       },
       {
         "name": "JSON",
@@ -43,7 +43,7 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 12,
-        "percent": 1.47
+        "percent": 1.43
       },
       {
         "name": "TypeScript",
@@ -54,28 +54,28 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 27,
-        "percent": 0.31
+        "percent": 0.3
       }
     ],
     "grand_total": {
       "hours": 2,
-      "minutes": 30,
-      "total_seconds": 9017.301119,
-      "digital": "2:30",
-      "decimal": "2.50",
-      "text": "2 hrs 30 mins"
+      "minutes": 34,
+      "total_seconds": 9260.143634,
+      "digital": "2:34",
+      "decimal": "2.57",
+      "text": "2 hrs 34 mins"
     },
     "editors": [
       {
         "name": "Chrome",
-        "total_seconds": 6813.612924,
-        "digital": "1:53:33",
-        "decimal": "1.88",
-        "text": "1 hr 53 mins",
+        "total_seconds": 7056.455439,
+        "digital": "1:57:36",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
         "hours": 1,
-        "minutes": 53,
-        "seconds": 33,
-        "percent": 75.56
+        "minutes": 57,
+        "seconds": 36,
+        "percent": 76.2
       },
       {
         "name": "VS Code",
@@ -86,33 +86,33 @@
         "hours": 0,
         "minutes": 36,
         "seconds": 43,
-        "percent": 24.44
+        "percent": 23.8
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 9017.301119,
-        "digital": "2:30:17",
-        "decimal": "2.50",
-        "text": "2 hrs 30 mins",
+        "total_seconds": 9260.143634,
+        "digital": "2:34:20",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
         "hours": 2,
-        "minutes": 30,
-        "seconds": 17,
+        "minutes": 34,
+        "seconds": 20,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Browsing",
-        "total_seconds": 6813.612924,
-        "digital": "1:53:33",
-        "decimal": "1.88",
-        "text": "1 hr 53 mins",
+        "total_seconds": 7056.455439,
+        "digital": "1:57:36",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
         "hours": 1,
-        "minutes": 53,
-        "seconds": 33,
-        "percent": 75.56
+        "minutes": 57,
+        "seconds": 36,
+        "percent": 76.2
       },
       {
         "name": "Coding",
@@ -123,12 +123,12 @@
         "hours": 0,
         "minutes": 36,
         "seconds": 43,
-        "percent": 24.44
+        "percent": 23.8
       }
     ],
     "dependencies": [
       {
-        "name": "@chakra-ui/react",
+        "name": "emoji-mart",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -139,7 +139,18 @@
         "percent": 2.7
       },
       {
-        "name": "react-icons",
+        "name": "babel-preset-es2015",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "web-vitals",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -161,7 +172,29 @@
         "percent": 2.7
       },
       {
-        "name": "@emotion/styled",
+        "name": "react-table",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-is",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -183,7 +216,18 @@
         "percent": 2.7
       },
       {
-        "name": "react-dom",
+        "name": "@emotion/cache",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "stylis-plugin-rtl",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -216,7 +260,95 @@
         "percent": 2.7
       },
       {
-        "name": "@testing-library/jest-dom",
+        "name": "react-calendar",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "framer-motion",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-custom-scrollbars-2",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "npm",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "apexcharts",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "@testing-library/user-event",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "@chakra-ui/theme-tools",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "@emotion/styled",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "stylis",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -249,7 +381,7 @@
         "percent": 2.7
       },
       {
-        "name": "babel-cli",
+        "name": "@testing-library/jest-dom",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -261,6 +393,94 @@
       },
       {
         "name": "babel-register",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "@chakra-ui/react",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "babel-cli",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-icons",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "@chakra-ui/icons",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "@emotion/react",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-dropzone",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-colorful",
+        "total_seconds": 71.477568,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 2.7
+      },
+      {
+        "name": "react-query",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -293,84 +513,7 @@
         "percent": 2.7
       },
       {
-        "name": "@emotion/react",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "stylis-plugin-rtl",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "@chakra-ui/theme-tools",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "npm",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
         "name": "react",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "@testing-library/user-event",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-custom-scrollbars-2",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "emoji-mart",
         "total_seconds": 71.477568,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -390,163 +533,20 @@
         "minutes": 1,
         "seconds": 11,
         "percent": 2.7
-      },
-      {
-        "name": "framer-motion",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "stylis",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "babel-preset-es2015",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-is",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-calendar",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-query",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "@chakra-ui/icons",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-colorful",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "apexcharts",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "@emotion/cache",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "web-vitals",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-dropzone",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
-      },
-      {
-        "name": "react-table",
-        "total_seconds": 71.477568,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 2.7
       }
     ],
     "machines": [
       {
         "name": "Unknown Hostname",
-        "total_seconds": 6813.612924,
+        "total_seconds": 7056.455439,
         "machine_name_id": "259072f0-b6d5-4732-bcf6-3ea4d2d0f27e",
-        "digital": "1:53:33",
-        "decimal": "1.88",
-        "text": "1 hr 53 mins",
+        "digital": "1:57:36",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
         "hours": 1,
-        "minutes": 53,
-        "seconds": 33,
-        "percent": 75.56
+        "minutes": 57,
+        "seconds": 36,
+        "percent": 76.2
       },
       {
         "name": "Zaid-Laptop",
@@ -558,7 +558,7 @@
         "hours": 0,
         "minutes": 36,
         "seconds": 43,
-        "percent": 24.44
+        "percent": 23.8
       }
     ],
     "projects": [
@@ -571,7 +571,7 @@
         "hours": 1,
         "minutes": 55,
         "seconds": 8,
-        "percent": 76.62
+        "percent": 74.61
       },
       {
         "name": "flexibble",
@@ -582,7 +582,7 @@
         "hours": 0,
         "minutes": 21,
         "seconds": 38,
-        "percent": 14.4
+        "percent": 14.02
       },
       {
         "name": "dashboard",
@@ -593,18 +593,18 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 21,
-        "percent": 6.89
+        "percent": 6.71
       },
       {
         "name": "discord-bot-dashboard-backend-ts",
-        "total_seconds": 79,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
+        "total_seconds": 321.842515,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 0.88
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 3.48
       },
       {
         "name": "uptime-kuma",
@@ -615,7 +615,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 18,
-        "percent": 0.87
+        "percent": 0.84
       },
       {
         "name": "discord-bot-dashboard-2",
@@ -626,7 +626,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 25,
-        "percent": 0.28
+        "percent": 0.27
       },
       {
         "name": "discord-bot-dashboard",
@@ -637,7 +637,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 5,
-        "percent": 0.06
+        "percent": 0.05
       },
       {
         "name": "project_nextjs13_flexibble",
