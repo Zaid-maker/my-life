@@ -1,45 +1,27 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 4,
-      "total_seconds": 276.794409,
-      "digital": "0:04",
-      "decimal": "0.07",
-      "text": "4 mins"
-    },
-    "range": {
-      "start": "2023-08-13T19:00:00Z",
-      "end": "2023-08-14T18:59:59Z",
-      "date": "2023-08-14",
-      "text": "Mon Aug 14th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "genius-ai",
-        "total_seconds": 276.794409,
-        "color": null,
-        "digital": "0:04:36",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 36,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 165.625597,
-        "digital": "0:02:45",
-        "decimal": "0.03",
-        "text": "2 mins",
+        "total_seconds": 4498.765034,
+        "digital": "1:14:58",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 58,
+        "percent": 90.6
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 330.724179,
+        "digital": "0:05:30",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 2,
-        "seconds": 45,
-        "percent": 59.84
+        "minutes": 5,
+        "seconds": 30,
+        "percent": 6.66
       },
       {
         "name": "XML",
@@ -50,62 +32,113 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 51,
-        "percent": 40.16
-      }
-    ],
-    "dependencies": [],
-    "machines": [
+        "percent": 2.24
+      },
       {
-        "name": "codespaces-742050",
-        "total_seconds": 276.794409,
-        "machine_name_id": "8bae38b2-70e8-4b52-b651-7a12b461250d",
-        "digital": "0:04:36",
-        "decimal": "0.07",
-        "text": "4 mins",
+        "name": "Other",
+        "total_seconds": 24.74026,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
         "hours": 0,
-        "minutes": 4,
-        "seconds": 36,
-        "percent": 100
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.5
       }
     ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 22,
+      "total_seconds": 4965.398285,
+      "digital": "1:22",
+      "decimal": "1.37",
+      "text": "1 hr 22 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 276.794409,
-        "digital": "0:04:36",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 36,
+        "total_seconds": 4965.398285,
+        "digital": "1:22:45",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 45,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Linux",
-        "total_seconds": 276.794409,
-        "digital": "0:04:36",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 36,
+        "total_seconds": 4965.398285,
+        "digital": "1:22:45",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 45,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 276.794409,
-        "digital": "0:04:36",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 36,
+        "total_seconds": 4965.398285,
+        "digital": "1:22:45",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 45,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "zod",
+        "total_seconds": 98.135229,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-742050",
+        "total_seconds": 4965.398285,
+        "machine_name_id": "8bae38b2-70e8-4b52-b651-7a12b461250d",
+        "digital": "1:22:45",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "genius-ai",
+        "total_seconds": 4965.398285,
+        "digital": "1:22:45",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-13T19:00:00Z",
+      "end": "2023-08-14T18:59:59Z",
+      "date": "2023-08-14",
+      "text": "Mon Aug 14th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
