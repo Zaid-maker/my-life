@@ -1,26 +1,157 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 4473.426782,
+        "digital": "1:14:33",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 33,
+        "percent": 78.9
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1196.478699,
+        "digital": "0:19:56",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 56,
+        "percent": 21.1
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 34,
+      "total_seconds": 5669.905481,
+      "digital": "1:34",
+      "decimal": "1.57",
+      "text": "1 hr 34 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5669.905481,
+        "digital": "1:34:29",
+        "decimal": "1.57",
+        "text": "1 hr 34 mins",
+        "hours": 1,
+        "minutes": 34,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 5414.357929,
+        "digital": "1:30:14",
+        "decimal": "1.50",
+        "text": "1 hr 30 mins",
+        "hours": 1,
+        "minutes": 30,
+        "seconds": 14,
+        "percent": 95.49
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 255.547552,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 4.51
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5669.905481,
+        "digital": "1:34:29",
+        "decimal": "1.57",
+        "text": "1 hr 34 mins",
+        "hours": 1,
+        "minutes": 34,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "zod",
+        "total_seconds": 1.437716,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-e6dd5d",
+        "total_seconds": 4154.726129,
+        "machine_name_id": "298f6773-f876-4a3a-897c-52ba407eda0f",
+        "digital": "1:09:14",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 14,
+        "percent": 73.28
+      },
+      {
+        "name": "codespaces-742050",
+        "total_seconds": 1259.6318,
+        "machine_name_id": "2ecb2b77-da3a-4639-889a-0579c28d49aa",
+        "digital": "0:20:59",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 59,
+        "percent": 22.22
+      },
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 255.547552,
+        "machine_name_id": "8b8b9aed-6e9a-4875-9934-c818614e8232",
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 4.51
+      }
+    ],
+    "projects": [
+      {
+        "name": "genius-ai",
+        "total_seconds": 5669.905481,
+        "digital": "1:34:29",
+        "decimal": "1.57",
+        "text": "1 hr 34 mins",
+        "hours": 1,
+        "minutes": 34,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-08-15T19:00:00Z",
       "end": "2023-08-16T18:59:59Z",
       "date": "2023-08-16",
       "text": "Wed Aug 16th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
