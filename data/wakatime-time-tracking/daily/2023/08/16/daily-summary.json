@@ -205,17 +205,6 @@
         "percent": 0.56
       },
       {
-        "name": "globals",
-        "total_seconds": 7.269849,
-        "digital": "0:00:07",
-        "decimal": "0.00",
-        "text": "7 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 7,
-        "percent": 0.47
-      },
-      {
         "name": "next",
         "total_seconds": 7.269849,
         "digital": "0:00:07",
@@ -228,6 +217,17 @@
       },
       {
         "name": "google",
+        "total_seconds": 7.269849,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.47
+      },
+      {
+        "name": "globals",
         "total_seconds": 7.269849,
         "digital": "0:00:07",
         "decimal": "0.00",
@@ -290,6 +290,7 @@
       {
         "name": "threads-clone",
         "total_seconds": 9185.07148,
+        "color": null,
         "digital": "2:33:05",
         "decimal": "2.55",
         "text": "2 hrs 33 mins",
@@ -301,6 +302,7 @@
       {
         "name": "genius-ai",
         "total_seconds": 3591.49016,
+        "color": null,
         "digital": "0:59:51",
         "decimal": "0.98",
         "text": "59 mins",
