@@ -1,26 +1,156 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3220.572984,
+        "digital": "0:53:40",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 40,
+        "percent": 91.35
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 275.766503,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 7.82
+      },
+      {
+        "name": "Other",
+        "total_seconds": 29.027827,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.82
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 58,
+      "total_seconds": 3525.367314,
+      "digital": "0:58",
+      "decimal": "0.97",
+      "text": "58 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3525.367314,
+        "digital": "0:58:45",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2017.316901,
+        "digital": "0:33:37",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 37,
+        "percent": 57.22
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 1508.050413,
+        "digital": "0:25:08",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 8,
+        "percent": 42.78
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3525.367314,
+        "digital": "0:58:45",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "codespaces-97714f",
+        "total_seconds": 2017.316901,
+        "machine_name_id": "153cc34a-0bc4-4cb1-99d2-2ee63689c04f",
+        "digital": "0:33:37",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 37,
+        "percent": 57.22
+      },
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 1508.050413,
+        "machine_name_id": "8b8b9aed-6e9a-4875-9934-c818614e8232",
+        "digital": "0:25:08",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 8,
+        "percent": 42.78
+      },
+      {
+        "name": "codespaces-1976e7",
+        "total_seconds": 0,
+        "machine_name_id": "adb281e3-3aac-48e1-b178-7a5a348676c4",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "threads-clone",
+        "total_seconds": 3525.367314,
+        "digital": "0:58:45",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-08-18T19:00:00Z",
       "end": "2023-08-19T18:59:59Z",
       "date": "2023-08-19",
       "text": "Sat Aug 19th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
