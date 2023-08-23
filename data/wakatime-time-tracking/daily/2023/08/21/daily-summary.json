@@ -1,26 +1,188 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2285.648904,
+        "digital": "0:38:05",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 83.2
+      },
+      {
+        "name": "Other",
+        "total_seconds": 185.029762,
+        "digital": "0:03:05",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 5,
+        "percent": 6.74
+      },
+      {
+        "name": "ActionScript 3",
+        "total_seconds": 95.330068,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 3.47
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 79.966306,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 2.91
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 48.998214,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 1.78
+      },
+      {
+        "name": "INI",
+        "total_seconds": 30.842825,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 1.12
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 21.414351,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.78
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 45,
+      "total_seconds": 2747.23043,
+      "digital": "0:45",
+      "decimal": "0.75",
+      "text": "45 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2747.23043,
+        "digital": "0:45:47",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2667.264124,
+        "digital": "0:44:27",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 27,
+        "percent": 97.09
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 79.966306,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 2.91
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2747.23043,
+        "digital": "0:45:47",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "codespaces-97714f",
+        "total_seconds": 2667.264124,
+        "machine_name_id": "d64752a2-25be-4e0d-ae6d-d9ad4ea361f3",
+        "digital": "0:44:27",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 27,
+        "percent": 97.09
+      },
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 79.966306,
+        "machine_name_id": "8b8b9aed-6e9a-4875-9934-c818614e8232",
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 2.91
+      }
+    ],
+    "projects": [
+      {
+        "name": "threads-clone",
+        "total_seconds": 2747.23043,
+        "digital": "0:45:47",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-08-21T19:00:00Z",
       "end": "2023-08-22T18:59:59Z",
       "date": "2023-08-22",
       "text": "Tue Aug 22nd 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
