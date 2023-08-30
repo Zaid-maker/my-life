@@ -1,26 +1,188 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 4691.733312,
+        "digital": "1:18:11",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 11,
+        "percent": 80.01
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 566.300765,
+        "digital": "0:09:26",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 26,
+        "percent": 9.66
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 486.673923,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 8.3
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 73.796676,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 1.26
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 42.793649,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.73
+      },
+      {
+        "name": "Other",
+        "total_seconds": 2.806246,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.05
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 37,
+      "total_seconds": 5864.104571,
+      "digital": "1:37",
+      "decimal": "1.62",
+      "text": "1 hr 37 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5864.104571,
+        "digital": "1:37:44",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 5377.430648,
+        "digital": "1:29:37",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 37,
+        "percent": 91.7
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 486.673923,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 8.3
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5864.104571,
+        "digital": "1:37:44",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "codespaces-21974e",
+        "total_seconds": 5377.430648,
+        "machine_name_id": "0171a184-40f8-4062-8028-b1a03a570ff9",
+        "digital": "1:29:37",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 37,
+        "percent": 91.7
+      },
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 486.673923,
+        "machine_name_id": "8b8b9aed-6e9a-4875-9934-c818614e8232",
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 8.3
+      }
+    ],
+    "projects": [
+      {
+        "name": "companion-ai",
+        "total_seconds": 5377.430648,
+        "digital": "1:29:37",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 37,
+        "percent": 91.7
+      },
+      {
+        "name": "ai-companion",
+        "total_seconds": 486.673923,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 8.3
+      }
+    ],
     "range": {
       "start": "2023-08-28T19:00:00Z",
       "end": "2023-08-29T18:59:59Z",
       "date": "2023-08-29",
       "text": "Tue Aug 29th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
