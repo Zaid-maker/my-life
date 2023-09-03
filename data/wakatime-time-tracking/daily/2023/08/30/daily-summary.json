@@ -95,17 +95,6 @@
         "percent": 13.07
       },
       {
-        "name": "mode-toggle",
-        "total_seconds": 1101.924516,
-        "digital": "0:18:21",
-        "decimal": "0.30",
-        "text": "18 mins",
-        "hours": 0,
-        "minutes": 18,
-        "seconds": 21,
-        "percent": 9.08
-      },
-      {
         "name": "link",
         "total_seconds": 1101.924516,
         "digital": "0:18:21",
@@ -117,15 +106,15 @@
         "percent": 9.08
       },
       {
-        "name": "button",
-        "total_seconds": 872.810676,
-        "digital": "0:14:32",
-        "decimal": "0.23",
-        "text": "14 mins",
+        "name": "mode-toggle",
+        "total_seconds": 1101.924516,
+        "digital": "0:18:21",
+        "decimal": "0.30",
+        "text": "18 mins",
         "hours": 0,
-        "minutes": 14,
-        "seconds": 32,
-        "percent": 7.19
+        "minutes": 18,
+        "seconds": 21,
+        "percent": 9.08
       },
       {
         "name": "lucide-react",
@@ -139,7 +128,18 @@
         "percent": 7.19
       },
       {
-        "name": "next",
+        "name": "button",
+        "total_seconds": 872.810676,
+        "digital": "0:14:32",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 32,
+        "percent": 7.19
+      },
+      {
+        "name": "globals",
         "total_seconds": 547.921196,
         "digital": "0:09:07",
         "decimal": "0.15",
@@ -150,7 +150,7 @@
         "percent": 4.52
       },
       {
-        "name": "globals",
+        "name": "next",
         "total_seconds": 547.921196,
         "digital": "0:09:07",
         "decimal": "0.15",
@@ -278,6 +278,7 @@
       {
         "name": "companion-ai",
         "total_seconds": 2453.46092,
+        "color": null,
         "digital": "0:40:53",
         "decimal": "0.67",
         "text": "40 mins",
