@@ -1,26 +1,331 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 6521.798802,
+        "digital": "1:48:41",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 41,
+        "percent": 87.8
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 838.87558,
+        "digital": "0:13:58",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 58,
+        "percent": 11.29
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 67.102664,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 0.9
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 3,
+      "total_seconds": 7427.777046,
+      "digital": "2:03",
+      "decimal": "2.05",
+      "text": "2 hrs 3 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7427.777046,
+        "digital": "2:03:47",
+        "decimal": "2.05",
+        "text": "2 hrs 3 mins",
+        "hours": 2,
+        "minutes": 3,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7427.777046,
+        "digital": "2:03:47",
+        "decimal": "2.05",
+        "text": "2 hrs 3 mins",
+        "hours": 2,
+        "minutes": 3,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7427.777046,
+        "digital": "2:03:47",
+        "decimal": "2.05",
+        "text": "2 hrs 3 mins",
+        "hours": 2,
+        "minutes": 3,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-hook-form",
+        "total_seconds": 2993.126625,
+        "digital": "0:49:53",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 53,
+        "percent": 10.93
+      },
+      {
+        "name": "zod",
+        "total_seconds": 2993.126625,
+        "digital": "0:49:53",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 53,
+        "percent": 10.93
+      },
+      {
+        "name": "input",
+        "total_seconds": 2993.126625,
+        "digital": "0:49:53",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 53,
+        "percent": 10.93
+      },
+      {
+        "name": "form",
+        "total_seconds": 2993.126625,
+        "digital": "0:49:53",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 53,
+        "percent": 10.93
+      },
+      {
+        "name": "dialog",
+        "total_seconds": 2993.126625,
+        "digital": "0:49:53",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 53,
+        "percent": 10.93
+      },
+      {
+        "name": "button",
+        "total_seconds": 2128.785487,
+        "digital": "0:35:28",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 28,
+        "percent": 7.77
+      },
+      {
+        "name": "react",
+        "total_seconds": 2097.737763,
+        "digital": "0:34:57",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 57,
+        "percent": 7.66
+      },
+      {
+        "name": "uploadthing",
+        "total_seconds": 1695.560641,
+        "digital": "0:28:15",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 15,
+        "percent": 6.19
+      },
+      {
+        "name": "styles",
+        "total_seconds": 1695.560641,
+        "digital": "0:28:15",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 15,
+        "percent": 6.19
+      },
+      {
+        "name": "file-upload",
+        "total_seconds": 1160.992521,
+        "digital": "0:19:20",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 20,
+        "percent": 4.24
+      },
+      {
+        "name": "image",
+        "total_seconds": 1045.333112,
+        "digital": "0:17:25",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 25,
+        "percent": 3.82
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 864.162197,
+        "digital": "0:14:24",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 24,
+        "percent": 3.16
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 681.233732,
+        "digital": "0:11:21",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 21,
+        "percent": 2.49
+      },
+      {
+        "name": "next",
+        "total_seconds": 648.262334,
+        "digital": "0:10:48",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 48,
+        "percent": 2.37
+      },
+      {
+        "name": "utils",
+        "total_seconds": 101.327146,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 0.37
+      },
+      {
+        "name": "class-variance-authority",
+        "total_seconds": 101.327146,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 0.37
+      },
+      {
+        "name": "react-slot",
+        "total_seconds": 101.327146,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 0.37
+      },
+      {
+        "name": "core",
+        "total_seconds": 96.266059,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 0.35
+      },
+      {
+        "name": "axios",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 7427.777046,
+        "machine_name_id": "ff76854e-fa33-4e7f-a6c1-c7e05a66175f",
+        "digital": "2:03:47",
+        "decimal": "2.05",
+        "text": "2 hrs 3 mins",
+        "hours": 2,
+        "minutes": 3,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "discord-clone",
+        "total_seconds": 7427.777046,
+        "digital": "2:03:47",
+        "decimal": "2.05",
+        "text": "2 hrs 3 mins",
+        "hours": 2,
+        "minutes": 3,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-09-09T19:00:00Z",
       "end": "2023-09-10T18:59:59Z",
       "date": "2023-09-10",
       "text": "Sun Sep 10th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
