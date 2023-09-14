@@ -1,26 +1,121 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 68.810589,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 52.51
+      },
+      {
+        "name": "ActionScript",
+        "total_seconds": 52.563159,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 40.11
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 9.678505,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 7.39
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 2,
+      "total_seconds": 131.052253,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 131.052253,
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 131.052253,
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 131.052253,
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 131.052253,
+        "machine_name_id": "ff76854e-fa33-4e7f-a6c1-c7e05a66175f",
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "silver-guide",
+        "total_seconds": 131.052253,
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-09-12T19:00:00Z",
       "end": "2023-09-13T18:59:59Z",
       "date": "2023-09-13",
       "text": "Wed Sep 13th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
