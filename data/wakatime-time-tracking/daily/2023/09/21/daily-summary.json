@@ -1,26 +1,333 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1904.0784,
+        "digital": "0:31:44",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 44,
+        "percent": 99.23
+      },
+      {
+        "name": "Other",
+        "total_seconds": 14.819737,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.77
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 31,
+      "total_seconds": 1918.898137,
+      "digital": "0:31",
+      "decimal": "0.52",
+      "text": "31 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1918.898137,
+        "digital": "0:31:58",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1049.13463,
+        "digital": "0:17:29",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 29,
+        "percent": 54.67
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 869.763507,
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 45.33
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1918.898137,
+        "digital": "0:31:58",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "client",
+        "total_seconds": 1178.601258,
+        "digital": "0:19:38",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 38,
+        "percent": 8.1
+      },
+      {
+        "name": "dialog",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "dropdown-menu",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "use-modal-store",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "scroll-area",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "react",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "user-avatar",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "query-string",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "axios",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "types",
+        "total_seconds": 1111.529822,
+        "digital": "0:18:31",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 31,
+        "percent": 7.64
+      },
+      {
+        "name": "server",
+        "total_seconds": 725.477142,
+        "digital": "0:12:05",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 5,
+        "percent": 4.99
+      },
+      {
+        "name": "current-profile",
+        "total_seconds": 725.477142,
+        "digital": "0:12:05",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 5,
+        "percent": 4.99
+      },
+      {
+        "name": "db",
+        "total_seconds": 658.80271,
+        "digital": "0:10:58",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 58,
+        "percent": 4.53
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 144.286365,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 0.99
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid-Hafeez",
+        "total_seconds": 1049.13463,
+        "machine_name_id": "fddae503-005f-4e33-81fb-8b799100c822",
+        "digital": "0:17:29",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 29,
+        "percent": 54.67
+      },
+      {
+        "name": "zaidmaker-discordclone-93k76p4dxjg",
+        "total_seconds": 869.763507,
+        "machine_name_id": "23ae8166-f5c1-4394-82a6-38e58df74baa",
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 45.33
+      },
+      {
+        "name": "codespaces-f2d231",
+        "total_seconds": 0,
+        "machine_name_id": "8a293f26-81b1-4a46-9239-9defaa60370a",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "discord-clone",
+        "total_seconds": 1918.898137,
+        "digital": "0:31:58",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 58,
+        "percent": 100
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2023-09-21T19:00:00Z",
       "end": "2023-09-22T18:59:59Z",
       "date": "2023-09-22",
       "text": "Fri Sep 22nd 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
