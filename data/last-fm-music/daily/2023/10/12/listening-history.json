@@ -1,10 +1,10 @@
 [
   {
     "artist": {
-      "url": "https://www.last.fm/music/Imagine+Dragons",
-      "name": "Imagine Dragons",
-      "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9"
+      "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+      "#text": "Imagine Dragons"
     },
+    "streamable": "0",
     "image": [
       {
         "size": "small",
@@ -23,20 +23,24 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8c77e9f509c4dd3bca8d3ac6b5344ce5.png"
       }
     ],
-    "mbid": "25c11880-bc5e-43db-927b-522eb871dc9e",
-    "url": "https://www.last.fm/music/Imagine+Dragons/Evolve",
-    "playcount": "1",
-    "@attr": {
-      "rank": "1"
+    "mbid": "",
+    "album": {
+      "mbid": "25c11880-bc5e-43db-927b-522eb871dc9e",
+      "#text": "Evolve"
     },
-    "name": "Evolve"
+    "name": "Believer",
+    "url": "https://www.last.fm/music/Imagine+Dragons/_/Believer",
+    "date": {
+      "uts": "1697136216",
+      "#text": "12 Oct 2023, 18:43"
+    }
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/Imagine+Dragons",
-      "name": "Imagine Dragons",
-      "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9"
+      "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+      "#text": "Imagine Dragons"
     },
+    "streamable": "0",
     "image": [
       {
         "size": "small",
@@ -55,12 +59,16 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0553855155afbee981f9e460021522c5.jpg"
       }
     ],
-    "mbid": "bb19c617-94ce-446f-b121-e74deab6d8c8",
-    "url": "https://www.last.fm/music/Imagine+Dragons/Mercury+-+Acts+1+&+2",
-    "playcount": "1",
-    "@attr": {
-      "rank": "2"
+    "mbid": "00280126-4ae7-4eab-89ad-18556d9e3dde",
+    "album": {
+      "mbid": "bb19c617-94ce-446f-b121-e74deab6d8c8",
+      "#text": "Mercury - Acts 1 & 2"
     },
-    "name": "Mercury - Acts 1 & 2"
+    "name": "Bones",
+    "url": "https://www.last.fm/music/Imagine+Dragons/_/Bones",
+    "date": {
+      "uts": "1697136118",
+      "#text": "12 Oct 2023, 18:41"
+    }
   }
 ]
