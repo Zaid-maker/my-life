@@ -1,26 +1,419 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 8041.285233,
+        "digital": "2:14:01",
+        "decimal": "2.23",
+        "text": "2 hrs 14 mins",
+        "hours": 2,
+        "minutes": 14,
+        "seconds": 1,
+        "percent": 91.74
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 624.641702,
+        "digital": "0:10:24",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 24,
+        "percent": 7.13
+      },
+      {
+        "name": "TSQL",
+        "total_seconds": 98.898827,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 1.13
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 26,
+      "total_seconds": 8764.825762,
+      "digital": "2:26",
+      "decimal": "2.43",
+      "text": "2 hrs 26 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8764.825762,
+        "digital": "2:26:04",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8764.825762,
+        "digital": "2:26:04",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8764.825762,
+        "digital": "2:26:04",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "next",
+        "total_seconds": 3563.91948,
+        "digital": "0:59:23",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 23,
+        "percent": 13.63
+      },
+      {
+        "name": "socket",
+        "total_seconds": 2820.819533,
+        "digital": "0:47:00",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 0,
+        "percent": 10.79
+      },
+      {
+        "name": "client",
+        "total_seconds": 2491.027188,
+        "digital": "0:41:31",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 31,
+        "percent": 9.53
+      },
+      {
+        "name": "net",
+        "total_seconds": 2451.149597,
+        "digital": "0:40:51",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 51,
+        "percent": 9.37
+      },
+      {
+        "name": "react",
+        "total_seconds": 1782.837374,
+        "digital": "0:29:42",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 42,
+        "percent": 6.82
+      },
+      {
+        "name": "http",
+        "total_seconds": 1743.950501,
+        "digital": "0:29:03",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 3,
+        "percent": 6.67
+      },
+      {
+        "name": "socket.io-client",
+        "total_seconds": 1262.974121,
+        "digital": "0:21:02",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 2,
+        "percent": 4.83
+      },
+      {
+        "name": "types",
+        "total_seconds": 1183.830698,
+        "digital": "0:19:43",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 43,
+        "percent": 4.53
+      },
+      {
+        "name": "socket-provider",
+        "total_seconds": 1049.839449,
+        "digital": "0:17:29",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 29,
+        "percent": 4.01
+      },
+      {
+        "name": "mobile-toggle",
+        "total_seconds": 984.654194,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 3.77
+      },
+      {
+        "name": "user-avatar",
+        "total_seconds": 984.654194,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 3.77
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 984.654194,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 3.77
+      },
+      {
+        "name": "model-provider",
+        "total_seconds": 743.099947,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 2.84
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 743.099947,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 2.84
+      },
+      {
+        "name": "utils",
+        "total_seconds": 743.099947,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 2.84
+      },
+      {
+        "name": "theme-provider",
+        "total_seconds": 743.099947,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 2.84
+      },
+      {
+        "name": "google",
+        "total_seconds": 743.099947,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 2.84
+      },
+      {
+        "name": "globals",
+        "total_seconds": 743.099947,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 2.84
+      },
+      {
+        "name": "badge",
+        "total_seconds": 329.128089,
+        "digital": "0:05:29",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 29,
+        "percent": 1.26
+      },
+      {
+        "name": "socket-indicator",
+        "total_seconds": 38.858328,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.15
+      },
+      {
+        "name": "navigation-sidebar",
+        "total_seconds": 10.639982,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.04
+      },
+      {
+        "name": "node:dns",
+        "total_seconds": 1.431231,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "node:stream",
+        "total_seconds": 1.431231,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "node:net",
+        "total_seconds": 1.431231,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "node:events",
+        "total_seconds": 1.431231,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "node:url",
+        "total_seconds": 1.431231,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "Zaid",
+        "total_seconds": 8764.825762,
+        "machine_name_id": "018b24f4-845b-4566-82b7-99000d914a12",
+        "digital": "2:26:04",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "discord-clone",
+        "total_seconds": 8140.18406,
+        "digital": "2:15:40",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 40,
+        "percent": 92.87
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 624.641702,
+        "digital": "0:10:24",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 24,
+        "percent": 7.13
+      }
+    ],
     "range": {
       "start": "2023-10-12T19:00:00Z",
       "end": "2023-10-13T18:59:59Z",
       "date": "2023-10-13",
       "text": "Fri Oct 13th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
