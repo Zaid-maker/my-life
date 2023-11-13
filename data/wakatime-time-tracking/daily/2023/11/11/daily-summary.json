@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 19,
-      "total_seconds": 1194.171338,
-      "digital": "0:19",
-      "decimal": "0.32",
-      "text": "19 mins"
-    },
-    "range": {
-      "start": "2023-11-11T19:00:00Z",
-      "end": "2023-11-12T18:59:59Z",
-      "date": "2023-11-12",
-      "text": "Sun Nov 12th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "devmirza-blog-frontend",
-        "total_seconds": 1114.592332,
-        "color": null,
-        "digital": "0:18:34",
-        "decimal": "0.30",
-        "text": "18 mins",
-        "hours": 0,
-        "minutes": 18,
-        "seconds": 34,
-        "percent": 93.34
-      },
-      {
-        "name": "devmirza-blog-backend",
-        "total_seconds": 79.579006,
-        "color": null,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 6.66
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -51,7 +10,18 @@
         "hours": 0,
         "minutes": 11,
         "seconds": 16,
-        "percent": 56.62
+        "percent": 39.43
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 562.609967,
+        "digital": "0:09:22",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 22,
+        "percent": 32.81
       },
       {
         "name": "Git Config",
@@ -62,7 +32,7 @@
         "hours": 0,
         "minutes": 7,
         "seconds": 5,
-        "percent": 35.6
+        "percent": 24.79
       },
       {
         "name": "JSON",
@@ -73,18 +43,54 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 51,
-        "percent": 4.27
-      },
+        "percent": 2.98
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 28,
+      "total_seconds": 1714.993012,
+      "digital": "0:28",
+      "decimal": "0.47",
+      "text": "28 mins"
+    },
+    "editors": [
       {
-        "name": "YAML",
-        "total_seconds": 41.788293,
-        "digital": "0:00:41",
-        "decimal": "0.00",
-        "text": "41 secs",
+        "name": "VS Code",
+        "total_seconds": 1714.993012,
+        "digital": "0:28:34",
+        "decimal": "0.47",
+        "text": "28 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 41,
-        "percent": 3.5
+        "minutes": 28,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1714.993012,
+        "digital": "0:28:34",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1714.993012,
+        "digital": "0:28:34",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 34,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -444,55 +450,61 @@
     "machines": [
       {
         "name": "Zaid",
-        "total_seconds": 1194.171338,
+        "total_seconds": 1714.993012,
         "machine_name_id": "018ba3c5-1d69-4755-897b-6385c25df2d3",
-        "digital": "0:19:54",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "digital": "0:28:34",
+        "decimal": "0.47",
+        "text": "28 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 54,
+        "minutes": 28,
+        "seconds": 34,
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1194.171338,
-        "digital": "0:19:54",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "name": "devmirza-blog-frontend",
+        "total_seconds": 1114.592332,
+        "color": null,
+        "digital": "0:18:34",
+        "decimal": "0.30",
+        "text": "18 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 54,
-        "percent": 100
+        "minutes": 18,
+        "seconds": 34,
+        "percent": 64.99
+      },
+      {
+        "name": "dockge",
+        "total_seconds": 520.821674,
+        "color": null,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 30.37
+      },
+      {
+        "name": "devmirza-blog-backend",
+        "total_seconds": 79.579006,
+        "color": null,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 4.64
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1194.171338,
-        "digital": "0:19:54",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1194.171338,
-        "digital": "0:19:54",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 54,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-11T19:00:00Z",
+      "end": "2023-11-12T18:59:59Z",
+      "date": "2023-11-12",
+      "text": "Sun Nov 12th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
