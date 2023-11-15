@@ -1,26 +1,642 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 889.167383,
+        "digital": "0:14:49",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 49,
+        "percent": 68.97
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 383.61472,
+        "digital": "0:06:23",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 23,
+        "percent": 29.75
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 16.468536,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 1.28
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 21,
+      "total_seconds": 1289.250639,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1289.250639,
+        "digital": "0:21:29",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1289.250639,
+        "digital": "0:21:29",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1289.250639,
+        "digital": "0:21:29",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "express",
+        "total_seconds": 447.770905,
+        "digital": "0:07:27",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 27,
+        "percent": 2.93
+      },
+      {
+        "name": "type-fest",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "stack",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "password-hash",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "dayjs",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "docker-socket-handler",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "util-common",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "terminal-socket-handler",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "redbean-node",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "child_process",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "croner",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "http-graceful-shutdown",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "check-version",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "settings",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "log",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "path",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "database",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "node:fs",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "bean",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "util-server",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "package",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "ts-command-line-args",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "socket",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "http",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "main-router",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "main-socket-handler",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "socket-handler",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "user",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "express-static-gzip",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "router",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "https",
+        "total_seconds": 438.994355,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "react",
+        "total_seconds": 397.351498,
+        "digital": "0:06:37",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 37,
+        "percent": 2.6
+      },
+      {
+        "name": "SkillDataProvider",
+        "total_seconds": 310.548397,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 2.03
+      },
+      {
+        "name": "constants",
+        "total_seconds": 310.548397,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 2.03
+      },
+      {
+        "name": "SkillsText",
+        "total_seconds": 310.548397,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 2.03
+      },
+      {
+        "name": "motion",
+        "total_seconds": 86.803101,
+        "digital": "0:01:26",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 26,
+        "percent": 0.57
+      },
+      {
+        "name": "solid",
+        "total_seconds": 86.803101,
+        "digital": "0:01:26",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 26,
+        "percent": 0.57
+      },
+      {
+        "name": "framer-motion",
+        "total_seconds": 86.803101,
+        "digital": "0:01:26",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 26,
+        "percent": 0.57
+      },
+      {
+        "name": "Hero",
+        "total_seconds": 44.04498,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.29
+      },
+      {
+        "name": "Skills",
+        "total_seconds": 44.04498,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.29
+      },
+      {
+        "name": "dockge-server",
+        "total_seconds": 8.77655,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.06
+      },
+      {
+        "name": "node:os",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "limit-queue",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "command-exists",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node-pty-prebuilt-multiarch",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-c8f057",
+        "total_seconds": 847.854161,
+        "machine_name_id": "018bcf0c-4d33-4ebc-b213-80c788879a75",
+        "digital": "0:14:07",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 7,
+        "percent": 65.76
+      },
+      {
+        "name": "codespaces-62fab6",
+        "total_seconds": 441.396478,
+        "machine_name_id": "018bced9-81b1-4f3f-b784-9027be1e3afc",
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 34.24
+      }
+    ],
+    "projects": [
+      {
+        "name": "dockge",
+        "total_seconds": 847.854161,
+        "color": null,
+        "digital": "0:14:07",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 7,
+        "percent": 65.76
+      },
+      {
+        "name": "space-portfolio",
+        "total_seconds": 441.396478,
+        "color": null,
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 34.24
+      }
+    ],
     "range": {
       "start": "2023-11-13T19:00:00Z",
       "end": "2023-11-14T18:59:59Z",
       "date": "2023-11-14",
       "text": "Tue Nov 14th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
