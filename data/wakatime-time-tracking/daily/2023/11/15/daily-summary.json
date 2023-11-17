@@ -1,26 +1,211 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 750.473544,
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 100
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 12,
+      "total_seconds": 750.473544,
+      "digital": "0:12",
+      "decimal": "0.20",
+      "text": "12 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 750.473544,
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 750.473544,
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 100
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 750.473544,
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 687.000279,
+        "digital": "0:11:27",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 27,
+        "percent": 56.06
+      },
+      {
+        "name": "framer-motion",
+        "total_seconds": 197.379442,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 16.11
+      },
+      {
+        "name": "motion",
+        "total_seconds": 197.379442,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 16.11
+      },
+      {
+        "name": "Hero",
+        "total_seconds": 53.788681,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 4.39
+      },
+      {
+        "name": "Skills",
+        "total_seconds": 53.788681,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 4.39
+      },
+      {
+        "name": "Encryption",
+        "total_seconds": 36.085305,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 2.94
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-78d28f",
+        "total_seconds": 750.473544,
+        "machine_name_id": "018bd962-0fde-45a5-9ae9-e708f3e3c34a",
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 100
+      },
+      {
+        "name": "Zaid",
+        "total_seconds": 0,
+        "machine_name_id": "018ba3c5-1d69-4755-897b-6385c25df2d3",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "space-portfolio",
+        "total_seconds": 750.473544,
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 100
+      },
+      {
+        "name": "top-github-users-action-master",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2023-11-15T19:00:00Z",
       "end": "2023-11-16T18:59:59Z",
       "date": "2023-11-16",
       "text": "Thu Nov 16th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
