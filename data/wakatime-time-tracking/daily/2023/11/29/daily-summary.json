@@ -1,102 +1,120 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 982.636648,
+        "digital": "0:16:22",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 0,
       "minutes": 16,
-      "total_seconds": 963.020162,
+      "total_seconds": 982.636648,
       "digital": "0:16",
       "decimal": "0.27",
       "text": "16 mins"
     },
-    "range": {
-      "start": "2023-11-29T19:00:00Z",
-      "end": "2023-11-30T18:59:59Z",
-      "date": "2023-11-30",
-      "text": "Thu Nov 30th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "editors": [
       {
-        "name": "taskify",
-        "total_seconds": 963.020162,
-        "color": null,
-        "digital": "0:16:03",
+        "name": "VS Code",
+        "total_seconds": 982.636648,
+        "digital": "0:16:22",
         "decimal": "0.27",
         "text": "16 mins",
         "hours": 0,
         "minutes": 16,
-        "seconds": 3,
+        "seconds": 22,
         "percent": 100
       }
     ],
-    "languages": [
+    "operating_systems": [
       {
-        "name": "TypeScript",
-        "total_seconds": 963.020162,
-        "digital": "0:16:03",
+        "name": "Linux",
+        "total_seconds": 982.636648,
+        "digital": "0:16:22",
         "decimal": "0.27",
         "text": "16 mins",
         "hours": 0,
         "minutes": 16,
-        "seconds": 3,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 982.636648,
+        "digital": "0:16:22",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 22,
         "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "react",
-        "total_seconds": 520.600521,
-        "digital": "0:08:40",
-        "decimal": "0.13",
-        "text": "8 mins",
+        "total_seconds": 540.217007,
+        "digital": "0:09:00",
+        "decimal": "0.15",
+        "text": "9 mins",
         "hours": 0,
-        "minutes": 8,
-        "seconds": 40,
-        "percent": 25.4
-      },
-      {
-        "name": "use-mobile-sidebar",
-        "total_seconds": 313.664827,
-        "digital": "0:05:13",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 13,
-        "percent": 15.3
+        "minutes": 9,
+        "seconds": 0,
+        "percent": 24.7
       },
       {
         "name": "navigation",
-        "total_seconds": 313.664827,
-        "digital": "0:05:13",
+        "total_seconds": 333.281313,
+        "digital": "0:05:33",
         "decimal": "0.08",
         "text": "5 mins",
         "hours": 0,
         "minutes": 5,
-        "seconds": 13,
-        "percent": 15.3
+        "seconds": 33,
+        "percent": 15.24
+      },
+      {
+        "name": "use-mobile-sidebar",
+        "total_seconds": 333.281313,
+        "digital": "0:05:33",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "percent": 15.24
       },
       {
         "name": "lucide-react",
-        "total_seconds": 237.376204,
-        "digital": "0:03:57",
-        "decimal": "0.05",
-        "text": "3 mins",
+        "total_seconds": 256.99269,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
         "hours": 0,
-        "minutes": 3,
-        "seconds": 57,
-        "percent": 11.58
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 11.75
       },
       {
         "name": "button",
-        "total_seconds": 237.376204,
-        "digital": "0:03:57",
-        "decimal": "0.05",
-        "text": "3 mins",
+        "total_seconds": 256.99269,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
         "hours": 0,
-        "minutes": 3,
-        "seconds": 57,
-        "percent": 11.58
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 11.75
       },
       {
         "name": "zustand",
@@ -107,7 +125,7 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 37,
-        "percent": 10.62
+        "percent": 9.96
       },
       {
         "name": "nextjs",
@@ -118,7 +136,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 44,
-        "percent": 5.11
+        "percent": 4.79
       },
       {
         "name": "logo",
@@ -129,83 +147,64 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 44,
-        "percent": 5.11
+        "percent": 4.79
       },
       {
         "name": "sheet",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 19.616486,
+        "digital": "0:00:19",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "19 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 19,
+        "percent": 0.9
       },
       {
         "name": "sidebar",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 19.616486,
+        "digital": "0:00:19",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "19 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 19,
+        "percent": 0.9
       }
     ],
     "machines": [
       {
         "name": "codespaces-8a61b2",
-        "total_seconds": 963.020162,
+        "total_seconds": 982.636648,
         "machine_name_id": "018c1cb8-1f10-48f3-972c-c7e24629d0b4",
-        "digital": "0:16:03",
+        "digital": "0:16:22",
         "decimal": "0.27",
         "text": "16 mins",
         "hours": 0,
         "minutes": 16,
-        "seconds": 3,
+        "seconds": 22,
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 963.020162,
-        "digital": "0:16:03",
+        "name": "taskify",
+        "total_seconds": 982.636648,
+        "digital": "0:16:22",
         "decimal": "0.27",
         "text": "16 mins",
         "hours": 0,
         "minutes": 16,
-        "seconds": 3,
+        "seconds": 22,
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 963.020162,
-        "digital": "0:16:03",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 3,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 963.020162,
-        "digital": "0:16:03",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 3,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-29T19:00:00Z",
+      "end": "2023-11-30T18:59:59Z",
+      "date": "2023-11-30",
+      "text": "Thu Nov 30th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
