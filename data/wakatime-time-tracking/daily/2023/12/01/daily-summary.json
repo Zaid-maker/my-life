@@ -1,48 +1,110 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2023-12-01T19:00:00Z",
-      "end": "2023-12-02T18:59:59Z",
-      "date": "2023-12-02",
-      "text": "Sat Dec 2nd 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "taskify",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 0,
-        "digital": "0:00:00",
+        "total_seconds": 175.417252,
+        "digital": "0:02:55",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 74.72
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 38.254199,
+        "digital": "0:00:38",
         "decimal": "0.00",
-        "text": "0 secs",
+        "text": "38 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "seconds": 38,
+        "percent": 16.29
+      },
+      {
+        "name": "Other",
+        "total_seconds": 21.091402,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 8.98
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 3,
+      "total_seconds": 234.762853,
+      "digital": "0:03",
+      "decimal": "0.05",
+      "text": "3 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 234.762853,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 234.762853,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 234.762853,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
       }
     ],
     "dependencies": [
+      {
+        "name": "nextjs",
+        "total_seconds": 94.096678,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 53.64
+      },
+      {
+        "name": "zustand",
+        "total_seconds": 81.320574,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 46.36
+      },
       {
         "name": "navigation",
         "total_seconds": 0,
@@ -119,60 +181,86 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      },
+      {
+        "name": "link",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "local",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "image",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "utils",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
     "machines": [
       {
         "name": "codespaces-8a61b2",
-        "total_seconds": 0,
+        "total_seconds": 234.762853,
         "machine_name_id": "018c2721-12ae-4bd5-bcfb-ec63863f7bcb",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "name": "taskify",
+        "total_seconds": 234.762853,
+        "color": null,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ]
+    "range": {
+      "start": "2023-12-01T19:00:00Z",
+      "end": "2023-12-02T18:59:59Z",
+      "date": "2023-12-02",
+      "text": "Sat Dec 2nd 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
