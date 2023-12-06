@@ -1,26 +1,145 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 42,
+      "total_seconds": 2533.947325,
+      "digital": "0:42",
+      "decimal": "0.70",
+      "text": "42 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "db",
+        "total_seconds": 2183.003796,
+        "digital": "0:36:23",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 23,
+        "percent": 49.41
+      },
+      {
+        "name": "create-board",
+        "total_seconds": 2159.91126,
+        "digital": "0:35:59",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 59,
+        "percent": 48.88
+      },
+      {
+        "name": "zod",
+        "total_seconds": 75.586785,
+        "digital": "0:01:15",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 15,
+        "percent": 1.71
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-019c8b",
+        "total_seconds": 2166.205345,
+        "machine_name_id": "018c3a66-ce86-4581-b1a9-f6c914faff83",
+        "digital": "0:36:06",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 6,
+        "percent": 85.49
+      },
+      {
+        "name": "codespaces-8a61b2",
+        "total_seconds": 367.74198,
+        "machine_name_id": "018c399f-d792-46af-86e1-45df5ef6da41",
+        "digital": "0:06:07",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 7,
+        "percent": 14.51
+      }
+    ],
+    "projects": [
+      {
+        "name": "taskify",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-12-04T19:00:00Z",
       "end": "2023-12-05T18:59:59Z",
       "date": "2023-12-05",
       "text": "Tue Dec 5th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
