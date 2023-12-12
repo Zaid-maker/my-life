@@ -1,26 +1,936 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 102.351752,
+        "digital": "0:01:42",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 42,
+        "percent": 61.43
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 38.57
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 2,
+      "total_seconds": 166.601852,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 166.601852,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 166.601852,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 166.601852,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "dayjs",
+        "total_seconds": 140.365838,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 3
+      },
+      {
+        "name": "redbean-node",
+        "total_seconds": 90.486114,
+        "digital": "0:01:30",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 1.93
+      },
+      {
+        "name": "jsonwebtoken",
+        "total_seconds": 90.486114,
+        "digital": "0:01:30",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 1.93
+      },
+      {
+        "name": "check-password-strength",
+        "total_seconds": 90.486114,
+        "digital": "0:01:30",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 1.93
+      },
+      {
+        "name": "util-common",
+        "total_seconds": 76.115738,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 1.63
+      },
+      {
+        "name": "bootstrap",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "command-exists",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue-qrcode",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "xterm-addon-web-links",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@homebridge/node-pty-prebuilt-multiarch",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@fontsource/jetbrains-mono",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "xterm",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "ts-command-line-args",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "composerize",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "jwt-decode",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@fortawesome/fontawesome-svg-core",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "eslint-plugin-jsdoc",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@types/express",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "http-graceful-shutdown",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "yaml",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "mysql2",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "croner",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@fortawesome/vue-fontawesome",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue-toastification",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@types/command-exists",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "tsx",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "knex",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@types/bcryptjs",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "bcryptjs",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@actions/github",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "type-fest",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "wait-on",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "socket.io",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@typescript-eslint/eslint-plugin",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@typescript-eslint/parser",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@inventage/envsubst",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@vitejs/plugin-vue",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "limiter-es6-compat",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "unplugin-vue-components",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue-eslint-parser",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@types/bootstrap",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@fortawesome/free-regular-svg-icons",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "timezones-list",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "express",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "prismjs",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@fortawesome/free-solid-svg-icons",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "cross-env",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "promisify-child-process",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "eslint-plugin-vue",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "npm",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "compare-versions",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue-i18n",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "express-static-gzip",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "sass",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vite",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vue-prism-editor",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@types/jsonwebtoken",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "bootstrap-vue-next",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "concurrently",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "vite-plugin-compression",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "@louislam/sqlite3",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "socket.io-client",
+        "total_seconds": 64.2501,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.37
+      },
+      {
+        "name": "password-hash",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "rate-limiter",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "socket-handler",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "dockge-server",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "util-server",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "log",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "user",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "settings",
+        "total_seconds": 26.236014,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-c8f057",
+        "total_seconds": 166.601852,
+        "machine_name_id": "018c5a0a-493d-4645-abf8-77c7eefab111",
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "dockge",
+        "total_seconds": 166.601852,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2023-12-10T19:00:00Z",
       "end": "2023-12-11T18:59:59Z",
       "date": "2023-12-11",
       "text": "Mon Dec 11th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
