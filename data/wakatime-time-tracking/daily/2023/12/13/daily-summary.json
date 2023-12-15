@@ -1,26 +1,255 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1015.780673,
+        "digital": "0:16:55",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 55,
+        "percent": 64.04
+      },
+      {
+        "name": "Prisma",
+        "total_seconds": 387.668701,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 24.44
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 112.25084,
+        "digital": "0:01:52",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 52,
+        "percent": 7.08
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 70.507,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.45
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 26,
+      "total_seconds": 1586.207214,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1586.207214,
+        "digital": "0:26:26",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1515.700214,
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 95.55
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 70.507,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.45
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1586.207214,
+        "digital": "0:26:26",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "headers",
+        "total_seconds": 735.782831,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 22.89
+      },
+      {
+        "name": "svix",
+        "total_seconds": 735.782831,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 22.89
+      },
+      {
+        "name": "server",
+        "total_seconds": 735.782831,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 22.89
+      },
+      {
+        "name": "db",
+        "total_seconds": 735.782831,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 22.89
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 269.188716,
+        "digital": "0:04:29",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 29,
+        "percent": 8.38
+      },
+      {
+        "name": "logo",
+        "total_seconds": 0.89576,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "react",
+        "total_seconds": 0.89576,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "button",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-79924a",
+        "total_seconds": 1515.700214,
+        "machine_name_id": "018c687d-200a-43b8-8bb4-04765056920c",
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 95.55
+      },
+      {
+        "name": "github.dev",
+        "total_seconds": 70.507,
+        "machine_name_id": "018c696f-69f4-4cb8-8fcf-e71fe2e94703",
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.45
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gamehub",
+        "total_seconds": 1515.700214,
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 95.55
+      },
+      {
+        "name": "top-github-users-list [GitHub]",
+        "total_seconds": 70.507,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.45
+      }
+    ],
     "range": {
       "start": "2023-12-13T19:00:00Z",
       "end": "2023-12-14T18:59:59Z",
       "date": "2023-12-14",
       "text": "Thu Dec 14th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
