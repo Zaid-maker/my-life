@@ -106,17 +106,6 @@
     ],
     "dependencies": [
       {
-        "name": "headers",
-        "total_seconds": 735.782831,
-        "digital": "0:12:15",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 15,
-        "percent": 22.89
-      },
-      {
         "name": "svix",
         "total_seconds": 735.782831,
         "digital": "0:12:15",
@@ -128,7 +117,7 @@
         "percent": 22.89
       },
       {
-        "name": "server",
+        "name": "headers",
         "total_seconds": 735.782831,
         "digital": "0:12:15",
         "decimal": "0.20",
@@ -150,6 +139,17 @@
         "percent": 22.89
       },
       {
+        "name": "server",
+        "total_seconds": 735.782831,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 22.89
+      },
+      {
         "name": "nextjs",
         "total_seconds": 269.188716,
         "digital": "0:04:29",
@@ -161,7 +161,7 @@
         "percent": 8.38
       },
       {
-        "name": "logo",
+        "name": "react",
         "total_seconds": 0.89576,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -172,7 +172,7 @@
         "percent": 0.03
       },
       {
-        "name": "react",
+        "name": "logo",
         "total_seconds": 0.89576,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -224,6 +224,7 @@
       {
         "name": "Gamehub",
         "total_seconds": 1515.700214,
+        "color": null,
         "digital": "0:25:15",
         "decimal": "0.42",
         "text": "25 mins",
@@ -235,6 +236,7 @@
       {
         "name": "top-github-users-list [GitHub]",
         "total_seconds": 70.507,
+        "color": null,
         "digital": "0:01:10",
         "decimal": "0.02",
         "text": "1 min",
