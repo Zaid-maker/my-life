@@ -128,7 +128,7 @@
         "percent": 11.58
       },
       {
-        "name": "avatar",
+        "name": "class-variance-authority",
         "total_seconds": 1310.953004,
         "digital": "0:21:50",
         "decimal": "0.35",
@@ -139,7 +139,7 @@
         "percent": 8.85
       },
       {
-        "name": "class-variance-authority",
+        "name": "avatar",
         "total_seconds": 1310.953004,
         "digital": "0:21:50",
         "decimal": "0.35",
@@ -183,17 +183,6 @@
         "percent": 3.9
       },
       {
-        "name": "link",
-        "total_seconds": 386.252547,
-        "digital": "0:06:26",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 26,
-        "percent": 2.61
-      },
-      {
         "name": "user-avatar",
         "total_seconds": 386.252547,
         "digital": "0:06:26",
@@ -206,6 +195,17 @@
       },
       {
         "name": "button",
+        "total_seconds": 386.252547,
+        "digital": "0:06:26",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 26,
+        "percent": 2.61
+      },
+      {
+        "name": "link",
         "total_seconds": 386.252547,
         "digital": "0:06:26",
         "decimal": "0.10",
@@ -249,17 +249,6 @@
         "percent": 1.29
       },
       {
-        "name": "logo",
-        "total_seconds": 8.481512,
-        "digital": "0:00:08",
-        "decimal": "0.00",
-        "text": "8 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 8,
-        "percent": 0.06
-      },
-      {
         "name": "actions",
         "total_seconds": 8.481512,
         "digital": "0:00:08",
@@ -282,7 +271,18 @@
         "percent": 0.06
       },
       {
-        "name": "lucide-react",
+        "name": "logo",
+        "total_seconds": 8.481512,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.06
+      },
+      {
+        "name": "hint",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -293,7 +293,7 @@
         "percent": 0
       },
       {
-        "name": "hint",
+        "name": "lucide-react",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -345,6 +345,7 @@
       {
         "name": "Gamehub",
         "total_seconds": 7514.728639,
+        "color": null,
         "digital": "2:05:14",
         "decimal": "2.08",
         "text": "2 hrs 5 mins",
