@@ -1,26 +1,299 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1609.512855,
+        "digital": "0:26:49",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 49,
+        "percent": 84.4
+      },
+      {
+        "name": "Python",
+        "total_seconds": 286.461277,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 15.02
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 6.196588,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.32
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 3.439562,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.18
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1.313191,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.07
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 31,
+      "total_seconds": 1906.923473,
+      "digital": "0:31",
+      "decimal": "0.52",
+      "text": "31 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1906.923473,
+        "digital": "0:31:46",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1609.512855,
+        "digital": "0:26:49",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 49,
+        "percent": 84.4
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 297.410618,
+        "digital": "0:04:57",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 57,
+        "percent": 15.6
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1906.923473,
+        "digital": "0:31:46",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 837.987882,
+        "digital": "0:13:57",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 57,
+        "percent": 13.61
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 775.789366,
+        "digital": "0:12:55",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 55,
+        "percent": 12.6
+      },
+      {
+        "name": "db",
+        "total_seconds": 771.524973,
+        "digital": "0:12:51",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 51,
+        "percent": 12.53
+      },
+      {
+        "name": "container",
+        "total_seconds": 756.002813,
+        "digital": "0:12:36",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 36,
+        "percent": 12.28
+      },
+      {
+        "name": "sidebar",
+        "total_seconds": 756.002813,
+        "digital": "0:12:36",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 36,
+        "percent": 12.28
+      },
+      {
+        "name": "navbar",
+        "total_seconds": 756.002813,
+        "digital": "0:12:36",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 36,
+        "percent": 12.28
+      },
+      {
+        "name": "auth-service",
+        "total_seconds": 752.55378,
+        "digital": "0:12:32",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 32,
+        "percent": 12.22
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 744.933683,
+        "digital": "0:12:24",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 24,
+        "percent": 12.1
+      },
+      {
+        "name": "usehooks-ts",
+        "total_seconds": 2.138904,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "utils",
+        "total_seconds": 2.138904,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "use-sidebar",
+        "total_seconds": 2.138904,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "zaidmaker-gamehub-doxadusgqvr",
+        "total_seconds": 1609.512855,
+        "machine_name_id": "018c82b8-ff53-49df-910f-1cfd8bf416bd",
+        "digital": "0:26:49",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 49,
+        "percent": 84.4
+      },
+      {
+        "name": "DESKTOP-TS8J9V3",
+        "total_seconds": 297.410618,
+        "machine_name_id": "018c6466-dfba-4f12-9887-bb7315ce19ae",
+        "digital": "0:04:57",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 57,
+        "percent": 15.6
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gamehub",
+        "total_seconds": 1609.512855,
+        "digital": "0:26:49",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 49,
+        "percent": 84.4
+      },
+      {
+        "name": "4-million",
+        "total_seconds": 297.410618,
+        "digital": "0:04:57",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 57,
+        "percent": 15.6
+      }
+    ],
     "range": {
       "start": "2023-12-18T19:00:00Z",
       "end": "2023-12-19T18:59:59Z",
       "date": "2023-12-19",
       "text": "Tue Dec 19th 2023",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

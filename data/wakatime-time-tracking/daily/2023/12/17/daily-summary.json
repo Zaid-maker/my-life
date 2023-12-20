@@ -84,7 +84,7 @@
         "percent": 12.07
       },
       {
-        "name": "db",
+        "name": "auth-service",
         "total_seconds": 4558.489829,
         "digital": "1:15:58",
         "decimal": "1.25",
@@ -95,7 +95,7 @@
         "percent": 10.02
       },
       {
-        "name": "auth-service",
+        "name": "db",
         "total_seconds": 4558.489829,
         "digital": "1:15:58",
         "decimal": "1.25",
@@ -337,7 +337,29 @@
         "percent": 0.63
       },
       {
+        "name": "next",
+        "total_seconds": 79.275138,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.17
+      },
+      {
         "name": "globals",
+        "total_seconds": 79.275138,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.17
+      },
+      {
+        "name": "google",
         "total_seconds": 79.275138,
         "digital": "0:01:19",
         "decimal": "0.02",
@@ -360,28 +382,6 @@
       },
       {
         "name": "theme-provider",
-        "total_seconds": 79.275138,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 0.17
-      },
-      {
-        "name": "next",
-        "total_seconds": 79.275138,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 0.17
-      },
-      {
-        "name": "google",
         "total_seconds": 79.275138,
         "digital": "0:01:19",
         "decimal": "0.02",
@@ -443,6 +443,7 @@
       {
         "name": "Gamehub",
         "total_seconds": 15084.770572,
+        "color": null,
         "digital": "4:11:24",
         "decimal": "4.18",
         "text": "4 hrs 11 mins",
