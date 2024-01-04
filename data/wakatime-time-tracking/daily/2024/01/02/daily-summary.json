@@ -1,138 +1,871 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 5,
-      "total_seconds": 323.465655,
-      "digital": "0:05",
-      "decimal": "0.08",
-      "text": "5 mins"
-    },
-    "range": {
-      "start": "2024-01-02T19:00:00Z",
-      "end": "2024-01-03T18:59:59Z",
-      "date": "2024-01-03",
-      "text": "Wed Jan 3rd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Gamehub",
-        "total_seconds": 323.465655,
-        "color": null,
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 323.465655,
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
+        "total_seconds": 6004.664565,
+        "digital": "1:40:04",
+        "decimal": "1.67",
+        "text": "1 hr 40 mins",
+        "hours": 1,
+        "minutes": 40,
+        "seconds": 4,
+        "percent": 95.81
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
         "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 3.67
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 32.116841,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 0.51
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 44,
+      "total_seconds": 6267.089066,
+      "digital": "1:44",
+      "decimal": "1.73",
+      "text": "1 hr 44 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6267.089066,
+        "digital": "1:44:27",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 6267.089066,
+        "digital": "1:44:27",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6267.089066,
+        "digital": "1:44:27",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 27,
         "percent": 100
       }
     ],
     "dependencies": [
       {
-        "name": "lucide-react",
-        "total_seconds": 302.07256,
-        "digital": "0:05:02",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 2,
-        "percent": 19.06
+        "name": "react",
+        "total_seconds": 5243.236451,
+        "digital": "1:27:23",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 23,
+        "percent": 13.43
       },
       {
-        "name": "react",
-        "total_seconds": 282.838808,
-        "digital": "0:04:42",
+        "name": "lucide-react",
+        "total_seconds": 4622.375065,
+        "digital": "1:17:02",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 2,
+        "percent": 11.84
+      },
+      {
+        "name": "utils",
+        "total_seconds": 1971.909291,
+        "digital": "0:32:51",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 51,
+        "percent": 5.05
+      },
+      {
+        "name": "button",
+        "total_seconds": 1923.016666,
+        "digital": "0:32:03",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 3,
+        "percent": 4.92
+      },
+      {
+        "name": "separator",
+        "total_seconds": 1526.355597,
+        "digital": "0:25:26",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 26,
+        "percent": 3.91
+      },
+      {
+        "name": "skeleton",
+        "total_seconds": 1398.875781,
+        "digital": "0:23:18",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 18,
+        "percent": 3.58
+      },
+      {
+        "name": "components-react",
+        "total_seconds": 1215.290577,
+        "digital": "0:20:15",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 15,
+        "percent": 3.11
+      },
+      {
+        "name": "image",
+        "total_seconds": 1072.019021,
+        "digital": "0:17:52",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 52,
+        "percent": 2.74
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 963.764953,
+        "digital": "0:16:03",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 3,
+        "percent": 2.47
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 901.543309,
+        "digital": "0:15:01",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 1,
+        "percent": 2.31
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 901.543309,
+        "digital": "0:15:01",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 1,
+        "percent": 2.31
+      },
+      {
+        "name": "actions",
+        "total_seconds": 790.817721,
+        "digital": "0:13:10",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 10,
+        "percent": 2.02
+      },
+      {
+        "name": "user-avatar",
+        "total_seconds": 790.817721,
+        "digital": "0:13:10",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 10,
+        "percent": 2.02
+      },
+      {
+        "name": "follow",
+        "total_seconds": 733.457293,
+        "digital": "0:12:13",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 13,
+        "percent": 1.88
+      },
+      {
+        "name": "verified-mark",
+        "total_seconds": 573.626553,
+        "digital": "0:09:33",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 33,
+        "percent": 1.47
+      },
+      {
+        "name": "svix",
+        "total_seconds": 505.411711,
+        "digital": "0:08:25",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 1.29
+      },
+      {
+        "name": "header",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "use-chat-sidebar",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "chat",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "video",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "chat-toggle",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "use-viewer-token",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "client",
+        "total_seconds": 424.472856,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 1.09
+      },
+      {
+        "name": "dialog",
+        "total_seconds": 375.580231,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 0.96
+      },
+      {
+        "name": "server",
+        "total_seconds": 275.104051,
+        "digital": "0:04:35",
         "decimal": "0.07",
         "text": "4 mins",
         "hours": 0,
         "minutes": 4,
-        "seconds": 42,
-        "percent": 17.85
+        "seconds": 35,
+        "percent": 0.7
       },
       {
-        "name": "user-avatar",
-        "total_seconds": 217.191168,
-        "digital": "0:03:37",
+        "name": "ingress",
+        "total_seconds": 275.104051,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 0.7
+      },
+      {
+        "name": "headers",
+        "total_seconds": 275.104051,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 0.7
+      },
+      {
+        "name": "db",
+        "total_seconds": 275.104051,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 0.7
+      },
+      {
+        "name": "@radix-ui/react-dialog",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 37,
-        "percent": 13.7
+        "seconds": 50,
+        "percent": 0.59
       },
       {
-        "name": "components-react",
-        "total_seconds": 217.191168,
-        "digital": "0:03:37",
+        "name": "next-themes",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 37,
-        "percent": 13.7
+        "seconds": 50,
+        "percent": 0.59
       },
       {
-        "name": "skeleton",
-        "total_seconds": 217.191168,
-        "digital": "0:03:37",
+        "name": "@prisma/client",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 37,
-        "percent": 13.7
+        "seconds": 50,
+        "percent": 0.59
       },
       {
-        "name": "actions",
-        "total_seconds": 217.191168,
-        "digital": "0:03:37",
+        "name": "react-dom",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 37,
-        "percent": 13.7
+        "seconds": 50,
+        "percent": 0.59
       },
       {
-        "name": "utils",
-        "total_seconds": 65.64764,
-        "digital": "0:01:05",
+        "name": "@radix-ui/react-select",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "prisma",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "date-fns",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "class-variance-authority",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@radix-ui/react-scroll-area",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@livekit/components-react",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@clerk/themes",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "query-string",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@types/uuid",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "autoprefixer",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "tailwindcss-animate",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@radix-ui/react-tooltip",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@radix-ui/react-slot",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@clerk/nextjs",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "npm",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "string-to-color",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@radix-ui/react-switch",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@radix-ui/react-slider",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "jwt-decode",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "@radix-ui/react-avatar",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "zustand",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "livekit-client",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "uuid",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "next",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "eslint-config-next",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "usehooks-ts",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "livekit-server-sdk",
+        "total_seconds": 230.30766,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 0.59
+      },
+      {
+        "name": "info-modal",
+        "total_seconds": 151.239009,
+        "digital": "0:02:31",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 31,
+        "percent": 0.39
+      },
+      {
+        "name": "info-card",
+        "total_seconds": 109.519573,
+        "digital": "0:01:49",
         "decimal": "0.02",
         "text": "1 min",
         "hours": 0,
         "minutes": 1,
-        "seconds": 5,
-        "percent": 4.14
+        "seconds": 49,
+        "percent": 0.28
       },
       {
-        "name": "button",
-        "total_seconds": 65.64764,
-        "digital": "0:01:05",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 5,
-        "percent": 4.14
-      },
-      {
-        "name": "verified-mark",
+        "name": "input",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -146,55 +879,59 @@
     "machines": [
       {
         "name": "Gitpod",
-        "total_seconds": 323.465655,
+        "total_seconds": 6267.089066,
         "machine_name_id": "018c9c65-12d5-4fe1-aded-1f7df8f2a278",
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
+        "digital": "1:44:27",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 27,
         "percent": 100
+      },
+      {
+        "name": "codespaces-7daea8",
+        "total_seconds": 0,
+        "machine_name_id": "018ccea8-30ff-436a-bbe9-3fd5279331ee",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 323.465655,
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
+        "name": "Gamehub",
+        "total_seconds": 6267.089066,
+        "digital": "1:44:27",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 27,
         "percent": 100
+      },
+      {
+        "name": "taskify",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 323.465655,
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 323.465655,
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-01-02T19:00:00Z",
+      "end": "2024-01-03T18:59:59Z",
+      "date": "2024-01-03",
+      "text": "Wed Jan 3rd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
