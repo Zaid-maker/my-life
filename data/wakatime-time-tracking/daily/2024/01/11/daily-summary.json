@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 46,
-      "total_seconds": 6416.931102,
-      "digital": "1:46",
-      "decimal": "1.77",
-      "text": "1 hr 46 mins"
-    },
-    "range": {
-      "start": "2024-01-11T19:00:00Z",
-      "end": "2024-01-12T18:59:59Z",
-      "date": "2024-01-12",
-      "text": "Fri Jan 12th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Gamehub",
-        "total_seconds": 6416.931102,
-        "color": null,
-        "digital": "1:46:56",
-        "decimal": "1.77",
-        "text": "1 hr 46 mins",
-        "hours": 1,
-        "minutes": 46,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -39,7 +10,7 @@
         "hours": 1,
         "minutes": 15,
         "seconds": 33,
-        "percent": 70.64
+        "percent": 68.57
       },
       {
         "name": "JSON",
@@ -50,7 +21,65 @@
         "hours": 0,
         "minutes": 31,
         "seconds": 23,
-        "percent": 29.36
+        "percent": 28.49
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 194.290247,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 2.94
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 50,
+      "total_seconds": 6611.221349,
+      "digital": "1:50",
+      "decimal": "1.83",
+      "text": "1 hr 50 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6611.221349,
+        "digital": "1:50:11",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 6611.221349,
+        "digital": "1:50:11",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6611.221349,
+        "digital": "1:50:11",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 11,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -7051,47 +7080,53 @@
         "hours": 1,
         "minutes": 46,
         "seconds": 56,
-        "percent": 100
+        "percent": 97.06
+      },
+      {
+        "name": "codespaces-8b54bd",
+        "total_seconds": 194.290247,
+        "machine_name_id": "018cfd14-1501-4d34-8d64-1c907733c45d",
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 2.94
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "Gamehub",
         "total_seconds": 6416.931102,
+        "color": null,
         "digital": "1:46:56",
         "decimal": "1.77",
         "text": "1 hr 46 mins",
         "hours": 1,
         "minutes": 46,
         "seconds": 56,
-        "percent": 100
+        "percent": 97.06
+      },
+      {
+        "name": "dockge",
+        "total_seconds": 194.290247,
+        "color": null,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 2.94
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 6416.931102,
-        "digital": "1:46:56",
-        "decimal": "1.77",
-        "text": "1 hr 46 mins",
-        "hours": 1,
-        "minutes": 46,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 6416.931102,
-        "digital": "1:46:56",
-        "decimal": "1.77",
-        "text": "1 hr 46 mins",
-        "hours": 1,
-        "minutes": 46,
-        "seconds": 56,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-01-11T19:00:00Z",
+      "end": "2024-01-12T18:59:59Z",
+      "date": "2024-01-12",
+      "text": "Fri Jan 12th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
