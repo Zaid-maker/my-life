@@ -1,0 +1,156 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 983.696831,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "range": {
+      "start": "2024-01-16T19:00:00Z",
+      "end": "2024-01-17T18:59:59Z",
+      "date": "2024-01-17",
+      "text": "Wed Jan 17th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "Gamehub",
+        "total_seconds": 983.696831,
+        "color": null,
+        "digital": "0:16:23",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Docker",
+        "total_seconds": 652.230766,
+        "digital": "0:10:52",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 52,
+        "percent": 66.3
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 331.466065,
+        "digital": "0:05:31",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 33.7
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 331.466065,
+        "digital": "0:05:31",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 72.11
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 91.512463,
+        "digital": "0:01:31",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 19.91
+      },
+      {
+        "name": "results",
+        "total_seconds": 36.692251,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 7.98
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 983.696831,
+        "machine_name_id": "018d13c0-d76d-4058-ac98-23327075ecbe",
+        "digital": "0:16:23",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 983.696831,
+        "digital": "0:16:23",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 983.696831,
+        "digital": "0:16:23",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 973.747748,
+        "digital": "0:16:13",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 13,
+        "percent": 98.99
+      },
+      {
+        "name": "Building",
+        "total_seconds": 9.949083,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.01
+      }
+    ]
+  }
+]
