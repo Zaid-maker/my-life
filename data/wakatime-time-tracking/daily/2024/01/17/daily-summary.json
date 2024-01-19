@@ -1,26 +1,277 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2623.932046,
+        "digital": "0:43:43",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 43,
+        "percent": 99.47
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 14.067947,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.53
+      },
+      {
+        "name": "Prisma",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 43,
+      "total_seconds": 2637.999993,
+      "digital": "0:43",
+      "decimal": "0.72",
+      "text": "43 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2637.999993,
+        "digital": "0:43:57",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2637.999993,
+        "digital": "0:43:57",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2637.999993,
+        "digital": "0:43:57",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 1904.981004,
+        "digital": "0:31:44",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 44,
+        "percent": 35.06
+      },
+      {
+        "name": "auth-service",
+        "total_seconds": 611.018859,
+        "digital": "0:10:11",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 11,
+        "percent": 11.25
+      },
+      {
+        "name": "client",
+        "total_seconds": 610.918656,
+        "digital": "0:10:10",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 10,
+        "percent": 11.24
+      },
+      {
+        "name": "search-service",
+        "total_seconds": 553.747523,
+        "digital": "0:09:13",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 13,
+        "percent": 10.19
+      },
+      {
+        "name": "db",
+        "total_seconds": 469.684397,
+        "digital": "0:07:49",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 49,
+        "percent": 8.65
+      },
+      {
+        "name": "thumbnail",
+        "total_seconds": 452.301897,
+        "digital": "0:07:32",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 32,
+        "percent": 8.33
+      },
+      {
+        "name": "verified-mark",
+        "total_seconds": 295.216469,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 5.43
+      },
+      {
+        "name": "skeleton",
+        "total_seconds": 111.796623,
+        "digital": "0:01:51",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 51,
+        "percent": 2.06
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 108.037393,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 1.99
+      },
+      {
+        "name": "results",
+        "total_seconds": 108.037393,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 1.99
+      },
+      {
+        "name": "results-card",
+        "total_seconds": 106.12172,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 1.95
+      },
+      {
+        "name": "date-fns",
+        "total_seconds": 100.94363,
+        "digital": "0:01:40",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 40,
+        "percent": 1.86
+      },
+      {
+        "name": "link",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 2623.932046,
+        "machine_name_id": "018cf498-cb80-4312-9a85-a59d8dc605c6",
+        "digital": "0:43:43",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 43,
+        "percent": 99.47
+      },
+      {
+        "name": "codespaces-1d9a96",
+        "total_seconds": 14.067947,
+        "machine_name_id": "018d1c20-6872-4bd5-91b9-c69adbeebe5b",
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.53
+      }
+    ],
+    "projects": [
+      {
+        "name": "Gamehub",
+        "total_seconds": 2637.999993,
+        "digital": "0:43:57",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-01-17T19:00:00Z",
       "end": "2024-01-18T18:59:59Z",
       "date": "2024-01-18",
       "text": "Thu Jan 18th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
