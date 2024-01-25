@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 24.693843,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2024-01-23T19:00:00Z",
-      "end": "2024-01-24T18:59:59Z",
-      "date": "2024-01-24",
-      "text": "Wed Jan 24th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "admin-dashboard",
-        "total_seconds": 24.693843,
-        "color": null,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -42,88 +13,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [
-      {
-        "name": "schema.types",
-        "total_seconds": 18.163526,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 21.02
-      },
-      {
-        "name": "react",
-        "total_seconds": 15.976745,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 18.49
-      },
-      {
-        "name": "custom-avatar",
-        "total_seconds": 15.976745,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 18.49
-      },
-      {
-        "name": "core",
-        "total_seconds": 15.976745,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 18.49
-      },
-      {
-        "name": "antd",
-        "total_seconds": 15.976745,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 18.49
-      },
-      {
-        "name": "graphql-tag",
-        "total_seconds": 4.325414,
-        "digital": "0:00:04",
-        "decimal": "0.00",
-        "text": "4 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 4,
-        "percent": 5.01
-      }
-    ],
-    "machines": [
-      {
-        "name": "Gitpod",
-        "total_seconds": 24.693843,
-        "machine_name_id": "018d37c2-833f-41c1-bed9-7d80c8744cb4",
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 24.693843,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -162,6 +59,108 @@
         "seconds": 24,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "schema.types",
+        "total_seconds": 18.163526,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 21.02
+      },
+      {
+        "name": "react",
+        "total_seconds": 15.976745,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 18.49
+      },
+      {
+        "name": "antd",
+        "total_seconds": 15.976745,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 18.49
+      },
+      {
+        "name": "custom-avatar",
+        "total_seconds": 15.976745,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 18.49
+      },
+      {
+        "name": "core",
+        "total_seconds": 15.976745,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 18.49
+      },
+      {
+        "name": "graphql-tag",
+        "total_seconds": 4.325414,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 5.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 24.693843,
+        "machine_name_id": "018d37c2-833f-41c1-bed9-7d80c8744cb4",
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "admin-dashboard",
+        "total_seconds": 24.693843,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-23T19:00:00Z",
+      "end": "2024-01-24T18:59:59Z",
+      "date": "2024-01-24",
+      "text": "Wed Jan 24th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
