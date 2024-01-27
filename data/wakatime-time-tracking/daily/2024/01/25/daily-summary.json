@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 44,
-      "total_seconds": 2675.903511,
-      "digital": "0:44",
-      "decimal": "0.73",
-      "text": "44 mins"
-    },
-    "range": {
-      "start": "2024-01-25T19:00:00Z",
-      "end": "2024-01-26T18:59:59Z",
-      "date": "2024-01-26",
-      "text": "Fri Jan 26th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "tiny-kuma",
-        "total_seconds": 2675.903511,
-        "color": null,
-        "digital": "0:44:35",
-        "decimal": "0.73",
-        "text": "44 mins",
-        "hours": 0,
-        "minutes": 44,
-        "seconds": 35,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Vue.js",
@@ -62,23 +33,27 @@
         "minutes": 2,
         "seconds": 28,
         "percent": 5.54
-      }
-    ],
-    "dependencies": [],
-    "machines": [
+      },
       {
-        "name": "codespaces-218f19",
-        "total_seconds": 2675.903511,
-        "machine_name_id": "018d4233-a891-44a0-8c7c-1930a4f962de",
-        "digital": "0:44:35",
-        "decimal": "0.73",
-        "text": "44 mins",
+        "name": "TypeScript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
         "hours": 0,
-        "minutes": 44,
-        "seconds": 35,
-        "percent": 100
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 44,
+      "total_seconds": 2675.903511,
+      "digital": "0:44",
+      "decimal": "0.73",
+      "text": "44 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -117,6 +92,76 @@
         "seconds": 35,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "antd",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-218f19",
+        "total_seconds": 2675.903511,
+        "machine_name_id": "018d4233-a891-44a0-8c7c-1930a4f962de",
+        "digital": "0:44:35",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 35,
+        "percent": 100
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 0,
+        "machine_name_id": "018d469f-f230-413d-b124-ea406bda588d",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "tiny-kuma",
+        "total_seconds": 2675.903511,
+        "digital": "0:44:35",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 35,
+        "percent": 100
+      },
+      {
+        "name": "admin-dashboard",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2024-01-25T19:00:00Z",
+      "end": "2024-01-26T18:59:59Z",
+      "date": "2024-01-26",
+      "text": "Fri Jan 26th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
