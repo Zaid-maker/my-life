@@ -1,67 +1,60 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 26,
-      "total_seconds": 5192.048465,
-      "digital": "1:26",
-      "decimal": "1.43",
-      "text": "1 hr 26 mins"
-    },
-    "range": {
-      "start": "2024-02-02T19:00:00Z",
-      "end": "2024-02-03T18:59:59Z",
-      "date": "2024-02-03",
-      "text": "Sat Feb 3rd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "frameworks-benchmark",
-        "total_seconds": 5192.048465,
-        "color": null,
-        "digital": "1:26:32",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 32,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
+        "name": "JavaScript",
+        "total_seconds": 4355.724908,
+        "digital": "1:12:35",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 43.21
+      },
+      {
         "name": "HTML",
-        "total_seconds": 2548.801968,
-        "digital": "0:42:28",
-        "decimal": "0.70",
-        "text": "42 mins",
-        "hours": 0,
-        "minutes": 42,
-        "seconds": 28,
-        "percent": 49.09
+        "total_seconds": 3617.823958,
+        "digital": "1:00:17",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 35.89
       },
       {
         "name": "CSS",
-        "total_seconds": 1462.388657,
-        "digital": "0:24:22",
-        "decimal": "0.40",
-        "text": "24 mins",
+        "total_seconds": 1558.142975,
+        "digital": "0:25:58",
+        "decimal": "0.42",
+        "text": "25 mins",
         "hours": 0,
-        "minutes": 24,
-        "seconds": 22,
-        "percent": 28.17
+        "minutes": 25,
+        "seconds": 58,
+        "percent": 15.46
       },
       {
-        "name": "JavaScript",
-        "total_seconds": 1169.814937,
-        "digital": "0:19:29",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "name": "JSON",
+        "total_seconds": 311.21765,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 29,
-        "percent": 22.53
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 3.09
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 229.147222,
+        "digital": "0:03:49",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 2.27
       },
       {
         "name": "Other",
@@ -72,53 +65,100 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 8,
-        "percent": 0.17
+        "percent": 0.09
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 48,
+      "total_seconds": 10080.993729,
+      "digital": "2:48",
+      "decimal": "2.80",
+      "text": "2 hrs 48 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10080.993729,
+        "digital": "2:48:00",
+        "decimal": "2.80",
+        "text": "2 hrs 48 mins",
+        "hours": 2,
+        "minutes": 48,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9927.142237,
+        "digital": "2:45:27",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 27,
+        "percent": 98.47
       },
       {
-        "name": "JSON",
-        "total_seconds": 2.105887,
-        "digital": "0:00:02",
-        "decimal": "0.00",
-        "text": "2 secs",
+        "name": "Linux",
+        "total_seconds": 153.851492,
+        "digital": "0:02:33",
+        "decimal": "0.03",
+        "text": "2 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 2,
-        "percent": 0.04
+        "minutes": 2,
+        "seconds": 33,
+        "percent": 1.53
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10080.993729,
+        "digital": "2:48:00",
+        "decimal": "2.80",
+        "text": "2 hrs 48 mins",
+        "hours": 2,
+        "minutes": 48,
+        "seconds": 0,
+        "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "\"https://cdn.jsdelivr.net/npm/chart.js\"",
-        "total_seconds": 2548.801968,
-        "digital": "0:42:28",
-        "decimal": "0.70",
-        "text": "42 mins",
-        "hours": 0,
-        "minutes": 42,
-        "seconds": 28,
-        "percent": 45.69
+        "total_seconds": 3617.823958,
+        "digital": "1:00:17",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 43.81
       },
       {
         "name": "\"./assets/js/script.js\"",
-        "total_seconds": 2121.043466,
-        "digital": "0:35:21",
-        "decimal": "0.58",
-        "text": "35 mins",
+        "total_seconds": 3190.065456,
+        "digital": "0:53:10",
+        "decimal": "0.88",
+        "text": "53 mins",
         "hours": 0,
-        "minutes": 35,
-        "seconds": 21,
-        "percent": 38.02
+        "minutes": 53,
+        "seconds": 10,
+        "percent": 38.63
       },
       {
         "name": "\"benchmark.js\"",
-        "total_seconds": 481.438615,
-        "digital": "0:08:01",
-        "decimal": "0.13",
-        "text": "8 mins",
+        "total_seconds": 807.302912,
+        "digital": "0:13:27",
+        "decimal": "0.22",
+        "text": "13 mins",
         "hours": 0,
-        "minutes": 8,
-        "seconds": 1,
-        "percent": 8.63
+        "minutes": 13,
+        "seconds": 27,
+        "percent": 9.78
       },
       {
         "name": "\"/assets/js/script.js\"",
@@ -129,61 +169,384 @@
         "hours": 0,
         "minutes": 7,
         "seconds": 7,
-        "percent": 7.67
+        "percent": 5.18
+      },
+      {
+        "name": "npm",
+        "total_seconds": 43.000261,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.52
+      },
+      {
+        "name": "coffee-script",
+        "total_seconds": 43.000261,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.52
+      },
+      {
+        "name": "superagent",
+        "total_seconds": 43.000261,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.52
+      },
+      {
+        "name": "batch",
+        "total_seconds": 43.000261,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.52
+      },
+      {
+        "name": "cheerio",
+        "total_seconds": 43.000261,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.52
+      },
+      {
+        "name": "node_modules/nth-check",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/debug",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/entities",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/css-select",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/superagent",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/parse5-htmlparser2-tree-adapter",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/domutils",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/qs",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/domelementtype",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/batch",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/css-what",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/formidable",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/emitter-component",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/cheerio",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/parse5",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/mime",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/dom-serializer",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/cheerio-select",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/cookiejar",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/htmlparser2",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/domhandler",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/coffee-script",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/boolbase",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "node_modules/methods",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-TS8J9V3",
-        "total_seconds": 5192.048465,
+        "total_seconds": 9927.142237,
         "machine_name_id": "018d5edf-5065-4326-9666-68a66c389f7c",
-        "digital": "1:26:32",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 32,
-        "percent": 100
+        "digital": "2:45:27",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 27,
+        "percent": 98.47
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 153.851492,
+        "machine_name_id": "018d704d-1c49-4d56-befc-6e8557a32cde",
+        "digital": "0:02:33",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 33,
+        "percent": 1.53
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5192.048465,
-        "digital": "1:26:32",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 32,
-        "percent": 100
+        "name": "frameworks-benchmark",
+        "total_seconds": 9927.142237,
+        "digital": "2:45:27",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 27,
+        "percent": 98.47
+      },
+      {
+        "name": "top-github-users",
+        "total_seconds": 153.851492,
+        "digital": "0:02:33",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 33,
+        "percent": 1.53
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5192.048465,
-        "digital": "1:26:32",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 32,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5192.048465,
-        "digital": "1:26:32",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 32,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-02-02T19:00:00Z",
+      "end": "2024-02-03T18:59:59Z",
+      "date": "2024-02-03",
+      "text": "Sat Feb 3rd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
