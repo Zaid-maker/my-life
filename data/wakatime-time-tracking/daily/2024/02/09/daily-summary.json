@@ -1,25 +1,42 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2024-02-09T19:00:00Z",
-      "end": "2024-02-10T18:59:59Z",
-      "date": "2024-02-10",
-      "text": "Sat Feb 10th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "miro-boards",
+        "name": "TypeScript",
+        "total_seconds": 2354.201612,
+        "digital": "0:39:14",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 14,
+        "percent": 93.13
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 129.110188,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 5.11
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 44.447079,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 1.76
+      },
+      {
+        "name": "Markdown",
         "total_seconds": 0,
-        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -29,22 +46,133 @@
         "percent": 0
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 42,
+      "total_seconds": 2527.758879,
+      "digital": "0:42",
+      "decimal": "0.70",
+      "text": "42 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "name": "VS Code",
+        "total_seconds": 2527.758879,
+        "digital": "0:42:07",
+        "decimal": "0.70",
+        "text": "42 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "minutes": 42,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2398.648691,
+        "digital": "0:39:58",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 94.89
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 129.110188,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 5.11
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2527.758879,
+        "digital": "0:42:07",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 7,
+        "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "nextjs",
+        "total_seconds": 2165.970908,
+        "digital": "0:36:05",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 5,
+        "percent": 53.92
+      },
+      {
+        "name": "react",
+        "total_seconds": 1564.436398,
+        "digital": "0:26:04",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 38.94
+      },
+      {
+        "name": "image",
+        "total_seconds": 235.041446,
+        "digital": "0:03:55",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 55,
+        "percent": 5.85
+      },
+      {
+        "name": "item",
+        "total_seconds": 50.670244,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 1.26
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 0.480712,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      },
+      {
+        "name": "dialog",
+        "total_seconds": 0.480712,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      },
+      {
+        "name": "utils",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -58,8 +186,32 @@
     "machines": [
       {
         "name": "codespaces-dd3ff1",
-        "total_seconds": 0,
+        "total_seconds": 2398.648691,
         "machine_name_id": "018d8f69-3d40-49e7-acff-5ccb41c838dc",
+        "digital": "0:39:58",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 94.89
+      },
+      {
+        "name": "DESKTOP-TS8J9V3",
+        "total_seconds": 129.110188,
+        "machine_name_id": "018d5a34-0bea-438c-bb86-4e0f04fa5b39",
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 5.11
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 0,
+        "machine_name_id": "018d9435-9bcd-4729-98d7-3afba37b429b",
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -69,9 +221,31 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "miro-boards",
+        "total_seconds": 2398.648691,
+        "digital": "0:39:58",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 94.89
+      },
+      {
+        "name": "Gamehub",
+        "total_seconds": 129.110188,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 5.11
+      },
+      {
+        "name": "MoneyPrinter",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -82,31 +256,12 @@
         "percent": 0
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ]
+    "range": {
+      "start": "2024-02-09T19:00:00Z",
+      "end": "2024-02-10T18:59:59Z",
+      "date": "2024-02-10",
+      "text": "Sat Feb 10th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
