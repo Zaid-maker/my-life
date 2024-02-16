@@ -1,26 +1,110 @@
 [
   {
+    "languages": [
+      {
+        "name": "Bash",
+        "total_seconds": 35.5161,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 100
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
-      "total_seconds": 0,
+      "total_seconds": 35.5161,
       "digital": "0:00",
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 35.5161,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 35.5161,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 35.5161,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 35.5161,
+        "machine_name_id": "018dae14-2903-4aa1-ab07-6122cf0ec72c",
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cal.com",
+        "total_seconds": 35.5161,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-02-14T19:00:00Z",
       "end": "2024-02-15T18:59:59Z",
       "date": "2024-02-15",
       "text": "Thu Feb 15th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
