@@ -1,80 +1,340 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 14,
-      "total_seconds": 889.771486,
-      "digital": "0:14",
-      "decimal": "0.23",
-      "text": "14 mins"
-    },
-    "range": {
-      "start": "2024-02-17T19:00:00Z",
-      "end": "2024-02-18T18:59:59Z",
-      "date": "2024-02-18",
-      "text": "Sun Feb 18th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "miro-boards",
-        "total_seconds": 889.771486,
-        "color": null,
-        "digital": "0:14:49",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 889.771486,
-        "digital": "0:14:49",
-        "decimal": "0.23",
-        "text": "14 mins",
+        "total_seconds": 7694.102779,
+        "digital": "2:08:14",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 14,
+        "percent": 94.47
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 435.862083,
+        "digital": "0:07:15",
+        "decimal": "0.12",
+        "text": "7 mins",
         "hours": 0,
-        "minutes": 14,
-        "seconds": 49,
+        "minutes": 7,
+        "seconds": 15,
+        "percent": 5.35
+      },
+      {
+        "name": "XML",
+        "total_seconds": 11.177343,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.14
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 3.302088,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.04
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 15,
+      "total_seconds": 8144.444293,
+      "digital": "2:15",
+      "decimal": "2.25",
+      "text": "2 hrs 15 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8144.444293,
+        "digital": "2:15:44",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7705.280122,
+        "digital": "2:08:25",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 94.61
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 439.164171,
+        "digital": "0:07:19",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 19,
+        "percent": 5.39
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8144.444293,
+        "digital": "2:15:44",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 44,
         "percent": 100
       }
     ],
     "dependencies": [
       {
+        "name": "react",
+        "total_seconds": 3188.732651,
+        "digital": "0:53:08",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 8,
+        "percent": 12.93
+      },
+      {
+        "name": "server",
+        "total_seconds": 2762.265506,
+        "digital": "0:46:02",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 2,
+        "percent": 11.2
+      },
+      {
+        "name": "api",
+        "total_seconds": 2703.17504,
+        "digital": "0:45:03",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 3,
+        "percent": 10.96
+      },
+      {
+        "name": "values",
+        "total_seconds": 2626.179257,
+        "digital": "0:43:46",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 46,
+        "percent": 10.65
+      },
+      {
         "name": "image",
-        "total_seconds": 499.772374,
-        "digital": "0:08:19",
+        "total_seconds": 1930.565068,
+        "digital": "0:32:10",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 10,
+        "percent": 7.83
+      },
+      {
+        "name": "empty-search",
+        "total_seconds": 1447.158257,
+        "digital": "0:24:07",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 7,
+        "percent": 5.87
+      },
+      {
+        "name": "empty-boards",
+        "total_seconds": 1447.158257,
+        "digital": "0:24:07",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 7,
+        "percent": 5.87
+      },
+      {
+        "name": "empty-favorites",
+        "total_seconds": 1447.158257,
+        "digital": "0:24:07",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 7,
+        "percent": 5.87
+      },
+      {
+        "name": "new-board-button",
+        "total_seconds": 1447.158257,
+        "digital": "0:24:07",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 7,
+        "percent": 5.87
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 1156.543963,
+        "digital": "0:19:16",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 16,
+        "percent": 4.69
+      },
+      {
+        "name": "button",
+        "total_seconds": 1147.616143,
+        "digital": "0:19:07",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 7,
+        "percent": 4.65
+      },
+      {
+        "name": "board_card",
+        "total_seconds": 500.449102,
+        "digital": "0:08:20",
         "decimal": "0.13",
         "text": "8 mins",
         "hours": 0,
         "minutes": 8,
-        "seconds": 19,
-        "percent": 56.04
+        "seconds": 20,
+        "percent": 2.03
       },
       {
-        "name": "server",
-        "total_seconds": 264.036578,
-        "digital": "0:04:24",
-        "decimal": "0.07",
-        "text": "4 mins",
+        "name": "google",
+        "total_seconds": 383.13207,
+        "digital": "0:06:23",
+        "decimal": "0.10",
+        "text": "6 mins",
         "hours": 0,
-        "minutes": 4,
-        "seconds": 24,
-        "percent": 29.61
+        "minutes": 6,
+        "seconds": 23,
+        "percent": 1.55
       },
       {
-        "name": "values",
-        "total_seconds": 127.950329,
-        "digital": "0:02:07",
-        "decimal": "0.03",
-        "text": "2 mins",
+        "name": "next",
+        "total_seconds": 383.13207,
+        "digital": "0:06:23",
+        "decimal": "0.10",
+        "text": "6 mins",
         "hours": 0,
-        "minutes": 2,
-        "seconds": 7,
-        "percent": 14.35
+        "minutes": 6,
+        "seconds": 23,
+        "percent": 1.55
+      },
+      {
+        "name": "convex-client-provider",
+        "total_seconds": 383.13207,
+        "digital": "0:06:23",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 23,
+        "percent": 1.55
+      },
+      {
+        "name": "globals",
+        "total_seconds": 383.13207,
+        "digital": "0:06:23",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 23,
+        "percent": 1.55
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 362.979751,
+        "digital": "0:06:02",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 2,
+        "percent": 1.47
+      },
+      {
+        "name": "use-api-mutation",
+        "total_seconds": 362.979751,
+        "digital": "0:06:02",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 2,
+        "percent": 1.47
+      },
+      {
+        "name": "board-card",
+        "total_seconds": 356.187601,
+        "digital": "0:05:56",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 56,
+        "percent": 1.44
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 236.091347,
+        "digital": "0:03:56",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 0.96
       },
       {
         "name": "schema",
@@ -91,55 +351,59 @@
     "machines": [
       {
         "name": "DESKTOP-TS8J9V3",
-        "total_seconds": 889.771486,
+        "total_seconds": 7705.280122,
         "machine_name_id": "018db69e-12e6-4d07-ba11-4ca612cc3b36",
-        "digital": "0:14:49",
-        "decimal": "0.23",
-        "text": "14 mins",
+        "digital": "2:08:25",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 94.61
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 439.164171,
+        "machine_name_id": "018dbd39-0185-441e-b111-c3769cb6511b",
+        "digital": "0:07:19",
+        "decimal": "0.12",
+        "text": "7 mins",
         "hours": 0,
-        "minutes": 14,
-        "seconds": 49,
-        "percent": 100
+        "minutes": 7,
+        "seconds": 19,
+        "percent": 5.39
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 889.771486,
-        "digital": "0:14:49",
-        "decimal": "0.23",
-        "text": "14 mins",
+        "name": "miro-boards",
+        "total_seconds": 7705.280122,
+        "digital": "2:08:25",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 94.61
+      },
+      {
+        "name": "cal.com",
+        "total_seconds": 439.164171,
+        "digital": "0:07:19",
+        "decimal": "0.12",
+        "text": "7 mins",
         "hours": 0,
-        "minutes": 14,
-        "seconds": 49,
-        "percent": 100
+        "minutes": 7,
+        "seconds": 19,
+        "percent": 5.39
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 889.771486,
-        "digital": "0:14:49",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 889.771486,
-        "digital": "0:14:49",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 49,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-02-17T19:00:00Z",
+      "end": "2024-02-18T18:59:59Z",
+      "date": "2024-02-18",
+      "text": "Sun Feb 18th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
