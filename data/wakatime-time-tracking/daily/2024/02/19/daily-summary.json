@@ -1,26 +1,903 @@
 [
   {
+    "languages": [
+      {
+        "name": "Bash",
+        "total_seconds": 601.673636,
+        "digital": "0:10:01",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 1,
+        "percent": 61.6
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 176.547522,
+        "digital": "0:02:56",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 56,
+        "percent": 18.07
+      },
+      {
+        "name": "Other",
+        "total_seconds": 155.972778,
+        "digital": "0:02:35",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 35,
+        "percent": 15.97
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.91
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.37
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 0.831231,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.09
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 16,
+      "total_seconds": 976.804109,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 976.804109,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 976.804109,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 976.804109,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "make-dir",
+        "total_seconds": 41.778942,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 4.06
+      },
+      {
+        "name": "file-cache",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.76
+      },
+      {
+        "name": "path",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.76
+      },
+      {
+        "name": "bot",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.76
+      },
+      {
+        "name": "types",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.76
+      },
+      {
+        "name": "config",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.76
+      },
+      {
+        "name": "inversify.config",
+        "total_seconds": 28.396144,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.76
+      },
+      {
+        "name": "@typescript-eslint/parser",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/validator",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "libsodium-wrappers",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "spotify-uri",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "got",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "husky",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "delay",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "release-it",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/libsodium-wrappers",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@discordjs/builders",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "pagination.djs",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "iso8601-duration",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "discord-api-types",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "xbytes",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "fs-capacitor",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/bluebird",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@typescript-eslint/eslint-plugin",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "spotify-web-api-node",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "inversify",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@discordjs/opus",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@discordjs/rest",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/spotify-web-api-node",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/debug",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "node-emoji",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "fluent-ffmpeg",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "get-youtube-id",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@release-it/keep-a-changelog",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "p-retry",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/fs-capacitor",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "array-shuffle",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "execa",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "reflect-metadata",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "discord.js",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@discordjs/voice",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "parse-duration",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@prisma/client",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "tsx",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/node-emoji",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "type-fest",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "p-limit",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "eslint-config-xo",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "debug",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "sync-fetch",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/ms",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "nodesplash",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "ytsr",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "npm",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "eslint-config-xo-typescript",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "p-event",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/fluent-ffmpeg",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "ora",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "read-pkg",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "@types/ws",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "ytdl-core",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "hasha",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "prisma",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      },
+      {
+        "name": "p-queue",
+        "total_seconds": 13.382798,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.3
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 976.804109,
+        "machine_name_id": "018dc7c3-d9c0-4abc-9474-256a5ade42f2",
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "muse",
+        "total_seconds": 976.804109,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-02-19T19:00:00Z",
       "end": "2024-02-20T18:59:59Z",
       "date": "2024-02-20",
       "text": "Tue Feb 20th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
