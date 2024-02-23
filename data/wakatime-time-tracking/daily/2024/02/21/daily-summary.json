@@ -1,26 +1,354 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3433.451123,
+        "digital": "0:57:13",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 13,
+        "percent": 91.85
+      },
+      {
+        "name": "Other",
+        "total_seconds": 304.46086,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 8.15
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 2,
+      "total_seconds": 3737.911983,
+      "digital": "1:02",
+      "decimal": "1.03",
+      "text": "1 hr 2 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3737.911983,
+        "digital": "1:02:17",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1994.152439,
+        "digital": "0:33:14",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 14,
+        "percent": 53.35
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 1743.759544,
+        "digital": "0:29:03",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 3,
+        "percent": 46.65
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3737.911983,
+        "digital": "1:02:17",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 2611.72587,
+        "digital": "0:43:31",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 31,
+        "percent": 15.06
+      },
+      {
+        "name": "react-dropdown-menu",
+        "total_seconds": 2374.810772,
+        "digital": "0:39:34",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 34,
+        "percent": 13.7
+      },
+      {
+        "name": "dropdown-menu",
+        "total_seconds": 2336.804436,
+        "digital": "0:38:56",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 56,
+        "percent": 13.48
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 2126.983407,
+        "digital": "0:35:26",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 26,
+        "percent": 12.27
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 2068.633705,
+        "digital": "0:34:28",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 28,
+        "percent": 11.93
+      },
+      {
+        "name": "api",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "link",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "footer",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "image",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "skeleton",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "use-api-mutation",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "overlay",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "actions",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "date-fns",
+        "total_seconds": 486.921938,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 2.81
+      },
+      {
+        "name": "values",
+        "total_seconds": 323.499405,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 1.87
+      },
+      {
+        "name": "server",
+        "total_seconds": 323.499405,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 1.87
+      },
+      {
+        "name": "alert-dialog",
+        "total_seconds": 105.993912,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 0.61
+      },
+      {
+        "name": "confirm-dialog",
+        "total_seconds": 98.610018,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 0.57
+      },
+      {
+        "name": "button",
+        "total_seconds": 98.610018,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 0.57
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-TS8J9V3",
+        "total_seconds": 1994.152439,
+        "machine_name_id": "018dccc1-9b7f-4971-943b-4894c6e45ed6",
+        "digital": "0:33:14",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 14,
+        "percent": 53.35
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 1743.759544,
+        "machine_name_id": "018dd20d-89fc-4e73-8504-bf8c3c0ae486",
+        "digital": "0:29:03",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 3,
+        "percent": 46.65
+      }
+    ],
+    "projects": [
+      {
+        "name": "miro-boards",
+        "total_seconds": 3737.911983,
+        "digital": "1:02:17",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-02-21T19:00:00Z",
       "end": "2024-02-22T18:59:59Z",
       "date": "2024-02-22",
       "text": "Thu Feb 22nd 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
