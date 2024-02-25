@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 40,
-      "total_seconds": 2429.369091,
-      "digital": "0:40",
-      "decimal": "0.67",
-      "text": "40 mins"
-    },
-    "range": {
-      "start": "2024-02-23T19:00:00Z",
-      "end": "2024-02-24T18:59:59Z",
-      "date": "2024-02-24",
-      "text": "Sat Feb 24th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "miro-boards",
+        "name": "TypeScript",
         "total_seconds": 2429.369091,
-        "color": null,
         "digital": "0:40:29",
         "decimal": "0.67",
         "text": "40 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 40,
+      "total_seconds": 2429.369091,
+      "digital": "0:40",
+      "decimal": "0.67",
+      "text": "40 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 2429.369091,
+        "digital": "0:40:29",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2429.369091,
+        "digital": "0:40:29",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 2429.369091,
         "digital": "0:40:29",
         "decimal": "0.67",
@@ -77,6 +95,17 @@
         "percent": 8.62
       },
       {
+        "name": "react",
+        "total_seconds": 627.213965,
+        "digital": "0:10:27",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 27,
+        "percent": 7.96
+      },
+      {
         "name": "button",
         "total_seconds": 627.213965,
         "digital": "0:10:27",
@@ -99,7 +128,7 @@
         "percent": 7.96
       },
       {
-        "name": "react",
+        "name": "api",
         "total_seconds": 627.213965,
         "digital": "0:10:27",
         "decimal": "0.17",
@@ -111,17 +140,6 @@
       },
       {
         "name": "confirm-dialog",
-        "total_seconds": 627.213965,
-        "digital": "0:10:27",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 27,
-        "percent": 7.96
-      },
-      {
-        "name": "sonner",
         "total_seconds": 627.213965,
         "digital": "0:10:27",
         "decimal": "0.17",
@@ -154,7 +172,7 @@
         "percent": 7.96
       },
       {
-        "name": "api",
+        "name": "sonner",
         "total_seconds": 627.213965,
         "digital": "0:10:27",
         "decimal": "0.17",
@@ -190,9 +208,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "miro-boards",
         "total_seconds": 2429.369091,
         "digital": "0:40:29",
         "decimal": "0.67",
@@ -203,31 +221,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 2429.369091,
-        "digital": "0:40:29",
-        "decimal": "0.67",
-        "text": "40 mins",
-        "hours": 0,
-        "minutes": 40,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2429.369091,
-        "digital": "0:40:29",
-        "decimal": "0.67",
-        "text": "40 mins",
-        "hours": 0,
-        "minutes": 40,
-        "seconds": 29,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-02-23T19:00:00Z",
+      "end": "2024-02-24T18:59:59Z",
+      "date": "2024-02-24",
+      "text": "Sat Feb 24th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
