@@ -1,26 +1,165 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3829.863782,
+        "digital": "1:03:49",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 78.49
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 640.136115,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 13.12
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 190.019785,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 3.89
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 189.395065,
+        "digital": "0:03:09",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 9,
+        "percent": 3.88
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 27.580753,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.57
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 2.154275,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.04
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 21,
+      "total_seconds": 4879.149775,
+      "digital": "1:21",
+      "decimal": "1.35",
+      "text": "1 hr 21 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4879.149775,
+        "digital": "1:21:19",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4879.149775,
+        "digital": "1:21:19",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4879.149775,
+        "digital": "1:21:19",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-TS8J9V3",
+        "total_seconds": 4879.149775,
+        "machine_name_id": "018de06d-33bc-4a0d-80ca-e5a7e7f20aeb",
+        "digital": "1:21:19",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "package-manager-benchmark",
+        "total_seconds": 3690.695942,
+        "digital": "1:01:30",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 75.64
+      },
+      {
+        "name": "frameworks-benchmark",
+        "total_seconds": 1188.453833,
+        "digital": "0:19:48",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 48,
+        "percent": 24.36
+      }
+    ],
     "range": {
       "start": "2024-02-24T19:00:00Z",
       "end": "2024-02-25T18:59:59Z",
       "date": "2024-02-25",
       "text": "Sun Feb 25th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
