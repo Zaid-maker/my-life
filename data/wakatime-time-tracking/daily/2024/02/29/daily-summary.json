@@ -1,26 +1,276 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 9505.411916,
+        "digital": "2:38:25",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 25,
+        "percent": 99.96
+      },
+      {
+        "name": "Other",
+        "total_seconds": 2.109163,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1.659144,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 2,
+      "minutes": 38,
+      "total_seconds": 9509.180223,
+      "digital": "2:38",
+      "decimal": "2.63",
+      "text": "2 hrs 38 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9509.180223,
+        "digital": "2:38:29",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 9509.180223,
+        "digital": "2:38:29",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9509.180223,
+        "digital": "2:38:29",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 3603.887518,
+        "digital": "1:00:03",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 17.34
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 3370.33903,
+        "digital": "0:56:10",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 10,
+        "percent": 16.22
+      },
+      {
+        "name": "TicketCard",
+        "total_seconds": 1994.249672,
+        "digital": "0:33:14",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 14,
+        "percent": 9.6
+      },
+      {
+        "name": "PriorityDisplay",
+        "total_seconds": 1594.985354,
+        "digital": "0:26:34",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 34,
+        "percent": 7.67
+      },
+      {
+        "name": "StatusDisplay",
+        "total_seconds": 1594.985354,
+        "digital": "0:26:34",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 34,
+        "percent": 7.67
+      },
+      {
+        "name": "ProgressDisplay",
+        "total_seconds": 1594.985354,
+        "digital": "0:26:34",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 34,
+        "percent": 7.67
+      },
+      {
+        "name": "link",
+        "total_seconds": 1594.985354,
+        "digital": "0:26:34",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 34,
+        "percent": 7.67
+      },
+      {
+        "name": "DeleteBlock",
+        "total_seconds": 1594.985354,
+        "digital": "0:26:34",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 34,
+        "percent": 7.67
+      },
+      {
+        "name": "react-fontawesome",
+        "total_seconds": 1139.582493,
+        "digital": "0:18:59",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 59,
+        "percent": 5.48
+      },
+      {
+        "name": "free-solid-svg-icons",
+        "total_seconds": 1139.582493,
+        "digital": "0:18:59",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 59,
+        "percent": 5.48
+      },
+      {
+        "name": "server",
+        "total_seconds": 688.980442,
+        "digital": "0:11:28",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 28,
+        "percent": 3.32
+      },
+      {
+        "name": "Ticket",
+        "total_seconds": 688.980442,
+        "digital": "0:11:28",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 28,
+        "percent": 3.32
+      },
+      {
+        "name": "mongoose",
+        "total_seconds": 121.769564,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 0.59
+      },
+      {
+        "name": "EditTicketForm",
+        "total_seconds": 60.203501,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.29
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-734cef",
+        "total_seconds": 9509.180223,
+        "machine_name_id": "018df93a-a0a0-4a3a-980e-518084272282",
+        "digital": "2:38:29",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "ticket-app",
+        "total_seconds": 9509.180223,
+        "digital": "2:38:29",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-02-29T19:00:00Z",
       "end": "2024-03-01T18:59:59Z",
       "date": "2024-03-01",
       "text": "Fri Mar 1st 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
