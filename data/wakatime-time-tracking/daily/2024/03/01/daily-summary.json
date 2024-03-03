@@ -1,26 +1,499 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1404.173593,
+        "digital": "0:23:24",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 24,
+        "percent": 40.62
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 1030.690219,
+        "digital": "0:17:10",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 10,
+        "percent": 29.81
+      },
+      {
+        "name": "Go",
+        "total_seconds": 887.433859,
+        "digital": "0:14:47",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 47,
+        "percent": 25.67
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 113.265341,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 3.28
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 21.65153,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.63
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 57,
+      "total_seconds": 3457.214542,
+      "digital": "0:57",
+      "decimal": "0.95",
+      "text": "57 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3457.214542,
+        "digital": "0:57:37",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2572.393494,
+        "digital": "0:42:52",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 52,
+        "percent": 74.41
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 884.821048,
+        "digital": "0:14:44",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 44,
+        "percent": 25.59
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3457.214542,
+        "digital": "0:57:37",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Ticket",
+        "total_seconds": 1112.634189,
+        "digital": "0:18:32",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 32,
+        "percent": 39.83
+      },
+      {
+        "name": "server",
+        "total_seconds": 1112.634189,
+        "digital": "0:18:32",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 32,
+        "percent": 39.83
+      },
+      {
+        "name": "TicketCard",
+        "total_seconds": 219.317654,
+        "digital": "0:03:39",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 7.85
+      },
+      {
+        "name": "fs",
+        "total_seconds": 84.558391,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 3.03
+      },
+      {
+        "name": "child_process",
+        "total_seconds": 66.423462,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 2.38
+      },
+      {
+        "name": "package",
+        "total_seconds": 62.949371,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 2.25
+      },
+      {
+        "name": "github",
+        "total_seconds": 47.138639,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 1.69
+      },
+      {
+        "name": "knex",
+        "total_seconds": 40.67321,
+        "digital": "0:00:40",
+        "decimal": "0.00",
+        "text": "40 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40,
+        "percent": 1.46
+      },
+      {
+        "name": "redbean-node",
+        "total_seconds": 9.64276,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.35
+      },
+      {
+        "name": "bean-model",
+        "total_seconds": 9.64276,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.35
+      },
+      {
+        "name": "util-common",
+        "total_seconds": 9.64276,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.35
+      },
+      {
+        "name": "io/ioutil",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "time",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "log",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "os",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "net/http",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "strings",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "crypto/tls",
+        "total_seconds": 2.612811,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "jsonwebtoken",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "password-hash",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "google",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "ConvexClientProvider",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "globals",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "next",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-734cef",
+        "total_seconds": 1331.951843,
+        "machine_name_id": "018dfe4c-deca-4de4-97ed-0f477c8e14ad",
+        "digital": "0:22:11",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 11,
+        "percent": 38.53
+      },
+      {
+        "name": "codespaces-87f998",
+        "total_seconds": 1240.441651,
+        "machine_name_id": "018dff9b-7c12-4aff-9101-8ef3991033c4",
+        "digital": "0:20:40",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 40,
+        "percent": 35.88
+      },
+      {
+        "name": "DESKTOP-TS8J9V3",
+        "total_seconds": 884.821048,
+        "machine_name_id": "018e0019-79d8-44d0-b5b0-a08e4463bce5",
+        "digital": "0:14:44",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 44,
+        "percent": 25.59
+      },
+      {
+        "name": "codespaces-c1c846",
+        "total_seconds": 0,
+        "machine_name_id": "018e005b-8be5-4fff-a487-6b4bd47a4507",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "ticket-app",
+        "total_seconds": 1331.951843,
+        "digital": "0:22:11",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 11,
+        "percent": 38.53
+      },
+      {
+        "name": "dockge",
+        "total_seconds": 1240.441651,
+        "digital": "0:20:40",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 40,
+        "percent": 35.88
+      },
+      {
+        "name": "go-server",
+        "total_seconds": 884.821048,
+        "digital": "0:14:44",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 44,
+        "percent": 25.59
+      },
+      {
+        "name": "upload-to-drive",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2024-03-01T19:00:00Z",
       "end": "2024-03-02T18:59:59Z",
       "date": "2024-03-02",
       "text": "Sat Mar 2nd 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
