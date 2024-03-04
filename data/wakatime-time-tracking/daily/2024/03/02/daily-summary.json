@@ -1,26 +1,320 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 6179.954009,
+        "digital": "1:42:59",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 42,
+      "total_seconds": 6179.954009,
+      "digital": "1:42",
+      "decimal": "1.70",
+      "text": "1 hr 42 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6179.954009,
+        "digital": "1:42:59",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 6179.954009,
+        "digital": "1:42:59",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6179.954009,
+        "digital": "1:42:59",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "server",
+        "total_seconds": 2411.537369,
+        "digital": "0:40:11",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 11,
+        "percent": 18.19
+      },
+      {
+        "name": "values",
+        "total_seconds": 2070.827678,
+        "digital": "0:34:30",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 30,
+        "percent": 15.62
+      },
+      {
+        "name": "link",
+        "total_seconds": 1475.890615,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 11.13
+      },
+      {
+        "name": "next",
+        "total_seconds": 864.256657,
+        "digital": "0:14:24",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 24,
+        "percent": 6.52
+      },
+      {
+        "name": "ConvexClientProvider",
+        "total_seconds": 864.256657,
+        "digital": "0:14:24",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 24,
+        "percent": 6.52
+      },
+      {
+        "name": "globals",
+        "total_seconds": 864.256657,
+        "digital": "0:14:24",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 24,
+        "percent": 6.52
+      },
+      {
+        "name": "google",
+        "total_seconds": 864.256657,
+        "digital": "0:14:24",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 24,
+        "percent": 6.52
+      },
+      {
+        "name": "image",
+        "total_seconds": 817.512479,
+        "digital": "0:13:37",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 37,
+        "percent": 6.17
+      },
+      {
+        "name": "react",
+        "total_seconds": 771.902684,
+        "digital": "0:12:51",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 51,
+        "percent": 5.82
+      },
+      {
+        "name": "api",
+        "total_seconds": 650.234584,
+        "digital": "0:10:50",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 50,
+        "percent": 4.9
+      },
+      {
+        "name": "schema",
+        "total_seconds": 336.335682,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 2.54
+      },
+      {
+        "name": "header",
+        "total_seconds": 328.584588,
+        "digital": "0:05:28",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 28,
+        "percent": 2.48
+      },
+      {
+        "name": "footer",
+        "total_seconds": 203.063697,
+        "digital": "0:03:23",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 23,
+        "percent": 1.53
+      },
+      {
+        "name": "svix",
+        "total_seconds": 178.621972,
+        "digital": "0:02:58",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 58,
+        "percent": 1.35
+      },
+      {
+        "name": "clerk-sdk-node",
+        "total_seconds": 178.621972,
+        "digital": "0:02:58",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 58,
+        "percent": 1.35
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 175.701363,
+        "digital": "0:02:55",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 1.33
+      },
+      {
+        "name": "button",
+        "total_seconds": 173.719837,
+        "digital": "0:02:53",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 53,
+        "percent": 1.31
+      },
+      {
+        "name": "files",
+        "total_seconds": 21.366636,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.16
+      },
+      {
+        "name": "http",
+        "total_seconds": 5.276715,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.04
+      },
+      {
+        "name": "react-clerk",
+        "total_seconds": 1.981526,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-c1c846",
+        "total_seconds": 6179.954009,
+        "machine_name_id": "018e04b2-3a10-4dfa-8cb0-1af55f801444",
+        "digital": "1:42:59",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "upload-to-drive",
+        "total_seconds": 6179.954009,
+        "digital": "1:42:59",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-03-02T19:00:00Z",
       "end": "2024-03-03T18:59:59Z",
       "date": "2024-03-03",
       "text": "Sun Mar 3rd 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
