@@ -1,26 +1,299 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 375.061209,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 45.82
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 296.367,
+        "digital": "0:04:56",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 56,
+        "percent": 36.2
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 147.166,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 17.98
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 13,
+      "total_seconds": 818.594209,
+      "digital": "0:13",
+      "decimal": "0.22",
+      "text": "13 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 818.594209,
+        "digital": "0:13:38",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 443.533,
+        "digital": "0:07:23",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 23,
+        "percent": 54.18
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 375.061209,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 45.82
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 818.594209,
+        "digital": "0:13:38",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "next",
+        "total_seconds": 346.691586,
+        "digital": "0:05:46",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 46,
+        "percent": 43.02
+      },
+      {
+        "name": "core",
+        "total_seconds": 346.204519,
+        "digital": "0:05:46",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 46,
+        "percent": 42.96
+      },
+      {
+        "name": "db",
+        "total_seconds": 24.935022,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 3.09
+      },
+      {
+        "name": "headers",
+        "total_seconds": 24.447955,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 3.03
+      },
+      {
+        "name": "livekit-server-sdk",
+        "total_seconds": 14.89775,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 1.85
+      },
+      {
+        "name": "server",
+        "total_seconds": 13.471873,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.67
+      },
+      {
+        "name": "ingress",
+        "total_seconds": 9.550205,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.19
+      },
+      {
+        "name": "svix",
+        "total_seconds": 9.550205,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.19
+      },
+      {
+        "name": "shared",
+        "total_seconds": 3.921668,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.49
+      },
+      {
+        "name": "upload-builder-e4cab397",
+        "total_seconds": 3.921668,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.49
+      },
+      {
+        "name": "undici",
+        "total_seconds": 3.921668,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.49
+      },
+      {
+        "name": "types-b5a44cf1",
+        "total_seconds": 3.921668,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.49
+      },
+      {
+        "name": "auth-service",
+        "total_seconds": 0.487067,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "github.dev",
+        "total_seconds": 443.533,
+        "machine_name_id": "018e0f62-a261-44e0-b010-4378e9aacad7",
+        "digital": "0:07:23",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 23,
+        "percent": 54.18
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 375.061209,
+        "machine_name_id": "018e0ff7-1191-45f0-abb2-b3b3aa0d41c2",
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 45.82
+      }
+    ],
+    "projects": [
+      {
+        "name": "Zaid-maker [GitHub]",
+        "total_seconds": 443.533,
+        "digital": "0:07:23",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 23,
+        "percent": 54.18
+      },
+      {
+        "name": "Gamehub",
+        "total_seconds": 375.061209,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 45.82
+      }
+    ],
     "range": {
       "start": "2024-03-04T19:00:00Z",
       "end": "2024-03-05T18:59:59Z",
       "date": "2024-03-05",
       "text": "Tue Mar 5th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
