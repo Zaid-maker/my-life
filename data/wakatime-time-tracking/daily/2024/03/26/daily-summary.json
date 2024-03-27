@@ -1,0 +1,145 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 374.115225,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
+    "range": {
+      "start": "2024-03-26T19:00:00Z",
+      "end": "2024-03-27T18:59:59Z",
+      "date": "2024-03-27",
+      "text": "Wed Mar 27th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 374.115225,
+        "color": null,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 251.819246,
+        "digital": "0:04:11",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 11,
+        "percent": 67.31
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 97.313085,
+        "digital": "0:01:37",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 37,
+        "percent": 26.01
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 24.982894,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 6.68
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "test",
+        "total_seconds": 235.910084,
+        "digital": "0:03:55",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 55,
+        "percent": 57.79
+      },
+      {
+        "name": "util-test",
+        "total_seconds": 172.343541,
+        "digital": "0:02:52",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 52,
+        "percent": 42.21
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 374.115225,
+        "machine_name_id": "018e7c25-f3d5-414a-b6ba-f230b7c93a50",
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 374.115225,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 374.115225,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 374.115225,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 100
+      }
+    ]
+  }
+]
