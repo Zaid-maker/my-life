@@ -1,35 +1,28 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 374.115225,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2024-03-26T19:00:00Z",
-      "end": "2024-03-27T18:59:59Z",
-      "date": "2024-03-27",
-      "text": "Wed Mar 27th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "uptime-kuma",
-        "total_seconds": 374.115225,
-        "color": null,
-        "digital": "0:06:14",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 14,
-        "percent": 100
-      }
-    ],
     "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1263.96393,
+        "digital": "0:21:03",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 3,
+        "percent": 51.38
+      },
+      {
+        "name": "Other",
+        "total_seconds": 822.022304,
+        "digital": "0:13:42",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 42,
+        "percent": 33.41
+      },
       {
         "name": "JavaScript",
         "total_seconds": 251.819246,
@@ -39,7 +32,7 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 11,
-        "percent": 67.31
+        "percent": 10.24
       },
       {
         "name": "YAML",
@@ -50,7 +43,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 37,
-        "percent": 26.01
+        "percent": 3.96
       },
       {
         "name": "Docker",
@@ -61,10 +54,79 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 24,
-        "percent": 6.68
+        "percent": 1.02
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 41,
+      "total_seconds": 2460.101459,
+      "digital": "0:41",
+      "decimal": "0.68",
+      "text": "41 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2460.101459,
+        "digital": "0:41:00",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2460.101459,
+        "digital": "0:41:00",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2460.101459,
+        "digital": "0:41:00",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 0,
+        "percent": 100
       }
     ],
     "dependencies": [
+      {
+        "name": "drizzle-orm",
+        "total_seconds": 1261.430818,
+        "digital": "0:21:01",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 1,
+        "percent": 42.89
+      },
+      {
+        "name": "pg-core",
+        "total_seconds": 1261.430818,
+        "digital": "0:21:01",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 1,
+        "percent": 42.89
+      },
       {
         "name": "test",
         "total_seconds": 235.910084,
@@ -74,7 +136,7 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 55,
-        "percent": 57.79
+        "percent": 8.02
       },
       {
         "name": "util-test",
@@ -85,10 +147,77 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 52,
-        "percent": 42.21
+        "percent": 5.86
+      },
+      {
+        "name": "serverless",
+        "total_seconds": 2.533112,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "schema",
+        "total_seconds": 2.533112,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 2.533112,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "neon-http",
+        "total_seconds": 2.533112,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.09
+      },
+      {
+        "name": "drizzle-kit",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
     "machines": [
+      {
+        "name": "codespaces-972521",
+        "total_seconds": 2085.986234,
+        "machine_name_id": "018e7f53-76bb-435d-aa54-c263e75247a3",
+        "digital": "0:34:45",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 45,
+        "percent": 84.79
+      },
       {
         "name": "Gitpod",
         "total_seconds": 374.115225,
@@ -99,12 +228,23 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 14,
-        "percent": 100
+        "percent": 15.21
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "Lingo",
+        "total_seconds": 2085.986234,
+        "digital": "0:34:45",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 45,
+        "percent": 84.79
+      },
+      {
+        "name": "uptime-kuma",
         "total_seconds": 374.115225,
         "digital": "0:06:14",
         "decimal": "0.10",
@@ -112,34 +252,15 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 14,
-        "percent": 100
+        "percent": 15.21
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 374.115225,
-        "digital": "0:06:14",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 14,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 374.115225,
-        "digital": "0:06:14",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 14,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-03-26T19:00:00Z",
+      "end": "2024-03-27T18:59:59Z",
+      "date": "2024-03-27",
+      "text": "Wed Mar 27th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
