@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 51,
-      "total_seconds": 3062.628778,
-      "digital": "0:51",
-      "decimal": "0.85",
-      "text": "51 mins"
-    },
-    "range": {
-      "start": "2024-03-29T19:00:00Z",
-      "end": "2024-03-30T18:59:59Z",
-      "date": "2024-03-30",
-      "text": "Sat Mar 30th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "zoom",
+        "name": "TypeScript",
         "total_seconds": 3062.628778,
-        "color": null,
         "digital": "0:51:02",
         "decimal": "0.85",
         "text": "51 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 51,
+      "total_seconds": 3062.628778,
+      "digital": "0:51",
+      "decimal": "0.85",
+      "text": "51 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 3062.628778,
+        "digital": "0:51:02",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3062.628778,
+        "digital": "0:51:02",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 3062.628778,
         "digital": "0:51:02",
         "decimal": "0.85",
@@ -212,9 +230,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "zoom",
         "total_seconds": 3062.628778,
         "digital": "0:51:02",
         "decimal": "0.85",
@@ -225,31 +243,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 3062.628778,
-        "digital": "0:51:02",
-        "decimal": "0.85",
-        "text": "51 mins",
-        "hours": 0,
-        "minutes": 51,
-        "seconds": 2,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3062.628778,
-        "digital": "0:51:02",
-        "decimal": "0.85",
-        "text": "51 mins",
-        "hours": 0,
-        "minutes": 51,
-        "seconds": 2,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-03-29T19:00:00Z",
+      "end": "2024-03-30T18:59:59Z",
+      "date": "2024-03-30",
+      "text": "Sat Mar 30th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
