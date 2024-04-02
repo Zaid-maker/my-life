@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 11,
-      "total_seconds": 675.494061,
-      "digital": "0:11",
-      "decimal": "0.18",
-      "text": "11 mins"
-    },
-    "range": {
-      "start": "2024-03-31T19:00:00Z",
-      "end": "2024-04-01T18:59:59Z",
-      "date": "2024-04-01",
-      "text": "Mon Apr 1st 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "zoom",
+        "name": "TypeScript",
         "total_seconds": 675.494061,
-        "color": null,
         "digital": "0:11:15",
         "decimal": "0.18",
         "text": "11 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 11,
+      "total_seconds": 675.494061,
+      "digital": "0:11",
+      "decimal": "0.18",
+      "text": "11 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 675.494061,
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 675.494061,
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 675.494061,
         "digital": "0:11:15",
         "decimal": "0.18",
@@ -55,17 +73,6 @@
         "percent": 17.32
       },
       {
-        "name": "video-react-sdk",
-        "total_seconds": 631.271993,
-        "digital": "0:10:31",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 31,
-        "percent": 16.18
-      },
-      {
         "name": "nextjs",
         "total_seconds": 631.271993,
         "digital": "0:10:31",
@@ -77,15 +84,15 @@
         "percent": 16.18
       },
       {
-        "name": "MeetingModal",
-        "total_seconds": 611.353346,
-        "digital": "0:10:11",
+        "name": "video-react-sdk",
+        "total_seconds": 631.271993,
+        "digital": "0:10:31",
         "decimal": "0.17",
         "text": "10 mins",
         "hours": 0,
         "minutes": 10,
-        "seconds": 11,
-        "percent": 15.67
+        "seconds": 31,
+        "percent": 16.18
       },
       {
         "name": "HomeCard",
@@ -100,6 +107,17 @@
       },
       {
         "name": "navigation",
+        "total_seconds": 611.353346,
+        "digital": "0:10:11",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 11,
+        "percent": 15.67
+      },
+      {
+        "name": "MeetingModal",
         "total_seconds": 611.353346,
         "digital": "0:10:11",
         "decimal": "0.17",
@@ -146,9 +164,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "zoom",
         "total_seconds": 675.494061,
         "digital": "0:11:15",
         "decimal": "0.18",
@@ -159,31 +177,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 675.494061,
-        "digital": "0:11:15",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 15,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 675.494061,
-        "digital": "0:11:15",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 15,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-03-31T19:00:00Z",
+      "end": "2024-04-01T18:59:59Z",
+      "date": "2024-04-01",
+      "text": "Mon Apr 1st 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
