@@ -1,0 +1,607 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 54,
+      "total_seconds": 3266.082548,
+      "digital": "0:54",
+      "decimal": "0.90",
+      "text": "54 mins"
+    },
+    "range": {
+      "start": "2024-04-09T19:00:00Z",
+      "end": "2024-04-10T18:59:59Z",
+      "date": "2024-04-10",
+      "text": "Wed Apr 10th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "zoom",
+        "total_seconds": 3266.082548,
+        "color": null,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2978.705838,
+        "digital": "0:49:38",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 38,
+        "percent": 91.2
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 8.8
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 2379.520881,
+        "digital": "0:39:39",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 39,
+        "percent": 10.3
+      },
+      {
+        "name": "video-react-sdk",
+        "total_seconds": 1951.645149,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 8.44
+      },
+      {
+        "name": "Loader",
+        "total_seconds": 1278.447795,
+        "digital": "0:21:18",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 18,
+        "percent": 5.53
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 1278.447795,
+        "digital": "0:21:18",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 18,
+        "percent": 5.53
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 1248.557688,
+        "digital": "0:20:48",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 48,
+        "percent": 5.4
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 892.333893,
+        "digital": "0:14:52",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 52,
+        "percent": 3.86
+      },
+      {
+        "name": "next",
+        "total_seconds": 862.443786,
+        "digital": "0:14:22",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 22,
+        "percent": 3.73
+      },
+      {
+        "name": "button",
+        "total_seconds": 673.197354,
+        "digital": "0:11:13",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 13,
+        "percent": 2.91
+      },
+      {
+        "name": "utils",
+        "total_seconds": 604.957183,
+        "digital": "0:10:04",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 4,
+        "percent": 2.62
+      },
+      {
+        "name": "dropdown-menu",
+        "total_seconds": 604.957183,
+        "digital": "0:10:04",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 4,
+        "percent": 2.62
+      },
+      {
+        "name": "toaster",
+        "total_seconds": 575.067076,
+        "digital": "0:09:35",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 35,
+        "percent": 2.49
+      },
+      {
+        "name": "google",
+        "total_seconds": 575.067076,
+        "digital": "0:09:35",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 35,
+        "percent": 2.49
+      },
+      {
+        "name": "globals",
+        "total_seconds": 575.067076,
+        "digital": "0:09:35",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 35,
+        "percent": 2.49
+      },
+      {
+        "name": "styles",
+        "total_seconds": 560.781752,
+        "digital": "0:09:20",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 20,
+        "percent": 2.43
+      },
+      {
+        "name": "MeetingRoom",
+        "total_seconds": 451.379109,
+        "digital": "0:07:31",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 31,
+        "percent": 1.95
+      },
+      {
+        "name": "useGetCallById",
+        "total_seconds": 451.379109,
+        "digital": "0:07:31",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 31,
+        "percent": 1.95
+      },
+      {
+        "name": "MeetingSetup",
+        "total_seconds": 451.379109,
+        "digital": "0:07:31",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 31,
+        "percent": 1.95
+      },
+      {
+        "name": "use-toast",
+        "total_seconds": 355.52509,
+        "digital": "0:05:55",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 55,
+        "percent": 1.54
+      },
+      {
+        "name": "react-datepicker",
+        "total_seconds": 288.700742,
+        "digital": "0:04:48",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 48,
+        "percent": 1.25
+      },
+      {
+        "name": "tailwindcss-animate",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@radix-ui/react-toast",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@radix-ui/react-dialog",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@stream-io/node-sdk",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@radix-ui/react-slot",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@stream-io/video-react-sdk",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@clerk/nextjs",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@radix-ui/react-dropdown-menu",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "eslint-config-next",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "npm",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "autoprefixer",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "class-variance-authority",
+        "total_seconds": 287.37671,
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "HomeCard",
+        "total_seconds": 222.111503,
+        "digital": "0:03:42",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 42,
+        "percent": 0.96
+      },
+      {
+        "name": "MeetingModal",
+        "total_seconds": 222.111503,
+        "digital": "0:03:42",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 42,
+        "percent": 0.96
+      },
+      {
+        "name": "CallList",
+        "total_seconds": 152.732927,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 0.66
+      },
+      {
+        "name": "toast",
+        "total_seconds": 133.413587,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 0.58
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-a68550",
+        "total_seconds": 3266.082548,
+        "machine_name_id": "018ec42f-f7d7-4a14-8b37-dd8f3e7dd9fd",
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3266.082548,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3266.082548,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3266.082548,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ]
+  }
+]
