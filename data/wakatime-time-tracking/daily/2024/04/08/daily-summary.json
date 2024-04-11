@@ -1,18 +1,5 @@
 [
   {
-    "languages": [
-      {
-        "name": "TypeScript",
-        "total_seconds": 749.458931,
-        "digital": "0:12:29",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
     "grand_total": {
       "hours": 0,
       "minutes": 12,
@@ -21,10 +8,18 @@
       "decimal": "0.20",
       "text": "12 mins"
     },
-    "editors": [
+    "range": {
+      "start": "2024-04-08T19:00:00Z",
+      "end": "2024-04-09T18:59:59Z",
+      "date": "2024-04-09",
+      "text": "Tue Apr 9th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "zoom",
         "total_seconds": 749.458931,
+        "color": null,
         "digital": "0:12:29",
         "decimal": "0.20",
         "text": "12 mins",
@@ -34,22 +29,9 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
+    "languages": [
       {
-        "name": "Linux",
-        "total_seconds": 749.458931,
-        "digital": "0:12:29",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
+        "name": "TypeScript",
         "total_seconds": 749.458931,
         "digital": "0:12:29",
         "decimal": "0.20",
@@ -106,7 +88,7 @@
         "percent": 12.51
       },
       {
-        "name": "utils",
+        "name": "lucide-react",
         "total_seconds": 537.985407,
         "digital": "0:08:57",
         "decimal": "0.13",
@@ -117,7 +99,7 @@
         "percent": 10.68
       },
       {
-        "name": "lucide-react",
+        "name": "utils",
         "total_seconds": 537.985407,
         "digital": "0:08:57",
         "decimal": "0.13",
@@ -150,6 +132,17 @@
         "percent": 4.18
       },
       {
+        "name": "google",
+        "total_seconds": 118.210187,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 2.35
+      },
+      {
         "name": "globals",
         "total_seconds": 118.210187,
         "digital": "0:01:58",
@@ -162,17 +155,6 @@
       },
       {
         "name": "next",
-        "total_seconds": 118.210187,
-        "digital": "0:01:58",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 58,
-        "percent": 2.35
-      },
-      {
-        "name": "google",
         "total_seconds": 118.210187,
         "digital": "0:01:58",
         "decimal": "0.02",
@@ -252,9 +234,9 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "zoom",
+        "name": "VS Code",
         "total_seconds": 749.458931,
         "digital": "0:12:29",
         "decimal": "0.20",
@@ -265,12 +247,31 @@
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-04-08T19:00:00Z",
-      "end": "2024-04-09T18:59:59Z",
-      "date": "2024-04-09",
-      "text": "Tue Apr 9th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 749.458931,
+        "digital": "0:12:29",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 749.458931,
+        "digital": "0:12:29",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 29,
+        "percent": 100
+      }
+    ]
   }
 ]
