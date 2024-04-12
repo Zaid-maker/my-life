@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 54,
-      "total_seconds": 3266.082548,
-      "digital": "0:54",
-      "decimal": "0.90",
-      "text": "54 mins"
-    },
-    "range": {
-      "start": "2024-04-09T19:00:00Z",
-      "end": "2024-04-10T18:59:59Z",
-      "date": "2024-04-10",
-      "text": "Wed Apr 10th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "zoom",
-        "total_seconds": 3266.082548,
-        "color": null,
-        "digital": "0:54:26",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 4,
         "seconds": 47,
         "percent": 8.8
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 54,
+      "total_seconds": 3266.082548,
+      "digital": "0:54",
+      "decimal": "0.90",
+      "text": "54 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3266.082548,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3266.082548,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3266.082548,
+        "digital": "0:54:26",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 26,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -564,10 +582,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "zoom",
         "total_seconds": 3266.082548,
+        "color": null,
         "digital": "0:54:26",
         "decimal": "0.90",
         "text": "54 mins",
@@ -577,31 +596,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 3266.082548,
-        "digital": "0:54:26",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3266.082548,
-        "digital": "0:54:26",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 26,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-04-09T19:00:00Z",
+      "end": "2024-04-10T18:59:59Z",
+      "date": "2024-04-10",
+      "text": "Wed Apr 10th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
