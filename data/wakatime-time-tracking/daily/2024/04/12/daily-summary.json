@@ -1,0 +1,443 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 53,
+      "total_seconds": 3223.773483,
+      "digital": "0:53",
+      "decimal": "0.88",
+      "text": "53 mins"
+    },
+    "range": {
+      "start": "2024-04-12T19:00:00Z",
+      "end": "2024-04-13T18:59:59Z",
+      "date": "2024-04-13",
+      "text": "Sat Apr 13th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "rn-app",
+        "total_seconds": 3223.773483,
+        "color": null,
+        "digital": "0:53:43",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1533.475982,
+        "digital": "0:25:33",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 33,
+        "percent": 47.57
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1244.996993,
+        "digital": "0:20:44",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 44,
+        "percent": 38.62
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 219.220673,
+        "digital": "0:03:39",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 6.8
+      },
+      {
+        "name": "Other",
+        "total_seconds": 216.386247,
+        "digital": "0:03:36",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 36,
+        "percent": 6.71
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 9.693588,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.3
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-native",
+        "total_seconds": 1048.875803,
+        "digital": "0:17:28",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 28,
+        "percent": 9.54
+      },
+      {
+        "name": "react",
+        "total_seconds": 955.077649,
+        "digital": "0:15:55",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 55,
+        "percent": 8.68
+      },
+      {
+        "name": "expo-router",
+        "total_seconds": 715.544437,
+        "digital": "0:11:55",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 55,
+        "percent": 6.51
+      },
+      {
+        "name": "expo-status-bar",
+        "total_seconds": 672.588275,
+        "digital": "0:11:12",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 12,
+        "percent": 6.12
+      },
+      {
+        "name": "@babel/core",
+        "total_seconds": 405.10712,
+        "digital": "0:06:45",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 45,
+        "percent": 3.68
+      },
+      {
+        "name": "npm",
+        "total_seconds": 405.10712,
+        "digital": "0:06:45",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 45,
+        "percent": 3.68
+      },
+      {
+        "name": "expo",
+        "total_seconds": 405.10712,
+        "digital": "0:06:45",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 45,
+        "percent": 3.68
+      },
+      {
+        "name": "expo-linking",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-url-polyfill",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "expo-device",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-safe-area-context",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "install",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "nativewind",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-appwrite",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-screens",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "expo-font",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-reanimated",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "expo-av",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "expo-document-picker",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-gesture-handler",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "expo-constants",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-animatable",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.62
+      },
+      {
+        "name": "react-native-web",
+        "total_seconds": 7.002161,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.06
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 7.002161,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.06
+      },
+      {
+        "name": "@expo/metro-runtime",
+        "total_seconds": 7.002161,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-3e5488",
+        "total_seconds": 2965.654636,
+        "machine_name_id": "018ed40c-b67e-46b2-8393-937be7fd0916",
+        "digital": "0:49:25",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 25,
+        "percent": 91.99
+      },
+      {
+        "name": "codespaces-fef60e",
+        "total_seconds": 258.118847,
+        "machine_name_id": "018ed3fa-e6e1-4eac-8224-80724230f1ec",
+        "digital": "0:04:18",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 18,
+        "percent": 8.01
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3223.773483,
+        "digital": "0:53:43",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3223.773483,
+        "digital": "0:53:43",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3223.773483,
+        "digital": "0:53:43",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 43,
+        "percent": 100
+      }
+    ]
+  }
+]
