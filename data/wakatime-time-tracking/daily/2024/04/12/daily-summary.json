@@ -1,45 +1,16 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 53,
-      "total_seconds": 3223.773483,
-      "digital": "0:53",
-      "decimal": "0.88",
-      "text": "53 mins"
-    },
-    "range": {
-      "start": "2024-04-12T19:00:00Z",
-      "end": "2024-04-13T18:59:59Z",
-      "date": "2024-04-13",
-      "text": "Sat Apr 13th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "rn-app",
-        "total_seconds": 3223.773483,
-        "color": null,
-        "digital": "0:53:43",
-        "decimal": "0.88",
-        "text": "53 mins",
-        "hours": 0,
-        "minutes": 53,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 1533.475982,
-        "digital": "0:25:33",
-        "decimal": "0.42",
-        "text": "25 mins",
+        "total_seconds": 1927.931488,
+        "digital": "0:32:07",
+        "decimal": "0.53",
+        "text": "32 mins",
         "hours": 0,
-        "minutes": 25,
-        "seconds": 33,
-        "percent": 47.57
+        "minutes": 32,
+        "seconds": 7,
+        "percent": 53.28
       },
       {
         "name": "JSON",
@@ -50,7 +21,7 @@
         "hours": 0,
         "minutes": 20,
         "seconds": 44,
-        "percent": 38.62
+        "percent": 34.41
       },
       {
         "name": "Markdown",
@@ -61,7 +32,7 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 39,
-        "percent": 6.8
+        "percent": 6.06
       },
       {
         "name": "Other",
@@ -72,7 +43,7 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 36,
-        "percent": 6.71
+        "percent": 5.98
       },
       {
         "name": "TSConfig",
@@ -83,7 +54,65 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 9,
-        "percent": 0.3
+        "percent": 0.27
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 0,
+      "total_seconds": 3618.228989,
+      "digital": "1:00",
+      "decimal": "1.00",
+      "text": "1 hr"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3618.228989,
+        "digital": "1:00:18",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3223.773483,
+        "digital": "0:53:43",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 43,
+        "percent": 89.1
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 394.455506,
+        "digital": "0:06:34",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 34,
+        "percent": 10.9
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3618.228989,
+        "digital": "1:00:18",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -96,7 +125,7 @@
         "hours": 0,
         "minutes": 17,
         "seconds": 28,
-        "percent": 9.54
+        "percent": 8.63
       },
       {
         "name": "react",
@@ -107,7 +136,7 @@
         "hours": 0,
         "minutes": 15,
         "seconds": 55,
-        "percent": 8.68
+        "percent": 7.86
       },
       {
         "name": "expo-router",
@@ -118,7 +147,7 @@
         "hours": 0,
         "minutes": 11,
         "seconds": 55,
-        "percent": 6.51
+        "percent": 5.89
       },
       {
         "name": "expo-status-bar",
@@ -129,29 +158,7 @@
         "hours": 0,
         "minutes": 11,
         "seconds": 12,
-        "percent": 6.12
-      },
-      {
-        "name": "@babel/core",
-        "total_seconds": 405.10712,
-        "digital": "0:06:45",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 45,
-        "percent": 3.68
-      },
-      {
-        "name": "npm",
-        "total_seconds": 405.10712,
-        "digital": "0:06:45",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 45,
-        "percent": 3.68
+        "percent": 5.53
       },
       {
         "name": "expo",
@@ -162,40 +169,29 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 45,
-        "percent": 3.68
+        "percent": 3.33
       },
       {
-        "name": "expo-linking",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
+        "name": "@babel/core",
+        "total_seconds": 405.10712,
+        "digital": "0:06:45",
         "decimal": "0.10",
         "text": "6 mins",
         "hours": 0,
         "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
+        "seconds": 45,
+        "percent": 3.33
       },
       {
-        "name": "react-native-url-polyfill",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
+        "name": "npm",
+        "total_seconds": 405.10712,
+        "digital": "0:06:45",
         "decimal": "0.10",
         "text": "6 mins",
         "hours": 0,
         "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "expo-device",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
+        "seconds": 45,
+        "percent": 3.33
       },
       {
         "name": "react-native-safe-area-context",
@@ -206,95 +202,7 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "install",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "nativewind",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "tailwindcss",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "react-native-appwrite",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "react-native-screens",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "expo-font",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "react-native-reanimated",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
-      },
-      {
-        "name": "expo-av",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.62
+        "percent": 3.28
       },
       {
         "name": "expo-document-picker",
@@ -305,10 +213,10 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 38,
-        "percent": 3.62
+        "percent": 3.28
       },
       {
-        "name": "react-native-gesture-handler",
+        "name": "react-native-appwrite",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
         "decimal": "0.10",
@@ -316,10 +224,10 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 38,
-        "percent": 3.62
+        "percent": 3.28
       },
       {
-        "name": "expo-constants",
+        "name": "install",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
         "decimal": "0.10",
@@ -327,7 +235,7 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 38,
-        "percent": 3.62
+        "percent": 3.28
       },
       {
         "name": "react-native-animatable",
@@ -338,7 +246,161 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 38,
-        "percent": 3.62
+        "percent": 3.28
+      },
+      {
+        "name": "expo-av",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-device",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-reanimated",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "nativewind",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-linking",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-screens",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-url-polyfill",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-constants",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-font",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-gesture-handler",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "drei",
+        "total_seconds": 385.648833,
+        "digital": "0:06:25",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 25,
+        "percent": 3.17
+      },
+      {
+        "name": "Character",
+        "total_seconds": 385.648833,
+        "digital": "0:06:25",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 25,
+        "percent": 3.17
+      },
+      {
+        "name": "Hexagon",
+        "total_seconds": 385.648833,
+        "digital": "0:06:25",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 25,
+        "percent": 3.17
       },
       {
         "name": "react-native-web",
@@ -385,7 +447,19 @@
         "hours": 0,
         "minutes": 49,
         "seconds": 25,
-        "percent": 91.99
+        "percent": 81.96
+      },
+      {
+        "name": "DESKTOP-AQQRH9R",
+        "total_seconds": 394.455506,
+        "machine_name_id": "018ed8ce-e316-4a7b-ba19-58eca274ed53",
+        "digital": "0:06:34",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 34,
+        "percent": 10.9
       },
       {
         "name": "codespaces-fef60e",
@@ -397,12 +471,12 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 18,
-        "percent": 8.01
+        "percent": 7.13
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "rn-app",
         "total_seconds": 3223.773483,
         "digital": "0:53:43",
         "decimal": "0.88",
@@ -410,34 +484,26 @@
         "hours": 0,
         "minutes": 53,
         "seconds": 43,
-        "percent": 100
+        "percent": 89.1
+      },
+      {
+        "name": "wawa-guys-starter",
+        "total_seconds": 394.455506,
+        "digital": "0:06:34",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 34,
+        "percent": 10.9
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 3223.773483,
-        "digital": "0:53:43",
-        "decimal": "0.88",
-        "text": "53 mins",
-        "hours": 0,
-        "minutes": 53,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3223.773483,
-        "digital": "0:53:43",
-        "decimal": "0.88",
-        "text": "53 mins",
-        "hours": 0,
-        "minutes": 53,
-        "seconds": 43,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-04-12T19:00:00Z",
+      "end": "2024-04-13T18:59:59Z",
+      "date": "2024-04-13",
+      "text": "Sat Apr 13th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
