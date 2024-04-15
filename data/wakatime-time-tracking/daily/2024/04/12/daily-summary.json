@@ -161,17 +161,6 @@
         "percent": 5.53
       },
       {
-        "name": "expo",
-        "total_seconds": 405.10712,
-        "digital": "0:06:45",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 45,
-        "percent": 3.33
-      },
-      {
         "name": "@babel/core",
         "total_seconds": 405.10712,
         "digital": "0:06:45",
@@ -194,95 +183,18 @@
         "percent": 3.33
       },
       {
-        "name": "react-native-safe-area-context",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
+        "name": "expo",
+        "total_seconds": 405.10712,
+        "digital": "0:06:45",
         "decimal": "0.10",
         "text": "6 mins",
         "hours": 0,
         "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
+        "seconds": 45,
+        "percent": 3.33
       },
       {
-        "name": "expo-document-picker",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "react-native-appwrite",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "install",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "react-native-animatable",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "expo-av",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "expo-device",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "react-native-reanimated",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "nativewind",
+        "name": "react-native-gesture-handler",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
         "decimal": "0.10",
@@ -304,18 +216,7 @@
         "percent": 3.28
       },
       {
-        "name": "react-native-screens",
-        "total_seconds": 398.104959,
-        "digital": "0:06:38",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 38,
-        "percent": 3.28
-      },
-      {
-        "name": "react-native-url-polyfill",
+        "name": "nativewind",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
         "decimal": "0.10",
@@ -337,6 +238,72 @@
         "percent": 3.28
       },
       {
+        "name": "react-native-reanimated",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-device",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-av",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-document-picker",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-url-polyfill",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-appwrite",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
         "name": "tailwindcss",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
@@ -348,7 +315,7 @@
         "percent": 3.28
       },
       {
-        "name": "expo-font",
+        "name": "react-native-safe-area-context",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
         "decimal": "0.10",
@@ -359,7 +326,40 @@
         "percent": 3.28
       },
       {
-        "name": "react-native-gesture-handler",
+        "name": "react-native-screens",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "react-native-animatable",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "install",
+        "total_seconds": 398.104959,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.28
+      },
+      {
+        "name": "expo-font",
         "total_seconds": 398.104959,
         "digital": "0:06:38",
         "decimal": "0.10",
@@ -403,7 +403,7 @@
         "percent": 3.17
       },
       {
-        "name": "react-native-web",
+        "name": "@expo/metro-runtime",
         "total_seconds": 7.002161,
         "digital": "0:00:07",
         "decimal": "0.00",
@@ -425,7 +425,7 @@
         "percent": 0.06
       },
       {
-        "name": "@expo/metro-runtime",
+        "name": "react-native-web",
         "total_seconds": 7.002161,
         "digital": "0:00:07",
         "decimal": "0.00",
