@@ -1,26 +1,254 @@
 [
   {
+    "languages": [
+      {
+        "name": "Bash",
+        "total_seconds": 1236.433047,
+        "digital": "0:20:36",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 36,
+        "percent": 39.1
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 970.947305,
+        "digital": "0:16:10",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 10,
+        "percent": 30.7
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 371.154722,
+        "digital": "0:06:11",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 11,
+        "percent": 11.74
+      },
+      {
+        "name": "Python",
+        "total_seconds": 272.942938,
+        "digital": "0:04:32",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 32,
+        "percent": 8.63
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 168.798321,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 5.34
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 142.065004,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 4.49
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 52,
+      "total_seconds": 3162.341337,
+      "digital": "0:52",
+      "decimal": "0.87",
+      "text": "52 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3162.341337,
+        "digital": "0:52:42",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3162.341337,
+        "digital": "0:52:42",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3162.341337,
+        "digital": "0:52:42",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "time",
+        "total_seconds": 209.245032,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 18.19
+      },
+      {
+        "name": "selenium",
+        "total_seconds": 209.245032,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 18.19
+      },
+      {
+        "name": "next",
+        "total_seconds": 121.995882,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 10.6
+      },
+      {
+        "name": "npm",
+        "total_seconds": 121.995882,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 10.6
+      },
+      {
+        "name": "puppeteer",
+        "total_seconds": 121.995882,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 10.6
+      },
+      {
+        "name": "react",
+        "total_seconds": 121.995882,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 10.6
+      },
+      {
+        "name": "vue",
+        "total_seconds": 121.995882,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 10.6
+      },
+      {
+        "name": "@angular/core",
+        "total_seconds": 121.995882,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 10.6
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 3162.341337,
+        "machine_name_id": "018efc2e-38a2-4da8-8eaf-610ae75146f7",
+        "digital": "0:52:42",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "frameworks-benchmark",
+        "total_seconds": 3162.341337,
+        "digital": "0:52:42",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 42,
+        "percent": 100
+      },
+      {
+        "name": "Gamehub",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2024-04-19T19:00:00Z",
       "end": "2024-04-20T18:59:59Z",
       "date": "2024-04-20",
       "text": "Sat Apr 20th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
