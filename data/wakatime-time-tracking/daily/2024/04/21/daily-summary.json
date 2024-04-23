@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 1,
-      "total_seconds": 95.956584,
-      "digital": "0:01",
-      "decimal": "0.02",
-      "text": "1 min"
-    },
-    "range": {
-      "start": "2024-04-21T19:00:00Z",
-      "end": "2024-04-22T18:59:59Z",
-      "date": "2024-04-22",
-      "text": "Mon Apr 22nd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "cal.com",
-        "total_seconds": 95.956584,
-        "color": null,
-        "digital": "0:01:35",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 35,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Bash",
@@ -53,21 +24,14 @@
         "percent": 0
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "Gitpod",
-        "total_seconds": 95.956584,
-        "machine_name_id": "018efc76-fb13-44b1-891e-241b890aa5e4",
-        "digital": "0:01:35",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 35,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 1,
+      "total_seconds": 95.956584,
+      "digital": "0:01",
+      "decimal": "0.02",
+      "text": "1 min"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -106,6 +70,41 @@
         "seconds": 35,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 95.956584,
+        "machine_name_id": "018efc76-fb13-44b1-891e-241b890aa5e4",
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cal.com",
+        "total_seconds": 95.956584,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-04-21T19:00:00Z",
+      "end": "2024-04-22T18:59:59Z",
+      "date": "2024-04-22",
+      "text": "Mon Apr 22nd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
