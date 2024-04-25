@@ -1,26 +1,309 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 164.395509,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 57.7
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 30.87
+      },
+      {
+        "name": "Other",
+        "total_seconds": 28.76799,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 10.1
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 3.799934,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 1.33
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 4,
+      "total_seconds": 284.929261,
+      "digital": "0:04",
+      "decimal": "0.07",
+      "text": "4 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 284.929261,
+        "digital": "0:04:44",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 284.929261,
+        "digital": "0:04:44",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 284.929261,
+        "digital": "0:04:44",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "rimraf",
+        "total_seconds": 130.797017,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 9.34
+      },
+      {
+        "name": "nodegit",
+        "total_seconds": 130.797017,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 9.34
+      },
+      {
+        "name": "ncp",
+        "total_seconds": 130.797017,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 9.34
+      },
+      {
+        "name": "chrome-launcher",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "npm",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "stats-analysis",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "minimist",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "mime",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "lighthouse",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "chalk",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "cli-table",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "http-server",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "http2",
+        "total_seconds": 87.965828,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 6.28
+      },
+      {
+        "name": "fs",
+        "total_seconds": 42.831189,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 3.06
+      },
+      {
+        "name": "child_process",
+        "total_seconds": 42.831189,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 3.06
+      },
+      {
+        "name": "path",
+        "total_seconds": 42.831189,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 3.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 284.929261,
+        "machine_name_id": "a481d5c0-01c7-4233-911d-8c232e47dcdf",
+        "digital": "0:04:44",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "react",
+        "total_seconds": 284.929261,
+        "digital": "0:04:44",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-04-23T19:00:00Z",
       "end": "2024-04-24T18:59:59Z",
       "date": "2024-04-24",
       "text": "Wed Apr 24th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
