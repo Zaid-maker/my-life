@@ -1,26 +1,321 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 375.491861,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 94.78
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 18.79899,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 4.75
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 1.884916,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.48
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 6,
+      "total_seconds": 396.175767,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 396.175767,
+        "digital": "0:06:36",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 199.147977,
+        "digital": "0:03:19",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 19,
+        "percent": 50.27
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 197.02779,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 49.73
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 396.175767,
+        "digital": "0:06:36",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Character",
+        "total_seconds": 173.779297,
+        "digital": "0:02:53",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 53,
+        "percent": 15.3
+      },
+      {
+        "name": "react",
+        "total_seconds": 155.756096,
+        "digital": "0:02:35",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 35,
+        "percent": 13.71
+      },
+      {
+        "name": "vite",
+        "total_seconds": 124.311349,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 10.95
+      },
+      {
+        "name": "rapier",
+        "total_seconds": 104.328547,
+        "digital": "0:01:44",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 44,
+        "percent": 9.19
+      },
+      {
+        "name": "plugin-react",
+        "total_seconds": 96.132293,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 8.46
+      },
+      {
+        "name": "drei",
+        "total_seconds": 92.699243,
+        "digital": "0:01:32",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 32,
+        "percent": 8.16
+      },
+      {
+        "name": "CharacterControls",
+        "total_seconds": 69.45075,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 6.12
+      },
+      {
+        "name": "playroomkit",
+        "total_seconds": 69.45075,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 6.12
+      },
+      {
+        "name": "GameArena",
+        "total_seconds": 69.45075,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 6.12
+      },
+      {
+        "name": "useGameState",
+        "total_seconds": 69.45075,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 6.12
+      },
+      {
+        "name": "App",
+        "total_seconds": 28.179056,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 2.48
+      },
+      {
+        "name": "three",
+        "total_seconds": 23.248493,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 2.05
+      },
+      {
+        "name": "MathUtils",
+        "total_seconds": 23.248493,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 2.05
+      },
+      {
+        "name": "\"/src/main.jsx\"",
+        "total_seconds": 18.79899,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 1.66
+      },
+      {
+        "name": "CoinMarketCap",
+        "total_seconds": 17.442597,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 1.54
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-AQQRH9R",
+        "total_seconds": 199.147977,
+        "machine_name_id": "018ed8ce-e316-4a7b-ba19-58eca274ed53",
+        "digital": "0:03:19",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 19,
+        "percent": 50.27
+      },
+      {
+        "name": "codespaces-a0e3c5",
+        "total_seconds": 197.02779,
+        "machine_name_id": "abdad59e-4353-4b2d-acdc-82b98833e9f4",
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 49.73
+      }
+    ],
+    "projects": [
+      {
+        "name": "coinmarketcap",
+        "total_seconds": 199.147977,
+        "digital": "0:03:19",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 19,
+        "percent": 50.27
+      },
+      {
+        "name": "Wawa-Guys",
+        "total_seconds": 197.02779,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 49.73
+      }
+    ],
     "range": {
       "start": "2024-04-26T19:00:00Z",
       "end": "2024-04-27T18:59:59Z",
       "date": "2024-04-27",
       "text": "Sat Apr 27th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
