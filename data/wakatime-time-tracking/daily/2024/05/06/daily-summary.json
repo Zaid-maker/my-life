@@ -1,26 +1,321 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 450.05147,
+        "digital": "0:07:30",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 30,
+        "percent": 41.56
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 328.141394,
+        "digital": "0:05:28",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 28,
+        "percent": 30.31
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 110.203995,
+        "digital": "0:01:50",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 50,
+        "percent": 10.18
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 66.026241,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 6.1
+      },
+      {
+        "name": "Other",
+        "total_seconds": 62.162631,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 5.74
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 52.251438,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 4.83
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 13.938892,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 1.29
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 18,
+      "total_seconds": 1082.776061,
+      "digital": "0:18",
+      "decimal": "0.30",
+      "text": "18 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1082.776061,
+        "digital": "0:18:02",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1082.776061,
+        "digital": "0:18:02",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1082.776061,
+        "digital": "0:18:02",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "npm",
+        "total_seconds": 224.528838,
+        "digital": "0:03:44",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 44,
+        "percent": 12.43
+      },
+      {
+        "name": "prettier",
+        "total_seconds": 224.528838,
+        "digital": "0:03:44",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 44,
+        "percent": 12.43
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 224.528838,
+        "digital": "0:03:44",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 44,
+        "percent": 12.43
+      },
+      {
+        "name": "semver",
+        "total_seconds": 152.973184,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 8.47
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 152.973184,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 8.47
+      },
+      {
+        "name": "husky",
+        "total_seconds": 152.973184,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 8.47
+      },
+      {
+        "name": "lint-staged",
+        "total_seconds": 152.973184,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 8.47
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 152.973184,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 8.47
+      },
+      {
+        "name": "@taplo/cli",
+        "total_seconds": 152.973184,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 8.47
+      },
+      {
+        "name": "turbo",
+        "total_seconds": 71.555654,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 3.96
+      },
+      {
+        "name": "@repo/eslint-config",
+        "total_seconds": 71.555654,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 3.96
+      },
+      {
+        "name": "prettier-plugin-svelte",
+        "total_seconds": 71.555654,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 3.96
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-e4a0f8",
+        "total_seconds": 972.566181,
+        "machine_name_id": "621835ae-29fe-4ff2-9c4b-4f05992e91d6",
+        "digital": "0:16:12",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 12,
+        "percent": 89.82
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 110.20988,
+        "machine_name_id": "264d0c11-df21-46a8-87ef-853fdb0e9a7f",
+        "digital": "0:01:50",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 50,
+        "percent": 10.18
+      }
+    ],
+    "projects": [
+      {
+        "name": "turbo",
+        "total_seconds": 1082.776061,
+        "digital": "0:18:02",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-05-06T19:00:00Z",
       "end": "2024-05-07T18:59:59Z",
       "date": "2024-05-07",
       "text": "Tue May 7th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
