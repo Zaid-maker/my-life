@@ -1,112 +1,388 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3833.172337,
+        "digital": "1:03:53",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 53,
+        "percent": 83.13
+      },
+      {
+        "name": "Python",
+        "total_seconds": 739.509502,
+        "digital": "0:12:19",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 19,
+        "percent": 16.04
+      },
+      {
+        "name": "Other",
+        "total_seconds": 38.365501,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.83
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 4,
-      "total_seconds": 246.07122,
-      "digital": "0:04",
-      "decimal": "0.07",
-      "text": "4 mins"
+      "hours": 1,
+      "minutes": 16,
+      "total_seconds": 4611.04734,
+      "digital": "1:16",
+      "decimal": "1.27",
+      "text": "1 hr 16 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4611.04734,
+        "digital": "1:16:51",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3871.537838,
+        "digital": "1:04:31",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 31,
+        "percent": 83.96
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 739.509502,
+        "digital": "0:12:19",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 19,
+        "percent": 16.04
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4611.04734,
+        "digital": "1:16:51",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 2565.953915,
+        "digital": "0:42:45",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 45,
+        "percent": 40.48
+      },
+      {
+        "name": "hono",
+        "total_seconds": 544.216974,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 8.59
+      },
+      {
+        "name": "vercel",
+        "total_seconds": 544.216974,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 8.59
+      },
+      {
+        "name": "requests",
+        "total_seconds": 504.811481,
+        "digital": "0:08:24",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 24,
+        "percent": 7.96
+      },
+      {
+        "name": "link",
+        "total_seconds": 479.463056,
+        "digital": "0:07:59",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 59,
+        "percent": 7.56
+      },
+      {
+        "name": "header-logo",
+        "total_seconds": 347.166128,
+        "digital": "0:05:47",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 47,
+        "percent": 5.48
+      },
+      {
+        "name": "image",
+        "total_seconds": 341.202015,
+        "digital": "0:05:41",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 41,
+        "percent": 5.38
+      },
+      {
+        "name": "clerk-auth",
+        "total_seconds": 181.677106,
+        "digital": "0:03:01",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 1,
+        "percent": 2.87
+      },
+      {
+        "name": "shutil",
+        "total_seconds": 154.535955,
+        "digital": "0:02:34",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 34,
+        "percent": 2.44
+      },
+      {
+        "name": "git",
+        "total_seconds": 154.535955,
+        "digital": "0:02:34",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 34,
+        "percent": 2.44
+      },
+      {
+        "name": "zod-validator",
+        "total_seconds": 144.535504,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 2.28
+      },
+      {
+        "name": "zod",
+        "total_seconds": 144.535504,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 2.28
+      },
+      {
+        "name": "nav-button",
+        "total_seconds": 80.336677,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 1.27
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 73.140696,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 1.15
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 54.578099,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.86
+      },
+      {
+        "name": "metadata-interface",
+        "total_seconds": 8.21092,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.13
+      },
+      {
+        "name": "page",
+        "total_seconds": 8.21092,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.13
+      },
+      {
+        "name": "header",
+        "total_seconds": 7.334041,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.12
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-72ebbf",
+        "total_seconds": 3871.537838,
+        "machine_name_id": "975ffcf8-c354-4d4d-bfcf-e1fcadbcdb3e",
+        "digital": "1:04:31",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 31,
+        "percent": 83.96
+      },
+      {
+        "name": "DESKTOP-FFGC7U4",
+        "total_seconds": 739.509502,
+        "machine_name_id": "14fcbae7-bddb-4d46-a191-d6f20f0b4de7",
+        "digital": "0:12:19",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 19,
+        "percent": 16.04
+      },
+      {
+        "name": "github.dev",
+        "total_seconds": 0,
+        "machine_name_id": "a0ab10c3-1375-4ac6-9f8f-f4a52ec2dc6c",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "finance",
+        "total_seconds": 3871.537838,
+        "digital": "1:04:31",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 31,
+        "percent": 83.96
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 739.509502,
+        "digital": "0:12:19",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 19,
+        "percent": 16.04
+      },
+      {
+        "name": "vidyabhandary [GitHub]",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2024-05-12T19:00:00Z",
       "end": "2024-05-13T18:59:59Z",
       "date": "2024-05-13",
       "text": "Mon May 13th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Unknown Project",
-        "total_seconds": 246.07122,
-        "color": null,
-        "digital": "0:04:06",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "languages": [
-      {
-        "name": "Python",
-        "total_seconds": 246.07122,
-        "digital": "0:04:06",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "dependencies": [
-      {
-        "name": "requests",
-        "total_seconds": 223.486603,
-        "digital": "0:03:43",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-FFGC7U4",
-        "total_seconds": 246.07122,
-        "machine_name_id": "14fcbae7-bddb-4d46-a191-d6f20f0b4de7",
-        "digital": "0:04:06",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 246.07122,
-        "digital": "0:04:06",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 246.07122,
-        "digital": "0:04:06",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 246.07122,
-        "digital": "0:04:06",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 6,
-        "percent": 100
-      }
-    ]
+    }
   }
 ]
