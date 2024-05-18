@@ -1,26 +1,628 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2278.057353,
+        "digital": "0:37:58",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 58,
+        "percent": 70.97
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 19.11
+      },
+      {
+        "name": "Other",
+        "total_seconds": 318.606885,
+        "digital": "0:05:18",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 18,
+        "percent": 9.93
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 53,
+      "total_seconds": 3210.033401,
+      "digital": "0:53",
+      "decimal": "0.88",
+      "text": "53 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3210.033401,
+        "digital": "0:53:30",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3210.033401,
+        "digital": "0:53:30",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3210.033401,
+        "digital": "0:53:30",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "lucide-react",
+        "total_seconds": 943.095781,
+        "digital": "0:15:43",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 43,
+        "percent": 4.07
+      },
+      {
+        "name": "react",
+        "total_seconds": 925.140466,
+        "digital": "0:15:25",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 25,
+        "percent": 4
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 885.126191,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 45,
+        "percent": 3.82
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 877.941409,
+        "digital": "0:14:37",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 37,
+        "percent": 3.79
+      },
+      {
+        "name": "drizzle-kit",
+        "total_seconds": 686.957047,
+        "digital": "0:11:26",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 26,
+        "percent": 2.97
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 662.861168,
+        "digital": "0:11:02",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 2,
+        "percent": 2.86
+      },
+      {
+        "name": "header-logo",
+        "total_seconds": 656.155748,
+        "digital": "0:10:56",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 56,
+        "percent": 2.83
+      },
+      {
+        "name": "react-use",
+        "total_seconds": 620.074583,
+        "digital": "0:10:20",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 20,
+        "percent": 2.68
+      },
+      {
+        "name": "hono",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "zod",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@hono/zod-validator",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "class-variance-authority",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@radix-ui/react-dialog",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "next",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "npm",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@hono/clerk-auth",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "eslint-config-next",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@radix-ui/react-slot",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@clerk/backend",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@clerk/nextjs",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "tailwindcss-animate",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 613.369163,
+        "digital": "0:10:13",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 13,
+        "percent": 2.65
+      },
+      {
+        "name": "serverless",
+        "total_seconds": 548.092668,
+        "digital": "0:09:08",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 8,
+        "percent": 2.37
+      },
+      {
+        "name": "@neondatabase/serverless",
+        "total_seconds": 459.383307,
+        "digital": "0:07:39",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 39,
+        "percent": 1.98
+      },
+      {
+        "name": "drizzle-orm",
+        "total_seconds": 459.383307,
+        "digital": "0:07:39",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 39,
+        "percent": 1.98
+      },
+      {
+        "name": "drizzle-zod",
+        "total_seconds": 459.383307,
+        "digital": "0:07:39",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 39,
+        "percent": 1.98
+      },
+      {
+        "name": "neon-http",
+        "total_seconds": 401.617673,
+        "digital": "0:06:41",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 41,
+        "percent": 1.73
+      },
+      {
+        "name": "welcome-msg",
+        "total_seconds": 308.136091,
+        "digital": "0:05:08",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 8,
+        "percent": 1.33
+      },
+      {
+        "name": "pg-core",
+        "total_seconds": 76.355584,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 0.33
+      },
+      {
+        "name": "migrator",
+        "total_seconds": 27.421183,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.12
+      },
+      {
+        "name": "pg",
+        "total_seconds": 18.246799,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.08
+      },
+      {
+        "name": "sheet",
+        "total_seconds": 6.70542,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.03
+      },
+      {
+        "name": "button",
+        "total_seconds": 6.70542,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.03
+      },
+      {
+        "name": "nav-button",
+        "total_seconds": 6.70542,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.03
+      },
+      {
+        "name": "image",
+        "total_seconds": 5.628536,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "header",
+        "total_seconds": 4.634137,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.02
+      },
+      {
+        "name": "schema",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-72ebbf",
+        "total_seconds": 3210.033401,
+        "machine_name_id": "201aca9e-3cff-42b4-a3bd-d0e960baab07",
+        "digital": "0:53:30",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "finance",
+        "total_seconds": 3210.033401,
+        "digital": "0:53:30",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-05-16T19:00:00Z",
       "end": "2024-05-17T18:59:59Z",
       "date": "2024-05-17",
       "text": "Fri May 17th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
