@@ -1,26 +1,222 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1458.7914,
+        "digital": "0:24:18",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 18,
+        "percent": 39.43
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 710.17205,
+        "digital": "0:11:50",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 50,
+        "percent": 19.19
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 622.92402,
+        "digital": "0:10:22",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 22,
+        "percent": 16.84
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 584.112324,
+        "digital": "0:09:44",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 44,
+        "percent": 15.79
+      },
+      {
+        "name": "Other",
+        "total_seconds": 314.748105,
+        "digital": "0:05:14",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 14,
+        "percent": 8.51
+      },
+      {
+        "name": "Git",
+        "total_seconds": 9.143865,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.25
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 1,
+      "total_seconds": 3699.891764,
+      "digital": "1:01",
+      "decimal": "1.02",
+      "text": "1 hr 1 min"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3699.891764,
+        "digital": "1:01:39",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3699.891764,
+        "digital": "1:01:39",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3699.891764,
+        "digital": "1:01:39",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "schema",
+        "total_seconds": 917.332792,
+        "digital": "0:15:17",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 17,
+        "percent": 30.26
+      },
+      {
+        "name": "neon-http",
+        "total_seconds": 917.332792,
+        "digital": "0:15:17",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 17,
+        "percent": 30.26
+      },
+      {
+        "name": "serverless",
+        "total_seconds": 917.332792,
+        "digital": "0:15:17",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 17,
+        "percent": 30.26
+      },
+      {
+        "name": "pg-core",
+        "total_seconds": 279.996775,
+        "digital": "0:04:39",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 39,
+        "percent": 9.23
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 1918.449873,
+        "machine_name_id": "43248724-97e9-4538-9000-6403354d184c",
+        "digital": "0:31:58",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 58,
+        "percent": 51.85
+      },
+      {
+        "name": "codespaces-72ebbf",
+        "total_seconds": 1781.441891,
+        "machine_name_id": "a334a2b2-7dd0-48ec-8fe3-d7d0d448a159",
+        "digital": "0:29:41",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 41,
+        "percent": 48.15
+      }
+    ],
+    "projects": [
+      {
+        "name": "tianji",
+        "total_seconds": 1918.449873,
+        "digital": "0:31:58",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 58,
+        "percent": 51.85
+      },
+      {
+        "name": "finance",
+        "total_seconds": 1781.441891,
+        "digital": "0:29:41",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 41,
+        "percent": 48.15
+      }
+    ],
     "range": {
       "start": "2024-05-17T19:00:00Z",
       "end": "2024-05-18T18:59:59Z",
       "date": "2024-05-18",
       "text": "Sat May 18th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
