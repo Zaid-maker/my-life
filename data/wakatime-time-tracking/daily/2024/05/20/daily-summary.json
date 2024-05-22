@@ -1,26 +1,221 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 964.096186,
+        "digital": "0:16:04",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 4,
+        "percent": 49.2
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 744.770305,
+        "digital": "0:12:24",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 24,
+        "percent": 38.01
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 185.213327,
+        "digital": "0:03:05",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 5,
+        "percent": 9.45
+      },
+      {
+        "name": "Other",
+        "total_seconds": 65.3749,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 3.34
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 32,
+      "total_seconds": 1959.454718,
+      "digital": "0:32",
+      "decimal": "0.53",
+      "text": "32 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1959.454718,
+        "digital": "0:32:39",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1959.454718,
+        "digital": "0:32:39",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1959.454718,
+        "digital": "0:32:39",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 355.555151,
+        "digital": "0:05:55",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 55,
+        "percent": 35.14
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 245.21456,
+        "digital": "0:04:05",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 5,
+        "percent": 24.23
+      },
+      {
+        "name": "image",
+        "total_seconds": 166.547773,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 16.46
+      },
+      {
+        "name": "button",
+        "total_seconds": 138.407173,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 13.68
+      },
+      {
+        "name": "google",
+        "total_seconds": 40.814745,
+        "digital": "0:00:40",
+        "decimal": "0.00",
+        "text": "40 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40,
+        "percent": 4.03
+      },
+      {
+        "name": "globals",
+        "total_seconds": 40.814745,
+        "digital": "0:00:40",
+        "decimal": "0.00",
+        "text": "40 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40,
+        "percent": 4.03
+      },
+      {
+        "name": "Header",
+        "total_seconds": 24.470714,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 2.42
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 1959.454718,
+        "machine_name_id": "3f9303cf-9432-426a-a587-19d74f2d6c37",
+        "digital": "0:32:39",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "ai-form-builder",
+        "total_seconds": 1048.312884,
+        "digital": "0:17:28",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 28,
+        "percent": 53.5
+      },
+      {
+        "name": "finance",
+        "total_seconds": 911.141834,
+        "digital": "0:15:11",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 11,
+        "percent": 46.5
+      }
+    ],
     "range": {
       "start": "2024-05-20T19:00:00Z",
       "end": "2024-05-21T18:59:59Z",
       "date": "2024-05-21",
       "text": "Tue May 21st 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
