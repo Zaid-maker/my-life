@@ -1,26 +1,256 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 381.515,
+        "digital": "0:06:21",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 21,
+        "percent": 42.19
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 33.67
+      },
+      {
+        "name": "Python",
+        "total_seconds": 180.891785,
+        "digital": "0:03:00",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 0,
+        "percent": 20.01
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 37.372,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 4.13
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 15,
+      "total_seconds": 904.193683,
+      "digital": "0:15",
+      "decimal": "0.25",
+      "text": "15 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 904.193683,
+        "digital": "0:15:04",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 599.778785,
+        "digital": "0:09:59",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 59,
+        "percent": 66.33
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 33.67
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 904.193683,
+        "digital": "0:15:04",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "google",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 21.77
+      },
+      {
+        "name": "next",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 21.77
+      },
+      {
+        "name": "Providers",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 21.77
+      },
+      {
+        "name": "globals",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 21.77
+      },
+      {
+        "name": "requests",
+        "total_seconds": 180.891785,
+        "digital": "0:03:00",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 0,
+        "percent": 12.93
+      }
+    ],
+    "machines": [
+      {
+        "name": "github.dev",
+        "total_seconds": 418.887,
+        "machine_name_id": "3d945845-d273-4e94-ad4a-e3f32c65ac82",
+        "digital": "0:06:58",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 58,
+        "percent": 46.33
+      },
+      {
+        "name": "codespaces-28342a",
+        "total_seconds": 304.414898,
+        "machine_name_id": "c264eb02-d295-45a9-95f8-130822170b21",
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 33.67
+      },
+      {
+        "name": "DESKTOP-FFGC7U4",
+        "total_seconds": 180.891785,
+        "machine_name_id": "14fcbae7-bddb-4d46-a191-d6f20f0b4de7",
+        "digital": "0:03:00",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 0,
+        "percent": 20.01
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma [GitHub]",
+        "total_seconds": 381.515,
+        "digital": "0:06:21",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 21,
+        "percent": 42.19
+      },
+      {
+        "name": "what-do-you-think-about-that",
+        "total_seconds": 304.414898,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 33.67
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 180.891785,
+        "digital": "0:03:00",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 0,
+        "percent": 20.01
+      },
+      {
+        "name": "Cool-GitHub-Profile-README [GitHub]",
+        "total_seconds": 37.372,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 4.13
+      }
+    ],
     "range": {
       "start": "2024-05-28T19:00:00Z",
       "end": "2024-05-29T18:59:59Z",
       "date": "2024-05-29",
       "text": "Wed May 29th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
