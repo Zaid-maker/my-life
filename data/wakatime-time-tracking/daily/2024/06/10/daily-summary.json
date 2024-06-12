@@ -1,26 +1,144 @@
 [
   {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 23.857017,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 81.21
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 5.518423,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 18.79
+      }
+    ],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
-      "total_seconds": 0,
+      "total_seconds": 29.37544,
       "digital": "0:00",
       "decimal": "0.00",
       "text": "0 secs"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 29.37544,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 29.37544,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 29.37544,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "neon-http",
+        "total_seconds": 5.518423,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 33.33
+      },
+      {
+        "name": "serverless",
+        "total_seconds": 5.518423,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 33.33
+      },
+      {
+        "name": "schema",
+        "total_seconds": 5.518423,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 33.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-72ebbf",
+        "total_seconds": 29.37544,
+        "machine_name_id": "c4309af8-ea81-4c62-812d-5f8328f53dea",
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "finance",
+        "total_seconds": 29.37544,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-06-10T19:00:00Z",
       "end": "2024-06-11T18:59:59Z",
       "date": "2024-06-11",
       "text": "Tue Jun 11th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
