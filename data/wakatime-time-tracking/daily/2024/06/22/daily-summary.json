@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 2,
-      "total_seconds": 146.500237,
-      "digital": "0:02",
-      "decimal": "0.03",
-      "text": "2 mins"
-    },
-    "range": {
-      "start": "2024-06-22T19:00:00Z",
-      "end": "2024-06-23T18:59:59Z",
-      "date": "2024-06-23",
-      "text": "Sun Jun 23rd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "finance",
-        "total_seconds": 146.500237,
-        "color": null,
-        "digital": "0:02:26",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -42,66 +13,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [
-      {
-        "name": "react-table",
-        "total_seconds": 146.500237,
-        "digital": "0:02:26",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 26,
-        "percent": 25
-      },
-      {
-        "name": "react",
-        "total_seconds": 146.500237,
-        "digital": "0:02:26",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 26,
-        "percent": 25
-      },
-      {
-        "name": "table",
-        "total_seconds": 146.500237,
-        "digital": "0:02:26",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 26,
-        "percent": 25
-      },
-      {
-        "name": "button",
-        "total_seconds": 146.500237,
-        "digital": "0:02:26",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 26,
-        "percent": 25
-      }
-    ],
-    "machines": [
-      {
-        "name": "codespaces-72ebbf",
-        "total_seconds": 146.500237,
-        "machine_name_id": "073de35a-8381-4409-8b39-9b7b968bdbfb",
-        "digital": "0:02:26",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 2,
+      "total_seconds": 146.500237,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -140,6 +59,86 @@
         "seconds": 26,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "react-table",
+        "total_seconds": 146.500237,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 25
+      },
+      {
+        "name": "button",
+        "total_seconds": 146.500237,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 25
+      },
+      {
+        "name": "table",
+        "total_seconds": 146.500237,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 25
+      },
+      {
+        "name": "react",
+        "total_seconds": 146.500237,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 25
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-72ebbf",
+        "total_seconds": 146.500237,
+        "machine_name_id": "073de35a-8381-4409-8b39-9b7b968bdbfb",
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "finance",
+        "total_seconds": 146.500237,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-06-22T19:00:00Z",
+      "end": "2024-06-23T18:59:59Z",
+      "date": "2024-06-23",
+      "text": "Sun Jun 23rd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
