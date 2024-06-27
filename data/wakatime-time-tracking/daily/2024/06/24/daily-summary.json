@@ -128,6 +128,28 @@
         "percent": 8.52
       },
       {
+        "name": "zod",
+        "total_seconds": 1063.94815,
+        "digital": "0:17:43",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 43,
+        "percent": 6.52
+      },
+      {
+        "name": "use-create-account",
+        "total_seconds": 1063.94815,
+        "digital": "0:17:43",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 43,
+        "percent": 6.52
+      },
+      {
         "name": "account-form",
         "total_seconds": 1063.94815,
         "digital": "0:17:43",
@@ -150,26 +172,37 @@
         "percent": 6.52
       },
       {
-        "name": "use-create-account",
-        "total_seconds": 1063.94815,
-        "digital": "0:17:43",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "name": "clerk-auth",
+        "total_seconds": 736.382798,
+        "digital": "0:12:16",
+        "decimal": "0.20",
+        "text": "12 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 43,
-        "percent": 6.52
+        "minutes": 12,
+        "seconds": 16,
+        "percent": 4.51
       },
       {
-        "name": "zod",
-        "total_seconds": 1063.94815,
-        "digital": "0:17:43",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "name": "drizzle",
+        "total_seconds": 736.382798,
+        "digital": "0:12:16",
+        "decimal": "0.20",
+        "text": "12 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 43,
-        "percent": 6.52
+        "minutes": 12,
+        "seconds": 16,
+        "percent": 4.51
+      },
+      {
+        "name": "hono",
+        "total_seconds": 736.382798,
+        "digital": "0:12:16",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 16,
+        "percent": 4.51
       },
       {
         "name": "cuid2",
@@ -194,40 +227,7 @@
         "percent": 4.51
       },
       {
-        "name": "hono",
-        "total_seconds": 736.382798,
-        "digital": "0:12:16",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 16,
-        "percent": 4.51
-      },
-      {
-        "name": "drizzle",
-        "total_seconds": 736.382798,
-        "digital": "0:12:16",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 16,
-        "percent": 4.51
-      },
-      {
         "name": "drizzle-orm",
-        "total_seconds": 736.382798,
-        "digital": "0:12:16",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 16,
-        "percent": 4.51
-      },
-      {
-        "name": "clerk-auth",
         "total_seconds": 736.382798,
         "digital": "0:12:16",
         "decimal": "0.20",
@@ -249,7 +249,7 @@
         "percent": 2.82
       },
       {
-        "name": "columns",
+        "name": "lucide-react",
         "total_seconds": 325.923566,
         "digital": "0:05:25",
         "decimal": "0.08",
@@ -271,7 +271,7 @@
         "percent": 2
       },
       {
-        "name": "data-table",
+        "name": "columns",
         "total_seconds": 325.923566,
         "digital": "0:05:25",
         "decimal": "0.08",
@@ -282,7 +282,7 @@
         "percent": 2
       },
       {
-        "name": "lucide-react",
+        "name": "data-table",
         "total_seconds": 325.923566,
         "digital": "0:05:25",
         "decimal": "0.08",
@@ -304,17 +304,6 @@
         "percent": 1.66
       },
       {
-        "name": "table",
-        "total_seconds": 134.008753,
-        "digital": "0:02:14",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 14,
-        "percent": 0.82
-      },
-      {
         "name": "react-table",
         "total_seconds": 134.008753,
         "digital": "0:02:14",
@@ -326,62 +315,18 @@
         "percent": 0.82
       },
       {
-        "name": "next",
-        "total_seconds": 51.713194,
-        "digital": "0:00:51",
-        "decimal": "0.00",
-        "text": "51 secs",
+        "name": "table",
+        "total_seconds": 134.008753,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 51,
-        "percent": 0.32
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 0.82
       },
       {
-        "name": "@types/node",
-        "total_seconds": 51.713194,
-        "digital": "0:00:51",
-        "decimal": "0.00",
-        "text": "51 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 51,
-        "percent": 0.32
-      },
-      {
-        "name": "typescript",
-        "total_seconds": 51.713194,
-        "digital": "0:00:51",
-        "decimal": "0.00",
-        "text": "51 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 51,
-        "percent": 0.32
-      },
-      {
-        "name": "@types/react-dom",
-        "total_seconds": 51.713194,
-        "digital": "0:00:51",
-        "decimal": "0.00",
-        "text": "51 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 51,
-        "percent": 0.32
-      },
-      {
-        "name": "react-dom",
-        "total_seconds": 51.713194,
-        "digital": "0:00:51",
-        "decimal": "0.00",
-        "text": "51 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 51,
-        "percent": 0.32
-      },
-      {
-        "name": "@types/react",
+        "name": "eslint",
         "total_seconds": 51.713194,
         "digital": "0:00:51",
         "decimal": "0.00",
@@ -403,7 +348,7 @@
         "percent": 0.32
       },
       {
-        "name": "tailwindcss",
+        "name": "react-dom",
         "total_seconds": 51.713194,
         "digital": "0:00:51",
         "decimal": "0.00",
@@ -425,7 +370,18 @@
         "percent": 0.32
       },
       {
-        "name": "eslint",
+        "name": "next",
+        "total_seconds": 51.713194,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.32
+      },
+      {
+        "name": "@types/react-dom",
         "total_seconds": 51.713194,
         "digital": "0:00:51",
         "decimal": "0.00",
@@ -437,6 +393,50 @@
       },
       {
         "name": "postcss",
+        "total_seconds": 51.713194,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.32
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 51.713194,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.32
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 51.713194,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.32
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 51.713194,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.32
+      },
+      {
+        "name": "@types/node",
         "total_seconds": 51.713194,
         "digital": "0:00:51",
         "decimal": "0.00",
@@ -489,6 +489,7 @@
       {
         "name": "finance",
         "total_seconds": 2260.263267,
+        "color": null,
         "digital": "0:37:40",
         "decimal": "0.62",
         "text": "37 mins",
@@ -500,6 +501,7 @@
       {
         "name": "test",
         "total_seconds": 388.255031,
+        "color": null,
         "digital": "0:06:28",
         "decimal": "0.10",
         "text": "6 mins",
