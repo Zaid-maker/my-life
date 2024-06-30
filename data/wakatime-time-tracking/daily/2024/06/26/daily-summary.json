@@ -172,7 +172,7 @@
         "percent": 3.11
       },
       {
-        "name": "react-bootstrap",
+        "name": "axios",
         "total_seconds": 222.635497,
         "digital": "0:03:42",
         "decimal": "0.05",
@@ -183,7 +183,7 @@
         "percent": 2.6
       },
       {
-        "name": "axios",
+        "name": "react-bootstrap",
         "total_seconds": 222.635497,
         "digital": "0:03:42",
         "decimal": "0.05",
@@ -216,17 +216,6 @@
         "percent": 1.64
       },
       {
-        "name": "eslint",
-        "total_seconds": 62.347247,
-        "digital": "0:01:02",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 2,
-        "percent": 0.73
-      },
-      {
         "name": "bcryptjs",
         "total_seconds": 62.347247,
         "digital": "0:01:02",
@@ -239,6 +228,17 @@
       },
       {
         "name": "npm",
+        "total_seconds": 62.347247,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 0.73
+      },
+      {
+        "name": "jsonwebtoken",
         "total_seconds": 62.347247,
         "digital": "0:01:02",
         "decimal": "0.02",
@@ -271,7 +271,7 @@
         "percent": 0.73
       },
       {
-        "name": "jsonwebtoken",
+        "name": "eslint",
         "total_seconds": 62.347247,
         "digital": "0:01:02",
         "decimal": "0.02",
@@ -370,7 +370,7 @@
         "percent": 0.21
       },
       {
-        "name": "@vitejs/plugin-react",
+        "name": "eslint-plugin-react",
         "total_seconds": 16.477718,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -382,6 +382,39 @@
       },
       {
         "name": "react-icons",
+        "total_seconds": 16.477718,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 16.477718,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "bootstrap",
+        "total_seconds": 16.477718,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "react-dom",
         "total_seconds": 16.477718,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -414,40 +447,18 @@
         "percent": 0.19
       },
       {
-        "name": "@types/react-dom",
-        "total_seconds": 16.477718,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "react-dom",
-        "total_seconds": 16.477718,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "bootstrap",
-        "total_seconds": 16.477718,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
         "name": "@types/react",
+        "total_seconds": 16.477718,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "@vitejs/plugin-react",
         "total_seconds": 16.477718,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -469,8 +480,8 @@
         "percent": 0.19
       },
       {
-        "name": "eslint-plugin-react",
-        "total_seconds": 16.477718,
+        "name": "Footer",
+        "total_seconds": 16.051938,
         "digital": "0:00:16",
         "decimal": "0.00",
         "text": "16 secs",
@@ -491,7 +502,62 @@
         "percent": 0.19
       },
       {
+        "name": "EventRej",
+        "total_seconds": 16.051938,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "GenerateDiscounts",
+        "total_seconds": 16.051938,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "CreateEvent",
+        "total_seconds": 16.051938,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
         "name": "signup",
+        "total_seconds": 16.051938,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "ManageEvents",
+        "total_seconds": 16.051938,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "EventManagementpage",
         "total_seconds": 16.051938,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -535,28 +601,6 @@
         "percent": 0.19
       },
       {
-        "name": "EventDetails",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "Feedback",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
         "name": "AdminDashboard",
         "total_seconds": 16.051938,
         "digital": "0:00:16",
@@ -579,61 +623,6 @@
         "percent": 0.19
       },
       {
-        "name": "GenerateDiscounts",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "Footer",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "CreateEvent",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "EventRej",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
-        "name": "ManageEvents",
-        "total_seconds": 16.051938,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.19
-      },
-      {
         "name": "FeedbackForm",
         "total_seconds": 16.051938,
         "digital": "0:00:16",
@@ -645,7 +634,18 @@
         "percent": 0.19
       },
       {
-        "name": "EventManagementpage",
+        "name": "EventDetails",
+        "total_seconds": 16.051938,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      },
+      {
+        "name": "Feedback",
         "total_seconds": 16.051938,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -696,6 +696,7 @@
       {
         "name": "EventManagementSystem",
         "total_seconds": 2910.282418,
+        "color": null,
         "digital": "0:48:30",
         "decimal": "0.80",
         "text": "48 mins",

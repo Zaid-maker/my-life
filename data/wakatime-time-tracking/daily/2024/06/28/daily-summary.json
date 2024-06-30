@@ -1,26 +1,155 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 480.574996,
+        "digital": "0:08:00",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 0,
+        "percent": 60.11
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 231.854395,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 29
+      },
+      {
+        "name": "Text",
+        "total_seconds": 87.11851,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 10.9
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 13,
+      "total_seconds": 799.547901,
+      "digital": "0:13",
+      "decimal": "0.22",
+      "text": "13 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 799.547901,
+        "digital": "0:13:19",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 567.693506,
+        "digital": "0:09:27",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 27,
+        "percent": 71
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 231.854395,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 29
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 799.547901,
+        "digital": "0:13:19",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-VSPNBDG",
+        "total_seconds": 567.693506,
+        "machine_name_id": "d2e67e4a-4c6a-4674-bc01-6db234c3f5e5",
+        "digital": "0:09:27",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 27,
+        "percent": 71
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 231.854395,
+        "machine_name_id": "c36a25c4-63f0-4311-9579-6042d280486b",
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 29
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 567.693506,
+        "digital": "0:09:27",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 27,
+        "percent": 71
+      },
+      {
+        "name": "evently",
+        "total_seconds": 231.854395,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 29
+      }
+    ],
     "range": {
       "start": "2024-06-28T19:00:00Z",
       "end": "2024-06-29T18:59:59Z",
       "date": "2024-06-29",
       "text": "Sat Jun 29th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
