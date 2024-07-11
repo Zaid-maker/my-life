@@ -1,26 +1,265 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3732.173166,
+        "digital": "1:02:12",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 12,
+        "percent": 97.71
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 87.346238,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 2.29
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 3,
+      "total_seconds": 3819.519404,
+      "digital": "1:03",
+      "decimal": "1.05",
+      "text": "1 hr 3 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3819.519404,
+        "digital": "1:03:39",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3819.519404,
+        "digital": "1:03:39",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3819.519404,
+        "digital": "1:03:39",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "image",
+        "total_seconds": 2350.399738,
+        "digital": "0:39:10",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 10,
+        "percent": 16.99
+      },
+      {
+        "name": "utils",
+        "total_seconds": 2211.770507,
+        "digital": "0:36:51",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 51,
+        "percent": 15.99
+      },
+      {
+        "name": "event.actions",
+        "total_seconds": 2177.893457,
+        "digital": "0:36:17",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 17,
+        "percent": 15.75
+      },
+      {
+        "name": "types",
+        "total_seconds": 2041.977788,
+        "digital": "0:34:01",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 1,
+        "percent": 14.76
+      },
+      {
+        "name": "react",
+        "total_seconds": 1799.056423,
+        "digital": "0:29:59",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 59,
+        "percent": 13.01
+      },
+      {
+        "name": "event.model",
+        "total_seconds": 1154.236204,
+        "digital": "0:19:14",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 14,
+        "percent": 8.35
+      },
+      {
+        "name": "link",
+        "total_seconds": 813.027806,
+        "digital": "0:13:33",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 5.88
+      },
+      {
+        "name": "button",
+        "total_seconds": 308.42195,
+        "digital": "0:05:08",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 8,
+        "percent": 2.23
+      },
+      {
+        "name": "CategoryFilter",
+        "total_seconds": 308.42195,
+        "digital": "0:05:08",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 8,
+        "percent": 2.23
+      },
+      {
+        "name": "Search",
+        "total_seconds": 308.42195,
+        "digital": "0:05:08",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 8,
+        "percent": 2.23
+      },
+      {
+        "name": "Collection",
+        "total_seconds": 237.145746,
+        "digital": "0:03:57",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 57,
+        "percent": 1.71
+      },
+      {
+        "name": "Card",
+        "total_seconds": 98.877815,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 0.71
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 10.227814,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.07
+      },
+      {
+        "name": "EventForm",
+        "total_seconds": 10.227814,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.07
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-17c9e2",
+        "total_seconds": 3819.519404,
+        "machine_name_id": "1a45aec1-9b94-4b69-8fbe-89e67c0417ea",
+        "digital": "1:03:39",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "evently",
+        "total_seconds": 3819.519404,
+        "digital": "1:03:39",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-07-09T19:00:00Z",
       "end": "2024-07-10T18:59:59Z",
       "date": "2024-07-10",
       "text": "Wed Jul 10th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
