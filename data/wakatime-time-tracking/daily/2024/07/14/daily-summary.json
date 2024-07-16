@@ -1,26 +1,276 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1173.006334,
+        "digital": "0:19:33",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 33,
+        "percent": 59.26
+      },
+      {
+        "name": "Other",
+        "total_seconds": 806.567183,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 40.74
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 32,
+      "total_seconds": 1979.573517,
+      "digital": "0:32",
+      "decimal": "0.53",
+      "text": "32 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1979.573517,
+        "digital": "0:32:59",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1979.573517,
+        "digital": "0:32:59",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1979.573517,
+        "digital": "0:32:59",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 413.125162,
+        "digital": "0:06:53",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 53,
+        "percent": 11.48
+      },
+      {
+        "name": "node-appwrite",
+        "total_seconds": 340.257803,
+        "digital": "0:05:40",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 40,
+        "percent": 9.45
+      },
+      {
+        "name": "validation",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "form",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "zod",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "react-hook-form",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "SubmitButton",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "CustomFormField",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "style",
+        "total_seconds": 286.020293,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 7.95
+      },
+      {
+        "name": "patient.actions",
+        "total_seconds": 266.131146,
+        "digital": "0:04:26",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 26,
+        "percent": 7.39
+      },
+      {
+        "name": "utils",
+        "total_seconds": 145.82741,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 4.05
+      },
+      {
+        "name": "appwrite.config",
+        "total_seconds": 145.82741,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 4.05
+      },
+      {
+        "name": "image",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "link",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-59f2f5",
+        "total_seconds": 1979.573517,
+        "machine_name_id": "230b160d-86c2-49ec-be3f-68fa490017f5",
+        "digital": "0:32:59",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "CarePulse",
+        "total_seconds": 1979.573517,
+        "digital": "0:32:59",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-07-14T19:00:00Z",
       "end": "2024-07-15T18:59:59Z",
       "date": "2024-07-15",
       "text": "Mon Jul 15th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
