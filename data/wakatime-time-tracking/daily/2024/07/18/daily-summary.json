@@ -1,26 +1,110 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 340.866,
+        "digital": "0:05:40",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 40,
+        "percent": 99.58
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1.441,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.42
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 5,
+      "total_seconds": 342.307,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 342.307,
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 342.307,
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 342.307,
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "github.dev",
+        "total_seconds": 342.307,
+        "machine_name_id": "35253e7e-ef71-42ca-9fca-156ae816589c",
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma [GitHub]",
+        "total_seconds": 342.307,
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-07-18T19:00:00Z",
       "end": "2024-07-19T18:59:59Z",
       "date": "2024-07-19",
       "text": "Fri Jul 19th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
