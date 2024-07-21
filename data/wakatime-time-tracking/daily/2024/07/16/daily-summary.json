@@ -117,17 +117,6 @@
         "percent": 6.35
       },
       {
-        "name": "appwrite.config",
-        "total_seconds": 1378.029806,
-        "digital": "0:22:58",
-        "decimal": "0.37",
-        "text": "22 mins",
-        "hours": 0,
-        "minutes": 22,
-        "seconds": 58,
-        "percent": 5.72
-      },
-      {
         "name": "utils",
         "total_seconds": 1378.029806,
         "digital": "0:22:58",
@@ -139,7 +128,18 @@
         "percent": 5.72
       },
       {
-        "name": "form",
+        "name": "appwrite.config",
+        "total_seconds": 1378.029806,
+        "digital": "0:22:58",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 58,
+        "percent": 5.72
+      },
+      {
+        "name": "select",
         "total_seconds": 1193.006704,
         "digital": "0:19:53",
         "decimal": "0.32",
@@ -172,7 +172,7 @@
         "percent": 4.95
       },
       {
-        "name": "select",
+        "name": "form",
         "total_seconds": 1193.006704,
         "digital": "0:19:53",
         "decimal": "0.32",
@@ -192,6 +192,17 @@
         "minutes": 18,
         "seconds": 54,
         "percent": 4.71
+      },
+      {
+        "name": "style",
+        "total_seconds": 1132.430648,
+        "digital": "0:18:52",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 52,
+        "percent": 4.7
       },
       {
         "name": "CustomFormField",
@@ -228,17 +239,6 @@
       },
       {
         "name": "label",
-        "total_seconds": 1132.430648,
-        "digital": "0:18:52",
-        "decimal": "0.30",
-        "text": "18 mins",
-        "hours": 0,
-        "minutes": 18,
-        "seconds": 52,
-        "percent": 4.7
-      },
-      {
-        "name": "style",
         "total_seconds": 1132.430648,
         "digital": "0:18:52",
         "decimal": "0.30",
@@ -304,17 +304,6 @@
         "percent": 0.25
       },
       {
-        "name": "checkbox",
-        "total_seconds": 60.576056,
-        "digital": "0:01:00",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 0,
-        "percent": 0.25
-      },
-      {
         "name": "input",
         "total_seconds": 60.576056,
         "digital": "0:01:00",
@@ -348,7 +337,18 @@
         "percent": 0.25
       },
       {
-        "name": "clsx",
+        "name": "checkbox",
+        "total_seconds": 60.576056,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.25
+      },
+      {
+        "name": "tailwind-merge",
         "total_seconds": 3.291805,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -359,7 +359,7 @@
         "percent": 0.01
       },
       {
-        "name": "tailwind-merge",
+        "name": "clsx",
         "total_seconds": 3.291805,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -388,6 +388,7 @@
       {
         "name": "CarePulse",
         "total_seconds": 4321.426645,
+        "color": null,
         "digital": "1:12:01",
         "decimal": "1.20",
         "text": "1 hr 12 mins",

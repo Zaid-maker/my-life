@@ -1,26 +1,520 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1252.610298,
+        "digital": "0:20:52",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 52,
+        "percent": 66.31
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 634.54059,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 33.59
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1.969172,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.1
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 31,
+      "total_seconds": 1889.12006,
+      "digital": "0:31",
+      "decimal": "0.52",
+      "text": "31 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1889.12006,
+        "digital": "0:31:29",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1889.12006,
+        "digital": "0:31:29",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1889.12006,
+        "digital": "0:31:29",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-hook-form",
+        "total_seconds": 768.46239,
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 6.34
+      },
+      {
+        "name": "react-datepicker",
+        "total_seconds": 768.46239,
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 6.34
+      },
+      {
+        "name": "select",
+        "total_seconds": 768.46239,
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 6.34
+      },
+      {
+        "name": "image",
+        "total_seconds": 768.46239,
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 6.34
+      },
+      {
+        "name": "form",
+        "total_seconds": 768.46239,
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 6.34
+      },
+      {
+        "name": "utils",
+        "total_seconds": 470.068614,
+        "digital": "0:07:50",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 50,
+        "percent": 3.88
+      },
+      {
+        "name": "order.model",
+        "total_seconds": 470.068614,
+        "digital": "0:07:50",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 50,
+        "percent": 3.88
+      },
+      {
+        "name": "types",
+        "total_seconds": 470.068614,
+        "digital": "0:07:50",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 50,
+        "percent": 3.88
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 467.532895,
+        "digital": "0:07:47",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 47,
+        "percent": 3.86
+      },
+      {
+        "name": "Search",
+        "total_seconds": 449.221297,
+        "digital": "0:07:29",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 29,
+        "percent": 3.71
+      },
+      {
+        "name": "validation",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "react",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "style",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "radio-group",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "label",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "SubmitButton",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "CustomFormField",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "zod",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "constants",
+        "total_seconds": 446.685578,
+        "digital": "0:07:26",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 26,
+        "percent": 3.69
+      },
+      {
+        "name": "checkbox",
+        "total_seconds": 321.776812,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 2.66
+      },
+      {
+        "name": "core",
+        "total_seconds": 321.776812,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 2.66
+      },
+      {
+        "name": "input",
+        "total_seconds": 321.776812,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 2.66
+      },
+      {
+        "name": "textarea",
+        "total_seconds": 321.776812,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 2.66
+      },
+      {
+        "name": "react-phone-number-input",
+        "total_seconds": 321.776812,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 2.66
+      },
+      {
+        "name": "order.actions",
+        "total_seconds": 209.197485,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 1.73
+      },
+      {
+        "name": "event.model",
+        "total_seconds": 20.847317,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.17
+      },
+      {
+        "name": "mongodb",
+        "total_seconds": 20.847317,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.17
+      },
+      {
+        "name": "stripe",
+        "total_seconds": 20.847317,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.17
+      },
+      {
+        "name": "user.model",
+        "total_seconds": 20.847317,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.17
+      },
+      {
+        "name": "database",
+        "total_seconds": 20.847317,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.17
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-59f2f5",
+        "total_seconds": 768.46239,
+        "machine_name_id": "e02f2078-8e12-43e3-9ccf-51c5d616914b",
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 40.68
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 634.54059,
+        "machine_name_id": "59d8fd6f-d644-4e55-8a24-06ac6bab7308",
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 33.59
+      },
+      {
+        "name": "codespaces-17c9e2",
+        "total_seconds": 486.11708,
+        "machine_name_id": "2eaa130e-29dc-4332-9586-b0c3244312bc",
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 25.73
+      }
+    ],
+    "projects": [
+      {
+        "name": "CarePulse",
+        "total_seconds": 768.46239,
+        "digital": "0:12:48",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 48,
+        "percent": 40.68
+      },
+      {
+        "name": "miro-boards",
+        "total_seconds": 634.54059,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 33.59
+      },
+      {
+        "name": "evently",
+        "total_seconds": 486.11708,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 25.73
+      },
+      {
+        "name": "Lingo",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2024-07-19T19:00:00Z",
       "end": "2024-07-20T18:59:59Z",
       "date": "2024-07-20",
       "text": "Sat Jul 20th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
