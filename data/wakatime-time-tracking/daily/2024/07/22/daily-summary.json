@@ -139,17 +139,6 @@
         "percent": 10.34
       },
       {
-        "name": "nodemailer",
-        "total_seconds": 896.362101,
-        "digital": "0:14:56",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 56,
-        "percent": 7.71
-      },
-      {
         "name": "axios",
         "total_seconds": 896.362101,
         "digital": "0:14:56",
@@ -161,7 +150,7 @@
         "percent": 7.71
       },
       {
-        "name": "async-retry",
+        "name": "axios-retry",
         "total_seconds": 896.362101,
         "digital": "0:14:56",
         "decimal": "0.23",
@@ -172,7 +161,18 @@
         "percent": 7.71
       },
       {
-        "name": "axios-retry",
+        "name": "nodemailer",
+        "total_seconds": 896.362101,
+        "digital": "0:14:56",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 7.71
+      },
+      {
+        "name": "async-retry",
         "total_seconds": 896.362101,
         "digital": "0:14:56",
         "decimal": "0.23",
@@ -278,6 +278,7 @@
       {
         "name": "uptime",
         "total_seconds": 4725.326961,
+        "color": null,
         "digital": "1:18:45",
         "decimal": "1.30",
         "text": "1 hr 18 mins",
