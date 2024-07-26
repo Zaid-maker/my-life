@@ -1,26 +1,133 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1194.349967,
+        "digital": "0:19:54",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 54,
+        "percent": 41.98
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 833.443258,
+        "digital": "0:13:53",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 53,
+        "percent": 29.29
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 817.412338,
+        "digital": "0:13:37",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 37,
+        "percent": 28.73
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 47,
+      "total_seconds": 2845.205563,
+      "digital": "0:47",
+      "decimal": "0.78",
+      "text": "47 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2845.205563,
+        "digital": "0:47:25",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2845.205563,
+        "digital": "0:47:25",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2845.205563,
+        "digital": "0:47:25",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"script.js\"",
+        "total_seconds": 637.660574,
+        "digital": "0:10:37",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-VSPNBDG",
+        "total_seconds": 2845.205563,
+        "machine_name_id": "d2e67e4a-4c6a-4674-bc01-6db234c3f5e5",
+        "digital": "0:47:25",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fetch Jokes",
+        "total_seconds": 2845.205563,
+        "digital": "0:47:25",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-07-24T19:00:00Z",
       "end": "2024-07-25T18:59:59Z",
       "date": "2024-07-25",
       "text": "Thu Jul 25th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
