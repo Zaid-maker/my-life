@@ -139,7 +139,7 @@
         "percent": 2.93
       },
       {
-        "name": "Checkout",
+        "name": "nextjs",
         "total_seconds": 202.433937,
         "digital": "0:03:22",
         "decimal": "0.05",
@@ -150,7 +150,7 @@
         "percent": 2.93
       },
       {
-        "name": "nextjs",
+        "name": "Checkout",
         "total_seconds": 202.433937,
         "digital": "0:03:22",
         "decimal": "0.05",
@@ -172,40 +172,7 @@
         "percent": 1.58
       },
       {
-        "name": "utils",
-        "total_seconds": 16.739726,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.24
-      },
-      {
         "name": "navigation",
-        "total_seconds": 16.739726,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.24
-      },
-      {
-        "name": "database",
-        "total_seconds": 16.739726,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.24
-      },
-      {
-        "name": "mongodb",
         "total_seconds": 16.739726,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -227,7 +194,29 @@
         "percent": 0.24
       },
       {
-        "name": "types",
+        "name": "user.model",
+        "total_seconds": 16.739726,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.24
+      },
+      {
+        "name": "utils",
+        "total_seconds": 16.739726,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.24
+      },
+      {
+        "name": "database",
         "total_seconds": 16.739726,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -249,7 +238,18 @@
         "percent": 0.24
       },
       {
-        "name": "user.model",
+        "name": "types",
+        "total_seconds": 16.739726,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.24
+      },
+      {
+        "name": "mongodb",
         "total_seconds": 16.739726,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -278,6 +278,7 @@
       {
         "name": "evently",
         "total_seconds": 1918.080714,
+        "color": null,
         "digital": "0:31:58",
         "decimal": "0.52",
         "text": "31 mins",
