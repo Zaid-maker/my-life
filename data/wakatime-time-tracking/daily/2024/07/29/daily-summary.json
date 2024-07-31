@@ -1,35 +1,28 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 1,
-      "total_seconds": 113.358391,
-      "digital": "0:01",
-      "decimal": "0.02",
-      "text": "1 min"
-    },
-    "range": {
-      "start": "2024-07-29T19:00:00Z",
-      "end": "2024-07-30T18:59:59Z",
-      "date": "2024-07-30",
-      "text": "Tue Jul 30th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "CarePulse",
-        "total_seconds": 113.358391,
-        "color": null,
-        "digital": "0:01:53",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
     "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1120.193578,
+        "digital": "0:18:40",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 40,
+        "percent": 74.51
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 259.731465,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 17.28
+      },
       {
         "name": "TypeScript",
         "total_seconds": 113.358391,
@@ -39,12 +32,55 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
+        "percent": 7.54
+      },
+      {
+        "name": "Solidity",
+        "total_seconds": 10.19177,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.68
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 25,
+      "total_seconds": 1503.475204,
+      "digital": "0:25",
+      "decimal": "0.42",
+      "text": "25 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1503.475204,
+        "digital": "0:25:03",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 3,
         "percent": 100
       }
     ],
-    "dependencies": [
+    "operating_systems": [
       {
-        "name": "utils",
+        "name": "Windows",
+        "total_seconds": 1390.116813,
+        "digital": "0:23:10",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 10,
+        "percent": 92.46
+      },
+      {
+        "name": "Linux",
         "total_seconds": 113.358391,
         "digital": "0:01:53",
         "decimal": "0.02",
@@ -52,7 +88,77 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 33.33
+        "percent": 7.54
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1503.475204,
+        "digital": "0:25:03",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "npm",
+        "total_seconds": 259.731465,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 16.24
+      },
+      {
+        "name": "openai",
+        "total_seconds": 259.731465,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 16.24
+      },
+      {
+        "name": "inquirer",
+        "total_seconds": 259.731465,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 16.24
+      },
+      {
+        "name": "commander",
+        "total_seconds": 259.731465,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 16.24
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 220.744346,
+        "digital": "0:03:40",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 40,
+        "percent": 13.8
       },
       {
         "name": "node-appwrite",
@@ -63,7 +169,18 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 33.33
+        "percent": 7.09
+      },
+      {
+        "name": "utils",
+        "total_seconds": 113.358391,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 7.09
       },
       {
         "name": "appwrite.config",
@@ -74,10 +191,22 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 33.33
+        "percent": 7.09
       }
     ],
     "machines": [
+      {
+        "name": "DESKTOP-VSPNBDG",
+        "total_seconds": 1390.116813,
+        "machine_name_id": "d2e67e4a-4c6a-4674-bc01-6db234c3f5e5",
+        "digital": "0:23:10",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 10,
+        "percent": 92.46
+      },
       {
         "name": "codespaces-59f2f5",
         "total_seconds": 113.358391,
@@ -88,12 +217,23 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 100
+        "percent": 7.54
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "auditra-cli",
+        "total_seconds": 1390.116813,
+        "digital": "0:23:10",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 10,
+        "percent": 92.46
+      },
+      {
+        "name": "CarePulse",
         "total_seconds": 113.358391,
         "digital": "0:01:53",
         "decimal": "0.02",
@@ -101,34 +241,15 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 100
+        "percent": 7.54
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 113.358391,
-        "digital": "0:01:53",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 113.358391,
-        "digital": "0:01:53",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-07-29T19:00:00Z",
+      "end": "2024-07-30T18:59:59Z",
+      "date": "2024-07-30",
+      "text": "Tue Jul 30th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
