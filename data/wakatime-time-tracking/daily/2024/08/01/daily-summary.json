@@ -1,26 +1,144 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 500.709547,
+        "digital": "0:08:20",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 20,
+        "percent": 42.94
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 493.651388,
+        "digital": "0:08:13",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 13,
+        "percent": 42.34
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 171.666799,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 14.72
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 19,
+      "total_seconds": 1166.027734,
+      "digital": "0:19",
+      "decimal": "0.32",
+      "text": "19 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1166.027734,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1166.027734,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1166.027734,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://kit.fontawesome.com/7c8801c017.js\"",
+        "total_seconds": 215.928436,
+        "digital": "0:03:35",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 35,
+        "percent": 50
+      },
+      {
+        "name": "\"index.js\"",
+        "total_seconds": 215.928436,
+        "digital": "0:03:35",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 35,
+        "percent": 50
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-VSPNBDG",
+        "total_seconds": 1166.027734,
+        "machine_name_id": "d2e67e4a-4c6a-4674-bc01-6db234c3f5e5",
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "weather-app",
+        "total_seconds": 1166.027734,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-08-01T19:00:00Z",
       "end": "2024-08-02T18:59:59Z",
       "date": "2024-08-02",
       "text": "Fri Aug 2nd 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]

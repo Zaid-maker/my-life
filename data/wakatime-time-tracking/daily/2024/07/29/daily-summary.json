@@ -3,14 +3,14 @@
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 1120.193578,
-        "digital": "0:18:40",
-        "decimal": "0.30",
-        "text": "18 mins",
+        "total_seconds": 1198.5766,
+        "digital": "0:19:58",
+        "decimal": "0.32",
+        "text": "19 mins",
         "hours": 0,
-        "minutes": 18,
-        "seconds": 40,
-        "percent": 74.51
+        "minutes": 19,
+        "seconds": 58,
+        "percent": 75.77
       },
       {
         "name": "JSON",
@@ -21,7 +21,7 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 19,
-        "percent": 17.28
+        "percent": 16.42
       },
       {
         "name": "TypeScript",
@@ -32,7 +32,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 7.54
+        "percent": 7.17
       },
       {
         "name": "Solidity",
@@ -43,41 +43,41 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 10,
-        "percent": 0.68
+        "percent": 0.64
       }
     ],
     "grand_total": {
       "hours": 0,
-      "minutes": 25,
-      "total_seconds": 1503.475204,
-      "digital": "0:25",
-      "decimal": "0.42",
-      "text": "25 mins"
+      "minutes": 26,
+      "total_seconds": 1581.858226,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins"
     },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 1503.475204,
-        "digital": "0:25:03",
-        "decimal": "0.42",
-        "text": "25 mins",
+        "total_seconds": 1581.858226,
+        "digital": "0:26:21",
+        "decimal": "0.43",
+        "text": "26 mins",
         "hours": 0,
-        "minutes": 25,
-        "seconds": 3,
+        "minutes": 26,
+        "seconds": 21,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 1390.116813,
-        "digital": "0:23:10",
-        "decimal": "0.38",
-        "text": "23 mins",
+        "total_seconds": 1468.499835,
+        "digital": "0:24:28",
+        "decimal": "0.40",
+        "text": "24 mins",
         "hours": 0,
-        "minutes": 23,
-        "seconds": 10,
-        "percent": 92.46
+        "minutes": 24,
+        "seconds": 28,
+        "percent": 92.83
       },
       {
         "name": "Linux",
@@ -88,36 +88,25 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 7.54
+        "percent": 7.17
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 1503.475204,
-        "digital": "0:25:03",
-        "decimal": "0.42",
-        "text": "25 mins",
+        "total_seconds": 1581.858226,
+        "digital": "0:26:21",
+        "decimal": "0.43",
+        "text": "26 mins",
         "hours": 0,
-        "minutes": 25,
-        "seconds": 3,
+        "minutes": 26,
+        "seconds": 21,
         "percent": 100
       }
     ],
     "dependencies": [
       {
-        "name": "openai",
-        "total_seconds": 259.731465,
-        "digital": "0:04:19",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 19,
-        "percent": 16.24
-      },
-      {
-        "name": "npm",
+        "name": "commander",
         "total_seconds": 259.731465,
         "digital": "0:04:19",
         "decimal": "0.07",
@@ -139,7 +128,18 @@
         "percent": 16.24
       },
       {
-        "name": "commander",
+        "name": "npm",
+        "total_seconds": 259.731465,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 16.24
+      },
+      {
+        "name": "openai",
         "total_seconds": 259.731465,
         "digital": "0:04:19",
         "decimal": "0.07",
@@ -159,17 +159,6 @@
         "minutes": 3,
         "seconds": 40,
         "percent": 13.8
-      },
-      {
-        "name": "appwrite.config",
-        "total_seconds": 113.358391,
-        "digital": "0:01:53",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 7.09
       },
       {
         "name": "utils",
@@ -192,20 +181,31 @@
         "minutes": 1,
         "seconds": 53,
         "percent": 7.09
+      },
+      {
+        "name": "appwrite.config",
+        "total_seconds": 113.358391,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 7.09
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-VSPNBDG",
-        "total_seconds": 1390.116813,
+        "total_seconds": 1468.499835,
         "machine_name_id": "d2e67e4a-4c6a-4674-bc01-6db234c3f5e5",
-        "digital": "0:23:10",
-        "decimal": "0.38",
-        "text": "23 mins",
+        "digital": "0:24:28",
+        "decimal": "0.40",
+        "text": "24 mins",
         "hours": 0,
-        "minutes": 23,
-        "seconds": 10,
-        "percent": 92.46
+        "minutes": 24,
+        "seconds": 28,
+        "percent": 92.83
       },
       {
         "name": "codespaces-59f2f5",
@@ -217,31 +217,33 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 7.54
+        "percent": 7.17
       }
     ],
     "projects": [
       {
         "name": "auditra-cli",
-        "total_seconds": 1390.116813,
-        "digital": "0:23:10",
-        "decimal": "0.38",
-        "text": "23 mins",
+        "total_seconds": 1468.499835,
+        "color": null,
+        "digital": "0:24:28",
+        "decimal": "0.40",
+        "text": "24 mins",
         "hours": 0,
-        "minutes": 23,
-        "seconds": 10,
-        "percent": 92.46
+        "minutes": 24,
+        "seconds": 28,
+        "percent": 92.83
       },
       {
         "name": "CarePulse",
         "total_seconds": 113.358391,
+        "color": null,
         "digital": "0:01:53",
         "decimal": "0.02",
         "text": "1 min",
         "hours": 0,
         "minutes": 1,
         "seconds": 53,
-        "percent": 7.54
+        "percent": 7.17
       }
     ],
     "range": {

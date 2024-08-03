@@ -139,7 +139,7 @@
         "percent": 2.88
       },
       {
-        "name": "react-hook-form",
+        "name": "constants",
         "total_seconds": 365.791501,
         "digital": "0:06:05",
         "decimal": "0.10",
@@ -161,17 +161,6 @@
         "percent": 2.71
       },
       {
-        "name": "label",
-        "total_seconds": 365.791501,
-        "digital": "0:06:05",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 5,
-        "percent": 2.71
-      },
-      {
         "name": "select",
         "total_seconds": 365.791501,
         "digital": "0:06:05",
@@ -183,18 +172,7 @@
         "percent": 2.71
       },
       {
-        "name": "radio-group",
-        "total_seconds": 365.791501,
-        "digital": "0:06:05",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 5,
-        "percent": 2.71
-      },
-      {
-        "name": "style",
+        "name": "react-hook-form",
         "total_seconds": 365.791501,
         "digital": "0:06:05",
         "decimal": "0.10",
@@ -216,18 +194,7 @@
         "percent": 2.71
       },
       {
-        "name": "react-datepicker",
-        "total_seconds": 365.791501,
-        "digital": "0:06:05",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 5,
-        "percent": 2.71
-      },
-      {
-        "name": "form",
+        "name": "label",
         "total_seconds": 365.791501,
         "digital": "0:06:05",
         "decimal": "0.10",
@@ -249,7 +216,40 @@
         "percent": 2.71
       },
       {
-        "name": "constants",
+        "name": "form",
+        "total_seconds": 365.791501,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 2.71
+      },
+      {
+        "name": "style",
+        "total_seconds": 365.791501,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 2.71
+      },
+      {
+        "name": "react-datepicker",
+        "total_seconds": 365.791501,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 2.71
+      },
+      {
+        "name": "radio-group",
         "total_seconds": 365.791501,
         "digital": "0:06:05",
         "decimal": "0.10",
@@ -271,17 +271,6 @@
         "percent": 1.79
       },
       {
-        "name": "appwrite.config",
-        "total_seconds": 240.278273,
-        "digital": "0:04:00",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 0,
-        "percent": 1.78
-      },
-      {
         "name": "node-appwrite",
         "total_seconds": 240.278273,
         "digital": "0:04:00",
@@ -293,7 +282,18 @@
         "percent": 1.78
       },
       {
-        "name": "RegisterForm",
+        "name": "appwrite.config",
+        "total_seconds": 240.278273,
+        "digital": "0:04:00",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 0,
+        "percent": 1.78
+      },
+      {
+        "name": "patient.actions",
         "total_seconds": 130.818275,
         "digital": "0:02:10",
         "decimal": "0.03",
@@ -304,7 +304,7 @@
         "percent": 0.97
       },
       {
-        "name": "patient.actions",
+        "name": "RegisterForm",
         "total_seconds": 130.818275,
         "digital": "0:02:10",
         "decimal": "0.03",
@@ -333,6 +333,7 @@
       {
         "name": "CarePulse",
         "total_seconds": 2868.770834,
+        "color": null,
         "digital": "0:47:48",
         "decimal": "0.78",
         "text": "47 mins",
