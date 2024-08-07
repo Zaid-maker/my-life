@@ -73,7 +73,7 @@
     ],
     "dependencies": [
       {
-        "name": "fs",
+        "name": "path",
         "total_seconds": 616.965224,
         "digital": "0:10:16",
         "decimal": "0.17",
@@ -84,7 +84,7 @@
         "percent": 45.69
       },
       {
-        "name": "path",
+        "name": "fs",
         "total_seconds": 616.965224,
         "digital": "0:10:16",
         "decimal": "0.17",
@@ -139,17 +139,6 @@
         "percent": 0.29
       },
       {
-        "name": "eslint",
-        "total_seconds": 3.857437,
-        "digital": "0:00:03",
-        "decimal": "0.00",
-        "text": "3 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 3,
-        "percent": 0.29
-      },
-      {
         "name": "react-dom",
         "total_seconds": 3.857437,
         "digital": "0:00:03",
@@ -161,7 +150,7 @@
         "percent": 0.29
       },
       {
-        "name": "postcss",
+        "name": "eslint",
         "total_seconds": 3.857437,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -183,7 +172,7 @@
         "percent": 0.29
       },
       {
-        "name": "eslint-config-next",
+        "name": "tailwindcss",
         "total_seconds": 3.857437,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -194,7 +183,18 @@
         "percent": 0.29
       },
       {
-        "name": "tailwindcss",
+        "name": "postcss",
+        "total_seconds": 3.857437,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.29
+      },
+      {
+        "name": "eslint-config-next",
         "total_seconds": 3.857437,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -216,29 +216,7 @@
         "percent": 0
       },
       {
-        "name": "eslint-plugin-react-hooks",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
         "name": "vite",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "eslint-plugin-react",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -260,7 +238,7 @@
         "percent": 0
       },
       {
-        "name": "@types/react-dom",
+        "name": "@vitejs/plugin-react",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -271,7 +249,29 @@
         "percent": 0
       },
       {
-        "name": "@vitejs/plugin-react",
+        "name": "eslint-plugin-react-hooks",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "eslint-plugin-react",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "@types/react-dom",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
