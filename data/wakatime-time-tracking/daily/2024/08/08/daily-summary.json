@@ -1,26 +1,321 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2098.232992,
+        "digital": "0:34:58",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 58,
+        "percent": 81.13
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 487.934,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 18.87
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 43,
+      "total_seconds": 2586.166992,
+      "digital": "0:43",
+      "decimal": "0.72",
+      "text": "43 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2586.166992,
+        "digital": "0:43:06",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2098.232992,
+        "digital": "0:34:58",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 58,
+        "percent": 81.13
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 487.934,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 18.87
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2586.166992,
+        "digital": "0:43:06",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 2098.232992,
+        "digital": "0:34:58",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 58,
+        "percent": 8.09
+      },
+      {
+        "name": "image",
+        "total_seconds": 2098.232992,
+        "digital": "0:34:58",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 58,
+        "percent": 8.09
+      },
+      {
+        "name": "react-hook-form",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "appwrite.types",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "form",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "zod",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "react-datepicker",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "validation",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "constants",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "CustomFormField",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "select",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "SubmitButton",
+        "total_seconds": 1951.07878,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 7.53
+      },
+      {
+        "name": "AppointmentForm",
+        "total_seconds": 121.88739,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 0.47
+      },
+      {
+        "name": "patient.actions",
+        "total_seconds": 121.88739,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 0.47
+      },
+      {
+        "name": "button",
+        "total_seconds": 25.266822,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.1
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-59f2f5",
+        "total_seconds": 2098.232992,
+        "machine_name_id": "53fd5324-9d50-4a06-95ed-39aa48176807",
+        "digital": "0:34:58",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 58,
+        "percent": 81.13
+      },
+      {
+        "name": "github.dev",
+        "total_seconds": 487.934,
+        "machine_name_id": "018ef240-2e16-42b2-b65a-551cee0df9a4",
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 18.87
+      }
+    ],
+    "projects": [
+      {
+        "name": "CarePulse",
+        "total_seconds": 2098.232992,
+        "digital": "0:34:58",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 58,
+        "percent": 81.13
+      },
+      {
+        "name": "rdp [GitHub]",
+        "total_seconds": 487.934,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 18.87
+      }
+    ],
     "range": {
       "start": "2024-08-08T19:00:00Z",
       "end": "2024-08-09T18:59:59Z",
       "date": "2024-08-09",
       "text": "Fri Aug 9th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
