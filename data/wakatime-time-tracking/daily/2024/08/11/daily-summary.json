@@ -172,17 +172,6 @@
         "percent": 3.53
       },
       {
-        "name": "inquirer",
-        "total_seconds": 873.906987,
-        "digital": "0:14:33",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 33,
-        "percent": 3.53
-      },
-      {
         "name": "openai",
         "total_seconds": 873.906987,
         "digital": "0:14:33",
@@ -216,6 +205,17 @@
         "percent": 3.53
       },
       {
+        "name": "inquirer",
+        "total_seconds": 873.906987,
+        "digital": "0:14:33",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 33,
+        "percent": 3.53
+      },
+      {
         "name": "zod",
         "total_seconds": 868.727759,
         "digital": "0:14:28",
@@ -227,62 +227,7 @@
         "percent": 3.51
       },
       {
-        "name": "constants",
-        "total_seconds": 822.951775,
-        "digital": "0:13:42",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 42,
-        "percent": 3.33
-      },
-      {
-        "name": "navigation",
-        "total_seconds": 822.951775,
-        "digital": "0:13:42",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 42,
-        "percent": 3.33
-      },
-      {
-        "name": "form",
-        "total_seconds": 822.951775,
-        "digital": "0:13:42",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 42,
-        "percent": 3.33
-      },
-      {
-        "name": "select",
-        "total_seconds": 822.951775,
-        "digital": "0:13:42",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 42,
-        "percent": 3.33
-      },
-      {
-        "name": "CustomFormField",
-        "total_seconds": 822.951775,
-        "digital": "0:13:42",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 42,
-        "percent": 3.33
-      },
-      {
-        "name": "SubmitButton",
+        "name": "appointment.actions",
         "total_seconds": 822.951775,
         "digital": "0:13:42",
         "decimal": "0.22",
@@ -304,7 +249,62 @@
         "percent": 3.33
       },
       {
+        "name": "form",
+        "total_seconds": 822.951775,
+        "digital": "0:13:42",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 42,
+        "percent": 3.33
+      },
+      {
+        "name": "SubmitButton",
+        "total_seconds": 822.951775,
+        "digital": "0:13:42",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 42,
+        "percent": 3.33
+      },
+      {
         "name": "react-datepicker",
+        "total_seconds": 822.951775,
+        "digital": "0:13:42",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 42,
+        "percent": 3.33
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 822.951775,
+        "digital": "0:13:42",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 42,
+        "percent": 3.33
+      },
+      {
+        "name": "constants",
+        "total_seconds": 822.951775,
+        "digital": "0:13:42",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 42,
+        "percent": 3.33
+      },
+      {
+        "name": "CustomFormField",
         "total_seconds": 822.951775,
         "digital": "0:13:42",
         "decimal": "0.22",
@@ -326,7 +326,7 @@
         "percent": 3.33
       },
       {
-        "name": "appointment.actions",
+        "name": "select",
         "total_seconds": 822.951775,
         "digital": "0:13:42",
         "decimal": "0.22",
@@ -348,6 +348,17 @@
         "percent": 2.8
       },
       {
+        "name": "node-appwrite",
+        "total_seconds": 685.171815,
+        "digital": "0:11:25",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 25,
+        "percent": 2.77
+      },
+      {
         "name": "appwrite.config",
         "total_seconds": 685.171815,
         "digital": "0:11:25",
@@ -360,17 +371,6 @@
       },
       {
         "name": "cache",
-        "total_seconds": 685.171815,
-        "digital": "0:11:25",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 25,
-        "percent": 2.77
-      },
-      {
-        "name": "node-appwrite",
         "total_seconds": 685.171815,
         "digital": "0:11:25",
         "decimal": "0.18",
@@ -469,6 +469,17 @@
         "percent": 0.21
       },
       {
+        "name": "next",
+        "total_seconds": 13.627771,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.06
+      },
+      {
         "name": "google",
         "total_seconds": 13.627771,
         "digital": "0:00:13",
@@ -481,17 +492,6 @@
       },
       {
         "name": "globals",
-        "total_seconds": 13.627771,
-        "digital": "0:00:13",
-        "decimal": "0.00",
-        "text": "13 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 13,
-        "percent": 0.06
-      },
-      {
-        "name": "next",
         "total_seconds": 13.627771,
         "digital": "0:00:13",
         "decimal": "0.00",
