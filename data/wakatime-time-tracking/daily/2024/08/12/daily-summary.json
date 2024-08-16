@@ -95,7 +95,7 @@
         "percent": 6.84
       },
       {
-        "name": "appointment.actions",
+        "name": "constants",
         "total_seconds": 1495.859515,
         "digital": "0:24:55",
         "decimal": "0.40",
@@ -106,7 +106,7 @@
         "percent": 6.06
       },
       {
-        "name": "constants",
+        "name": "appointment.actions",
         "total_seconds": 1495.859515,
         "digital": "0:24:55",
         "decimal": "0.40",
@@ -126,50 +126,6 @@
         "minutes": 21,
         "seconds": 40,
         "percent": 5.27
-      },
-      {
-        "name": "validation",
-        "total_seconds": 1293.142694,
-        "digital": "0:21:33",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 33,
-        "percent": 5.24
-      },
-      {
-        "name": "form",
-        "total_seconds": 1293.142694,
-        "digital": "0:21:33",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 33,
-        "percent": 5.24
-      },
-      {
-        "name": "SubmitButton",
-        "total_seconds": 1293.142694,
-        "digital": "0:21:33",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 33,
-        "percent": 5.24
-      },
-      {
-        "name": "react-datepicker",
-        "total_seconds": 1293.142694,
-        "digital": "0:21:33",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 33,
-        "percent": 5.24
       },
       {
         "name": "navigation",
@@ -194,6 +150,17 @@
         "percent": 5.24
       },
       {
+        "name": "select",
+        "total_seconds": 1293.142694,
+        "digital": "0:21:33",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 33,
+        "percent": 5.24
+      },
+      {
         "name": "react-hook-form",
         "total_seconds": 1293.142694,
         "digital": "0:21:33",
@@ -205,7 +172,40 @@
         "percent": 5.24
       },
       {
-        "name": "select",
+        "name": "SubmitButton",
+        "total_seconds": 1293.142694,
+        "digital": "0:21:33",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 33,
+        "percent": 5.24
+      },
+      {
+        "name": "validation",
+        "total_seconds": 1293.142694,
+        "digital": "0:21:33",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 33,
+        "percent": 5.24
+      },
+      {
+        "name": "form",
+        "total_seconds": 1293.142694,
+        "digital": "0:21:33",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 33,
+        "percent": 5.24
+      },
+      {
+        "name": "react-datepicker",
         "total_seconds": 1293.142694,
         "digital": "0:21:33",
         "decimal": "0.35",
@@ -249,7 +249,7 @@
         "percent": 2.15
       },
       {
-        "name": "node-appwrite",
+        "name": "appwrite.config",
         "total_seconds": 435.996736,
         "digital": "0:07:15",
         "decimal": "0.12",
@@ -260,7 +260,7 @@
         "percent": 1.77
       },
       {
-        "name": "appwrite.config",
+        "name": "node-appwrite",
         "total_seconds": 435.996736,
         "digital": "0:07:15",
         "decimal": "0.12",
@@ -282,7 +282,7 @@
         "percent": 1.6
       },
       {
-        "name": "AppointmentForm",
+        "name": "patient.actions",
         "total_seconds": 90.849303,
         "digital": "0:01:30",
         "decimal": "0.02",
@@ -293,7 +293,7 @@
         "percent": 0.37
       },
       {
-        "name": "patient.actions",
+        "name": "AppointmentForm",
         "total_seconds": 90.849303,
         "digital": "0:01:30",
         "decimal": "0.02",
@@ -322,6 +322,7 @@
       {
         "name": "CarePulse",
         "total_seconds": 3281.910183,
+        "color": null,
         "digital": "0:54:41",
         "decimal": "0.90",
         "text": "54 mins",
