@@ -62,7 +62,7 @@
     ],
     "dependencies": [
       {
-        "name": "appointment.actions",
+        "name": "utils",
         "total_seconds": 1041.269696,
         "digital": "0:17:21",
         "decimal": "0.28",
@@ -73,7 +73,18 @@
         "percent": 16.67
       },
       {
-        "name": "utils",
+        "name": "constants",
+        "total_seconds": 1041.269696,
+        "digital": "0:17:21",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 21,
+        "percent": 16.67
+      },
+      {
+        "name": "appointment.actions",
         "total_seconds": 1041.269696,
         "digital": "0:17:21",
         "decimal": "0.28",
@@ -95,17 +106,6 @@
         "percent": 16.67
       },
       {
-        "name": "image",
-        "total_seconds": 1041.269696,
-        "digital": "0:17:21",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 21,
-        "percent": 16.67
-      },
-      {
         "name": "link",
         "total_seconds": 1041.269696,
         "digital": "0:17:21",
@@ -117,7 +117,7 @@
         "percent": 16.67
       },
       {
-        "name": "constants",
+        "name": "image",
         "total_seconds": 1041.269696,
         "digital": "0:17:21",
         "decimal": "0.28",
@@ -146,6 +146,7 @@
       {
         "name": "CarePulse",
         "total_seconds": 1041.269696,
+        "color": null,
         "digital": "0:17:21",
         "decimal": "0.28",
         "text": "17 mins",
