@@ -1,56 +1,151 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 25,
-      "total_seconds": 1524.904102,
-      "digital": "0:25",
-      "decimal": "0.42",
-      "text": "25 mins"
-    },
-    "range": {
-      "start": "2024-08-20T19:00:00Z",
-      "end": "2024-08-21T18:59:59Z",
-      "date": "2024-08-21",
-      "text": "Wed Aug 21st 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "potential-enigma",
-        "total_seconds": 1524.904102,
-        "color": null,
-        "digital": "0:25:24",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 1482.218041,
-        "digital": "0:24:42",
-        "decimal": "0.40",
-        "text": "24 mins",
+        "total_seconds": 1831.292655,
+        "digital": "0:30:31",
+        "decimal": "0.50",
+        "text": "30 mins",
         "hours": 0,
-        "minutes": 24,
-        "seconds": 42,
-        "percent": 97.2
+        "minutes": 30,
+        "seconds": 31,
+        "percent": 45.67
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 745.789091,
+        "digital": "0:12:25",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 25,
+        "percent": 18.6
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 459.712408,
+        "digital": "0:07:39",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 39,
+        "percent": 11.47
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 443.616616,
+        "digital": "0:07:23",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 23,
+        "percent": 11.06
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 329.116154,
+        "digital": "0:05:29",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 29,
+        "percent": 8.21
+      },
+      {
+        "name": "INI",
+        "total_seconds": 133.4822,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 3.33
       },
       {
         "name": "Other",
-        "total_seconds": 42.686061,
-        "digital": "0:00:42",
+        "total_seconds": 66.424462,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 1.66
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 6,
+      "total_seconds": 4009.433586,
+      "digital": "1:06",
+      "decimal": "1.10",
+      "text": "1 hr 6 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4009.433586,
+        "digital": "1:06:49",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3691.753614,
+        "digital": "1:01:31",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 92.08
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 317.679972,
+        "digital": "0:05:17",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 17,
+        "percent": 7.92
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3992.010301,
+        "digital": "1:06:32",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 32,
+        "percent": 99.57
+      },
+      {
+        "name": "Building",
+        "total_seconds": 17.423285,
+        "digital": "0:00:17",
         "decimal": "0.00",
-        "text": "42 secs",
+        "text": "17 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 42,
-        "percent": 2.8
+        "seconds": 17,
+        "percent": 0.43
       }
     ],
     "dependencies": [
@@ -63,7 +158,7 @@
         "hours": 0,
         "minutes": 24,
         "seconds": 42,
-        "percent": 55.68
+        "percent": 36.28
       },
       {
         "name": "redis",
@@ -74,26 +169,82 @@
         "hours": 0,
         "minutes": 19,
         "seconds": 40,
-        "percent": 44.32
+        "percent": 28.88
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/marked/marked.min.js\"",
+        "total_seconds": 474.490119,
+        "digital": "0:07:54",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 11.61
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/dompurify@2.3.5/dist/purify.min.js\"",
+        "total_seconds": 474.490119,
+        "digital": "0:07:54",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 11.61
+      },
+      {
+        "name": "\"./main.js\"",
+        "total_seconds": 474.490119,
+        "digital": "0:07:54",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 11.61
       }
     ],
     "machines": [
       {
         "name": "Gitpod",
-        "total_seconds": 1524.904102,
+        "total_seconds": 3691.753614,
         "machine_name_id": "743668a4-b0a0-4343-bc6a-c0f24efb2b9c",
-        "digital": "0:25:24",
-        "decimal": "0.42",
-        "text": "25 mins",
+        "digital": "1:01:31",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 92.08
+      },
+      {
+        "name": "github.dev",
+        "total_seconds": 317.679972,
+        "machine_name_id": "a0ab10c3-1375-4ac6-9f8f-f4a52ec2dc6c",
+        "digital": "0:05:17",
+        "decimal": "0.08",
+        "text": "5 mins",
         "hours": 0,
-        "minutes": 25,
-        "seconds": 24,
-        "percent": 100
+        "minutes": 5,
+        "seconds": 17,
+        "percent": 7.92
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "status-page",
+        "total_seconds": 2166.849512,
+        "digital": "0:36:06",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 6,
+        "percent": 54.04
+      },
+      {
+        "name": "potential-enigma",
         "total_seconds": 1524.904102,
         "digital": "0:25:24",
         "decimal": "0.42",
@@ -101,34 +252,26 @@
         "hours": 0,
         "minutes": 25,
         "seconds": 24,
-        "percent": 100
+        "percent": 38.03
+      },
+      {
+        "name": "status-page [GitHub]",
+        "total_seconds": 317.679972,
+        "digital": "0:05:17",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 17,
+        "percent": 7.92
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 1524.904102,
-        "digital": "0:25:24",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1524.904102,
-        "digital": "0:25:24",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 24,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-08-20T19:00:00Z",
+      "end": "2024-08-21T18:59:59Z",
+      "date": "2024-08-21",
+      "text": "Wed Aug 21st 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
