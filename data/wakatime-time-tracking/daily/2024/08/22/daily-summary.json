@@ -1,26 +1,133 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 99.319909,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 59.11
+      },
+      {
+        "name": "Other",
+        "total_seconds": 68.704247,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 40.89
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 2,
+      "total_seconds": 168.024156,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 168.024156,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 168.024156,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 168.024156,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "axios",
+        "total_seconds": 99.319909,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 50
+      },
+      {
+        "name": "redis",
+        "total_seconds": 99.319909,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 50
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 168.024156,
+        "machine_name_id": "d70820ad-78ed-43d9-8384-27fd4f8b1dfb",
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "potential-enigma",
+        "total_seconds": 168.024156,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-08-22T19:00:00Z",
       "end": "2024-08-23T18:59:59Z",
       "date": "2024-08-23",
       "text": "Fri Aug 23rd 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
