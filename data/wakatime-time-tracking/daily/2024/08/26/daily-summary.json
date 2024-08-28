@@ -1,26 +1,155 @@
 [
   {
+    "languages": [
+      {
+        "name": "CSS",
+        "total_seconds": 51.310264,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 37.1
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 47.40521,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 34.27
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 39.604508,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 28.63
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 2,
+      "total_seconds": 138.319982,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 138.319982,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 138.319982,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 138.319982,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/dompurify@2.3.5/dist/purify.min.js\"",
+        "total_seconds": 39.604508,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 33.33
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/marked/marked.min.js\"",
+        "total_seconds": 39.604508,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 33.33
+      },
+      {
+        "name": "\"./main.js\"",
+        "total_seconds": 39.604508,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 33.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 138.319982,
+        "machine_name_id": "615ad544-6964-4532-8af7-cb8b156c0341",
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "status-page",
+        "total_seconds": 138.319982,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-08-26T19:00:00Z",
       "end": "2024-08-27T18:59:59Z",
       "date": "2024-08-27",
       "text": "Tue Aug 27th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
