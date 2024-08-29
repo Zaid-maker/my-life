@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 7,
-      "total_seconds": 431.686472,
-      "digital": "0:07",
-      "decimal": "0.12",
-      "text": "7 mins"
-    },
-    "range": {
-      "start": "2024-08-27T19:00:00Z",
-      "end": "2024-08-28T18:59:59Z",
-      "date": "2024-08-28",
-      "text": "Wed Aug 28th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "status-page",
-        "total_seconds": 431.686472,
-        "color": null,
-        "digital": "0:07:11",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 11,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "HTML",
@@ -53,55 +24,14 @@
         "percent": 41.44
       }
     ],
-    "dependencies": [
-      {
-        "name": "\"./main.js\"",
-        "total_seconds": 252.81526,
-        "digital": "0:04:12",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 12,
-        "percent": 33.33
-      },
-      {
-        "name": "\"https://cdn.jsdelivr.net/npm/marked/marked.min.js\"",
-        "total_seconds": 252.81526,
-        "digital": "0:04:12",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 12,
-        "percent": 33.33
-      },
-      {
-        "name": "\"https://cdn.jsdelivr.net/npm/dompurify@2.3.5/dist/purify.min.js\"",
-        "total_seconds": 252.81526,
-        "digital": "0:04:12",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 12,
-        "percent": 33.33
-      }
-    ],
-    "machines": [
-      {
-        "name": "Gitpod",
-        "total_seconds": 431.686472,
-        "machine_name_id": "3da0689e-753b-42b2-83f9-bf5fb82f9329",
-        "digital": "0:07:11",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 11,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 431.686472,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -140,6 +70,75 @@
         "seconds": 11,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "\"./main.js\"",
+        "total_seconds": 252.81526,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 33.33
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/dompurify@2.3.5/dist/purify.min.js\"",
+        "total_seconds": 252.81526,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 33.33
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/marked/marked.min.js\"",
+        "total_seconds": 252.81526,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 33.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 431.686472,
+        "machine_name_id": "3da0689e-753b-42b2-83f9-bf5fb82f9329",
+        "digital": "0:07:11",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "status-page",
+        "total_seconds": 431.686472,
+        "digital": "0:07:11",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-08-27T19:00:00Z",
+      "end": "2024-08-28T18:59:59Z",
+      "date": "2024-08-28",
+      "text": "Wed Aug 28th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
