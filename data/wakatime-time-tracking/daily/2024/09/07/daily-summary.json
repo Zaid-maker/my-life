@@ -1,26 +1,233 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1643.716802,
+        "digital": "0:27:23",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 23,
+        "percent": 61.54
+      },
+      {
+        "name": "Python",
+        "total_seconds": 658.202145,
+        "digital": "0:10:58",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 58,
+        "percent": 24.64
+      },
+      {
+        "name": "Other",
+        "total_seconds": 353.34285,
+        "digital": "0:05:53",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 53,
+        "percent": 13.23
+      },
+      {
+        "name": "Text",
+        "total_seconds": 14.099722,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.53
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 1.667874,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.06
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 44,
+      "total_seconds": 2671.029393,
+      "digital": "0:44",
+      "decimal": "0.73",
+      "text": "44 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2671.029393,
+        "digital": "0:44:31",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2671.029393,
+        "digital": "0:44:31",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2671.029393,
+        "digital": "0:44:31",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "next-auth",
+        "total_seconds": 821.279909,
+        "digital": "0:13:41",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 41,
+        "percent": 26.67
+      },
+      {
+        "name": "react",
+        "total_seconds": 695.498476,
+        "digital": "0:11:35",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 35,
+        "percent": 22.59
+      },
+      {
+        "name": "DefaultLayout",
+        "total_seconds": 666.299348,
+        "digital": "0:11:06",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 6,
+        "percent": 21.64
+      },
+      {
+        "name": "subprocess",
+        "total_seconds": 630.933184,
+        "digital": "0:10:30",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 30,
+        "percent": 20.49
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 265.041819,
+        "digital": "0:04:25",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 25,
+        "percent": 8.61
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-36d6c5",
+        "total_seconds": 1762.96284,
+        "machine_name_id": "f930ce3b-1055-4ad3-a9b0-538f20c00710",
+        "digital": "0:29:22",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 22,
+        "percent": 66
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 908.066553,
+        "machine_name_id": "f4279cea-9059-4eb9-b78b-90992471bc95",
+        "digital": "0:15:08",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 8,
+        "percent": 34
+      }
+    ],
+    "projects": [
+      {
+        "name": "protien-bind",
+        "total_seconds": 1762.96284,
+        "digital": "0:29:22",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 22,
+        "percent": 66
+      },
+      {
+        "name": "4-million",
+        "total_seconds": 908.066553,
+        "digital": "0:15:08",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 8,
+        "percent": 34
+      }
+    ],
     "range": {
       "start": "2024-09-07T19:00:00Z",
       "end": "2024-09-08T18:59:59Z",
       "date": "2024-09-08",
       "text": "Sun Sep 8th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
