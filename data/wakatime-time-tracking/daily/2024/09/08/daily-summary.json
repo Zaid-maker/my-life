@@ -1,26 +1,133 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 587.01801,
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 100
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 9,
+      "total_seconds": 587.01801,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 587.01801,
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 587.01801,
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 587.01801,
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 587.01801,
+        "machine_name_id": "ca2ee2c4-0240-4b51-b6cb-3c1c5f251faf",
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 587.01801,
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 100
+      },
+      {
+        "name": "ChatMate",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2024-09-08T19:00:00Z",
       "end": "2024-09-09T18:59:59Z",
       "date": "2024-09-09",
       "text": "Mon Sep 9th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
