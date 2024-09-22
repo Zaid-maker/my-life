@@ -1,26 +1,177 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3701.459426,
+        "digital": "1:01:41",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 93.37
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 128.759052,
+        "digital": "0:02:08",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 8,
+        "percent": 3.25
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 107.701218,
+        "digital": "0:01:47",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 47,
+        "percent": 2.72
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 26.447716,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.67
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 6,
+      "total_seconds": 3964.367412,
+      "digital": "1:06",
+      "decimal": "1.10",
+      "text": "1 hr 6 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3964.367412,
+        "digital": "1:06:04",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3964.367412,
+        "digital": "1:06:04",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3964.367412,
+        "digital": "1:06:04",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 3241.327564,
+        "digital": "0:54:01",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 1,
+        "percent": 71.48
+      },
+      {
+        "name": "react-scroll",
+        "total_seconds": 1145.754923,
+        "digital": "0:19:05",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 5,
+        "percent": 25.27
+      },
+      {
+        "name": "\"/src/main.jsx\"",
+        "total_seconds": 128.759052,
+        "digital": "0:02:08",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 8,
+        "percent": 2.84
+      },
+      {
+        "name": "Header",
+        "total_seconds": 19.042713,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.42
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 3964.367412,
+        "machine_name_id": "4de23904-ca6a-4524-b27f-f63ce88743c1",
+        "digital": "1:06:04",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "landing-page",
+        "total_seconds": 3964.367412,
+        "digital": "1:06:04",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-09-20T19:00:00Z",
       "end": "2024-09-21T18:59:59Z",
       "date": "2024-09-21",
       "text": "Sat Sep 21st 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
