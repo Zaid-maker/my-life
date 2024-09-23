@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 16,
-      "total_seconds": 984.202684,
-      "digital": "0:16",
-      "decimal": "0.27",
-      "text": "16 mins"
-    },
-    "range": {
-      "start": "2024-09-21T19:00:00Z",
-      "end": "2024-09-22T18:59:59Z",
-      "date": "2024-09-22",
-      "text": "Sun Sep 22nd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "landing-page",
+        "name": "JavaScript",
         "total_seconds": 984.202684,
-        "color": null,
         "digital": "0:16:24",
         "decimal": "0.27",
         "text": "16 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 984.202684,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "editors": [
       {
-        "name": "JavaScript",
+        "name": "VS Code",
+        "total_seconds": 984.202684,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 984.202684,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 984.202684,
         "digital": "0:16:24",
         "decimal": "0.27",
@@ -91,9 +109,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "landing-page",
         "total_seconds": 984.202684,
         "digital": "0:16:24",
         "decimal": "0.27",
@@ -104,31 +122,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 984.202684,
-        "digital": "0:16:24",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 984.202684,
-        "digital": "0:16:24",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 24,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-09-21T19:00:00Z",
+      "end": "2024-09-22T18:59:59Z",
+      "date": "2024-09-22",
+      "text": "Sun Sep 22nd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
