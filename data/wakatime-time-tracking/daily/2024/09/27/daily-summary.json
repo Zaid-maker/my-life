@@ -1,26 +1,232 @@
 [
   {
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 302.957865,
+        "digital": "0:05:02",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 2,
+        "percent": 98.65
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 4.15659,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 1.35
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 5,
+      "total_seconds": 307.114455,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 307.114455,
+        "digital": "0:05:07",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 307.114455,
+        "digital": "0:05:07",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 307.114455,
+        "digital": "0:05:07",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "random",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "numpy",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "win32api",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "mss",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "win32con",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "keyboard",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "math",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "time",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "cv2",
+        "total_seconds": 285.013766,
+        "digital": "0:04:45",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 45,
+        "percent": 10
+      },
+      {
+        "name": "pywinauto",
+        "total_seconds": 224.374001,
+        "digital": "0:03:44",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 44,
+        "percent": 7.87
+      },
+      {
+        "name": "pygetwindow",
+        "total_seconds": 60.639765,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 2.13
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 307.114455,
+        "machine_name_id": "8bd53080-fd9a-4d47-af1a-d03747d738f1",
+        "digital": "0:05:07",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blum-autocliker",
+        "total_seconds": 307.114455,
+        "digital": "0:05:07",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2024-09-27T19:00:00Z",
       "end": "2024-09-28T18:59:59Z",
       "date": "2024-09-28",
       "text": "Sat Sep 28th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
