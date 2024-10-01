@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 415.835435,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2024-09-29T19:00:00Z",
-      "end": "2024-09-30T18:59:59Z",
-      "date": "2024-09-30",
-      "text": "Mon Sep 30th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "protien-bind",
-        "total_seconds": 415.835435,
-        "color": null,
-        "digital": "0:06:55",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 55,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -40,11 +11,30 @@
         "minutes": 6,
         "seconds": 55,
         "percent": 100
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
-    "dependencies": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 415.835435,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
+    "editors": [
       {
-        "name": "DefaultLayout",
+        "name": "VS Code",
         "total_seconds": 415.835435,
         "digital": "0:06:55",
         "decimal": "0.10",
@@ -52,8 +42,36 @@
         "hours": 0,
         "minutes": 6,
         "seconds": 55,
-        "percent": 20
-      },
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 415.835435,
+        "digital": "0:06:55",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 415.835435,
+        "digital": "0:06:55",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
       {
         "name": "navigation",
         "total_seconds": 415.835435,
@@ -97,6 +115,17 @@
         "minutes": 6,
         "seconds": 55,
         "percent": 20
+      },
+      {
+        "name": "DefaultLayout",
+        "total_seconds": 415.835435,
+        "digital": "0:06:55",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 55,
+        "percent": 20
       }
     ],
     "machines": [
@@ -111,11 +140,23 @@
         "minutes": 6,
         "seconds": 55,
         "percent": 100
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 0,
+        "machine_name_id": "1ce1c9e0-afe1-46fe-97cb-5e74c480d777",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "protien-bind",
         "total_seconds": 415.835435,
         "digital": "0:06:55",
         "decimal": "0.10",
@@ -124,33 +165,25 @@
         "minutes": 6,
         "seconds": 55,
         "percent": 100
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 415.835435,
-        "digital": "0:06:55",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 55,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 415.835435,
-        "digital": "0:06:55",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 55,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-09-29T19:00:00Z",
+      "end": "2024-09-30T18:59:59Z",
+      "date": "2024-09-30",
+      "text": "Mon Sep 30th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
