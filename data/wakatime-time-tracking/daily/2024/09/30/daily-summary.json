@@ -1,26 +1,211 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 2687.627086,
+        "digital": "0:44:47",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 47,
+        "percent": 97.89
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 1.08
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 28.309141,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 1.03
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 45,
+      "total_seconds": 2745.547383,
+      "digital": "0:45",
+      "decimal": "0.75",
+      "text": "45 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2745.547383,
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2318.905445,
+        "digital": "0:38:38",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 38,
+        "percent": 84.46
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 426.641938,
+        "digital": "0:07:06",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 6,
+        "percent": 15.54
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2745.547383,
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "npm",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      },
+      {
+        "name": "nodemon",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      },
+      {
+        "name": "start-commander",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      },
+      {
+        "name": "winston",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      },
+      {
+        "name": "yargs",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      }
+    ],
+    "machines": [
+      {
+        "name": "Gitpod",
+        "total_seconds": 2318.905445,
+        "machine_name_id": "3e650a61-ffa3-4f81-b730-ea94303eeca8",
+        "digital": "0:38:38",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 38,
+        "percent": 84.46
+      },
+      {
+        "name": "github.dev",
+        "total_seconds": 426.641938,
+        "machine_name_id": "018ef240-2e16-42b2-b65a-551cee0df9a4",
+        "digital": "0:07:06",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 6,
+        "percent": 15.54
+      }
+    ],
+    "projects": [
+      {
+        "name": "pm2-windows-boot",
+        "total_seconds": 2318.905445,
+        "digital": "0:38:38",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 38,
+        "percent": 84.46
+      },
+      {
+        "name": "pm2-windows-boot [GitHub]",
+        "total_seconds": 426.641938,
+        "digital": "0:07:06",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 6,
+        "percent": 15.54
+      }
+    ],
     "range": {
       "start": "2024-09-30T19:00:00Z",
       "end": "2024-10-01T18:59:59Z",
       "date": "2024-10-01",
       "text": "Tue Oct 1st 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
