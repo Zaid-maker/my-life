@@ -1,56 +1,38 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 19,
-      "total_seconds": 1170.182911,
-      "digital": "0:19",
-      "decimal": "0.32",
-      "text": "19 mins"
-    },
-    "range": {
-      "start": "2024-10-01T19:00:00Z",
-      "end": "2024-10-02T18:59:59Z",
-      "date": "2024-10-02",
-      "text": "Wed Oct 2nd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "pm2-windows-boot",
-        "total_seconds": 1170.182911,
-        "color": null,
-        "digital": "0:19:30",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 773.144593,
-        "digital": "0:12:53",
-        "decimal": "0.20",
-        "text": "12 mins",
+        "total_seconds": 1419.144768,
+        "digital": "0:23:39",
+        "decimal": "0.38",
+        "text": "23 mins",
         "hours": 0,
-        "minutes": 12,
-        "seconds": 53,
-        "percent": 66.07
+        "minutes": 23,
+        "seconds": 39,
+        "percent": 61.83
       },
       {
         "name": "JSON",
-        "total_seconds": 332.451636,
-        "digital": "0:05:32",
-        "decimal": "0.08",
-        "text": "5 mins",
+        "total_seconds": 714.83863,
+        "digital": "0:11:54",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 5,
-        "seconds": 32,
-        "percent": 28.41
+        "minutes": 11,
+        "seconds": 54,
+        "percent": 31.15
+      },
+      {
+        "name": "Other",
+        "total_seconds": 88.004632,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 3.83
       },
       {
         "name": "YAML",
@@ -61,119 +43,188 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 4,
-        "percent": 5.52
+        "percent": 2.81
+      },
+      {
+        "name": "VBScript",
+        "total_seconds": 8.48205,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.37
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 38,
+      "total_seconds": 2295.056762,
+      "digital": "0:38",
+      "decimal": "0.63",
+      "text": "38 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2295.056762,
+        "digital": "0:38:15",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2295.056762,
+        "digital": "0:38:15",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2295.056762,
+        "digital": "0:38:15",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 15,
+        "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "start-commander",
-        "total_seconds": 775.210816,
-        "digital": "0:12:55",
+        "total_seconds": 1743.455185,
+        "digital": "0:29:03",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 3,
+        "percent": 21.73
+      },
+      {
+        "name": "chai",
+        "total_seconds": 907.867272,
+        "digital": "0:15:07",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 7,
+        "percent": 11.32
+      },
+      {
+        "name": "winston",
+        "total_seconds": 755.977125,
+        "digital": "0:12:35",
         "decimal": "0.20",
         "text": "12 mins",
         "hours": 0,
         "minutes": 12,
-        "seconds": 55,
-        "percent": 20.7
-      },
-      {
-        "name": "chai",
-        "total_seconds": 523.685303,
-        "digital": "0:08:43",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 43,
-        "percent": 13.98
+        "seconds": 35,
+        "percent": 9.42
       },
       {
         "name": "yargs",
-        "total_seconds": 365.251415,
-        "digital": "0:06:05",
-        "decimal": "0.10",
-        "text": "6 mins",
+        "total_seconds": 749.501774,
+        "digital": "0:12:29",
+        "decimal": "0.20",
+        "text": "12 mins",
         "hours": 0,
-        "minutes": 6,
-        "seconds": 5,
-        "percent": 9.75
-      },
-      {
-        "name": "winston",
-        "total_seconds": 332.451636,
-        "digital": "0:05:32",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 32,
-        "percent": 8.88
-      },
-      {
-        "name": "npm",
-        "total_seconds": 332.451636,
-        "digital": "0:05:32",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 32,
-        "percent": 8.88
+        "minutes": 12,
+        "seconds": 29,
+        "percent": 9.34
       },
       {
         "name": "nodemon",
-        "total_seconds": 332.451636,
-        "digital": "0:05:32",
-        "decimal": "0.08",
-        "text": "5 mins",
+        "total_seconds": 714.83863,
+        "digital": "0:11:54",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 5,
-        "seconds": 32,
-        "percent": 8.88
+        "minutes": 11,
+        "seconds": 54,
+        "percent": 8.91
+      },
+      {
+        "name": "npm",
+        "total_seconds": 714.83863,
+        "digital": "0:11:54",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 54,
+        "percent": 8.91
       },
       {
         "name": "mocha",
-        "total_seconds": 332.451636,
-        "digital": "0:05:32",
-        "decimal": "0.08",
-        "text": "5 mins",
+        "total_seconds": 714.83863,
+        "digital": "0:11:54",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 5,
-        "seconds": 32,
-        "percent": 8.88
+        "minutes": 11,
+        "seconds": 54,
+        "percent": 8.91
       },
       {
         "name": "sinon",
-        "total_seconds": 258.897084,
-        "digital": "0:04:18",
-        "decimal": "0.07",
-        "text": "4 mins",
+        "total_seconds": 643.079053,
+        "digital": "0:10:43",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 4,
-        "seconds": 18,
-        "percent": 6.91
+        "minutes": 10,
+        "seconds": 43,
+        "percent": 8.02
+      },
+      {
+        "name": "logger",
+        "total_seconds": 582.199035,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 7.26
       },
       {
         "name": "fs",
-        "total_seconds": 233.078304,
-        "digital": "0:03:53",
+        "total_seconds": 234.941669,
+        "digital": "0:03:54",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 53,
-        "percent": 6.22
+        "seconds": 54,
+        "percent": 2.93
       },
       {
         "name": "index",
-        "total_seconds": 191.233667,
-        "digital": "0:03:11",
+        "total_seconds": 193.028642,
+        "digital": "0:03:13",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 11,
-        "percent": 5.11
+        "seconds": 13,
+        "percent": 2.41
       },
       {
         "name": "simon",
@@ -184,61 +235,42 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 7,
-        "percent": 1.81
+        "percent": 0.84
       }
     ],
     "machines": [
       {
         "name": "Gitpod",
-        "total_seconds": 1170.182911,
+        "total_seconds": 2295.056762,
         "machine_name_id": "1f6876bc-8ee9-4335-b079-90a366debb23",
-        "digital": "0:19:30",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "digital": "0:38:15",
+        "decimal": "0.63",
+        "text": "38 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 30,
+        "minutes": 38,
+        "seconds": 15,
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1170.182911,
-        "digital": "0:19:30",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "name": "pm2-windows-boot",
+        "total_seconds": 2295.056762,
+        "digital": "0:38:15",
+        "decimal": "0.63",
+        "text": "38 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 30,
+        "minutes": 38,
+        "seconds": 15,
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 1170.182911,
-        "digital": "0:19:30",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1170.182911,
-        "digital": "0:19:30",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 30,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-01T19:00:00Z",
+      "end": "2024-10-02T18:59:59Z",
+      "date": "2024-10-02",
+      "text": "Wed Oct 2nd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
