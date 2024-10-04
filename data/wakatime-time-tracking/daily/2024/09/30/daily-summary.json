@@ -95,29 +95,18 @@
     ],
     "dependencies": [
       {
-        "name": "npm",
-        "total_seconds": 29.611156,
-        "digital": "0:00:29",
-        "decimal": "0.00",
-        "text": "29 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 29,
-        "percent": 20
-      },
-      {
-        "name": "nodemon",
-        "total_seconds": 29.611156,
-        "digital": "0:00:29",
-        "decimal": "0.00",
-        "text": "29 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 29,
-        "percent": 20
-      },
-      {
         "name": "start-commander",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      },
+      {
+        "name": "yargs",
         "total_seconds": 29.611156,
         "digital": "0:00:29",
         "decimal": "0.00",
@@ -139,7 +128,18 @@
         "percent": 20
       },
       {
-        "name": "yargs",
+        "name": "npm",
+        "total_seconds": 29.611156,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 20
+      },
+      {
+        "name": "nodemon",
         "total_seconds": 29.611156,
         "digital": "0:00:29",
         "decimal": "0.00",
@@ -180,6 +180,7 @@
       {
         "name": "pm2-windows-boot",
         "total_seconds": 2318.905445,
+        "color": null,
         "digital": "0:38:38",
         "decimal": "0.63",
         "text": "38 mins",
@@ -191,6 +192,7 @@
       {
         "name": "pm2-windows-boot [GitHub]",
         "total_seconds": 426.641938,
+        "color": null,
         "digital": "0:07:06",
         "decimal": "0.12",
         "text": "7 mins",

@@ -1,26 +1,299 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 4268.227164,
+        "digital": "1:11:08",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 8,
+        "percent": 98.04
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 48.472012,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 1.11
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 34.017985,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.78
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 2.852992,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.07
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 12,
+      "total_seconds": 4353.570153,
+      "digital": "1:12",
+      "decimal": "1.20",
+      "text": "1 hr 12 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 4268.227164,
+        "digital": "1:11:08",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 8,
+        "percent": 21.12
+      },
+      {
+        "name": "Hamster",
+        "total_seconds": 3966.913211,
+        "digital": "1:06:06",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 6,
+        "percent": 19.63
+      },
+      {
+        "name": "images",
+        "total_seconds": 2845.739015,
+        "digital": "0:47:25",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 25,
+        "percent": 14.08
+      },
+      {
+        "name": "Info",
+        "total_seconds": 2666.708976,
+        "digital": "0:44:26",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 26,
+        "percent": 13.2
+      },
+      {
+        "name": "Settings",
+        "total_seconds": 2547.360717,
+        "digital": "0:42:27",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 27,
+        "percent": 12.61
+      },
+      {
+        "name": "Mine",
+        "total_seconds": 1040.677187,
+        "digital": "0:17:20",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 5.15
+      },
+      {
+        "name": "Coins",
+        "total_seconds": 1040.677187,
+        "digital": "0:17:20",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 5.15
+      },
+      {
+        "name": "Friends",
+        "total_seconds": 1040.677187,
+        "digital": "0:17:20",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 5.15
+      },
+      {
+        "name": "App",
+        "total_seconds": 677.233565,
+        "digital": "0:11:17",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 17,
+        "percent": 3.35
+      },
+      {
+        "name": "vite",
+        "total_seconds": 64.027812,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 0.32
+      },
+      {
+        "name": "\"/src/main.tsx\"",
+        "total_seconds": 48.472012,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.24
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MG5KQAF",
+        "total_seconds": 4353.570153,
+        "machine_name_id": "25478dec-ee05-47ef-9233-c7fbbf138aa0",
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      },
+      {
+        "name": "Gitpod",
+        "total_seconds": 0,
+        "machine_name_id": "8568e94b-7ad5-49ae-87f4-94824c868e32",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hamster",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      },
+      {
+        "name": "pm2-windows-boot",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "range": {
       "start": "2024-10-02T19:00:00Z",
       "end": "2024-10-03T18:59:59Z",
       "date": "2024-10-03",
       "text": "Thu Oct 3rd 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
