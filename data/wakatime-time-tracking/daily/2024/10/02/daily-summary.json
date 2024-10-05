@@ -172,6 +172,17 @@
         "percent": 12.61
       },
       {
+        "name": "Friends",
+        "total_seconds": 1040.677187,
+        "digital": "0:17:20",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 5.15
+      },
+      {
         "name": "Mine",
         "total_seconds": 1040.677187,
         "digital": "0:17:20",
@@ -184,17 +195,6 @@
       },
       {
         "name": "Coins",
-        "total_seconds": 1040.677187,
-        "digital": "0:17:20",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 20,
-        "percent": 5.15
-      },
-      {
-        "name": "Friends",
         "total_seconds": 1040.677187,
         "digital": "0:17:20",
         "decimal": "0.28",
@@ -268,6 +268,7 @@
       {
         "name": "Hamster",
         "total_seconds": 4353.570153,
+        "color": null,
         "digital": "1:12:33",
         "decimal": "1.20",
         "text": "1 hr 12 mins",
@@ -279,6 +280,7 @@
       {
         "name": "pm2-windows-boot",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
