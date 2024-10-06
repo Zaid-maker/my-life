@@ -106,6 +106,17 @@
     ],
     "dependencies": [
       {
+        "name": "asyncio",
+        "total_seconds": 9.457603,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 25.72
+      },
+      {
         "name": "main",
         "total_seconds": 9.457603,
         "digital": "0:00:09",
@@ -118,17 +129,6 @@
       },
       {
         "name": "core",
-        "total_seconds": 9.457603,
-        "digital": "0:00:09",
-        "decimal": "0.00",
-        "text": "9 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 9,
-        "percent": 25.72
-      },
-      {
-        "name": "asyncio",
         "total_seconds": 9.457603,
         "digital": "0:00:09",
         "decimal": "0.00",
@@ -161,18 +161,7 @@
         "percent": 0
       },
       {
-        "name": "keyboard",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "typing",
+        "name": "pygetwindow",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -205,7 +194,18 @@
         "percent": 0
       },
       {
-        "name": "pygetwindow",
+        "name": "typing",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "keyboard",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -234,6 +234,7 @@
       {
         "name": "Profile Card",
         "total_seconds": 1295.039812,
+        "color": null,
         "digital": "0:21:35",
         "decimal": "0.35",
         "text": "21 mins",
@@ -245,6 +246,7 @@
       {
         "name": "Product hover",
         "total_seconds": 1182.841288,
+        "color": null,
         "digital": "0:19:42",
         "decimal": "0.32",
         "text": "19 mins",
@@ -256,6 +258,7 @@
       {
         "name": "pikachu-hover-effext",
         "total_seconds": 750.276454,
+        "color": null,
         "digital": "0:12:30",
         "decimal": "0.20",
         "text": "12 mins",
@@ -267,6 +270,7 @@
       {
         "name": "Product Card",
         "total_seconds": 705.171603,
+        "color": null,
         "digital": "0:11:45",
         "decimal": "0.18",
         "text": "11 mins",
@@ -278,6 +282,7 @@
       {
         "name": "photo-gallery",
         "total_seconds": 687.08003,
+        "color": null,
         "digital": "0:11:27",
         "decimal": "0.18",
         "text": "11 mins",
@@ -289,6 +294,7 @@
       {
         "name": "404",
         "total_seconds": 562.23945,
+        "color": null,
         "digital": "0:09:22",
         "decimal": "0.15",
         "text": "9 mins",
@@ -300,6 +306,7 @@
       {
         "name": "Blum-AutoClicker",
         "total_seconds": 74.314754,
+        "color": null,
         "digital": "0:01:14",
         "decimal": "0.02",
         "text": "1 min",
@@ -311,6 +318,7 @@
       {
         "name": "Hamster",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
