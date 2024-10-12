@@ -150,7 +150,7 @@
     ],
     "dependencies": [
       {
-        "name": "express",
+        "name": "cors",
         "total_seconds": 305.343086,
         "digital": "0:05:05",
         "decimal": "0.08",
@@ -172,7 +172,7 @@
         "percent": 19.53
       },
       {
-        "name": "cors",
+        "name": "express",
         "total_seconds": 305.343086,
         "digital": "0:05:05",
         "decimal": "0.08",
@@ -194,39 +194,6 @@
         "percent": 15.89
       },
       {
-        "name": "@types/node",
-        "total_seconds": 56.993674,
-        "digital": "0:00:56",
-        "decimal": "0.00",
-        "text": "56 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 56,
-        "percent": 3.65
-      },
-      {
-        "name": "@types/cors",
-        "total_seconds": 56.993674,
-        "digital": "0:00:56",
-        "decimal": "0.00",
-        "text": "56 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 56,
-        "percent": 3.65
-      },
-      {
-        "name": "nodemon",
-        "total_seconds": 56.993674,
-        "digital": "0:00:56",
-        "decimal": "0.00",
-        "text": "56 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 56,
-        "percent": 3.65
-      },
-      {
         "name": "npm",
         "total_seconds": 56.993674,
         "digital": "0:00:56",
@@ -238,7 +205,7 @@
         "percent": 3.65
       },
       {
-        "name": "ts-node",
+        "name": "typescript",
         "total_seconds": 56.993674,
         "digital": "0:00:56",
         "decimal": "0.00",
@@ -260,7 +227,40 @@
         "percent": 3.65
       },
       {
-        "name": "typescript",
+        "name": "nodemon",
+        "total_seconds": 56.993674,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 3.65
+      },
+      {
+        "name": "@types/cors",
+        "total_seconds": 56.993674,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 3.65
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 56.993674,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 3.65
+      },
+      {
+        "name": "ts-node",
         "total_seconds": 56.993674,
         "digital": "0:00:56",
         "decimal": "0.00",
@@ -289,6 +289,7 @@
       {
         "name": "major-bot",
         "total_seconds": 854.599354,
+        "color": null,
         "digital": "0:14:14",
         "decimal": "0.23",
         "text": "14 mins",
@@ -300,6 +301,7 @@
       {
         "name": "internet-speed-backend",
         "total_seconds": 421.18618,
+        "color": null,
         "digital": "0:07:01",
         "decimal": "0.12",
         "text": "7 mins",
@@ -311,6 +313,7 @@
       {
         "name": "SeedCoinBot",
         "total_seconds": 0.97724,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
