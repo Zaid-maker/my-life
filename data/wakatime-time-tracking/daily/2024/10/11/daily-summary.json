@@ -106,7 +106,7 @@
         "percent": 18.55
       },
       {
-        "name": "class-variance-authority",
+        "name": "react-slot",
         "total_seconds": 40.021345,
         "digital": "0:00:40",
         "decimal": "0.00",
@@ -117,7 +117,7 @@
         "percent": 12.84
       },
       {
-        "name": "react-slot",
+        "name": "class-variance-authority",
         "total_seconds": 40.021345,
         "digital": "0:00:40",
         "decimal": "0.00",
@@ -130,22 +130,35 @@
     ],
     "machines": [
       {
-        "name": "DESKTOP-MG5KQAF",
-        "total_seconds": 115.831301,
+        "name": "DESKTOP-MG5KQAF from 2a09:bac1:5b00:28::241:37",
+        "total_seconds": 98.040772,
         "machine_name_id": "10876a75-7d64-4c59-aaa5-5b1ae88a47ce",
-        "digital": "0:01:55",
+        "digital": "0:01:38",
         "decimal": "0.02",
         "text": "1 min",
         "hours": 0,
         "minutes": 1,
-        "seconds": 55,
-        "percent": 100
+        "seconds": 38,
+        "percent": 84.64
+      },
+      {
+        "name": "DESKTOP-MG5KQAF from 104.28.212.129",
+        "total_seconds": 17.790529,
+        "machine_name_id": "d0a5f51e-05ac-4fb3-8748-2f55504b858d",
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 15.36
       }
     ],
     "projects": [
       {
         "name": "jira-clone",
         "total_seconds": 115.831301,
+        "color": null,
         "digital": "0:01:55",
         "decimal": "0.02",
         "text": "1 min",
