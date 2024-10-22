@@ -1,5 +1,46 @@
 [
   {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 37,
+      "total_seconds": 13048.688178,
+      "digital": "3:37",
+      "decimal": "3.62",
+      "text": "3 hrs 37 mins"
+    },
+    "range": {
+      "start": "2024-10-17T19:00:00Z",
+      "end": "2024-10-18T18:59:59Z",
+      "date": "2024-10-18",
+      "text": "Fri Oct 18th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "jira-clone",
+        "total_seconds": 10921.066172,
+        "color": null,
+        "digital": "3:02:01",
+        "decimal": "3.03",
+        "text": "3 hrs 2 mins",
+        "hours": 3,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 83.69
+      },
+      {
+        "name": "demo-kuma",
+        "total_seconds": 2127.622006,
+        "color": null,
+        "digital": "0:35:27",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 27,
+        "percent": 16.31
+      }
+    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -77,53 +118,6 @@
         "minutes": 0,
         "seconds": 3,
         "percent": 0.03
-      }
-    ],
-    "grand_total": {
-      "hours": 3,
-      "minutes": 37,
-      "total_seconds": 13048.688178,
-      "digital": "3:37",
-      "decimal": "3.62",
-      "text": "3 hrs 37 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 13048.688178,
-        "digital": "3:37:28",
-        "decimal": "3.62",
-        "text": "3 hrs 37 mins",
-        "hours": 3,
-        "minutes": 37,
-        "seconds": 28,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 13048.688178,
-        "digital": "3:37:28",
-        "decimal": "3.62",
-        "text": "3 hrs 37 mins",
-        "hours": 3,
-        "minutes": 37,
-        "seconds": 28,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 13048.688178,
-        "digital": "3:37:28",
-        "decimal": "3.62",
-        "text": "3 hrs 37 mins",
-        "hours": 3,
-        "minutes": 37,
-        "seconds": 28,
-        "percent": 100
       }
     ],
     "dependencies": [
@@ -1443,38 +1437,44 @@
         "percent": 0
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "jira-clone",
-        "total_seconds": 10921.066172,
-        "color": null,
-        "digital": "3:02:01",
-        "decimal": "3.03",
-        "text": "3 hrs 2 mins",
+        "name": "VS Code",
+        "total_seconds": 13048.688178,
+        "digital": "3:37:28",
+        "decimal": "3.62",
+        "text": "3 hrs 37 mins",
         "hours": 3,
-        "minutes": 2,
-        "seconds": 1,
-        "percent": 83.69
-      },
-      {
-        "name": "demo-kuma",
-        "total_seconds": 2127.622006,
-        "color": null,
-        "digital": "0:35:27",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 27,
-        "percent": 16.31
+        "minutes": 37,
+        "seconds": 28,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-10-17T19:00:00Z",
-      "end": "2024-10-18T18:59:59Z",
-      "date": "2024-10-18",
-      "text": "Fri Oct 18th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13048.688178,
+        "digital": "3:37:28",
+        "decimal": "3.62",
+        "text": "3 hrs 37 mins",
+        "hours": 3,
+        "minutes": 37,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13048.688178,
+        "digital": "3:37:28",
+        "decimal": "3.62",
+        "text": "3 hrs 37 mins",
+        "hours": 3,
+        "minutes": 37,
+        "seconds": 28,
+        "percent": 100
+      }
+    ]
   }
 ]

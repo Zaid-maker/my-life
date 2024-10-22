@@ -1,0 +1,354 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 50,
+      "total_seconds": 3021.603456,
+      "digital": "0:50",
+      "decimal": "0.83",
+      "text": "50 mins"
+    },
+    "range": {
+      "start": "2024-10-21T19:00:00Z",
+      "end": "2024-10-22T18:59:59Z",
+      "date": "2024-10-22",
+      "text": "Tue Oct 22nd 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "test-peripherals-app",
+        "total_seconds": 3021.603456,
+        "color": null,
+        "digital": "0:50:21",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3013.947107,
+        "digital": "0:50:13",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 13,
+        "percent": 99.75
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.25
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 871.608906,
+        "digital": "0:14:31",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 31,
+        "percent": 21.16
+      },
+      {
+        "name": "MouseTester",
+        "total_seconds": 755.827716,
+        "digital": "0:12:35",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 18.35
+      },
+      {
+        "name": "KeyboardTester",
+        "total_seconds": 690.105969,
+        "digital": "0:11:30",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 30,
+        "percent": 16.75
+      },
+      {
+        "name": "GamepadTester",
+        "total_seconds": 661.652191,
+        "digital": "0:11:01",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 1,
+        "percent": 16.06
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 534.232167,
+        "digital": "0:08:54",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 54,
+        "percent": 12.97
+      },
+      {
+        "name": "TestResults",
+        "total_seconds": 375.648645,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 9.12
+      },
+      {
+        "name": "axios",
+        "total_seconds": 115.341958,
+        "digital": "0:01:55",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 55,
+        "percent": 2.8
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "npm",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "@vitejs/plugin-react-swc",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "eslint-plugin-react-refresh",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "globals",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "@eslint/js",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "autoprefixer",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "vite",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "eslint-plugin-react-hooks",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      },
+      {
+        "name": "eslint-plugin-react",
+        "total_seconds": 7.656349,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.19
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 39.62.3.238",
+        "total_seconds": 3021.603456,
+        "machine_name_id": "3f38988d-a0c2-402e-8dff-f7751492e722",
+        "digital": "0:50:21",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3021.603456,
+        "digital": "0:50:21",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3021.603456,
+        "digital": "0:50:21",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3021.603456,
+        "digital": "0:50:21",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 21,
+        "percent": 100
+      }
+    ]
+  }
+]
