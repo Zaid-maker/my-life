@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 9,
-      "total_seconds": 572.837565,
-      "digital": "0:09",
-      "decimal": "0.15",
-      "text": "9 mins"
-    },
-    "range": {
-      "start": "2024-10-19T19:00:00Z",
-      "end": "2024-10-20T18:59:59Z",
-      "date": "2024-10-20",
-      "text": "Sun Oct 20th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "jira-clone",
+        "name": "TypeScript",
         "total_seconds": 572.837565,
-        "color": null,
         "digital": "0:09:32",
         "decimal": "0.15",
         "text": "9 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 572.837565,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 572.837565,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 572.837565,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 572.837565,
         "digital": "0:09:32",
         "decimal": "0.15",
@@ -183,10 +201,11 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "jira-clone",
         "total_seconds": 572.837565,
+        "color": null,
         "digital": "0:09:32",
         "decimal": "0.15",
         "text": "9 mins",
@@ -196,31 +215,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 572.837565,
-        "digital": "0:09:32",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 32,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 572.837565,
-        "digital": "0:09:32",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 32,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-19T19:00:00Z",
+      "end": "2024-10-20T18:59:59Z",
+      "date": "2024-10-20",
+      "text": "Sun Oct 20th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

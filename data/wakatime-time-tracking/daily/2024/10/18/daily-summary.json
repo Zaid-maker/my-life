@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 42,
-      "total_seconds": 9772.938995,
-      "digital": "2:42",
-      "decimal": "2.70",
-      "text": "2 hrs 42 mins"
-    },
-    "range": {
-      "start": "2024-10-18T19:00:00Z",
-      "end": "2024-10-19T18:59:59Z",
-      "date": "2024-10-19",
-      "text": "Sat Oct 19th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "jira-clone",
-        "total_seconds": 9147.280353,
-        "color": null,
-        "digital": "2:32:27",
-        "decimal": "2.53",
-        "text": "2 hrs 32 mins",
-        "hours": 2,
-        "minutes": 32,
-        "seconds": 27,
-        "percent": 93.6
-      },
-      {
-        "name": "MemeFiBot-New",
-        "total_seconds": 438.000491,
-        "color": null,
-        "digital": "0:07:18",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 18,
-        "percent": 4.48
-      },
-      {
-        "name": "global-internet-speeds",
-        "total_seconds": 187.658151,
-        "color": null,
-        "digital": "0:03:07",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 7,
-        "percent": 1.92
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -141,6 +88,53 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 42,
+      "total_seconds": 9772.938995,
+      "digital": "2:42",
+      "decimal": "2.70",
+      "text": "2 hrs 42 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9772.938995,
+        "digital": "2:42:52",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9772.938995,
+        "digital": "2:42:52",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9772.938995,
+        "digital": "2:42:52",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 52,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1460,44 +1454,50 @@
         "percent": 0.01
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 9772.938995,
-        "digital": "2:42:52",
-        "decimal": "2.70",
-        "text": "2 hrs 42 mins",
+        "name": "jira-clone",
+        "total_seconds": 9147.280353,
+        "color": null,
+        "digital": "2:32:27",
+        "decimal": "2.53",
+        "text": "2 hrs 32 mins",
         "hours": 2,
-        "minutes": 42,
-        "seconds": 52,
-        "percent": 100
+        "minutes": 32,
+        "seconds": 27,
+        "percent": 93.6
+      },
+      {
+        "name": "MemeFiBot-New",
+        "total_seconds": 438.000491,
+        "color": null,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 4.48
+      },
+      {
+        "name": "global-internet-speeds",
+        "total_seconds": 187.658151,
+        "color": null,
+        "digital": "0:03:07",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 7,
+        "percent": 1.92
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 9772.938995,
-        "digital": "2:42:52",
-        "decimal": "2.70",
-        "text": "2 hrs 42 mins",
-        "hours": 2,
-        "minutes": 42,
-        "seconds": 52,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 9772.938995,
-        "digital": "2:42:52",
-        "decimal": "2.70",
-        "text": "2 hrs 42 mins",
-        "hours": 2,
-        "minutes": 42,
-        "seconds": 52,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-18T19:00:00Z",
+      "end": "2024-10-19T18:59:59Z",
+      "date": "2024-10-19",
+      "text": "Sat Oct 19th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

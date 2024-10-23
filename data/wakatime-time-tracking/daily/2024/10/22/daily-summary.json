@@ -1,0 +1,576 @@
+[
+  {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 14,
+      "total_seconds": 4456.958529,
+      "digital": "1:14",
+      "decimal": "1.23",
+      "text": "1 hr 14 mins"
+    },
+    "range": {
+      "start": "2024-10-22T19:00:00Z",
+      "end": "2024-10-23T18:59:59Z",
+      "date": "2024-10-23",
+      "text": "Wed Oct 23rd 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "jira-clone",
+        "total_seconds": 2183.616802,
+        "color": null,
+        "digital": "0:36:23",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 23,
+        "percent": 48.99
+      },
+      {
+        "name": "test-peripherals-app",
+        "total_seconds": 1846.311626,
+        "color": null,
+        "digital": "0:30:46",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 46,
+        "percent": 41.43
+      },
+      {
+        "name": "goku",
+        "total_seconds": 427.030101,
+        "color": null,
+        "digital": "0:07:07",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 7,
+        "percent": 9.58
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1846.311626,
+        "digital": "0:30:46",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 46,
+        "percent": 41.43
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1605.377929,
+        "digital": "0:26:45",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 45,
+        "percent": 36.02
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1005.268974,
+        "digital": "0:16:45",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 45,
+        "percent": 22.56
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 1124.588881,
+        "digital": "0:18:44",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 44,
+        "percent": 10.08
+      },
+      {
+        "name": "use-current",
+        "total_seconds": 897.84468,
+        "digital": "0:14:57",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 57,
+        "percent": 8.05
+      },
+      {
+        "name": "avatar",
+        "total_seconds": 702.102425,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 6.29
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 702.102425,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 6.29
+      },
+      {
+        "name": "dropdown-menu",
+        "total_seconds": 702.102425,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 6.29
+      },
+      {
+        "name": "KeyboardTester",
+        "total_seconds": 617.716746,
+        "digital": "0:10:17",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 17,
+        "percent": 5.54
+      },
+      {
+        "name": "MouseTester",
+        "total_seconds": 617.716746,
+        "digital": "0:10:17",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 17,
+        "percent": 5.54
+      },
+      {
+        "name": "GamepadTester",
+        "total_seconds": 617.716746,
+        "digital": "0:10:17",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 17,
+        "percent": 5.54
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 617.716746,
+        "digital": "0:10:17",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 17,
+        "percent": 5.54
+      },
+      {
+        "name": "TestResults",
+        "total_seconds": 617.716746,
+        "digital": "0:10:17",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 17,
+        "percent": 5.54
+      },
+      {
+        "name": "TouchScreenTester",
+        "total_seconds": 617.716746,
+        "digital": "0:10:17",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 17,
+        "percent": 5.54
+      },
+      {
+        "name": "MicrophoneTester",
+        "total_seconds": 566.151301,
+        "digital": "0:09:26",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 26,
+        "percent": 5.08
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 474.322637,
+        "digital": "0:07:54",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 4.25
+      },
+      {
+        "name": "node-appwrite",
+        "total_seconds": 398.213299,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 3.57
+      },
+      {
+        "name": "server-only",
+        "total_seconds": 378.701213,
+        "digital": "0:06:18",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 18,
+        "percent": 3.4
+      },
+      {
+        "name": "button",
+        "total_seconds": 309.31995,
+        "digital": "0:05:09",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 9,
+        "percent": 2.77
+      },
+      {
+        "name": "link",
+        "total_seconds": 278.580382,
+        "digital": "0:04:38",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 38,
+        "percent": 2.5
+      },
+      {
+        "name": "image",
+        "total_seconds": 278.580382,
+        "digital": "0:04:38",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 38,
+        "percent": 2.5
+      },
+      {
+        "name": "user-button",
+        "total_seconds": 195.742255,
+        "digital": "0:03:15",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 15,
+        "percent": 1.75
+      },
+      {
+        "name": "use-logout",
+        "total_seconds": 195.742255,
+        "digital": "0:03:15",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 15,
+        "percent": 1.75
+      },
+      {
+        "name": "axios",
+        "total_seconds": 59.003104,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 0.53
+      },
+      {
+        "name": "input",
+        "total_seconds": 30.739568,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.28
+      },
+      {
+        "name": "react-hook-form",
+        "total_seconds": 30.739568,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.28
+      },
+      {
+        "name": "form",
+        "total_seconds": 30.739568,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.28
+      },
+      {
+        "name": "schemas",
+        "total_seconds": 30.739568,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.28
+      },
+      {
+        "name": "use-register",
+        "total_seconds": 30.739568,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.28
+      },
+      {
+        "name": "zod",
+        "total_seconds": 30.739568,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.28
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac1:6560:8::278:ab",
+        "total_seconds": 902.534026,
+        "machine_name_id": "d4762585-0a60-450e-b0ac-ad07171aec21",
+        "digital": "0:15:02",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 2,
+        "percent": 20.25
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac1:6520:8::278:ab",
+        "total_seconds": 660.402606,
+        "machine_name_id": "df9d55ec-b744-4830-928f-f010ebc22da9",
+        "digital": "0:11:00",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 0,
+        "percent": 14.82
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55ff:18c8::278:ab",
+        "total_seconds": 659.099686,
+        "machine_name_id": "1f904268-007a-40cb-b98e-17ac962eaf6b",
+        "digital": "0:10:59",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 59,
+        "percent": 14.79
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55f8:18c8::278:ab",
+        "total_seconds": 499.022211,
+        "machine_name_id": "0183061e-cf78-4469-82ad-a2db6c005898",
+        "digital": "0:08:19",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 19,
+        "percent": 11.2
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55fb:18c8::278:ab",
+        "total_seconds": 473.037567,
+        "machine_name_id": "108ce004-a57a-4d92-bbc3-b60f6b61974a",
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 10.61
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55f9:18c8::278:ab",
+        "total_seconds": 368.775322,
+        "machine_name_id": "3d0f4fea-6fac-42a7-9a3a-d9204a3c3ab7",
+        "digital": "0:06:08",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 8,
+        "percent": 8.27
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55fd:18c8::278:ab",
+        "total_seconds": 287.349464,
+        "machine_name_id": "8441251b-cee2-469e-ad1a-4ae12fc01049",
+        "digital": "0:04:47",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 6.45
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55fc:18c8::278:ab",
+        "total_seconds": 203.637555,
+        "machine_name_id": "2dc053a4-d347-44cc-92e6-fb48c2fb995d",
+        "digital": "0:03:23",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 23,
+        "percent": 4.57
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55fe:18c8::278:ab",
+        "total_seconds": 146.365854,
+        "machine_name_id": "d76d2f72-dd6c-46eb-8257-ee570d63d9a7",
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 3.28
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac1:6540:8::278:ab",
+        "total_seconds": 141.429394,
+        "machine_name_id": "68284d64-8027-4abc-a618-4b68bb8a63b4",
+        "digital": "0:02:21",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 3.17
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac5:55fa:18c8::278:ab",
+        "total_seconds": 77.759658,
+        "machine_name_id": "be1f3036-3338-481b-bc32-aa4b17750d2d",
+        "digital": "0:01:17",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 17,
+        "percent": 1.74
+      },
+      {
+        "name": "DESKTOP-E874US7 from 2a09:bac1:6500:8::278:ab",
+        "total_seconds": 37.545186,
+        "machine_name_id": "b29bc38e-caaa-432c-8794-9af814d84779",
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.84
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4456.958529,
+        "digital": "1:14:16",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4456.958529,
+        "digital": "1:14:16",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4456.958529,
+        "digital": "1:14:16",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 100
+      }
+    ]
+  }
+]
