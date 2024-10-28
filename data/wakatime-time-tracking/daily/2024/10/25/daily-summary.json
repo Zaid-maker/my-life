@@ -3,78 +3,78 @@
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 7731.352206,
+        "total_seconds": 7731.893913,
         "digital": "2:08:51",
         "decimal": "2.13",
         "text": "2 hrs 8 mins",
         "hours": 2,
         "minutes": 8,
         "seconds": 51,
-        "percent": 93.26
+        "percent": 92.22
       },
       {
         "name": "Other",
-        "total_seconds": 559.121118,
-        "digital": "0:09:19",
-        "decimal": "0.15",
-        "text": "9 mins",
+        "total_seconds": 652.045423,
+        "digital": "0:10:52",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 9,
-        "seconds": 19,
-        "percent": 6.74
+        "minutes": 10,
+        "seconds": 52,
+        "percent": 7.78
       }
     ],
     "grand_total": {
       "hours": 2,
-      "minutes": 18,
-      "total_seconds": 8290.473324,
-      "digital": "2:18",
-      "decimal": "2.30",
-      "text": "2 hrs 18 mins"
+      "minutes": 19,
+      "total_seconds": 8383.939336,
+      "digital": "2:19",
+      "decimal": "2.32",
+      "text": "2 hrs 19 mins"
     },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 8290.473324,
-        "digital": "2:18:10",
-        "decimal": "2.30",
-        "text": "2 hrs 18 mins",
+        "total_seconds": 8383.939336,
+        "digital": "2:19:43",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
         "hours": 2,
-        "minutes": 18,
-        "seconds": 10,
+        "minutes": 19,
+        "seconds": 43,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 8290.473324,
-        "digital": "2:18:10",
-        "decimal": "2.30",
-        "text": "2 hrs 18 mins",
+        "total_seconds": 8383.939336,
+        "digital": "2:19:43",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
         "hours": 2,
-        "minutes": 18,
-        "seconds": 10,
+        "minutes": 19,
+        "seconds": 43,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 8290.473324,
-        "digital": "2:18:10",
-        "decimal": "2.30",
-        "text": "2 hrs 18 mins",
+        "total_seconds": 8383.939336,
+        "digital": "2:19:43",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
         "hours": 2,
-        "minutes": 18,
-        "seconds": 10,
+        "minutes": 19,
+        "seconds": 43,
         "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "schemas",
-        "total_seconds": 3012.279278,
+        "total_seconds": 3012.494509,
         "digital": "0:50:12",
         "decimal": "0.83",
         "text": "50 mins",
@@ -195,7 +195,7 @@
       },
       {
         "name": "hono",
-        "total_seconds": 1005.017364,
+        "total_seconds": 1005.232595,
         "digital": "0:16:45",
         "decimal": "0.27",
         "text": "16 mins",
@@ -227,8 +227,8 @@
         "percent": 2.05
       },
       {
-        "name": "session-middleware",
-        "total_seconds": 623.000252,
+        "name": "zod-validator",
+        "total_seconds": 623.215483,
         "digital": "0:10:23",
         "decimal": "0.17",
         "text": "10 mins",
@@ -238,8 +238,8 @@
         "percent": 2.04
       },
       {
-        "name": "zod-validator",
-        "total_seconds": 623.000252,
+        "name": "session-middleware",
+        "total_seconds": 623.215483,
         "digital": "0:10:23",
         "decimal": "0.17",
         "text": "10 mins",
@@ -261,7 +261,7 @@
       },
       {
         "name": "config",
-        "total_seconds": 503.644606,
+        "total_seconds": 503.859837,
         "digital": "0:08:23",
         "decimal": "0.13",
         "text": "8 mins",
@@ -283,7 +283,7 @@
       },
       {
         "name": "node-appwrite",
-        "total_seconds": 442.530735,
+        "total_seconds": 442.745966,
         "digital": "0:07:22",
         "decimal": "0.12",
         "text": "7 mins",
@@ -425,28 +425,6 @@
         "percent": 0.13
       },
       {
-        "name": "query-provider",
-        "total_seconds": 35.841073,
-        "digital": "0:00:35",
-        "decimal": "0.00",
-        "text": "35 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 35,
-        "percent": 0.12
-      },
-      {
-        "name": "next",
-        "total_seconds": 35.841073,
-        "digital": "0:00:35",
-        "decimal": "0.00",
-        "text": "35 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 35,
-        "percent": 0.12
-      },
-      {
         "name": "google",
         "total_seconds": 35.841073,
         "digital": "0:00:35",
@@ -469,18 +447,29 @@
         "percent": 0.12
       },
       {
-        "name": "relationship-type",
-        "total_seconds": 5.385636,
-        "digital": "0:00:05",
+        "name": "next",
+        "total_seconds": 35.841073,
+        "digital": "0:00:35",
         "decimal": "0.00",
-        "text": "5 secs",
+        "text": "35 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 5,
-        "percent": 0.02
+        "seconds": 35,
+        "percent": 0.12
       },
       {
-        "name": "query",
+        "name": "query-provider",
+        "total_seconds": 35.841073,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.12
+      },
+      {
+        "name": "models",
         "total_seconds": 5.385636,
         "digital": "0:00:05",
         "decimal": "0.00",
@@ -513,7 +502,7 @@
         "percent": 0.02
       },
       {
-        "name": "relation-mutate",
+        "name": "relationship-type",
         "total_seconds": 5.385636,
         "digital": "0:00:05",
         "decimal": "0.00",
@@ -524,7 +513,18 @@
         "percent": 0.02
       },
       {
-        "name": "models",
+        "name": "query",
+        "total_seconds": 5.385636,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "relation-mutate",
         "total_seconds": 5.385636,
         "digital": "0:00:05",
         "decimal": "0.00",
@@ -538,15 +538,15 @@
     "machines": [
       {
         "name": "DESKTOP-E874US7 from 39.62.3.238",
-        "total_seconds": 6617.98172,
+        "total_seconds": 6625.29055,
         "machine_name_id": "3f38988d-a0c2-402e-8dff-f7751492e722",
-        "digital": "1:50:17",
+        "digital": "1:50:25",
         "decimal": "1.83",
         "text": "1 hr 50 mins",
         "hours": 1,
         "minutes": 50,
-        "seconds": 17,
-        "percent": 79.83
+        "seconds": 25,
+        "percent": 79.02
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac1:6520:8::19b:1a1",
@@ -558,7 +558,7 @@
         "hours": 0,
         "minutes": 11,
         "seconds": 41,
-        "percent": 8.46
+        "percent": 8.36
       },
       {
         "name": "DESKTOP-E874US7 from 104.28.156.115",
@@ -570,7 +570,7 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 56,
-        "percent": 3.58
+        "percent": 3.54
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac1:6560:8::19b:1a1",
@@ -582,7 +582,7 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 13,
-        "percent": 2.33
+        "percent": 2.3
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac1:6500:8::19b:1a1",
@@ -594,7 +594,19 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 45,
-        "percent": 1.99
+        "percent": 1.97
+      },
+      {
+        "name": "DESKTOP-E874US7 from 39.62.2.229",
+        "total_seconds": 86.157182,
+        "machine_name_id": "86446981-5591-4d79-ba0b-ec30b8598f76",
+        "digital": "0:01:26",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 26,
+        "percent": 1.03
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac1:6540:8::19b:1a1",
@@ -606,7 +618,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 24,
-        "percent": 1.02
+        "percent": 1.01
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac5:55fc:101e::19b:1a1",
@@ -618,7 +630,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 19,
-        "percent": 0.96
+        "percent": 0.95
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac5:55ff:101e::19b:1a1",
@@ -630,7 +642,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 3,
-        "percent": 0.77
+        "percent": 0.76
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac5:55fb:101e::19b:1a1",
@@ -642,7 +654,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 57,
-        "percent": 0.69
+        "percent": 0.68
       },
       {
         "name": "DESKTOP-E874US7 from 2a09:bac5:55f9:101e::19b:1a1",
@@ -672,13 +684,14 @@
     "projects": [
       {
         "name": "jira-clone",
-        "total_seconds": 8290.473324,
-        "digital": "2:18:10",
-        "decimal": "2.30",
-        "text": "2 hrs 18 mins",
+        "total_seconds": 8383.939336,
+        "color": null,
+        "digital": "2:19:43",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
         "hours": 2,
-        "minutes": 18,
-        "seconds": 10,
+        "minutes": 19,
+        "seconds": 43,
         "percent": 100
       }
     ],
