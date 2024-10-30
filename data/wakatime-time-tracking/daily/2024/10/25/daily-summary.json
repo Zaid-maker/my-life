@@ -337,7 +337,7 @@
         "percent": 0.75
       },
       {
-        "name": "rpc",
+        "name": "react-query",
         "total_seconds": 225.228652,
         "digital": "0:03:45",
         "decimal": "0.05",
@@ -348,7 +348,7 @@
         "percent": 0.74
       },
       {
-        "name": "react-query",
+        "name": "rpc",
         "total_seconds": 225.228652,
         "digital": "0:03:45",
         "decimal": "0.05",
@@ -381,7 +381,7 @@
         "percent": 0.36
       },
       {
-        "name": "route",
+        "name": "vercel",
         "total_seconds": 68.388152,
         "digital": "0:01:08",
         "decimal": "0.02",
@@ -392,7 +392,7 @@
         "percent": 0.22
       },
       {
-        "name": "vercel",
+        "name": "route",
         "total_seconds": 68.388152,
         "digital": "0:01:08",
         "decimal": "0.02",
@@ -425,28 +425,6 @@
         "percent": 0.13
       },
       {
-        "name": "google",
-        "total_seconds": 35.841073,
-        "digital": "0:00:35",
-        "decimal": "0.00",
-        "text": "35 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 35,
-        "percent": 0.12
-      },
-      {
-        "name": "globals",
-        "total_seconds": 35.841073,
-        "digital": "0:00:35",
-        "decimal": "0.00",
-        "text": "35 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 35,
-        "percent": 0.12
-      },
-      {
         "name": "next",
         "total_seconds": 35.841073,
         "digital": "0:00:35",
@@ -469,40 +447,29 @@
         "percent": 0.12
       },
       {
-        "name": "models",
-        "total_seconds": 5.385636,
-        "digital": "0:00:05",
+        "name": "google",
+        "total_seconds": 35.841073,
+        "digital": "0:00:35",
         "decimal": "0.00",
-        "text": "5 secs",
+        "text": "35 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 5,
-        "percent": 0.02
+        "seconds": 35,
+        "percent": 0.12
       },
       {
-        "name": "index-type",
-        "total_seconds": 5.385636,
-        "digital": "0:00:05",
+        "name": "globals",
+        "total_seconds": 35.841073,
+        "digital": "0:00:35",
         "decimal": "0.00",
-        "text": "5 secs",
+        "text": "35 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 5,
-        "percent": 0.02
+        "seconds": 35,
+        "percent": 0.12
       },
       {
-        "name": "client",
-        "total_seconds": 5.385636,
-        "digital": "0:00:05",
-        "decimal": "0.00",
-        "text": "5 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 5,
-        "percent": 0.02
-      },
-      {
-        "name": "relationship-type",
+        "name": "relation-mutate",
         "total_seconds": 5.385636,
         "digital": "0:00:05",
         "decimal": "0.00",
@@ -524,7 +491,40 @@
         "percent": 0.02
       },
       {
-        "name": "relation-mutate",
+        "name": "index-type",
+        "total_seconds": 5.385636,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "relationship-type",
+        "total_seconds": 5.385636,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "models",
+        "total_seconds": 5.385636,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "client",
         "total_seconds": 5.385636,
         "digital": "0:00:05",
         "decimal": "0.00",
