@@ -150,7 +150,7 @@
         "percent": 11.81
       },
       {
-        "name": "react",
+        "name": "next",
         "total_seconds": 816.694263,
         "digital": "0:13:36",
         "decimal": "0.22",
@@ -161,7 +161,7 @@
         "percent": 5.28
       },
       {
-        "name": "next",
+        "name": "react",
         "total_seconds": 816.694263,
         "digital": "0:13:36",
         "decimal": "0.22",
@@ -183,62 +183,7 @@
         "percent": 4.55
       },
       {
-        "name": "@types/node",
-        "total_seconds": 678.952427,
-        "digital": "0:11:18",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 18,
-        "percent": 4.39
-      },
-      {
-        "name": "@types/react-dom",
-        "total_seconds": 678.952427,
-        "digital": "0:11:18",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 18,
-        "percent": 4.39
-      },
-      {
         "name": "typescript",
-        "total_seconds": 678.952427,
-        "digital": "0:11:18",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 18,
-        "percent": 4.39
-      },
-      {
-        "name": "postcss",
-        "total_seconds": 678.952427,
-        "digital": "0:11:18",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 18,
-        "percent": 4.39
-      },
-      {
-        "name": "react-dom",
-        "total_seconds": 678.952427,
-        "digital": "0:11:18",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 18,
-        "percent": 4.39
-      },
-      {
-        "name": "eslint",
         "total_seconds": 678.952427,
         "digital": "0:11:18",
         "decimal": "0.18",
@@ -260,7 +205,62 @@
         "percent": 4.39
       },
       {
+        "name": "@types/node",
+        "total_seconds": 678.952427,
+        "digital": "0:11:18",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 18,
+        "percent": 4.39
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 678.952427,
+        "digital": "0:11:18",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 18,
+        "percent": 4.39
+      },
+      {
         "name": "eslint-config-next",
+        "total_seconds": 678.952427,
+        "digital": "0:11:18",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 18,
+        "percent": 4.39
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 678.952427,
+        "digital": "0:11:18",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 18,
+        "percent": 4.39
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 678.952427,
+        "digital": "0:11:18",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 18,
+        "percent": 4.39
+      },
+      {
+        "name": "postcss",
         "total_seconds": 678.952427,
         "digital": "0:11:18",
         "decimal": "0.18",
@@ -315,7 +315,7 @@
         "percent": 0.89
       },
       {
-        "name": "sqlite",
+        "name": "path",
         "total_seconds": 129.660872,
         "digital": "0:02:09",
         "decimal": "0.03",
@@ -337,7 +337,7 @@
         "percent": 0.84
       },
       {
-        "name": "path",
+        "name": "sqlite",
         "total_seconds": 129.660872,
         "digital": "0:02:09",
         "decimal": "0.03",
@@ -424,6 +424,7 @@
       {
         "name": "uptime-robot",
         "total_seconds": 2709.262847,
+        "color": null,
         "digital": "0:45:09",
         "decimal": "0.75",
         "text": "45 mins",
@@ -435,6 +436,7 @@
       {
         "name": "client",
         "total_seconds": 409.807997,
+        "color": null,
         "digital": "0:06:49",
         "decimal": "0.10",
         "text": "6 mins",
@@ -446,6 +448,7 @@
       {
         "name": "chatgpt-clone",
         "total_seconds": 137.741836,
+        "color": null,
         "digital": "0:02:17",
         "decimal": "0.03",
         "text": "2 mins",

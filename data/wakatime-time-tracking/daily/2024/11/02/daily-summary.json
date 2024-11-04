@@ -1,45 +1,16 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 30,
-      "total_seconds": 1859.69246,
-      "digital": "0:30",
-      "decimal": "0.50",
-      "text": "30 mins"
-    },
-    "range": {
-      "start": "2024-11-02T19:00:00Z",
-      "end": "2024-11-03T18:59:59Z",
-      "date": "2024-11-03",
-      "text": "Sun Nov 3rd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "linklist",
-        "total_seconds": 1859.69246,
-        "color": null,
-        "digital": "0:30:59",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 59,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
-        "total_seconds": 1834.297511,
-        "digital": "0:30:34",
-        "decimal": "0.50",
-        "text": "30 mins",
+        "total_seconds": 2653.619244,
+        "digital": "0:44:13",
+        "decimal": "0.73",
+        "text": "44 mins",
         "hours": 0,
-        "minutes": 30,
-        "seconds": 34,
-        "percent": 98.63
+        "minutes": 44,
+        "seconds": 13,
+        "percent": 99.05
       },
       {
         "name": "CSS",
@@ -50,20 +21,67 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 25,
-        "percent": 1.37
+        "percent": 0.95
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 44,
+      "total_seconds": 2679.014193,
+      "digital": "0:44",
+      "decimal": "0.73",
+      "text": "44 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2679.014193,
+        "digital": "0:44:39",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2679.014193,
+        "digital": "0:44:39",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2679.014193,
+        "digital": "0:44:39",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 39,
+        "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "header",
-        "total_seconds": 956.684187,
-        "digital": "0:15:56",
-        "decimal": "0.25",
-        "text": "15 mins",
+        "total_seconds": 1776.00592,
+        "digital": "0:29:36",
+        "decimal": "0.48",
+        "text": "29 mins",
         "hours": 0,
-        "minutes": 15,
-        "seconds": 56,
-        "percent": 52.15
+        "minutes": 29,
+        "seconds": 36,
+        "percent": 66.93
       },
       {
         "name": "link",
@@ -74,7 +92,7 @@
         "hours": 0,
         "minutes": 12,
         "seconds": 12,
-        "percent": 39.96
+        "percent": 27.62
       },
       {
         "name": "image",
@@ -85,61 +103,42 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 24,
-        "percent": 7.89
+        "percent": 5.45
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 1859.69246,
+        "total_seconds": 2679.014193,
         "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "0:30:59",
-        "decimal": "0.50",
-        "text": "30 mins",
+        "digital": "0:44:39",
+        "decimal": "0.73",
+        "text": "44 mins",
         "hours": 0,
-        "minutes": 30,
-        "seconds": 59,
+        "minutes": 44,
+        "seconds": 39,
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1859.69246,
-        "digital": "0:30:59",
-        "decimal": "0.50",
-        "text": "30 mins",
+        "name": "linklist",
+        "total_seconds": 2679.014193,
+        "digital": "0:44:39",
+        "decimal": "0.73",
+        "text": "44 mins",
         "hours": 0,
-        "minutes": 30,
-        "seconds": 59,
+        "minutes": 44,
+        "seconds": 39,
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1859.69246,
-        "digital": "0:30:59",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 59,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1859.69246,
-        "digital": "0:30:59",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 59,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-02T19:00:00Z",
+      "end": "2024-11-03T18:59:59Z",
+      "date": "2024-11-03",
+      "text": "Sun Nov 3rd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
