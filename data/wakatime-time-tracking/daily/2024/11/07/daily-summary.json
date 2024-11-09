@@ -1,79 +1,49 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 6,
-      "total_seconds": 3960.166917,
-      "digital": "1:06",
-      "decimal": "1.10",
-      "text": "1 hr 6 mins"
-    },
-    "range": {
-      "start": "2024-11-07T19:00:00Z",
-      "end": "2024-11-08T18:59:59Z",
-      "date": "2024-11-08",
-      "text": "Fri Nov 8th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "uptime-kuma",
-        "total_seconds": 2039.941012,
-        "color": null,
-        "digital": "0:33:59",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 59,
-        "percent": 51.51
-      },
-      {
-        "name": "test-merge-conflict-script",
-        "total_seconds": 1920.225905,
-        "color": null,
-        "digital": "0:32:00",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 0,
-        "percent": 48.49
-      }
-    ],
     "languages": [
       {
-        "name": "JavaScript",
-        "total_seconds": 2412.784804,
-        "digital": "0:40:12",
-        "decimal": "0.67",
-        "text": "40 mins",
-        "hours": 0,
-        "minutes": 40,
-        "seconds": 12,
-        "percent": 60.93
+        "name": "YAML",
+        "total_seconds": 3789.150243,
+        "digital": "1:03:09",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 9,
+        "percent": 38.87
       },
       {
-        "name": "YAML",
-        "total_seconds": 1189.477804,
-        "digital": "0:19:49",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "name": "JavaScript",
+        "total_seconds": 3269.046527,
+        "digital": "0:54:29",
+        "decimal": "0.90",
+        "text": "54 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 49,
-        "percent": 30.04
+        "minutes": 54,
+        "seconds": 29,
+        "percent": 33.54
+      },
+      {
+        "name": "Java",
+        "total_seconds": 1556.792081,
+        "digital": "0:25:56",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 56,
+        "percent": 15.97
       },
       {
         "name": "Text",
-        "total_seconds": 341.829691,
-        "digital": "0:05:41",
-        "decimal": "0.08",
-        "text": "5 mins",
+        "total_seconds": 1116.390104,
+        "digital": "0:18:36",
+        "decimal": "0.30",
+        "text": "18 mins",
         "hours": 0,
-        "minutes": 5,
-        "seconds": 41,
-        "percent": 8.63
+        "minutes": 18,
+        "seconds": 36,
+        "percent": 11.45
       },
       {
         "name": "Git Config",
@@ -84,62 +54,123 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 16,
-        "percent": 0.41
+        "percent": 0.16
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 3960.166917,
-        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "1:06:00",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 0,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 42,
+      "total_seconds": 9747.453573,
+      "digital": "2:42",
+      "decimal": "2.70",
+      "text": "2 hrs 42 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 3960.166917,
-        "digital": "1:06:00",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 0,
+        "total_seconds": 9747.453573,
+        "digital": "2:42:27",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 27,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 3960.166917,
-        "digital": "1:06:00",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 0,
+        "total_seconds": 9747.453573,
+        "digital": "2:42:27",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 27,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 3960.166917,
-        "digital": "1:06:00",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 0,
+        "total_seconds": 9604.799438,
+        "digital": "2:40:04",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 4,
+        "percent": 98.54
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 142.654135,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 1.46
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 9747.453573,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "2:42:27",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 27,
         "percent": 100
       }
-    ]
+    ],
+    "projects": [
+      {
+        "name": "test-merge-conflict-script",
+        "total_seconds": 6150.72048,
+        "digital": "1:42:30",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 30,
+        "percent": 63.1
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 2039.941012,
+        "digital": "0:33:59",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 59,
+        "percent": 20.93
+      },
+      {
+        "name": "Java",
+        "total_seconds": 1556.792081,
+        "digital": "0:25:56",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 56,
+        "percent": 15.97
+      }
+    ],
+    "range": {
+      "start": "2024-11-07T19:00:00Z",
+      "end": "2024-11-08T18:59:59Z",
+      "date": "2024-11-08",
+      "text": "Fri Nov 8th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
