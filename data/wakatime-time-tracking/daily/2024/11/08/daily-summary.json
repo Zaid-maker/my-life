@@ -1,26 +1,133 @@
 [
   {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 1977.388725,
+        "digital": "0:32:57",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 57,
+        "percent": 71.69
+      },
+      {
+        "name": "Python",
+        "total_seconds": 781.002672,
+        "digital": "0:13:01",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 1,
+        "percent": 28.31
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 45,
+      "total_seconds": 2758.391397,
+      "digital": "0:45",
+      "decimal": "0.75",
+      "text": "45 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2758.391397,
+        "digital": "0:45:58",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2758.391397,
+        "digital": "0:45:58",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2758.391397,
+        "digital": "0:45:58",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "prefect",
+        "total_seconds": 770.042317,
+        "digital": "0:12:50",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 2758.391397,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:45:58",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "test-merge-conflict-script",
+        "total_seconds": 1977.388725,
+        "digital": "0:32:57",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 57,
+        "percent": 71.69
+      },
+      {
+        "name": "prefect-test",
+        "total_seconds": 781.002672,
+        "digital": "0:13:01",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 1,
+        "percent": 28.31
+      }
+    ],
     "range": {
       "start": "2024-11-08T19:00:00Z",
       "end": "2024-11-09T18:59:59Z",
       "date": "2024-11-09",
       "text": "Sat Nov 9th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
