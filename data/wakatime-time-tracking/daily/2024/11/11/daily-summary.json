@@ -1,35 +1,61 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2024-11-11T19:00:00Z",
-      "end": "2024-11-12T18:59:59Z",
-      "date": "2024-11-12",
-      "text": "Tue Nov 12th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "storeit",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 4029.342724,
+        "digital": "1:07:09",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 9,
+        "percent": 68.3
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 1132.608326,
+        "digital": "0:18:52",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 52,
+        "percent": 19.2
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 448.92463,
+        "digital": "0:07:28",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 28,
+        "percent": 7.61
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 207.152729,
+        "digital": "0:03:27",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 27,
+        "percent": 3.51
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 81.54212,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 1.38
+      },
       {
         "name": "TypeScript",
         "total_seconds": 0,
@@ -42,7 +68,65 @@
         "percent": 0
       }
     ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 38,
+      "total_seconds": 5899.570529,
+      "digital": "1:38",
+      "decimal": "1.63",
+      "text": "1 hr 38 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5899.570529,
+        "digital": "1:38:19",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5899.570529,
+        "digital": "1:38:19",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5899.570529,
+        "digital": "1:38:19",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
     "dependencies": [
+      {
+        "name": "\"app.js\"",
+        "total_seconds": 2581.134533,
+        "digital": "0:43:01",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 1,
+        "percent": 100
+      },
       {
         "name": "react",
         "total_seconds": 0,
@@ -58,20 +142,54 @@
     "machines": [
       {
         "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 0,
+        "total_seconds": 3739.302091,
         "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "digital": "1:02:19",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 19,
+        "percent": 63.38
+      },
+      {
+        "name": "DESKTOP-E874US7 from 39.62.3.174",
+        "total_seconds": 2160.268438,
+        "machine_name_id": "029115e4-02e5-4c4e-87cd-ed952ff24204",
+        "digital": "0:36:00",
+        "decimal": "0.60",
+        "text": "36 mins",
         "hours": 0,
-        "minutes": 0,
+        "minutes": 36,
         "seconds": 0,
-        "percent": 0
+        "percent": 36.62
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "github-user-search",
+        "total_seconds": 5610.87568,
+        "digital": "1:33:30",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 30,
+        "percent": 95.11
+      },
+      {
+        "name": "Mashhood-Rehman",
+        "total_seconds": 288.694849,
+        "digital": "0:04:48",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 48,
+        "percent": 4.89
+      },
+      {
+        "name": "storeit",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -82,31 +200,12 @@
         "percent": 0
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ]
+    "range": {
+      "start": "2024-11-11T19:00:00Z",
+      "end": "2024-11-12T18:59:59Z",
+      "date": "2024-11-12",
+      "text": "Tue Nov 12th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
