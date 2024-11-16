@@ -1,26 +1,222 @@
 [
   {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 782.802452,
+        "digital": "0:13:02",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 2,
+        "percent": 51.66
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 27.21
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 313.159767,
+        "digital": "0:05:13",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 13,
+        "percent": 20.67
+      },
+      {
+        "name": "Image (svg)",
+        "total_seconds": 6.979063,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.46
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 25,
+      "total_seconds": 1515.315714,
+      "digital": "0:25",
+      "decimal": "0.42",
+      "text": "25 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1515.315714,
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1515.315714,
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1515.315714,
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "input",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 16.67
+      },
+      {
+        "name": "zod",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 16.67
+      },
+      {
+        "name": "button",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 16.67
+      },
+      {
+        "name": "react-hook-form",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 16.67
+      },
+      {
+        "name": "form",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 16.67
+      },
+      {
+        "name": "react",
+        "total_seconds": 412.374432,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 16.67
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 154.208.62.235",
+        "total_seconds": 1515.315714,
+        "machine_name_id": "80b489d6-97cf-47b6-823c-854ed3fbb73a",
+        "digital": "0:25:15",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 100
+      },
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 0,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mashhood-Rehman",
+        "total_seconds": 1095.962219,
+        "digital": "0:18:15",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 15,
+        "percent": 72.33
+      },
+      {
+        "name": "storeit",
+        "total_seconds": 419.353495,
+        "digital": "0:06:59",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 59,
+        "percent": 27.67
+      }
+    ],
     "range": {
       "start": "2024-11-14T19:00:00Z",
       "end": "2024-11-15T18:59:59Z",
       "date": "2024-11-15",
       "text": "Fri Nov 15th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
