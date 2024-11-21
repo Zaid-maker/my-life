@@ -216,17 +216,6 @@
         "percent": 4.51
       },
       {
-        "name": "node-appwrite",
-        "total_seconds": 1267.601333,
-        "digital": "0:21:07",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 7,
-        "percent": 4.4
-      },
-      {
         "name": "appwrite",
         "total_seconds": 1267.601333,
         "digital": "0:21:07",
@@ -238,7 +227,7 @@
         "percent": 4.4
       },
       {
-        "name": "config",
+        "name": "node-appwrite",
         "total_seconds": 1267.601333,
         "digital": "0:21:07",
         "decimal": "0.35",
@@ -260,6 +249,17 @@
         "percent": 4.4
       },
       {
+        "name": "config",
+        "total_seconds": 1267.601333,
+        "digital": "0:21:07",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 7,
+        "percent": 4.4
+      },
+      {
         "name": "idb",
         "total_seconds": 845.994656,
         "digital": "0:14:05",
@@ -269,17 +269,6 @@
         "minutes": 14,
         "seconds": 5,
         "percent": 2.94
-      },
-      {
-        "name": "vite",
-        "total_seconds": 824.752435,
-        "digital": "0:13:44",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 44,
-        "percent": 2.86
       },
       {
         "name": "npm",
@@ -315,7 +304,40 @@
         "percent": 2.86
       },
       {
+        "name": "vite",
+        "total_seconds": 824.752435,
+        "digital": "0:13:44",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 44,
+        "percent": 2.86
+      },
+      {
         "name": "react-hook-form",
+        "total_seconds": 269.114817,
+        "digital": "0:04:29",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 29,
+        "percent": 0.93
+      },
+      {
+        "name": "input",
+        "total_seconds": 269.114817,
+        "digital": "0:04:29",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 29,
+        "percent": 0.93
+      },
+      {
+        "name": "form",
         "total_seconds": 269.114817,
         "digital": "0:04:29",
         "decimal": "0.07",
@@ -338,28 +360,6 @@
       },
       {
         "name": "zod",
-        "total_seconds": 269.114817,
-        "digital": "0:04:29",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 29,
-        "percent": 0.93
-      },
-      {
-        "name": "form",
-        "total_seconds": 269.114817,
-        "digital": "0:04:29",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 29,
-        "percent": 0.93
-      },
-      {
-        "name": "input",
         "total_seconds": 269.114817,
         "digital": "0:04:29",
         "decimal": "0.07",
@@ -414,7 +414,7 @@
         "percent": 0.01
       },
       {
-        "name": "next",
+        "name": "globals",
         "total_seconds": 2.787156,
         "digital": "0:00:02",
         "decimal": "0.00",
@@ -425,7 +425,7 @@
         "percent": 0.01
       },
       {
-        "name": "globals",
+        "name": "next",
         "total_seconds": 2.787156,
         "digital": "0:00:02",
         "decimal": "0.00",
@@ -454,6 +454,7 @@
       {
         "name": "storeit",
         "total_seconds": 6279.638178,
+        "color": null,
         "digital": "1:44:39",
         "decimal": "1.73",
         "text": "1 hr 44 mins",
@@ -465,6 +466,7 @@
       {
         "name": "todo-list-svelte",
         "total_seconds": 1007.823964,
+        "color": null,
         "digital": "0:16:47",
         "decimal": "0.27",
         "text": "16 mins",
@@ -476,6 +478,7 @@
       {
         "name": "github-user-search",
         "total_seconds": 678.90808,
+        "color": null,
         "digital": "0:11:18",
         "decimal": "0.18",
         "text": "11 mins",
