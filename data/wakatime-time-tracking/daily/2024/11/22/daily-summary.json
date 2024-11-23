@@ -1,0 +1,310 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 24,
+      "total_seconds": 1492.119125,
+      "digital": "0:24",
+      "decimal": "0.40",
+      "text": "24 mins"
+    },
+    "range": {
+      "start": "2024-11-22T19:00:00Z",
+      "end": "2024-11-23T18:59:59Z",
+      "date": "2024-11-23",
+      "text": "Sat Nov 23rd 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "blog-website",
+        "total_seconds": 1492.119125,
+        "color": null,
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1375.013121,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 92.15
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 117.106004,
+        "digital": "0:01:57",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 57,
+        "percent": 7.85
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "types",
+        "total_seconds": 1261.364293,
+        "digital": "0:21:01",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 1,
+        "percent": 17.65
+      },
+      {
+        "name": "framer-motion",
+        "total_seconds": 723.795784,
+        "digital": "0:12:03",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 3,
+        "percent": 10.13
+      },
+      {
+        "name": "image",
+        "total_seconds": 723.795784,
+        "digital": "0:12:03",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 3,
+        "percent": 10.13
+      },
+      {
+        "name": "fi",
+        "total_seconds": 673.916744,
+        "digital": "0:11:13",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 13,
+        "percent": 9.43
+      },
+      {
+        "name": "link",
+        "total_seconds": 554.755073,
+        "digital": "0:09:14",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 14,
+        "percent": 7.76
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 537.568509,
+        "digital": "0:08:57",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 57,
+        "percent": 7.52
+      },
+      {
+        "name": "navbar",
+        "total_seconds": 513.621167,
+        "digital": "0:08:33",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 33,
+        "percent": 7.19
+      },
+      {
+        "name": "blog-post-content",
+        "total_seconds": 513.621167,
+        "digital": "0:08:33",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 33,
+        "percent": 7.19
+      },
+      {
+        "name": "headers",
+        "total_seconds": 513.621167,
+        "digital": "0:08:33",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 33,
+        "percent": 7.19
+      },
+      {
+        "name": "table-of-contents",
+        "total_seconds": 169.040711,
+        "digital": "0:02:49",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 49,
+        "percent": 2.36
+      },
+      {
+        "name": "reading-progress",
+        "total_seconds": 169.040711,
+        "digital": "0:02:49",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 49,
+        "percent": 2.36
+      },
+      {
+        "name": "related-posts",
+        "total_seconds": 169.040711,
+        "digital": "0:02:49",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 49,
+        "percent": 2.36
+      },
+      {
+        "name": "react-markdown",
+        "total_seconds": 169.040711,
+        "digital": "0:02:49",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 49,
+        "percent": 2.36
+      },
+      {
+        "name": "social-share",
+        "total_seconds": 169.040711,
+        "digital": "0:02:49",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 49,
+        "percent": 2.36
+      },
+      {
+        "name": "comments",
+        "total_seconds": 169.040711,
+        "digital": "0:02:49",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 49,
+        "percent": 2.36
+      },
+      {
+        "name": "react",
+        "total_seconds": 93.644285,
+        "digital": "0:01:33",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 33,
+        "percent": 1.31
+      },
+      {
+        "name": "debounce",
+        "total_seconds": 23.947342,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.34
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 1492.119125,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1492.119125,
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1492.119125,
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1492.119125,
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
+      }
+    ]
+  }
+]
