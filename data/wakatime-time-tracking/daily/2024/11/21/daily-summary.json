@@ -216,17 +216,6 @@
         "percent": 2.59
       },
       {
-        "name": "social-share",
-        "total_seconds": 1254.668639,
-        "digital": "0:20:54",
-        "decimal": "0.33",
-        "text": "20 mins",
-        "hours": 0,
-        "minutes": 20,
-        "seconds": 54,
-        "percent": 2.4
-      },
-      {
         "name": "table-of-contents",
         "total_seconds": 1254.668639,
         "digital": "0:20:54",
@@ -249,7 +238,18 @@
         "percent": 2.4
       },
       {
-        "name": "blog-content-skeleton",
+        "name": "social-share",
+        "total_seconds": 1254.668639,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 2.4
+      },
+      {
+        "name": "blog-content",
         "total_seconds": 1135.58234,
         "digital": "0:18:55",
         "decimal": "0.30",
@@ -260,7 +260,7 @@
         "percent": 2.17
       },
       {
-        "name": "blog-content",
+        "name": "blog-content-skeleton",
         "total_seconds": 1135.58234,
         "digital": "0:18:55",
         "decimal": "0.30",
@@ -337,6 +337,17 @@
         "percent": 1.18
       },
       {
+        "name": "appwrite",
+        "total_seconds": 592.374528,
+        "digital": "0:09:52",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 52,
+        "percent": 1.13
+      },
+      {
         "name": "constants",
         "total_seconds": 592.374528,
         "digital": "0:09:52",
@@ -360,17 +371,6 @@
       },
       {
         "name": "config",
-        "total_seconds": 592.374528,
-        "digital": "0:09:52",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 52,
-        "percent": 1.13
-      },
-      {
-        "name": "appwrite",
         "total_seconds": 592.374528,
         "digital": "0:09:52",
         "decimal": "0.15",
@@ -425,7 +425,7 @@
         "percent": 0.59
       },
       {
-        "name": "dropdown-menu",
+        "name": "lucide-react",
         "total_seconds": 239.772213,
         "digital": "0:03:59",
         "decimal": "0.05",
@@ -436,7 +436,7 @@
         "percent": 0.46
       },
       {
-        "name": "lucide-react",
+        "name": "dropdown-menu",
         "total_seconds": 239.772213,
         "digital": "0:03:59",
         "decimal": "0.05",
@@ -513,7 +513,7 @@
         "percent": 0.3
       },
       {
-        "name": "form",
+        "name": "input",
         "total_seconds": 79.208115,
         "digital": "0:01:19",
         "decimal": "0.02",
@@ -524,7 +524,7 @@
         "percent": 0.15
       },
       {
-        "name": "input",
+        "name": "form",
         "total_seconds": 79.208115,
         "digital": "0:01:19",
         "decimal": "0.02",
@@ -546,7 +546,7 @@
         "percent": 0.15
       },
       {
-        "name": "related-posts",
+        "name": "reading-progress",
         "total_seconds": 66.228282,
         "digital": "0:01:06",
         "decimal": "0.02",
@@ -557,7 +557,7 @@
         "percent": 0.13
       },
       {
-        "name": "reading-progress",
+        "name": "related-posts",
         "total_seconds": 66.228282,
         "digital": "0:01:06",
         "decimal": "0.02",
@@ -601,7 +601,7 @@
         "percent": 0.04
       },
       {
-        "name": "theme-provider",
+        "name": "google",
         "total_seconds": 16.294606,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -612,7 +612,7 @@
         "percent": 0.03
       },
       {
-        "name": "next",
+        "name": "theme-provider",
         "total_seconds": 16.294606,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -634,7 +634,7 @@
         "percent": 0.03
       },
       {
-        "name": "google",
+        "name": "next",
         "total_seconds": 16.294606,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -663,6 +663,7 @@
       {
         "name": "blog-website",
         "total_seconds": 10493.239133,
+        "color": null,
         "digital": "2:54:53",
         "decimal": "2.90",
         "text": "2 hrs 54 mins",
@@ -674,6 +675,7 @@
       {
         "name": "storeit",
         "total_seconds": 1443.007051,
+        "color": null,
         "digital": "0:24:03",
         "decimal": "0.40",
         "text": "24 mins",
