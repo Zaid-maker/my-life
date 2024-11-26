@@ -381,7 +381,7 @@
         "percent": 0.86
       },
       {
-        "name": "react-chartjs-2",
+        "name": "chartjs-adapter-date-fns",
         "total_seconds": 321.989459,
         "digital": "0:05:21",
         "decimal": "0.08",
@@ -403,7 +403,7 @@
         "percent": 0.84
       },
       {
-        "name": "chartjs-adapter-date-fns",
+        "name": "react-chartjs-2",
         "total_seconds": 321.989459,
         "digital": "0:05:21",
         "decimal": "0.08",
@@ -458,7 +458,7 @@
         "percent": 0.5
       },
       {
-        "name": "card",
+        "name": "header",
         "total_seconds": 190.357246,
         "digital": "0:03:10",
         "decimal": "0.05",
@@ -469,7 +469,7 @@
         "percent": 0.5
       },
       {
-        "name": "header",
+        "name": "card",
         "total_seconds": 190.357246,
         "digital": "0:03:10",
         "decimal": "0.05",
@@ -557,29 +557,7 @@
         "percent": 0.05
       },
       {
-        "name": "@types/cors",
-        "total_seconds": 6.030208,
-        "digital": "0:00:06",
-        "decimal": "0.00",
-        "text": "6 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 6,
-        "percent": 0.02
-      },
-      {
-        "name": "@types/express",
-        "total_seconds": 6.030208,
-        "digital": "0:00:06",
-        "decimal": "0.00",
-        "text": "6 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 6,
-        "percent": 0.02
-      },
-      {
-        "name": "dotenv",
+        "name": "typescript",
         "total_seconds": 6.030208,
         "digital": "0:00:06",
         "decimal": "0.00",
@@ -601,7 +579,7 @@
         "percent": 0.02
       },
       {
-        "name": "typescript",
+        "name": "@types/node",
         "total_seconds": 6.030208,
         "digital": "0:00:06",
         "decimal": "0.00",
@@ -612,7 +590,29 @@
         "percent": 0.02
       },
       {
-        "name": "@types/node",
+        "name": "@types/cors",
+        "total_seconds": 6.030208,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.02
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 6.030208,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.02
+      },
+      {
+        "name": "@types/express",
         "total_seconds": 6.030208,
         "digital": "0:00:06",
         "decimal": "0.00",
@@ -652,6 +652,7 @@
       {
         "name": "uptime-robot",
         "total_seconds": 10030.521265,
+        "color": null,
         "digital": "2:47:10",
         "decimal": "2.78",
         "text": "2 hrs 47 mins",
