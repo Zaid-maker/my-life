@@ -1,26 +1,584 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3976.601252,
+        "digital": "1:06:16",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 16,
+        "percent": 69.61
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 1615.072279,
+        "digital": "0:26:55",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 55,
+        "percent": 28.27
+      },
+      {
+        "name": "Other",
+        "total_seconds": 108.040543,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 1.89
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 8.554188,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.15
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 4.44596,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.08
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 1,
+      "minutes": 35,
+      "total_seconds": 5712.714222,
+      "digital": "1:35",
+      "decimal": "1.58",
+      "text": "1 hr 35 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5712.714222,
+        "digital": "1:35:12",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5712.714222,
+        "digital": "1:35:12",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5712.714222,
+        "digital": "1:35:12",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 2415.506621,
+        "digital": "0:40:15",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 15,
+        "percent": 18.67
+      },
+      {
+        "name": "NeuralNetwork",
+        "total_seconds": 2234.966918,
+        "digital": "0:37:14",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 14,
+        "percent": 17.27
+      },
+      {
+        "name": "express",
+        "total_seconds": 1002.729267,
+        "digital": "0:16:42",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 42,
+        "percent": 7.75
+      },
+      {
+        "name": "validation",
+        "total_seconds": 892.574273,
+        "digital": "0:14:52",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 52,
+        "percent": 6.9
+      },
+      {
+        "name": "zod",
+        "total_seconds": 535.611971,
+        "digital": "0:08:55",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 55,
+        "percent": 4.14
+      },
+      {
+        "name": "auth-service",
+        "total_seconds": 515.623686,
+        "digital": "0:08:35",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 35,
+        "percent": 3.98
+      },
+      {
+        "name": "monitor",
+        "total_seconds": 484.705691,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 3.75
+      },
+      {
+        "name": "auth",
+        "total_seconds": 482.152646,
+        "digital": "0:08:02",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 2,
+        "percent": 3.73
+      },
+      {
+        "name": "NeuralNetworkVisualizer",
+        "total_seconds": 457.828436,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 3.54
+      },
+      {
+        "name": "TrainingHistory",
+        "total_seconds": 457.828436,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 3.54
+      },
+      {
+        "name": "DecisionBoundary",
+        "total_seconds": 457.828436,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 3.54
+      },
+      {
+        "name": "NetworkControls",
+        "total_seconds": 457.828436,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 3.54
+      },
+      {
+        "name": "TrainingExamples",
+        "total_seconds": 457.828436,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 3.54
+      },
+      {
+        "name": "NetworkConfig",
+        "total_seconds": 457.828436,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 3.54
+      },
+      {
+        "name": "local",
+        "total_seconds": 251.779278,
+        "digital": "0:04:11",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 11,
+        "percent": 1.95
+      },
+      {
+        "name": "globals",
+        "total_seconds": 251.779278,
+        "digital": "0:04:11",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 11,
+        "percent": 1.95
+      },
+      {
+        "name": "next",
+        "total_seconds": 251.779278,
+        "digital": "0:04:11",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 11,
+        "percent": 1.95
+      },
+      {
+        "name": "posthog-js",
+        "total_seconds": 193.133641,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 1.49
+      },
+      {
+        "name": "PostHogProvider",
+        "total_seconds": 159.017847,
+        "digital": "0:02:39",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 39,
+        "percent": 1.23
+      },
+      {
+        "name": "posthog",
+        "total_seconds": 123.425261,
+        "digital": "0:02:03",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 3,
+        "percent": 0.95
+      },
+      {
+        "name": "sqlite",
+        "total_seconds": 98.417095,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 0.76
+      },
+      {
+        "name": "sqlite3",
+        "total_seconds": 76.347017,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 0.59
+      },
+      {
+        "name": "migrations",
+        "total_seconds": 76.347017,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 0.59
+      },
+      {
+        "name": "AppIcon",
+        "total_seconds": 57.114442,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.44
+      },
+      {
+        "name": "link",
+        "total_seconds": 57.114442,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.44
+      },
+      {
+        "name": "logger",
+        "total_seconds": 10.548996,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.08
+      },
+      {
+        "name": "promises",
+        "total_seconds": 3.425574,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.03
+      },
+      {
+        "name": "url",
+        "total_seconds": 3.425574,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.03
+      },
+      {
+        "name": "path",
+        "total_seconds": 3.425574,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.03
+      },
+      {
+        "name": "001_initial",
+        "total_seconds": 3.028237,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      },
+      {
+        "name": "jsonwebtoken",
+        "total_seconds": 2.853573,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "bcryptjs",
+        "total_seconds": 2.853573,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "db",
+        "total_seconds": 2.853573,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "dns",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "https",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "tls",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "axios",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "util",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 5712.714222,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "1:35:12",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "neural-network-training-simulator",
+        "total_seconds": 2292.08136,
+        "digital": "0:38:12",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 12,
+        "percent": 40.12
+      },
+      {
+        "name": "uptime-robot",
+        "total_seconds": 1805.560583,
+        "digital": "0:30:05",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 5,
+        "percent": 31.61
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 1615.072279,
+        "digital": "0:26:55",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 55,
+        "percent": 28.27
+      }
+    ],
     "range": {
       "start": "2024-11-26T19:00:00Z",
       "end": "2024-11-27T18:59:59Z",
       "date": "2024-11-27",
       "text": "Wed Nov 27th 2024",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
