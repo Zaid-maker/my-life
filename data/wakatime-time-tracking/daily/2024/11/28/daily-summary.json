@@ -1,0 +1,310 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 1001.465195,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "range": {
+      "start": "2024-11-28T19:00:00Z",
+      "end": "2024-11-29T18:59:59Z",
+      "date": "2024-11-29",
+      "text": "Fri Nov 29th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "neural-network-training-simulator",
+        "total_seconds": 1001.465195,
+        "color": null,
+        "digital": "0:16:41",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 890.405451,
+        "digital": "0:14:50",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 50,
+        "percent": 88.91
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 57.171755,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 5.71
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 43.305799,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 4.32
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 10.58219,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 1.06
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "next",
+        "total_seconds": 690.574392,
+        "digital": "0:11:30",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 30,
+        "percent": 21.44
+      },
+      {
+        "name": "globals",
+        "total_seconds": 531.990335,
+        "digital": "0:08:51",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 51,
+        "percent": 16.52
+      },
+      {
+        "name": "local",
+        "total_seconds": 531.990335,
+        "digital": "0:08:51",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 51,
+        "percent": 16.52
+      },
+      {
+        "name": "ClientLayout",
+        "total_seconds": 527.607802,
+        "digital": "0:08:47",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 47,
+        "percent": 16.38
+      },
+      {
+        "name": "react",
+        "total_seconds": 410.245508,
+        "digital": "0:06:50",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 50,
+        "percent": 12.74
+      },
+      {
+        "name": "crypto",
+        "total_seconds": 158.584057,
+        "digital": "0:02:38",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 38,
+        "percent": 4.92
+      },
+      {
+        "name": "server",
+        "total_seconds": 132.893188,
+        "digital": "0:02:12",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 12,
+        "percent": 4.13
+      },
+      {
+        "name": "web-push",
+        "total_seconds": 130.096128,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 4.04
+      },
+      {
+        "name": "storage",
+        "total_seconds": 50.326401,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 1.56
+      },
+      {
+        "name": "svgo",
+        "total_seconds": 14.607746,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.45
+      },
+      {
+        "name": "Header",
+        "total_seconds": 12.744666,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.4
+      },
+      {
+        "name": "InstallPrompt",
+        "total_seconds": 12.744666,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.4
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 8.249337,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.26
+      },
+      {
+        "name": "serviceWorker",
+        "total_seconds": 4.382533,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.14
+      },
+      {
+        "name": "usePushNotifications",
+        "total_seconds": 3.57144,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.11
+      },
+      {
+        "name": "NotificationPrompt",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 1001.465195,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:16:41",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1001.465195,
+        "digital": "0:16:41",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1001.465195,
+        "digital": "0:16:41",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1001.465195,
+        "digital": "0:16:41",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 41,
+        "percent": 100
+      }
+    ]
+  }
+]
