@@ -271,18 +271,7 @@
         "percent": 2.41
       },
       {
-        "name": "https",
-        "total_seconds": 1513.493115,
-        "digital": "0:25:13",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 13,
-        "percent": 2.29
-      },
-      {
-        "name": "util",
+        "name": "tls",
         "total_seconds": 1513.493115,
         "digital": "0:25:13",
         "decimal": "0.42",
@@ -304,7 +293,18 @@
         "percent": 2.29
       },
       {
-        "name": "tls",
+        "name": "https",
+        "total_seconds": 1513.493115,
+        "digital": "0:25:13",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 13,
+        "percent": 2.29
+      },
+      {
+        "name": "util",
         "total_seconds": 1513.493115,
         "digital": "0:25:13",
         "decimal": "0.42",
@@ -513,7 +513,7 @@
         "percent": 0.7
       },
       {
-        "name": "add-monitor-form",
+        "name": "delete-monitor-modal",
         "total_seconds": 460.474973,
         "digital": "0:07:40",
         "decimal": "0.12",
@@ -535,7 +535,7 @@
         "percent": 0.7
       },
       {
-        "name": "delete-monitor-modal",
+        "name": "add-monitor-form",
         "total_seconds": 460.474973,
         "digital": "0:07:40",
         "decimal": "0.12",
@@ -557,51 +557,7 @@
         "percent": 0.63
       },
       {
-        "name": "bun-types",
-        "total_seconds": 407.250161,
-        "digital": "0:06:47",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 0.62
-      },
-      {
-        "name": "npm",
-        "total_seconds": 407.250161,
-        "digital": "0:06:47",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 0.62
-      },
-      {
-        "name": "eslint",
-        "total_seconds": 407.250161,
-        "digital": "0:06:47",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 0.62
-      },
-      {
-        "name": "typescript",
-        "total_seconds": 407.250161,
-        "digital": "0:06:47",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 0.62
-      },
-      {
-        "name": "@types/react",
+        "name": "postcss",
         "total_seconds": 407.250161,
         "digital": "0:06:47",
         "decimal": "0.10",
@@ -623,7 +579,7 @@
         "percent": 0.62
       },
       {
-        "name": "eslint-config-next",
+        "name": "@types/react",
         "total_seconds": 407.250161,
         "digital": "0:06:47",
         "decimal": "0.10",
@@ -634,18 +590,7 @@
         "percent": 0.62
       },
       {
-        "name": "tailwindcss",
-        "total_seconds": 407.250161,
-        "digital": "0:06:47",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 0.62
-      },
-      {
-        "name": "postcss",
+        "name": "bun-types",
         "total_seconds": 407.250161,
         "digital": "0:06:47",
         "decimal": "0.10",
@@ -667,6 +612,50 @@
         "percent": 0.62
       },
       {
+        "name": "eslint-config-next",
+        "total_seconds": 407.250161,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 0.62
+      },
+      {
+        "name": "npm",
+        "total_seconds": 407.250161,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 0.62
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 407.250161,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 0.62
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 407.250161,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 0.62
+      },
+      {
         "name": "@types/react-dom",
         "total_seconds": 407.250161,
         "digital": "0:06:47",
@@ -678,7 +667,18 @@
         "percent": 0.62
       },
       {
-        "name": "autoprefixer",
+        "name": "eslint",
+        "total_seconds": 407.250161,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 0.62
+      },
+      {
+        "name": "prettier",
         "total_seconds": 355.337205,
         "digital": "0:05:55",
         "decimal": "0.08",
@@ -700,7 +700,7 @@
         "percent": 0.54
       },
       {
-        "name": "prettier",
+        "name": "@typescript-eslint/parser",
         "total_seconds": 355.337205,
         "digital": "0:05:55",
         "decimal": "0.08",
@@ -722,6 +722,17 @@
         "percent": 0.54
       },
       {
+        "name": "prettier-plugin-tailwindcss",
+        "total_seconds": 355.337205,
+        "digital": "0:05:55",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 55,
+        "percent": 0.54
+      },
+      {
         "name": "clsx",
         "total_seconds": 355.337205,
         "digital": "0:05:55",
@@ -733,18 +744,7 @@
         "percent": 0.54
       },
       {
-        "name": "@typescript-eslint/parser",
-        "total_seconds": 355.337205,
-        "digital": "0:05:55",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 55,
-        "percent": 0.54
-      },
-      {
-        "name": "prettier-plugin-tailwindcss",
+        "name": "autoprefixer",
         "total_seconds": 355.337205,
         "digital": "0:05:55",
         "decimal": "0.08",
@@ -788,7 +788,7 @@
         "percent": 0.43
       },
       {
-        "name": "local",
+        "name": "globals",
         "total_seconds": 270.811527,
         "digital": "0:04:30",
         "decimal": "0.07",
@@ -799,7 +799,7 @@
         "percent": 0.41
       },
       {
-        "name": "globals",
+        "name": "local",
         "total_seconds": 270.811527,
         "digital": "0:04:30",
         "decimal": "0.07",
@@ -821,7 +821,7 @@
         "percent": 0.4
       },
       {
-        "name": "switch",
+        "name": "dialog",
         "total_seconds": 261.910477,
         "digital": "0:04:21",
         "decimal": "0.07",
@@ -832,7 +832,7 @@
         "percent": 0.4
       },
       {
-        "name": "dialog",
+        "name": "switch",
         "total_seconds": 261.910477,
         "digital": "0:04:21",
         "decimal": "0.07",
@@ -909,7 +909,7 @@
         "percent": 0.2
       },
       {
-        "name": "@next/eslint-plugin-next",
+        "name": "@eslint/js",
         "total_seconds": 129.92646,
         "digital": "0:02:09",
         "decimal": "0.03",
@@ -920,7 +920,7 @@
         "percent": 0.2
       },
       {
-        "name": "@eslint/js",
+        "name": "@next/eslint-plugin-next",
         "total_seconds": 129.92646,
         "digital": "0:02:09",
         "decimal": "0.03",
@@ -997,7 +997,7 @@
         "percent": 0.06
       },
       {
-        "name": "eslint-plugin-next",
+        "name": "eslint-plugin",
         "total_seconds": 36.132342,
         "digital": "0:00:36",
         "decimal": "0.00",
@@ -1008,7 +1008,7 @@
         "percent": 0.05
       },
       {
-        "name": "eslint-plugin",
+        "name": "js",
         "total_seconds": 36.132342,
         "digital": "0:00:36",
         "decimal": "0.00",
@@ -1030,7 +1030,7 @@
         "percent": 0.05
       },
       {
-        "name": "js",
+        "name": "eslint-plugin-next",
         "total_seconds": 36.132342,
         "digital": "0:00:36",
         "decimal": "0.00",
@@ -1096,17 +1096,6 @@
         "percent": 0.01
       },
       {
-        "name": "bcryptjs",
-        "total_seconds": 4.48107,
-        "digital": "0:00:04",
-        "decimal": "0.00",
-        "text": "4 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 4,
-        "percent": 0.01
-      },
-      {
         "name": "jsonwebtoken",
         "total_seconds": 4.48107,
         "digital": "0:00:04",
@@ -1118,8 +1107,8 @@
         "percent": 0.01
       },
       {
-        "name": "useInstallPrompt",
-        "total_seconds": 4.111197,
+        "name": "bcryptjs",
+        "total_seconds": 4.48107,
         "digital": "0:00:04",
         "decimal": "0.00",
         "text": "4 secs",
@@ -1130,6 +1119,17 @@
       },
       {
         "name": "storage",
+        "total_seconds": 4.111197,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.01
+      },
+      {
+        "name": "useInstallPrompt",
         "total_seconds": 4.111197,
         "digital": "0:00:04",
         "decimal": "0.00",
@@ -1158,6 +1158,7 @@
       {
         "name": "uptime-robot",
         "total_seconds": 10073.952473,
+        "color": null,
         "digital": "2:47:53",
         "decimal": "2.78",
         "text": "2 hrs 47 mins",
@@ -1169,6 +1170,7 @@
       {
         "name": "neural-network-training-simulator",
         "total_seconds": 3620.375461,
+        "color": null,
         "digital": "1:00:20",
         "decimal": "1.00",
         "text": "1 hr",
