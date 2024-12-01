@@ -205,17 +205,6 @@
         "percent": 5.85
       },
       {
-        "name": "Hamster",
-        "total_seconds": 2155.951852,
-        "digital": "0:35:55",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 55,
-        "percent": 5.42
-      },
-      {
         "name": "Settings",
         "total_seconds": 2155.951852,
         "digital": "0:35:55",
@@ -227,7 +216,7 @@
         "percent": 5.42
       },
       {
-        "name": "Mine",
+        "name": "Info",
         "total_seconds": 2155.951852,
         "digital": "0:35:55",
         "decimal": "0.58",
@@ -238,7 +227,18 @@
         "percent": 5.42
       },
       {
-        "name": "Info",
+        "name": "Hamster",
+        "total_seconds": 2155.951852,
+        "digital": "0:35:55",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 55,
+        "percent": 5.42
+      },
+      {
+        "name": "Mine",
         "total_seconds": 2155.951852,
         "digital": "0:35:55",
         "decimal": "0.58",
@@ -447,7 +447,7 @@
         "percent": 0.96
       },
       {
-        "name": "engine",
+        "name": "slim",
         "total_seconds": 354.601073,
         "digital": "0:05:54",
         "decimal": "0.08",
@@ -458,7 +458,7 @@
         "percent": 0.89
       },
       {
-        "name": "slim",
+        "name": "engine",
         "total_seconds": 354.601073,
         "digital": "0:05:54",
         "decimal": "0.08",
@@ -711,7 +711,7 @@
         "percent": 0.13
       },
       {
-        "name": "types",
+        "name": "next-themes",
         "total_seconds": 41.117187,
         "digital": "0:00:41",
         "decimal": "0.00",
@@ -722,7 +722,7 @@
         "percent": 0.1
       },
       {
-        "name": "next-themes",
+        "name": "types",
         "total_seconds": 41.117187,
         "digital": "0:00:41",
         "decimal": "0.00",
@@ -883,6 +883,7 @@
       {
         "name": "Hamster-Kombat-Telegram-Mini-App-Clone",
         "total_seconds": 4508.450885,
+        "color": null,
         "digital": "1:15:08",
         "decimal": "1.25",
         "text": "1 hr 15 mins",
@@ -894,6 +895,7 @@
       {
         "name": "webprodigies-fuzzie-app",
         "total_seconds": 3801.483094,
+        "color": null,
         "digital": "1:03:21",
         "decimal": "1.05",
         "text": "1 hr 3 mins",
@@ -905,6 +907,7 @@
       {
         "name": "tap-tap-game",
         "total_seconds": 1860.596864,
+        "color": null,
         "digital": "0:31:00",
         "decimal": "0.52",
         "text": "31 mins",
@@ -916,6 +919,7 @@
       {
         "name": "neural-network-training-simulator",
         "total_seconds": 1079.966046,
+        "color": null,
         "digital": "0:17:59",
         "decimal": "0.28",
         "text": "17 mins",
