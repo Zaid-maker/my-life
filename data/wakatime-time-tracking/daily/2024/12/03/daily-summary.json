@@ -1,56 +1,49 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 24,
-      "total_seconds": 1458.939459,
-      "digital": "0:24",
-      "decimal": "0.40",
-      "text": "24 mins"
-    },
-    "range": {
-      "start": "2024-12-03T19:00:00Z",
-      "end": "2024-12-04T18:59:59Z",
-      "date": "2024-12-04",
-      "text": "Wed Dec 4th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "top-github-users-action",
-        "total_seconds": 1458.939459,
-        "color": null,
-        "digital": "0:24:18",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 18,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
-        "name": "JSON",
-        "total_seconds": 853.404219,
-        "digital": "0:14:13",
-        "decimal": "0.23",
-        "text": "14 mins",
+        "name": "JavaScript",
+        "total_seconds": 2425.232704,
+        "digital": "0:40:25",
+        "decimal": "0.67",
+        "text": "40 mins",
         "hours": 0,
-        "minutes": 14,
-        "seconds": 13,
-        "percent": 58.49
+        "minutes": 40,
+        "seconds": 25,
+        "percent": 59.54
       },
       {
-        "name": "JavaScript",
-        "total_seconds": 565.965103,
-        "digital": "0:09:25",
-        "decimal": "0.15",
-        "text": "9 mins",
+        "name": "JSON",
+        "total_seconds": 1118.88064,
+        "digital": "0:18:38",
+        "decimal": "0.30",
+        "text": "18 mins",
         "hours": 0,
-        "minutes": 9,
-        "seconds": 25,
-        "percent": 38.79
+        "minutes": 18,
+        "seconds": 38,
+        "percent": 27.47
+      },
+      {
+        "name": "Image (svg)",
+        "total_seconds": 387.310928,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 9.51
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 90.413798,
+        "digital": "0:01:30",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 2.22
       },
       {
         "name": "Markdown",
@@ -61,261 +54,498 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 39,
-        "percent": 2.71
+        "percent": 0.97
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 10.606729,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.26
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1.045237,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
       }
     ],
-    "dependencies": [
-      {
-        "name": "fs-extra",
-        "total_seconds": 882.177152,
-        "digital": "0:14:42",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 42,
-        "percent": 9.77
-      },
-      {
-        "name": "path",
-        "total_seconds": 565.965103,
-        "digital": "0:09:25",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 25,
-        "percent": 6.27
-      },
-      {
-        "name": "cross-env",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "simple-git",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "npm",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "babel-jest",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "conventional-changelog-cli",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "@babel/preset-env",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "@commitlint/cli",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "@octokit/graphql",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "jest",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "@vercel/ncc",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "@babel/core",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "@commitlint/config-conventional",
-        "total_seconds": 547.968844,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 6.07
-      },
-      {
-        "name": "url",
-        "total_seconds": 334.208308,
-        "digital": "0:05:34",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 34,
-        "percent": 3.7
-      },
-      {
-        "name": "promises",
-        "total_seconds": 231.756795,
-        "digital": "0:03:51",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 51,
-        "percent": 2.57
-      },
-      {
-        "name": "globals",
-        "total_seconds": 218.239604,
-        "digital": "0:03:38",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 38,
-        "percent": 2.42
-      },
-      {
-        "name": "config_file",
-        "total_seconds": 218.239604,
-        "digital": "0:03:38",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 38,
-        "percent": 2.42
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 1458.939459,
-        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "0:24:18",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 18,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 7,
+      "total_seconds": 4073.060173,
+      "digital": "1:07",
+      "decimal": "1.12",
+      "text": "1 hr 7 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 1458.939459,
-        "digital": "0:24:18",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 18,
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 1458.939459,
-        "digital": "0:24:18",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 18,
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 1458.939459,
-        "digital": "0:24:18",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 18,
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "path",
+        "total_seconds": 1962.111493,
+        "digital": "0:32:42",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 42,
+        "percent": 9.01
+      },
+      {
+        "name": "fs-extra",
+        "total_seconds": 1409.643955,
+        "digital": "0:23:29",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 29,
+        "percent": 6.47
+      },
+      {
+        "name": "promises",
+        "total_seconds": 1122.127353,
+        "digital": "0:18:42",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 42,
+        "percent": 5.15
+      },
+      {
+        "name": "config_file",
+        "total_seconds": 1045.069315,
+        "digital": "0:17:25",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 25,
+        "percent": 4.8
+      },
+      {
+        "name": "node-fetch",
+        "total_seconds": 890.370558,
+        "digital": "0:14:50",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 50,
+        "percent": 4.09
+      },
+      {
+        "name": "url",
+        "total_seconds": 839.98414,
+        "digital": "0:13:59",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 59,
+        "percent": 3.86
+      },
+      {
+        "name": "globals",
+        "total_seconds": 571.341375,
+        "digital": "0:09:31",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 31,
+        "percent": 2.62
+      },
+      {
+        "name": "@commitlint/config-conventional",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "@commitlint/cli",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "@vercel/ncc",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "@octokit/graphql",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "@babel/preset-env",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "conventional-changelog-cli",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "jest",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "@babel/core",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "npm",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "simple-git",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "cross-env",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "babel-jest",
+        "total_seconds": 569.659815,
+        "digital": "0:09:29",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 2.61
+      },
+      {
+        "name": "create_ranking_json_file",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "push-git",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "output_markdown",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "output_checkpoint",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "format_markdown",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "request_octokit",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "output_cache",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "create_followers_page",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "commit-git",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "OutputMarkdownModel",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "create_public_contributions_page",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "create_total_contributions_page",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "pull-git",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "create_index_page",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "output_html",
+        "total_seconds": 473.72794,
+        "digital": "0:07:53",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 2.17
+      },
+      {
+        "name": "index",
+        "total_seconds": 2.383638,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 4073.060173,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "top-github-users-action",
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-03T19:00:00Z",
+      "end": "2024-12-04T18:59:59Z",
+      "date": "2024-12-04",
+      "text": "Wed Dec 4th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
