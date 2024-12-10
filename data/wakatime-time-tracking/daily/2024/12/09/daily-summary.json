@@ -1,0 +1,255 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 365.999988,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
+    "range": {
+      "start": "2024-12-09T19:00:00Z",
+      "end": "2024-12-10T18:59:59Z",
+      "date": "2024-12-10",
+      "text": "Tue Dec 10th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "uptime-robot",
+        "total_seconds": 365.999988,
+        "color": null,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 355.898339,
+        "digital": "0:05:55",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 55,
+        "percent": 97.24
+      },
+      {
+        "name": "Other",
+        "total_seconds": 10.101649,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 2.76
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 204.163977,
+        "digital": "0:03:24",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 24,
+        "percent": 18.57
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 204.163977,
+        "digital": "0:03:24",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 24,
+        "percent": 18.57
+      },
+      {
+        "name": "db",
+        "total_seconds": 151.734362,
+        "digital": "0:02:31",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 31,
+        "percent": 13.8
+      },
+      {
+        "name": "auth-service",
+        "total_seconds": 151.734362,
+        "digital": "0:02:31",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 31,
+        "percent": 13.8
+      },
+      {
+        "name": "logger",
+        "total_seconds": 151.734362,
+        "digital": "0:02:31",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 31,
+        "percent": 13.8
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 151.734362,
+        "digital": "0:02:31",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 31,
+        "percent": 13.8
+      },
+      {
+        "name": "axios",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      },
+      {
+        "name": "button",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      },
+      {
+        "name": "card",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      },
+      {
+        "name": "api",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      },
+      {
+        "name": "input",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      },
+      {
+        "name": "AuthContext",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      },
+      {
+        "name": "label",
+        "total_seconds": 12.01649,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.09
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 365.999988,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 365.999988,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 365.999988,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 365.999988,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 100
+      }
+    ]
+  }
+]
