@@ -1,0 +1,310 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 45,
+      "total_seconds": 2745.955922,
+      "digital": "0:45",
+      "decimal": "0.75",
+      "text": "45 mins"
+    },
+    "range": {
+      "start": "2024-12-15T19:00:00Z",
+      "end": "2024-12-16T18:59:59Z",
+      "date": "2024-12-16",
+      "text": "Mon Dec 16th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "open_wiki",
+        "total_seconds": 2745.955922,
+        "color": null,
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 1271.950657,
+        "digital": "0:21:11",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 11,
+        "percent": 46.32
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 820.055594,
+        "digital": "0:13:40",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 40,
+        "percent": 29.86
+      },
+      {
+        "name": "Python",
+        "total_seconds": 492.574635,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 17.94
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 153.15369,
+        "digital": "0:02:33",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 33,
+        "percent": 5.58
+      },
+      {
+        "name": "Other",
+        "total_seconds": 4.030541,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.15
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 2.87624,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.1
+      },
+      {
+        "name": "Text",
+        "total_seconds": 1.314565,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.05
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "datetime",
+        "total_seconds": 492.574635,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 15.85
+      },
+      {
+        "name": "json",
+        "total_seconds": 492.574635,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 15.85
+      },
+      {
+        "name": "typing",
+        "total_seconds": 441.559321,
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 14.2
+      },
+      {
+        "name": "collections",
+        "total_seconds": 441.559321,
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 14.2
+      },
+      {
+        "name": "glob",
+        "total_seconds": 441.559321,
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 14.2
+      },
+      {
+        "name": "re",
+        "total_seconds": 441.559321,
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 14.2
+      },
+      {
+        "name": "update_progress",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      },
+      {
+        "name": "tqdm",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      },
+      {
+        "name": "wikipediaapi",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      },
+      {
+        "name": "concurrent",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      },
+      {
+        "name": "queue",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      },
+      {
+        "name": "threading",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      },
+      {
+        "name": "time",
+        "total_seconds": 51.015314,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 1.64
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 2745.955922,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2745.955922,
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2745.955922,
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2745.955922,
+        "digital": "0:45:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 100
+      }
+    ]
+  }
+]
