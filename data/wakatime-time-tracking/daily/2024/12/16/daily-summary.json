@@ -205,7 +205,7 @@
         "percent": 3.44
       },
       {
-        "name": "Chart",
+        "name": "UserProfile",
         "total_seconds": 359.701559,
         "digital": "0:05:59",
         "decimal": "0.08",
@@ -216,7 +216,7 @@
         "percent": 2.8
       },
       {
-        "name": "UserProfile",
+        "name": "Chart",
         "total_seconds": 359.701559,
         "digital": "0:05:59",
         "decimal": "0.08",
@@ -238,29 +238,7 @@
         "percent": 2.76
       },
       {
-        "name": "npm",
-        "total_seconds": 295.824702,
-        "digital": "0:04:55",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 55,
-        "percent": 2.31
-      },
-      {
-        "name": "@vitejs/plugin-react-swc",
-        "total_seconds": 295.824702,
-        "digital": "0:04:55",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 55,
-        "percent": 2.31
-      },
-      {
-        "name": "react-dom",
+        "name": "eslint-plugin-react-hooks",
         "total_seconds": 295.824702,
         "digital": "0:04:55",
         "decimal": "0.07",
@@ -282,40 +260,7 @@
         "percent": 2.31
       },
       {
-        "name": "eslint-plugin-react-refresh",
-        "total_seconds": 295.824702,
-        "digital": "0:04:55",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 55,
-        "percent": 2.31
-      },
-      {
         "name": "@types/react-dom",
-        "total_seconds": 295.824702,
-        "digital": "0:04:55",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 55,
-        "percent": 2.31
-      },
-      {
-        "name": "eslint-plugin-react-hooks",
-        "total_seconds": 295.824702,
-        "digital": "0:04:55",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 55,
-        "percent": 2.31
-      },
-      {
-        "name": "@types/react",
         "total_seconds": 295.824702,
         "digital": "0:04:55",
         "decimal": "0.07",
@@ -337,7 +282,62 @@
         "percent": 2.31
       },
       {
+        "name": "@vitejs/plugin-react-swc",
+        "total_seconds": 295.824702,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 2.31
+      },
+      {
         "name": "eslint",
+        "total_seconds": 295.824702,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 2.31
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 295.824702,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 2.31
+      },
+      {
+        "name": "eslint-plugin-react-refresh",
+        "total_seconds": 295.824702,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 2.31
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 295.824702,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 2.31
+      },
+      {
+        "name": "npm",
         "total_seconds": 295.824702,
         "digital": "0:04:55",
         "decimal": "0.07",
@@ -469,7 +469,7 @@
         "percent": 0.77
       },
       {
-        "name": "postcss",
+        "name": "autoprefixer",
         "total_seconds": 99.231585,
         "digital": "0:01:39",
         "decimal": "0.02",
@@ -480,7 +480,7 @@
         "percent": 0.77
       },
       {
-        "name": "autoprefixer",
+        "name": "postcss",
         "total_seconds": 99.231585,
         "digital": "0:01:39",
         "decimal": "0.02",
@@ -513,6 +513,17 @@
         "percent": 0.71
       },
       {
+        "name": "appwrite",
+        "total_seconds": 71.778492,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 0.56
+      },
+      {
         "name": "file",
         "total_seconds": 71.778492,
         "digital": "0:01:11",
@@ -535,18 +546,7 @@
         "percent": 0.56
       },
       {
-        "name": "appwrite",
-        "total_seconds": 71.778492,
-        "digital": "0:01:11",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 11,
-        "percent": 0.56
-      },
-      {
-        "name": "node-appwrite",
+        "name": "utils",
         "total_seconds": 71.778492,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -568,7 +568,7 @@
         "percent": 0.56
       },
       {
-        "name": "use-toast",
+        "name": "node-appwrite",
         "total_seconds": 71.778492,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -579,7 +579,7 @@
         "percent": 0.56
       },
       {
-        "name": "utils",
+        "name": "use-toast",
         "total_seconds": 71.778492,
         "digital": "0:01:11",
         "decimal": "0.02",
@@ -652,6 +652,7 @@
       {
         "name": "igthub-unwrapped",
         "total_seconds": 3382.659619,
+        "color": null,
         "digital": "0:56:22",
         "decimal": "0.93",
         "text": "56 mins",
@@ -663,6 +664,7 @@
       {
         "name": "storeit",
         "total_seconds": 193.545075,
+        "color": null,
         "digital": "0:03:13",
         "decimal": "0.05",
         "text": "3 mins",
