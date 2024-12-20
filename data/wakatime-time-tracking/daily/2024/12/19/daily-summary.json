@@ -1,0 +1,255 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 31,
+      "total_seconds": 1860.491831,
+      "digital": "0:31",
+      "decimal": "0.52",
+      "text": "31 mins"
+    },
+    "range": {
+      "start": "2024-12-19T19:00:00Z",
+      "end": "2024-12-20T18:59:59Z",
+      "date": "2024-12-20",
+      "text": "Fri Dec 20th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "igthub-unwrapped",
+        "total_seconds": 1860.491831,
+        "color": null,
+        "digital": "0:31:00",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 932.327409,
+        "digital": "0:15:32",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 32,
+        "percent": 50.11
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 743.710211,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 39.97
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 118.004449,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 6.34
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 66.449762,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 3.57
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "express",
+        "total_seconds": 412.085567,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 18.96
+      },
+      {
+        "name": "githubDataService",
+        "total_seconds": 369.388532,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 17
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 325.521785,
+        "digital": "0:05:25",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 25,
+        "percent": 14.98
+      },
+      {
+        "name": "jsonwebtoken",
+        "total_seconds": 305.221448,
+        "digital": "0:05:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 5,
+        "percent": 14.04
+      },
+      {
+        "name": "octokit",
+        "total_seconds": 236.852124,
+        "digital": "0:03:56",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 10.9
+      },
+      {
+        "name": "githubAuth",
+        "total_seconds": 195.53378,
+        "digital": "0:03:15",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 15,
+        "percent": 9
+      },
+      {
+        "name": "jwt",
+        "total_seconds": 195.53378,
+        "digital": "0:03:15",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 15,
+        "percent": 9
+      },
+      {
+        "name": "crypto",
+        "total_seconds": 114.994396,
+        "digital": "0:01:54",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 54,
+        "percent": 5.29
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 6.102859,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.28
+      },
+      {
+        "name": "axios",
+        "total_seconds": 6.102859,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.28
+      },
+      {
+        "name": "react",
+        "total_seconds": 6.102859,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.28
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 1860.491831,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:31:00",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1860.491831,
+        "digital": "0:31:00",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1860.491831,
+        "digital": "0:31:00",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1860.491831,
+        "digital": "0:31:00",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 0,
+        "percent": 100
+      }
+    ]
+  }
+]
