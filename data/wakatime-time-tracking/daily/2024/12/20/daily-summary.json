@@ -10,7 +10,7 @@
         "hours": 0,
         "minutes": 42,
         "seconds": 27,
-        "percent": 43.1
+        "percent": 42.99
       },
       {
         "name": "HTML",
@@ -21,7 +21,7 @@
         "hours": 0,
         "minutes": 15,
         "seconds": 12,
-        "percent": 15.45
+        "percent": 15.41
       },
       {
         "name": "Markdown",
@@ -32,7 +32,7 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 46,
-        "percent": 10.94
+        "percent": 10.91
       },
       {
         "name": "JavaScript",
@@ -43,7 +43,7 @@
         "hours": 0,
         "minutes": 7,
         "seconds": 50,
-        "percent": 7.97
+        "percent": 7.95
       },
       {
         "name": "CSS",
@@ -54,18 +54,18 @@
         "hours": 0,
         "minutes": 7,
         "seconds": 26,
-        "percent": 7.55
+        "percent": 7.53
       },
       {
         "name": "JSON",
-        "total_seconds": 402.682843,
-        "digital": "0:06:42",
+        "total_seconds": 417.983455,
+        "digital": "0:06:57",
         "decimal": "0.10",
         "text": "6 mins",
         "hours": 0,
         "minutes": 6,
-        "seconds": 42,
-        "percent": 6.81
+        "seconds": 57,
+        "percent": 7.05
       },
       {
         "name": "Text",
@@ -76,7 +76,7 @@
         "hours": 0,
         "minutes": 3,
         "seconds": 40,
-        "percent": 3.73
+        "percent": 3.72
       },
       {
         "name": "Other",
@@ -120,7 +120,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 35,
-        "percent": 0.61
+        "percent": 0.6
       },
       {
         "name": "Image (svg)",
@@ -137,7 +137,7 @@
     "grand_total": {
       "hours": 1,
       "minutes": 38,
-      "total_seconds": 5910.459952,
+      "total_seconds": 5925.760564,
       "digital": "1:38",
       "decimal": "1.63",
       "text": "1 hr 38 mins"
@@ -145,39 +145,39 @@
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 5910.459952,
-        "digital": "1:38:30",
+        "total_seconds": 5925.760564,
+        "digital": "1:38:45",
         "decimal": "1.63",
         "text": "1 hr 38 mins",
         "hours": 1,
         "minutes": 38,
-        "seconds": 30,
+        "seconds": 45,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 5910.459952,
-        "digital": "1:38:30",
+        "total_seconds": 5925.760564,
+        "digital": "1:38:45",
         "decimal": "1.63",
         "text": "1 hr 38 mins",
         "hours": 1,
         "minutes": 38,
-        "seconds": 30,
+        "seconds": 45,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 5910.459952,
-        "digital": "1:38:30",
+        "total_seconds": 5925.760564,
+        "digital": "1:38:45",
         "decimal": "1.63",
         "text": "1 hr 38 mins",
         "hours": 1,
         "minutes": 38,
-        "seconds": 30,
+        "seconds": 45,
         "percent": 100
       }
     ],
@@ -370,7 +370,7 @@
         "percent": 0.77
       },
       {
-        "name": "flask",
+        "name": "flask_cors",
         "total_seconds": 81.043787,
         "digital": "0:01:21",
         "decimal": "0.02",
@@ -381,7 +381,7 @@
         "percent": 0.75
       },
       {
-        "name": "flask_cors",
+        "name": "flask",
         "total_seconds": 81.043787,
         "digital": "0:01:21",
         "decimal": "0.02",
@@ -425,7 +425,7 @@
         "percent": 0.49
       },
       {
-        "name": "re",
+        "name": "functools",
         "total_seconds": 48.247716,
         "digital": "0:00:48",
         "decimal": "0.00",
@@ -436,7 +436,7 @@
         "percent": 0.45
       },
       {
-        "name": "functools",
+        "name": "re",
         "total_seconds": 48.247716,
         "digital": "0:00:48",
         "decimal": "0.00",
@@ -494,39 +494,41 @@
     "machines": [
       {
         "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 5910.459952,
+        "total_seconds": 5925.760564,
         "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "1:38:30",
+        "digital": "1:38:45",
         "decimal": "1.63",
         "text": "1 hr 38 mins",
         "hours": 1,
         "minutes": 38,
-        "seconds": 30,
+        "seconds": 45,
         "percent": 100
       }
     ],
     "projects": [
       {
         "name": "open_wiki",
-        "total_seconds": 4564.837722,
-        "digital": "1:16:04",
+        "total_seconds": 4580.138334,
+        "color": null,
+        "digital": "1:16:20",
         "decimal": "1.27",
         "text": "1 hr 16 mins",
         "hours": 1,
         "minutes": 16,
-        "seconds": 4,
-        "percent": 77.23
+        "seconds": 20,
+        "percent": 77.29
       },
       {
         "name": "status-page",
         "total_seconds": 1345.62223,
+        "color": null,
         "digital": "0:22:25",
         "decimal": "0.37",
         "text": "22 mins",
         "hours": 0,
         "minutes": 22,
         "seconds": 25,
-        "percent": 22.77
+        "percent": 22.71
       }
     ],
     "range": {
