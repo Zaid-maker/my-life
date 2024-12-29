@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 33,
-      "total_seconds": 1999.747767,
-      "digital": "0:33",
-      "decimal": "0.55",
-      "text": "33 mins"
-    },
-    "range": {
-      "start": "2024-12-27T19:00:00Z",
-      "end": "2024-12-28T18:59:59Z",
-      "date": "2024-12-28",
-      "text": "Sat Dec 28th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "awwards",
-        "total_seconds": 1532.462794,
-        "color": null,
-        "digital": "0:25:32",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 32,
-        "percent": 76.63
-      },
-      {
-        "name": "status-page",
-        "total_seconds": 467.284973,
-        "color": null,
-        "digital": "0:07:47",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 47,
-        "percent": 23.37
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -98,6 +57,53 @@
         "percent": 2.83
       }
     ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 33,
+      "total_seconds": 1999.747767,
+      "digital": "0:33",
+      "decimal": "0.55",
+      "text": "33 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1999.747767,
+        "digital": "0:33:19",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1999.747767,
+        "digital": "0:33:19",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1999.747767,
+        "digital": "0:33:19",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
     "dependencies": [
       {
         "name": "react",
@@ -122,7 +128,7 @@
         "percent": 5.1
       },
       {
-        "name": "eslint",
+        "name": "eslint-plugin-react-hooks",
         "total_seconds": 189.362282,
         "digital": "0:03:09",
         "decimal": "0.05",
@@ -144,29 +150,7 @@
         "percent": 4.56
       },
       {
-        "name": "globals",
-        "total_seconds": 189.362282,
-        "digital": "0:03:09",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 9,
-        "percent": 4.56
-      },
-      {
         "name": "eslint-plugin-react-refresh",
-        "total_seconds": 189.362282,
-        "digital": "0:03:09",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 9,
-        "percent": 4.56
-      },
-      {
-        "name": "@eslint/js",
         "total_seconds": 189.362282,
         "digital": "0:03:09",
         "decimal": "0.05",
@@ -188,18 +172,7 @@
         "percent": 4.56
       },
       {
-        "name": "eslint-plugin-react",
-        "total_seconds": 189.362282,
-        "digital": "0:03:09",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 9,
-        "percent": 4.56
-      },
-      {
-        "name": "@vitejs/plugin-react-swc",
+        "name": "react-dom",
         "total_seconds": 189.362282,
         "digital": "0:03:09",
         "decimal": "0.05",
@@ -221,7 +194,7 @@
         "percent": 4.56
       },
       {
-        "name": "eslint-plugin-react-hooks",
+        "name": "eslint",
         "total_seconds": 189.362282,
         "digital": "0:03:09",
         "decimal": "0.05",
@@ -232,7 +205,40 @@
         "percent": 4.56
       },
       {
-        "name": "react-dom",
+        "name": "@vitejs/plugin-react-swc",
+        "total_seconds": 189.362282,
+        "digital": "0:03:09",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 9,
+        "percent": 4.56
+      },
+      {
+        "name": "globals",
+        "total_seconds": 189.362282,
+        "digital": "0:03:09",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 9,
+        "percent": 4.56
+      },
+      {
+        "name": "eslint-plugin-react",
+        "total_seconds": 189.362282,
+        "digital": "0:03:09",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 9,
+        "percent": 4.56
+      },
+      {
+        "name": "@eslint/js",
         "total_seconds": 189.362282,
         "digital": "0:03:09",
         "decimal": "0.05",
@@ -287,7 +293,7 @@
         "percent": 1.54
       },
       {
-        "name": "index",
+        "name": "client",
         "total_seconds": 53.949675,
         "digital": "0:00:53",
         "decimal": "0.00",
@@ -298,7 +304,7 @@
         "percent": 1.3
       },
       {
-        "name": "client",
+        "name": "index",
         "total_seconds": 53.949675,
         "digital": "0:00:53",
         "decimal": "0.00",
@@ -323,44 +329,36 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1999.747767,
-        "digital": "0:33:19",
-        "decimal": "0.55",
-        "text": "33 mins",
+        "name": "awwards",
+        "total_seconds": 1532.462794,
+        "digital": "0:25:32",
+        "decimal": "0.42",
+        "text": "25 mins",
         "hours": 0,
-        "minutes": 33,
-        "seconds": 19,
-        "percent": 100
+        "minutes": 25,
+        "seconds": 32,
+        "percent": 76.63
+      },
+      {
+        "name": "status-page",
+        "total_seconds": 467.284973,
+        "digital": "0:07:47",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 47,
+        "percent": 23.37
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1999.747767,
-        "digital": "0:33:19",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 19,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1999.747767,
-        "digital": "0:33:19",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 19,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-27T19:00:00Z",
+      "end": "2024-12-28T18:59:59Z",
+      "date": "2024-12-28",
+      "text": "Sat Dec 28th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
