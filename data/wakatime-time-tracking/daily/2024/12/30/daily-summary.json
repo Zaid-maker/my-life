@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 21,
-      "total_seconds": 1319.710307,
-      "digital": "0:21",
-      "decimal": "0.35",
-      "text": "21 mins"
-    },
-    "range": {
-      "start": "2024-12-30T19:00:00Z",
-      "end": "2024-12-31T18:59:59Z",
-      "date": "2024-12-31",
-      "text": "Tue Dec 31st 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "awwards",
-        "total_seconds": 1319.710307,
-        "color": null,
-        "digital": "0:21:59",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 59,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -51,6 +22,53 @@
         "minutes": 7,
         "seconds": 37,
         "percent": 34.69
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1319.710307,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1319.710307,
+        "digital": "0:21:59",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1319.710307,
+        "digital": "0:21:59",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1319.710307,
+        "digital": "0:21:59",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 59,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -124,9 +142,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "awwards",
         "total_seconds": 1319.710307,
         "digital": "0:21:59",
         "decimal": "0.35",
@@ -137,31 +155,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1319.710307,
-        "digital": "0:21:59",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 59,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1319.710307,
-        "digital": "0:21:59",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 59,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-30T19:00:00Z",
+      "end": "2024-12-31T18:59:59Z",
+      "date": "2024-12-31",
+      "text": "Tue Dec 31st 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
