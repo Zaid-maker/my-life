@@ -1,0 +1,299 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 37,
+      "total_seconds": 2276.340555,
+      "digital": "0:37",
+      "decimal": "0.62",
+      "text": "37 mins"
+    },
+    "range": {
+      "start": "2025-01-06T19:00:00Z",
+      "end": "2025-01-07T18:59:59Z",
+      "date": "2025-01-07",
+      "text": "Tue Jan 7th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "chatty",
+        "total_seconds": 2276.340555,
+        "color": null,
+        "digital": "0:37:56",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1619.620878,
+        "digital": "0:26:59",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 59,
+        "percent": 71.15
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 384.226526,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 16.88
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 135.768771,
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 5.96
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 133.119083,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 5.85
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3.605297,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.16
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "express",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "cors",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "auth.route",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "cookie-parser",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "db",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "health.route",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "date-fns",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "message.route",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "health.controller",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "path",
+        "total_seconds": 1284.242766,
+        "digital": "0:21:24",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 24,
+        "percent": 8.6
+      },
+      {
+        "name": "axios",
+        "total_seconds": 335.378112,
+        "digital": "0:05:35",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 35,
+        "percent": 2.25
+      },
+      {
+        "name": "development",
+        "total_seconds": 335.378112,
+        "digital": "0:05:35",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 35,
+        "percent": 2.25
+      },
+      {
+        "name": "npm",
+        "total_seconds": 133.119083,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 0.89
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 2276.340555,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "0:37:56",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2276.340555,
+        "digital": "0:37:56",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2276.340555,
+        "digital": "0:37:56",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2276.340555,
+        "digital": "0:37:56",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 56,
+        "percent": 100
+      }
+    ]
+  }
+]
