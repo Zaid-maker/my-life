@@ -205,7 +205,7 @@
         "percent": 6.2
       },
       {
-        "name": "cors",
+        "name": "cookie-parser",
         "total_seconds": 3106.339242,
         "digital": "0:51:46",
         "decimal": "0.85",
@@ -216,7 +216,7 @@
         "percent": 6.02
       },
       {
-        "name": "cookie-parser",
+        "name": "cors",
         "total_seconds": 3106.339242,
         "digital": "0:51:46",
         "decimal": "0.85",
@@ -447,7 +447,7 @@
         "percent": 0.75
       },
       {
-        "name": "globals",
+        "name": "eslint",
         "total_seconds": 385.062973,
         "digital": "0:06:25",
         "decimal": "0.10",
@@ -458,7 +458,7 @@
         "percent": 0.75
       },
       {
-        "name": "eslint",
+        "name": "globals",
         "total_seconds": 385.062973,
         "digital": "0:06:25",
         "decimal": "0.10",
@@ -491,7 +491,7 @@
         "percent": 0.72
       },
       {
-        "name": "prettier",
+        "name": "socket.io",
         "total_seconds": 327.049234,
         "digital": "0:05:27",
         "decimal": "0.08",
@@ -502,7 +502,7 @@
         "percent": 0.63
       },
       {
-        "name": "eslint-config-prettier",
+        "name": "prettier",
         "total_seconds": 327.049234,
         "digital": "0:05:27",
         "decimal": "0.08",
@@ -524,7 +524,7 @@
         "percent": 0.63
       },
       {
-        "name": "socket.io",
+        "name": "eslint-config-prettier",
         "total_seconds": 327.049234,
         "digital": "0:05:27",
         "decimal": "0.08",
@@ -656,62 +656,7 @@
         "percent": 0.13
       },
       {
-        "name": "@types/react-dom",
-        "total_seconds": 58.013739,
-        "digital": "0:00:58",
-        "decimal": "0.00",
-        "text": "58 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 58,
-        "percent": 0.11
-      },
-      {
         "name": "@types/react",
-        "total_seconds": 58.013739,
-        "digital": "0:00:58",
-        "decimal": "0.00",
-        "text": "58 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 58,
-        "percent": 0.11
-      },
-      {
-        "name": "react-dom",
-        "total_seconds": 58.013739,
-        "digital": "0:00:58",
-        "decimal": "0.00",
-        "text": "58 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 58,
-        "percent": 0.11
-      },
-      {
-        "name": "eslint-plugin-react-hooks",
-        "total_seconds": 58.013739,
-        "digital": "0:00:58",
-        "decimal": "0.00",
-        "text": "58 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 58,
-        "percent": 0.11
-      },
-      {
-        "name": "@vitejs/plugin-react-swc",
-        "total_seconds": 58.013739,
-        "digital": "0:00:58",
-        "decimal": "0.00",
-        "text": "58 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 58,
-        "percent": 0.11
-      },
-      {
-        "name": "@eslint/js",
         "total_seconds": 58.013739,
         "digital": "0:00:58",
         "decimal": "0.00",
@@ -733,7 +678,62 @@
         "percent": 0.11
       },
       {
+        "name": "@eslint/js",
+        "total_seconds": 58.013739,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 0.11
+      },
+      {
         "name": "eslint-plugin-react",
+        "total_seconds": 58.013739,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 0.11
+      },
+      {
+        "name": "@vitejs/plugin-react-swc",
+        "total_seconds": 58.013739,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 0.11
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 58.013739,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 0.11
+      },
+      {
+        "name": "eslint-plugin-react-hooks",
+        "total_seconds": 58.013739,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 0.11
+      },
+      {
+        "name": "react-dom",
         "total_seconds": 58.013739,
         "digital": "0:00:58",
         "decimal": "0.00",
@@ -766,7 +766,7 @@
         "percent": 0.07
       },
       {
-        "name": "react-hot-toast",
+        "name": "SettingsPage",
         "total_seconds": 29.620074,
         "digital": "0:00:29",
         "decimal": "0.00",
@@ -777,7 +777,7 @@
         "percent": 0.06
       },
       {
-        "name": "SettingsPage",
+        "name": "react-hot-toast",
         "total_seconds": 29.620074,
         "digital": "0:00:29",
         "decimal": "0.00",
@@ -843,6 +843,17 @@
         "percent": 0.04
       },
       {
+        "name": "LoginPage",
+        "total_seconds": 16.191389,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.03
+      },
+      {
         "name": "HomePage",
         "total_seconds": 16.191389,
         "digital": "0:00:16",
@@ -855,17 +866,6 @@
       },
       {
         "name": "ProfilePage",
-        "total_seconds": 16.191389,
-        "digital": "0:00:16",
-        "decimal": "0.00",
-        "text": "16 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 16,
-        "percent": 0.03
-      },
-      {
-        "name": "LoginPage",
         "total_seconds": 16.191389,
         "digital": "0:00:16",
         "decimal": "0.00",
@@ -917,6 +917,7 @@
       {
         "name": "chatty",
         "total_seconds": 12777.653855,
+        "color": null,
         "digital": "3:32:57",
         "decimal": "3.53",
         "text": "3 hrs 32 mins",
@@ -928,6 +929,7 @@
       {
         "name": "blog-website",
         "total_seconds": 388.254098,
+        "color": null,
         "digital": "0:06:28",
         "decimal": "0.10",
         "text": "6 mins",

@@ -117,62 +117,7 @@
         "percent": 6.73
       },
       {
-        "name": "message.route",
-        "total_seconds": 1543.078081,
-        "digital": "0:25:43",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 43,
-        "percent": 6.68
-      },
-      {
-        "name": "db",
-        "total_seconds": 1543.078081,
-        "digital": "0:25:43",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 43,
-        "percent": 6.68
-      },
-      {
         "name": "cors",
-        "total_seconds": 1543.078081,
-        "digital": "0:25:43",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 43,
-        "percent": 6.68
-      },
-      {
-        "name": "cookie-parser",
-        "total_seconds": 1543.078081,
-        "digital": "0:25:43",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 43,
-        "percent": 6.68
-      },
-      {
-        "name": "date-fns",
-        "total_seconds": 1543.078081,
-        "digital": "0:25:43",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 43,
-        "percent": 6.68
-      },
-      {
-        "name": "health.route",
         "total_seconds": 1543.078081,
         "digital": "0:25:43",
         "decimal": "0.42",
@@ -194,7 +139,18 @@
         "percent": 6.68
       },
       {
-        "name": "health.controller",
+        "name": "cookie-parser",
+        "total_seconds": 1543.078081,
+        "digital": "0:25:43",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 43,
+        "percent": 6.68
+      },
+      {
+        "name": "db",
         "total_seconds": 1543.078081,
         "digital": "0:25:43",
         "decimal": "0.42",
@@ -206,6 +162,50 @@
       },
       {
         "name": "dotenv",
+        "total_seconds": 1543.078081,
+        "digital": "0:25:43",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 43,
+        "percent": 6.68
+      },
+      {
+        "name": "health.route",
+        "total_seconds": 1543.078081,
+        "digital": "0:25:43",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 43,
+        "percent": 6.68
+      },
+      {
+        "name": "date-fns",
+        "total_seconds": 1543.078081,
+        "digital": "0:25:43",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 43,
+        "percent": 6.68
+      },
+      {
+        "name": "message.route",
+        "total_seconds": 1543.078081,
+        "digital": "0:25:43",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 43,
+        "percent": 6.68
+      },
+      {
+        "name": "health.controller",
         "total_seconds": 1543.078081,
         "digital": "0:25:43",
         "decimal": "0.42",
@@ -238,7 +238,7 @@
         "percent": 6.17
       },
       {
-        "name": "development",
+        "name": "axios",
         "total_seconds": 668.245153,
         "digital": "0:11:08",
         "decimal": "0.18",
@@ -249,7 +249,7 @@
         "percent": 2.89
       },
       {
-        "name": "axios",
+        "name": "development",
         "total_seconds": 668.245153,
         "digital": "0:11:08",
         "decimal": "0.18",
@@ -326,7 +326,7 @@
         "percent": 1.03
       },
       {
-        "name": "Navbar",
+        "name": "SettingsPage",
         "total_seconds": 190.549102,
         "digital": "0:03:10",
         "decimal": "0.05",
@@ -337,7 +337,7 @@
         "percent": 0.83
       },
       {
-        "name": "SettingsPage",
+        "name": "Navbar",
         "total_seconds": 190.549102,
         "digital": "0:03:10",
         "decimal": "0.05",
@@ -410,6 +410,7 @@
       {
         "name": "chatty",
         "total_seconds": 4956.65087,
+        "color": null,
         "digital": "1:22:36",
         "decimal": "1.37",
         "text": "1 hr 22 mins",
