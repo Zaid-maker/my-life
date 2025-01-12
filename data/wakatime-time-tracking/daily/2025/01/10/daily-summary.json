@@ -1,45 +1,16 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 7,
-      "total_seconds": 450.958346,
-      "digital": "0:07",
-      "decimal": "0.12",
-      "text": "7 mins"
-    },
-    "range": {
-      "start": "2025-01-10T19:00:00Z",
-      "end": "2025-01-11T18:59:59Z",
-      "date": "2025-01-11",
-      "text": "Sat Jan 11th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "university-library",
-        "total_seconds": 450.958346,
-        "color": null,
-        "digital": "0:07:30",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 421.437061,
-        "digital": "0:07:01",
-        "decimal": "0.12",
-        "text": "7 mins",
+        "total_seconds": 533.983095,
+        "digital": "0:08:53",
+        "decimal": "0.13",
+        "text": "8 mins",
         "hours": 0,
-        "minutes": 7,
-        "seconds": 1,
-        "percent": 93.45
+        "minutes": 8,
+        "seconds": 53,
+        "percent": 94.76
       },
       {
         "name": "CSS",
@@ -50,7 +21,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 21,
-        "percent": 4.74
+        "percent": 3.79
       },
       {
         "name": "Bash",
@@ -61,53 +32,100 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 8,
-        "percent": 1.81
+        "percent": 1.45
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 563.50438,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 563.50438,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 563.50438,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 563.50438,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 100
       }
     ],
     "dependencies": [
       {
-        "name": "BookCoverSvg",
-        "total_seconds": 93.744959,
-        "digital": "0:01:33",
-        "decimal": "0.02",
-        "text": "1 min",
+        "name": "globals",
+        "total_seconds": 165.787547,
+        "digital": "0:02:45",
+        "decimal": "0.03",
+        "text": "2 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 33,
-        "percent": 23.11
+        "minutes": 2,
+        "seconds": 45,
+        "percent": 23.78
       },
       {
         "name": "next",
-        "total_seconds": 76.331647,
-        "digital": "0:01:16",
-        "decimal": "0.02",
-        "text": "1 min",
+        "total_seconds": 165.787547,
+        "digital": "0:02:45",
+        "decimal": "0.03",
+        "text": "2 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 16,
-        "percent": 18.82
+        "minutes": 2,
+        "seconds": 45,
+        "percent": 23.78
       },
       {
         "name": "google",
-        "total_seconds": 76.331647,
-        "digital": "0:01:16",
-        "decimal": "0.02",
-        "text": "1 min",
+        "total_seconds": 165.787547,
+        "digital": "0:02:45",
+        "decimal": "0.03",
+        "text": "2 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 16,
-        "percent": 18.82
+        "minutes": 2,
+        "seconds": 45,
+        "percent": 23.78
       },
       {
-        "name": "globals",
-        "total_seconds": 76.331647,
-        "digital": "0:01:16",
+        "name": "BookCoverSvg",
+        "total_seconds": 116.835093,
+        "digital": "0:01:56",
         "decimal": "0.02",
         "text": "1 min",
         "hours": 0,
         "minutes": 1,
-        "seconds": 16,
-        "percent": 18.82
+        "seconds": 56,
+        "percent": 16.76
       },
       {
         "name": "image",
@@ -118,7 +136,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 41,
-        "percent": 10.26
+        "percent": 5.97
       },
       {
         "name": "tailwindcss",
@@ -129,61 +147,54 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 41,
-        "percent": 10.18
+        "percent": 5.92
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 450.958346,
+        "total_seconds": 461.988142,
         "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "0:07:30",
+        "digital": "0:07:41",
         "decimal": "0.12",
         "text": "7 mins",
         "hours": 0,
         "minutes": 7,
-        "seconds": 30,
+        "seconds": 41,
+        "percent": 81.98
+      },
+      {
+        "name": "DESKTOP-E874US7 from 154.208.58.51",
+        "total_seconds": 101.516238,
+        "machine_name_id": "8cb945e3-0f00-45ce-8e38-a25184e6a412",
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 18.02
+      }
+    ],
+    "projects": [
+      {
+        "name": "university-library",
+        "total_seconds": 563.50438,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
         "percent": 100
       }
     ],
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 450.958346,
-        "digital": "0:07:30",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 450.958346,
-        "digital": "0:07:30",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 450.958346,
-        "digital": "0:07:30",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 30,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-10T19:00:00Z",
+      "end": "2025-01-11T18:59:59Z",
+      "date": "2025-01-11",
+      "text": "Sat Jan 11th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
