@@ -1,26 +1,507 @@
 [
   {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 13849.08546,
+        "digital": "3:50:49",
+        "decimal": "3.83",
+        "text": "3 hrs 50 mins",
+        "hours": 3,
+        "minutes": 50,
+        "seconds": 49,
+        "percent": 88.98
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 963.618798,
+        "digital": "0:16:03",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 3,
+        "percent": 6.19
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 439.234216,
+        "digital": "0:07:19",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 19,
+        "percent": 2.82
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 252.355033,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 1.62
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 59.406913,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 0.38
+      }
+    ],
     "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "hours": 4,
+      "minutes": 19,
+      "total_seconds": 15563.70042,
+      "digital": "4:19",
+      "decimal": "4.32",
+      "text": "4 hrs 19 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 15563.70042,
+        "digital": "4:19:23",
+        "decimal": "4.32",
+        "text": "4 hrs 19 mins",
+        "hours": 4,
+        "minutes": 19,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15563.70042,
+        "digital": "4:19:23",
+        "decimal": "4.32",
+        "text": "4 hrs 19 mins",
+        "hours": 4,
+        "minutes": 19,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15563.70042,
+        "digital": "4:19:23",
+        "decimal": "4.32",
+        "text": "4 hrs 19 mins",
+        "hours": 4,
+        "minutes": 19,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "config",
+        "total_seconds": 6677.33671,
+        "digital": "1:51:17",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 17,
+        "percent": 14.9
+      },
+      {
+        "name": "commandList",
+        "total_seconds": 5123.857325,
+        "digital": "1:25:23",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 23,
+        "percent": 11.43
+      },
+      {
+        "name": "axios",
+        "total_seconds": 4245.944179,
+        "digital": "1:10:45",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 45,
+        "percent": 9.47
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 4026.992451,
+        "digital": "1:07:06",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 6,
+        "percent": 8.99
+      },
+      {
+        "name": "discord",
+        "total_seconds": 3628.538937,
+        "digital": "1:00:28",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 8.1
+      },
+      {
+        "name": "githubAPI",
+        "total_seconds": 2492.293475,
+        "digital": "0:41:32",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 32,
+        "percent": 5.56
+      },
+      {
+        "name": "embedBuilder",
+        "total_seconds": 2492.293475,
+        "digital": "0:41:32",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 32,
+        "percent": 5.56
+      },
+      {
+        "name": "simple-git",
+        "total_seconds": 2032.908583,
+        "digital": "0:33:52",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 52,
+        "percent": 4.54
+      },
+      {
+        "name": "promises",
+        "total_seconds": 1354.365316,
+        "digital": "0:22:34",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 34,
+        "percent": 3.02
+      },
+      {
+        "name": "path",
+        "total_seconds": 1354.365316,
+        "digital": "0:22:34",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 34,
+        "percent": 3.02
+      },
+      {
+        "name": "url",
+        "total_seconds": 1354.365316,
+        "digital": "0:22:34",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 34,
+        "percent": 3.02
+      },
+      {
+        "name": "npm",
+        "total_seconds": 963.618798,
+        "digital": "0:16:03",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 3,
+        "percent": 2.15
+      },
+      {
+        "name": "nodemon",
+        "total_seconds": 963.618798,
+        "digital": "0:16:03",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 3,
+        "percent": 2.15
+      },
+      {
+        "name": "discord.js",
+        "total_seconds": 943.17306,
+        "digital": "0:15:43",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 43,
+        "percent": 2.1
+      },
+      {
+        "name": "util",
+        "total_seconds": 738.70308,
+        "digital": "0:12:18",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 18,
+        "percent": 1.65
+      },
+      {
+        "name": "child_process",
+        "total_seconds": 738.70308,
+        "digital": "0:12:18",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 18,
+        "percent": 1.65
+      },
+      {
+        "name": "react",
+        "total_seconds": 737.697279,
+        "digital": "0:12:17",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 17,
+        "percent": 1.65
+      },
+      {
+        "name": "useAuthStore",
+        "total_seconds": 737.697279,
+        "digital": "0:12:17",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 17,
+        "percent": 1.65
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 400.944818,
+        "digital": "0:06:40",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 0.89
+      },
+      {
+        "name": "react-hot-toast",
+        "total_seconds": 400.944818,
+        "digital": "0:06:40",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 0.89
+      },
+      {
+        "name": "Navbar",
+        "total_seconds": 384.756438,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 0.86
+      },
+      {
+        "name": "ProfilePage",
+        "total_seconds": 384.756438,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 0.86
+      },
+      {
+        "name": "HomePage",
+        "total_seconds": 384.756438,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 0.86
+      },
+      {
+        "name": "SignUpPage",
+        "total_seconds": 384.756438,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 0.86
+      },
+      {
+        "name": "LoginPage",
+        "total_seconds": 384.756438,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 0.86
+      },
+      {
+        "name": "SettingsPage",
+        "total_seconds": 384.756438,
+        "digital": "0:06:24",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 0.86
+      },
+      {
+        "name": "HealthPage",
+        "total_seconds": 372.960089,
+        "digital": "0:06:12",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 12,
+        "percent": 0.83
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 352.940841,
+        "digital": "0:05:52",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 52,
+        "percent": 0.79
+      },
+      {
+        "name": "messageHandler",
+        "total_seconds": 119.173084,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 0.27
+      },
+      {
+        "name": "interactionHandler",
+        "total_seconds": 119.173084,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 0.27
+      },
+      {
+        "name": "commandRegister",
+        "total_seconds": 119.173084,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 0.27
+      },
+      {
+        "name": "AuthImagePattern",
+        "total_seconds": 16.18838,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.04
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 15563.70042,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "4:19:23",
+        "decimal": "4.32",
+        "text": "4 hrs 19 mins",
+        "hours": 4,
+        "minutes": 19,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "discord-bot",
+        "total_seconds": 14822.468663,
+        "digital": "4:07:02",
+        "decimal": "4.12",
+        "text": "4 hrs 7 mins",
+        "hours": 4,
+        "minutes": 7,
+        "seconds": 2,
+        "percent": 95.24
+      },
+      {
+        "name": "chatty",
+        "total_seconds": 741.231757,
+        "digital": "0:12:21",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 21,
+        "percent": 4.76
+      }
+    ],
     "range": {
       "start": "2025-01-14T19:00:00Z",
       "end": "2025-01-15T18:59:59Z",
       "date": "2025-01-15",
       "text": "Wed Jan 15th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
