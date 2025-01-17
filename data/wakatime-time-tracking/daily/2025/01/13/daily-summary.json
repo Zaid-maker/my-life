@@ -161,17 +161,6 @@
         "percent": 4.53
       },
       {
-        "name": "axios",
-        "total_seconds": 474.283583,
-        "digital": "0:07:54",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 54,
-        "percent": 2.83
-      },
-      {
         "name": "socket.io-client",
         "total_seconds": 474.283583,
         "digital": "0:07:54",
@@ -183,7 +172,7 @@
         "percent": 2.83
       },
       {
-        "name": "zustand",
+        "name": "axios",
         "total_seconds": 474.283583,
         "digital": "0:07:54",
         "decimal": "0.12",
@@ -205,48 +194,15 @@
         "percent": 2.83
       },
       {
-        "name": "LoginPage",
-        "total_seconds": 286.312793,
-        "digital": "0:04:46",
-        "decimal": "0.07",
-        "text": "4 mins",
+        "name": "zustand",
+        "total_seconds": 474.283583,
+        "digital": "0:07:54",
+        "decimal": "0.12",
+        "text": "7 mins",
         "hours": 0,
-        "minutes": 4,
-        "seconds": 46,
-        "percent": 1.71
-      },
-      {
-        "name": "SettingsPage",
-        "total_seconds": 286.312793,
-        "digital": "0:04:46",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 46,
-        "percent": 1.71
-      },
-      {
-        "name": "ProfilePage",
-        "total_seconds": 286.312793,
-        "digital": "0:04:46",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 46,
-        "percent": 1.71
-      },
-      {
-        "name": "SignUpPage",
-        "total_seconds": 286.312793,
-        "digital": "0:04:46",
-        "decimal": "0.07",
-        "text": "4 mins",
-        "hours": 0,
-        "minutes": 4,
-        "seconds": 46,
-        "percent": 1.71
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 2.83
       },
       {
         "name": "HealthPage",
@@ -271,7 +227,7 @@
         "percent": 1.71
       },
       {
-        "name": "HomePage",
+        "name": "SignUpPage",
         "total_seconds": 286.312793,
         "digital": "0:04:46",
         "decimal": "0.07",
@@ -283,6 +239,50 @@
       },
       {
         "name": "react-router-dom",
+        "total_seconds": 286.312793,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 1.71
+      },
+      {
+        "name": "ProfilePage",
+        "total_seconds": 286.312793,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 1.71
+      },
+      {
+        "name": "SettingsPage",
+        "total_seconds": 286.312793,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 1.71
+      },
+      {
+        "name": "HomePage",
+        "total_seconds": 286.312793,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 1.71
+      },
+      {
+        "name": "LoginPage",
         "total_seconds": 286.312793,
         "digital": "0:04:46",
         "decimal": "0.07",
