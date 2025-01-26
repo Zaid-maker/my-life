@@ -10,7 +10,7 @@
         "hours": 0,
         "minutes": 31,
         "seconds": 57,
-        "percent": 46.76
+        "percent": 45.55
       },
       {
         "name": "JavaScript",
@@ -21,18 +21,18 @@
         "hours": 0,
         "minutes": 25,
         "seconds": 12,
-        "percent": 36.87
+        "percent": 35.92
       },
       {
         "name": "Prisma",
-        "total_seconds": 553.451945,
-        "digital": "0:09:13",
+        "total_seconds": 575.929297,
+        "digital": "0:09:35",
         "decimal": "0.15",
         "text": "9 mins",
         "hours": 0,
         "minutes": 9,
-        "seconds": 13,
-        "percent": 13.5
+        "seconds": 35,
+        "percent": 13.68
       },
       {
         "name": "SQL",
@@ -43,18 +43,29 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 52,
-        "percent": 2.74
+        "percent": 2.67
       },
       {
         "name": "Bash",
-        "total_seconds": 4.063118,
-        "digital": "0:00:04",
+        "total_seconds": 79.497412,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.89
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
         "decimal": "0.00",
-        "text": "4 secs",
+        "text": "11 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 4,
-        "percent": 0.1
+        "seconds": 11,
+        "percent": 0.26
       },
       {
         "name": "Other",
@@ -70,48 +81,48 @@
     ],
     "grand_total": {
       "hours": 1,
-      "minutes": 8,
-      "total_seconds": 4100.836481,
-      "digital": "1:08",
-      "decimal": "1.13",
-      "text": "1 hr 8 mins"
+      "minutes": 10,
+      "total_seconds": 4209.763093,
+      "digital": "1:10",
+      "decimal": "1.17",
+      "text": "1 hr 10 mins"
     },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 4100.836481,
-        "digital": "1:08:20",
-        "decimal": "1.13",
-        "text": "1 hr 8 mins",
+        "total_seconds": 4209.763093,
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
         "hours": 1,
-        "minutes": 8,
-        "seconds": 20,
+        "minutes": 10,
+        "seconds": 9,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "Windows",
-        "total_seconds": 4100.836481,
-        "digital": "1:08:20",
-        "decimal": "1.13",
-        "text": "1 hr 8 mins",
+        "total_seconds": 4209.763093,
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
         "hours": 1,
-        "minutes": 8,
-        "seconds": 20,
+        "minutes": 10,
+        "seconds": 9,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 4100.836481,
-        "digital": "1:08:20",
-        "decimal": "1.13",
-        "text": "1 hr 8 mins",
+        "total_seconds": 4209.763093,
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
         "hours": 1,
-        "minutes": 8,
-        "seconds": 20,
+        "minutes": 10,
+        "seconds": 9,
         "percent": 100
       }
     ],
@@ -125,18 +136,7 @@
         "hours": 0,
         "minutes": 18,
         "seconds": 22,
-        "percent": 17.79
-      },
-      {
-        "name": "path",
-        "total_seconds": 908.907252,
-        "digital": "0:15:08",
-        "decimal": "0.25",
-        "text": "15 mins",
-        "hours": 0,
-        "minutes": 15,
-        "seconds": 8,
-        "percent": 14.67
+        "percent": 17.3
       },
       {
         "name": "url",
@@ -147,7 +147,18 @@
         "hours": 0,
         "minutes": 15,
         "seconds": 8,
-        "percent": 14.67
+        "percent": 14.27
+      },
+      {
+        "name": "path",
+        "total_seconds": 908.907252,
+        "digital": "0:15:08",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 8,
+        "percent": 14.27
       },
       {
         "name": "eslintrc",
@@ -158,29 +169,29 @@
         "hours": 0,
         "minutes": 13,
         "seconds": 32,
-        "percent": 13.11
+        "percent": 12.75
       },
       {
         "name": "react",
-        "total_seconds": 629.086096,
-        "digital": "0:10:29",
+        "total_seconds": 640.101062,
+        "digital": "0:10:40",
         "decimal": "0.17",
         "text": "10 mins",
         "hours": 0,
         "minutes": 10,
-        "seconds": 29,
-        "percent": 10.15
+        "seconds": 40,
+        "percent": 10.05
       },
       {
         "name": "pg",
-        "total_seconds": 564.011621,
-        "digital": "0:09:24",
+        "total_seconds": 575.026587,
+        "digital": "0:09:35",
         "decimal": "0.15",
         "text": "9 mins",
         "hours": 0,
         "minutes": 9,
-        "seconds": 24,
-        "percent": 9.1
+        "seconds": 35,
+        "percent": 9.03
       },
       {
         "name": "discord",
@@ -191,7 +202,7 @@
         "hours": 0,
         "minutes": 9,
         "seconds": 11,
-        "percent": 8.9
+        "percent": 8.65
       },
       {
         "name": "types",
@@ -202,7 +213,7 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 27,
-        "percent": 2.38
+        "percent": 2.31
       },
       {
         "name": "logger",
@@ -213,7 +224,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 48,
-        "percent": 1.75
+        "percent": 1.7
       },
       {
         "name": "fs",
@@ -224,7 +235,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 36,
-        "percent": 1.56
+        "percent": 1.51
       },
       {
         "name": "commandRegister",
@@ -235,7 +246,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 48,
-        "percent": 0.79
+        "percent": 0.77
       },
       {
         "name": "config",
@@ -246,7 +257,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 48,
-        "percent": 0.79
+        "percent": 0.77
       },
       {
         "name": "client",
@@ -257,7 +268,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 48,
-        "percent": 0.79
+        "percent": 0.77
       },
       {
         "name": "statsHelper",
@@ -268,18 +279,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 37,
-        "percent": 0.6
-      },
-      {
-        "name": "embedBuilder",
-        "total_seconds": 37.264727,
-        "digital": "0:00:37",
-        "decimal": "0.00",
-        "text": "37 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 37,
-        "percent": 0.6
+        "percent": 0.58
       },
       {
         "name": "githubAPI",
@@ -290,40 +290,29 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 37,
-        "percent": 0.6
+        "percent": 0.58
+      },
+      {
+        "name": "embedBuilder",
+        "total_seconds": 37.264727,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.58
       },
       {
         "name": "prisma",
-        "total_seconds": 16.968216,
-        "digital": "0:00:16",
+        "total_seconds": 27.983182,
+        "digital": "0:00:27",
         "decimal": "0.00",
-        "text": "16 secs",
+        "text": "27 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 16,
-        "percent": 0.27
-      },
-      {
-        "name": "cooldownManager",
-        "total_seconds": 11.69881,
-        "digital": "0:00:11",
-        "decimal": "0.00",
-        "text": "11 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 11,
-        "percent": 0.19
-      },
-      {
-        "name": "database",
-        "total_seconds": 11.69881,
-        "digital": "0:00:11",
-        "decimal": "0.00",
-        "text": "11 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 11,
-        "percent": 0.19
+        "seconds": 27,
+        "percent": 0.44
       },
       {
         "name": "interactionHandler",
@@ -334,7 +323,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 11,
-        "percent": 0.19
+        "percent": 0.18
       },
       {
         "name": "messageHandler",
@@ -345,10 +334,10 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 11,
-        "percent": 0.19
+        "percent": 0.18
       },
       {
-        "name": "commandList",
+        "name": "cooldownManager",
         "total_seconds": 11.69881,
         "digital": "0:00:11",
         "decimal": "0.00",
@@ -356,7 +345,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 11,
-        "percent": 0.19
+        "percent": 0.18
       },
       {
         "name": "errorBoundary",
@@ -367,7 +356,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 11,
-        "percent": 0.19
+        "percent": 0.18
       },
       {
         "name": "connectionManager",
@@ -378,10 +367,175 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 11,
-        "percent": 0.19
+        "percent": 0.18
       },
       {
-        "name": "TaskList",
+        "name": "database",
+        "total_seconds": 11.69881,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.18
+      },
+      {
+        "name": "commandList",
+        "total_seconds": 11.69881,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.18
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "next",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "@eslint/eslintrc",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "eslint-config-next",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "@prisma/client",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "npm",
+        "total_seconds": 11.014966,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.17
+      },
+      {
+        "name": "TaskForm",
         "total_seconds": 4.563042,
         "digital": "0:00:04",
         "decimal": "0.00",
@@ -392,7 +546,7 @@
         "percent": 0.07
       },
       {
-        "name": "TaskForm",
+        "name": "TaskList",
         "total_seconds": 4.563042,
         "digital": "0:00:04",
         "decimal": "0.00",
@@ -406,14 +560,14 @@
     "machines": [
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 4100.836481,
+        "total_seconds": 4209.763093,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "1:08:20",
-        "decimal": "1.13",
-        "text": "1 hr 8 mins",
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
         "hours": 1,
-        "minutes": 8,
-        "seconds": 20,
+        "minutes": 10,
+        "seconds": 9,
         "percent": 100
       }
     ],
@@ -421,35 +575,38 @@
       {
         "name": "test-with-posthog",
         "total_seconds": 2828.661122,
+        "color": null,
         "digital": "0:47:08",
         "decimal": "0.78",
         "text": "47 mins",
         "hours": 0,
         "minutes": 47,
         "seconds": 8,
-        "percent": 68.98
+        "percent": 67.19
       },
       {
         "name": "discord-bot",
         "total_seconds": 699.58142,
+        "color": null,
         "digital": "0:11:39",
         "decimal": "0.18",
         "text": "11 mins",
         "hours": 0,
         "minutes": 11,
         "seconds": 39,
-        "percent": 17.06
+        "percent": 16.62
       },
       {
         "name": "task-management-system",
-        "total_seconds": 572.593939,
-        "digital": "0:09:32",
-        "decimal": "0.15",
-        "text": "9 mins",
+        "total_seconds": 681.520551,
+        "color": null,
+        "digital": "0:11:21",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 9,
-        "seconds": 32,
-        "percent": 13.96
+        "minutes": 11,
+        "seconds": 21,
+        "percent": 16.19
       }
     ],
     "range": {
