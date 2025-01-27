@@ -95,17 +95,6 @@
     ],
     "dependencies": [
       {
-        "name": "time",
-        "total_seconds": 1126.537704,
-        "digital": "0:18:46",
-        "decimal": "0.30",
-        "text": "18 mins",
-        "hours": 0,
-        "minutes": 18,
-        "seconds": 46,
-        "percent": 40.51
-      },
-      {
         "name": "requests",
         "total_seconds": 1126.537704,
         "digital": "0:18:46",
@@ -117,7 +106,18 @@
         "percent": 40.51
       },
       {
-        "name": "logging",
+        "name": "time",
+        "total_seconds": 1126.537704,
+        "digital": "0:18:46",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 46,
+        "percent": 40.51
+      },
+      {
+        "name": "typing",
         "total_seconds": 263.744911,
         "digital": "0:04:23",
         "decimal": "0.07",
@@ -128,7 +128,7 @@
         "percent": 9.49
       },
       {
-        "name": "typing",
+        "name": "logging",
         "total_seconds": 263.744911,
         "digital": "0:04:23",
         "decimal": "0.07",
@@ -157,6 +157,7 @@
       {
         "name": "topgg-autovote",
         "total_seconds": 1981.759116,
+        "color": null,
         "digital": "0:33:01",
         "decimal": "0.55",
         "text": "33 mins",
