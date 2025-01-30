@@ -1,0 +1,170 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 5,
+      "total_seconds": 350.094211,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
+    },
+    "range": {
+      "start": "2025-01-29T19:00:00Z",
+      "end": "2025-01-30T18:59:59Z",
+      "date": "2025-01-30",
+      "text": "Thu Jan 30th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "qwen-testing",
+        "total_seconds": 304.284635,
+        "color": null,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 86.92
+      },
+      {
+        "name": "simple-calculator",
+        "total_seconds": 45.809576,
+        "color": null,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 13.08
+      }
+    ],
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 304.284635,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 86.92
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 25.344674,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 7.24
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 20.464902,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 5.85
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "transformers",
+        "total_seconds": 135.978173,
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 104.28.212.124",
+        "total_seconds": 188.771364,
+        "machine_name_id": "0743667c-25fc-435d-8ddf-78d7325ca112",
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 53.92
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 104.28.212.125",
+        "total_seconds": 135.978173,
+        "machine_name_id": "c74c86de-30fa-4067-9504-f2d9124234f7",
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 38.84
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 25.344674,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 7.24
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 350.094211,
+        "digital": "0:05:50",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 350.094211,
+        "digital": "0:05:50",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 350.094211,
+        "digital": "0:05:50",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 50,
+        "percent": 100
+      }
+    ]
+  }
+]
