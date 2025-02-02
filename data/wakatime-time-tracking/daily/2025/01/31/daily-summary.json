@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 21,
-      "total_seconds": 1276.90316,
-      "digital": "0:21",
-      "decimal": "0.35",
-      "text": "21 mins"
-    },
-    "range": {
-      "start": "2025-01-31T19:00:00Z",
-      "end": "2025-02-01T18:59:59Z",
-      "date": "2025-02-01",
-      "text": "Sat Feb 1st 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "status-page",
-        "total_seconds": 1276.90316,
-        "color": null,
-        "digital": "0:21:16",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 16,
-        "percent": 100
-      },
-      {
-        "name": "topgg-autovote",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "Prisma",
@@ -87,7 +46,98 @@
         "percent": 0
       }
     ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1276.90316,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1276.90316,
+        "digital": "0:21:16",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 16,
+        "percent": 100
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 1276.90316,
+        "digital": "0:21:16",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 16,
+        "percent": 100
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1276.90316,
+        "digital": "0:21:16",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
     "dependencies": [
+      {
+        "name": "globals",
+        "total_seconds": 321.203565,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 10.77
+      },
+      {
+        "name": "Navbar",
+        "total_seconds": 321.203565,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 10.77
+      },
       {
         "name": "Footer",
         "total_seconds": 321.203565,
@@ -112,28 +162,6 @@
       },
       {
         "name": "google",
-        "total_seconds": 321.203565,
-        "digital": "0:05:21",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 21,
-        "percent": 10.77
-      },
-      {
-        "name": "globals",
-        "total_seconds": 321.203565,
-        "digital": "0:05:21",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 21,
-        "percent": 10.77
-      },
-      {
-        "name": "Navbar",
         "total_seconds": 321.203565,
         "digital": "0:05:21",
         "decimal": "0.08",
@@ -210,7 +238,7 @@
         "percent": 4.01
       },
       {
-        "name": "dataclasses",
+        "name": "typing",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -221,7 +249,7 @@
         "percent": 0
       },
       {
-        "name": "typing",
+        "name": "requests",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -243,7 +271,7 @@
         "percent": 0
       },
       {
-        "name": "logging",
+        "name": "dataclasses",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -254,7 +282,7 @@
         "percent": 0
       },
       {
-        "name": "requests",
+        "name": "logging",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -279,9 +307,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "status-page",
         "total_seconds": 1276.90316,
         "digital": "0:21:16",
         "decimal": "0.35",
@@ -292,7 +320,7 @@
         "percent": 100
       },
       {
-        "name": "Cursor",
+        "name": "topgg-autovote",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -303,42 +331,12 @@
         "percent": 0
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 1276.90316,
-        "digital": "0:21:16",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 16,
-        "percent": 100
-      },
-      {
-        "name": "Windows",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1276.90316,
-        "digital": "0:21:16",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 16,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-31T19:00:00Z",
+      "end": "2025-02-01T18:59:59Z",
+      "date": "2025-02-01",
+      "text": "Sat Feb 1st 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
