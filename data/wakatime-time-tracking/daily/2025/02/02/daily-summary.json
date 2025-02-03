@@ -1,0 +1,619 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 17,
+      "total_seconds": 1031.168844,
+      "digital": "0:17",
+      "decimal": "0.28",
+      "text": "17 mins"
+    },
+    "range": {
+      "start": "2025-02-02T19:00:00Z",
+      "end": "2025-02-03T18:59:59Z",
+      "date": "2025-02-03",
+      "text": "Mon Feb 3rd 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "status-page",
+        "total_seconds": 825.208411,
+        "color": null,
+        "digital": "0:13:45",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 45,
+        "percent": 80.03
+      },
+      {
+        "name": "my-turborepo",
+        "total_seconds": 205.960433,
+        "color": null,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 19.97
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 503.409996,
+        "digital": "0:08:23",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 23,
+        "percent": 48.82
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 501.641221,
+        "digital": "0:08:21",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 21,
+        "percent": 48.65
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 26.117627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 2.53
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "next-auth",
+        "total_seconds": 693.729275,
+        "digital": "0:11:33",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 33,
+        "percent": 7.66
+      },
+      {
+        "name": "prisma",
+        "total_seconds": 484.029212,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 5.34
+      },
+      {
+        "name": "bcryptjs",
+        "total_seconds": 484.029212,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 5.34
+      },
+      {
+        "name": "next",
+        "total_seconds": 475.00219,
+        "digital": "0:07:55",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 55,
+        "percent": 5.25
+      },
+      {
+        "name": "npm",
+        "total_seconds": 370.162085,
+        "digital": "0:06:10",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 10,
+        "percent": 4.09
+      },
+      {
+        "name": "prisma-adapter",
+        "total_seconds": 293.709933,
+        "digital": "0:04:53",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 53,
+        "percent": 3.24
+      },
+      {
+        "name": "credentials",
+        "total_seconds": 293.709933,
+        "digital": "0:04:53",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 53,
+        "percent": 3.24
+      },
+      {
+        "name": "react",
+        "total_seconds": 265.302127,
+        "digital": "0:04:25",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 25,
+        "percent": 2.93
+      },
+      {
+        "name": "react-dom",
+        "total_seconds": 265.302127,
+        "digital": "0:04:25",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 25,
+        "percent": 2.93
+      },
+      {
+        "name": "google",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "route",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "Navbar",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "Footer",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "init-cron",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "ClientProvider",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "globals",
+        "total_seconds": 209.700063,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 2.32
+      },
+      {
+        "name": "@next-auth/prisma-adapter",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@eslint/eslintrc",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@tailwindcss/aspect-ratio",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "node-cron",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@vercel/edge",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@tailwindcss/typography",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@types/bcryptjs",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@vercel/speed-insights",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "axios",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@prisma/client",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "@tailwindcss/forms",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "autoprefixer",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "eslint-config-next",
+        "total_seconds": 190.319279,
+        "digital": "0:03:10",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 10,
+        "percent": 2.1
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 179.842806,
+        "digital": "0:02:59",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 59,
+        "percent": 1.99
+      },
+      {
+        "name": "prettier",
+        "total_seconds": 104.859958,
+        "digital": "0:01:44",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 44,
+        "percent": 1.16
+      },
+      {
+        "name": "turbo",
+        "total_seconds": 104.859958,
+        "digital": "0:01:44",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 44,
+        "percent": 1.16
+      },
+      {
+        "name": "@repo/eslint-config",
+        "total_seconds": 74.982848,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.83
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 74.982848,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.83
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 74.982848,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.83
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 74.982848,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.83
+      },
+      {
+        "name": "@repo/ui",
+        "total_seconds": 74.982848,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.83
+      },
+      {
+        "name": "@repo/typescript-config",
+        "total_seconds": 74.982848,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.83
+      },
+      {
+        "name": "page.module",
+        "total_seconds": 26.117627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.29
+      },
+      {
+        "name": "image",
+        "total_seconds": 26.117627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.29
+      },
+      {
+        "name": "button",
+        "total_seconds": 26.117627,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.29
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 1031.168844,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1031.168844,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 1031.168844,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1031.168844,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ]
+  }
+]
