@@ -1,0 +1,343 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 35,
+      "total_seconds": 2149.506653,
+      "digital": "0:35",
+      "decimal": "0.58",
+      "text": "35 mins"
+    },
+    "range": {
+      "start": "2025-02-03T19:00:00Z",
+      "end": "2025-02-04T18:59:59Z",
+      "date": "2025-02-04",
+      "text": "Tue Feb 4th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "status-page",
+        "total_seconds": 2149.506653,
+        "color": null,
+        "digital": "0:35:49",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 2130.905755,
+        "digital": "0:35:30",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 30,
+        "percent": 99.13
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 18.600898,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.87
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "server",
+        "total_seconds": 1063.820402,
+        "digital": "0:17:43",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 43,
+        "percent": 16.03
+      },
+      {
+        "name": "monitoring",
+        "total_seconds": 691.198899,
+        "digital": "0:11:31",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 31,
+        "percent": 10.41
+      },
+      {
+        "name": "next-auth",
+        "total_seconds": 611.14426,
+        "digital": "0:10:11",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 11,
+        "percent": 9.21
+      },
+      {
+        "name": "options",
+        "total_seconds": 611.14426,
+        "digital": "0:10:11",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 11,
+        "percent": 9.21
+      },
+      {
+        "name": "prisma-edge",
+        "total_seconds": 611.064418,
+        "digital": "0:10:11",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 11,
+        "percent": 9.21
+      },
+      {
+        "name": "prisma",
+        "total_seconds": 516.189581,
+        "digital": "0:08:36",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 36,
+        "percent": 7.78
+      },
+      {
+        "name": "react",
+        "total_seconds": 425.667969,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 6.41
+      },
+      {
+        "name": "client",
+        "total_seconds": 399.328778,
+        "digital": "0:06:39",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 39,
+        "percent": 6.02
+      },
+      {
+        "name": "SiteCard",
+        "total_seconds": 351.389873,
+        "digital": "0:05:51",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 51,
+        "percent": 5.29
+      },
+      {
+        "name": "AddSiteForm",
+        "total_seconds": 351.389873,
+        "digital": "0:05:51",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 51,
+        "percent": 5.29
+      },
+      {
+        "name": "node-cron",
+        "total_seconds": 264.819918,
+        "digital": "0:04:24",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 24,
+        "percent": 3.99
+      },
+      {
+        "name": "axios",
+        "total_seconds": 181.871162,
+        "digital": "0:03:01",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 1,
+        "percent": 2.74
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 157.038209,
+        "digital": "0:02:37",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 37,
+        "percent": 2.37
+      },
+      {
+        "name": "link",
+        "total_seconds": 136.464897,
+        "digital": "0:02:16",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 16,
+        "percent": 2.06
+      },
+      {
+        "name": "features",
+        "total_seconds": 97.591126,
+        "digital": "0:01:37",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 37,
+        "percent": 1.47
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 94.444607,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 1.42
+      },
+      {
+        "name": "time",
+        "total_seconds": 38.873771,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.59
+      },
+      {
+        "name": "edge",
+        "total_seconds": 18.189785,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.27
+      },
+      {
+        "name": "extension-accelerate",
+        "total_seconds": 13.13451,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.2
+      },
+      {
+        "name": "DashboardContent",
+        "total_seconds": 1.284106,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      },
+      {
+        "name": "DeleteSiteButton",
+        "total_seconds": 1.212464,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 2149.506653,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:35:49",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2149.506653,
+        "digital": "0:35:49",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 2149.506653,
+        "digital": "0:35:49",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2149.506653,
+        "digital": "0:35:49",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 49,
+        "percent": 100
+      }
+    ]
+  }
+]
