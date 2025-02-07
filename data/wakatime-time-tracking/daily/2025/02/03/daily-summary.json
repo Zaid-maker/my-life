@@ -293,7 +293,7 @@
         "percent": 1.87
       },
       {
-        "name": "react-slot",
+        "name": "utils",
         "total_seconds": 468.453238,
         "digital": "0:07:48",
         "decimal": "0.12",
@@ -304,7 +304,7 @@
         "percent": 1.81
       },
       {
-        "name": "utils",
+        "name": "react-slot",
         "total_seconds": 468.453238,
         "digital": "0:07:48",
         "decimal": "0.12",
@@ -326,40 +326,7 @@
         "percent": 1.71
       },
       {
-        "name": "globals",
-        "total_seconds": 418.630216,
-        "digital": "0:06:58",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 58,
-        "percent": 1.62
-      },
-      {
-        "name": "Footer",
-        "total_seconds": 418.630216,
-        "digital": "0:06:58",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 58,
-        "percent": 1.62
-      },
-      {
-        "name": "ClientProvider",
-        "total_seconds": 418.630216,
-        "digital": "0:06:58",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 58,
-        "percent": 1.62
-      },
-      {
-        "name": "init-cron",
+        "name": "google",
         "total_seconds": 418.630216,
         "digital": "0:06:58",
         "decimal": "0.10",
@@ -381,7 +348,40 @@
         "percent": 1.62
       },
       {
-        "name": "google",
+        "name": "Footer",
+        "total_seconds": 418.630216,
+        "digital": "0:06:58",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 58,
+        "percent": 1.62
+      },
+      {
+        "name": "init-cron",
+        "total_seconds": 418.630216,
+        "digital": "0:06:58",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 58,
+        "percent": 1.62
+      },
+      {
+        "name": "ClientProvider",
+        "total_seconds": 418.630216,
+        "digital": "0:06:58",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 58,
+        "percent": 1.62
+      },
+      {
+        "name": "globals",
         "total_seconds": 418.630216,
         "digital": "0:06:58",
         "decimal": "0.10",
@@ -513,106 +513,7 @@
         "percent": 0.7
       },
       {
-        "name": "@eslint/eslintrc",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "@prisma/client",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "npm",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "@vercel/edge",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "@vercel/speed-insights",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "@tailwindcss/typography",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "bcryptjs",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "@tailwindcss/aspect-ratio",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "eslint-config-next",
-        "total_seconds": 177.524198,
-        "digital": "0:02:57",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 57,
-        "percent": 0.69
-      },
-      {
-        "name": "@types/bcryptjs",
+        "name": "@next-auth/prisma-adapter",
         "total_seconds": 177.524198,
         "digital": "0:02:57",
         "decimal": "0.03",
@@ -645,7 +546,7 @@
         "percent": 0.69
       },
       {
-        "name": "@prisma/extension-accelerate",
+        "name": "@eslint/eslintrc",
         "total_seconds": 177.524198,
         "digital": "0:02:57",
         "decimal": "0.03",
@@ -656,7 +557,95 @@
         "percent": 0.69
       },
       {
-        "name": "@next-auth/prisma-adapter",
+        "name": "@tailwindcss/aspect-ratio",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "bcryptjs",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "npm",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "@vercel/edge",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "@tailwindcss/typography",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "@types/bcryptjs",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "@vercel/speed-insights",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "@prisma/client",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
+        "name": "@prisma/extension-accelerate",
         "total_seconds": 177.524198,
         "digital": "0:02:57",
         "decimal": "0.03",
@@ -689,6 +678,17 @@
         "percent": 0.69
       },
       {
+        "name": "eslint-config-next",
+        "total_seconds": 177.524198,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.69
+      },
+      {
         "name": "navigation",
         "total_seconds": 165.298433,
         "digital": "0:02:45",
@@ -700,7 +700,7 @@
         "percent": 0.64
       },
       {
-        "name": "tailwind-merge",
+        "name": "clsx",
         "total_seconds": 98.922185,
         "digital": "0:01:38",
         "decimal": "0.02",
@@ -711,7 +711,7 @@
         "percent": 0.38
       },
       {
-        "name": "clsx",
+        "name": "tailwind-merge",
         "total_seconds": 98.922185,
         "digital": "0:01:38",
         "decimal": "0.02",
@@ -755,18 +755,7 @@
         "percent": 0.06
       },
       {
-        "name": "lucide-react",
-        "total_seconds": 14.72765,
-        "digital": "0:00:14",
-        "decimal": "0.00",
-        "text": "14 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 14,
-        "percent": 0.06
-      },
-      {
-        "name": "typescript",
+        "name": "@radix-ui/react-toast",
         "total_seconds": 14.72765,
         "digital": "0:00:14",
         "decimal": "0.00",
@@ -788,7 +777,7 @@
         "percent": 0.06
       },
       {
-        "name": "@types/node",
+        "name": "@types/react",
         "total_seconds": 14.72765,
         "digital": "0:00:14",
         "decimal": "0.00",
@@ -799,7 +788,7 @@
         "percent": 0.06
       },
       {
-        "name": "@radix-ui/react-toast",
+        "name": "typescript",
         "total_seconds": 14.72765,
         "digital": "0:00:14",
         "decimal": "0.00",
@@ -821,7 +810,7 @@
         "percent": 0.06
       },
       {
-        "name": "tailwindcss-animate",
+        "name": "lucide-react",
         "total_seconds": 14.72765,
         "digital": "0:00:14",
         "decimal": "0.00",
@@ -832,7 +821,18 @@
         "percent": 0.06
       },
       {
-        "name": "@types/react",
+        "name": "@types/node",
+        "total_seconds": 14.72765,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.06
+      },
+      {
+        "name": "tailwindcss-animate",
         "total_seconds": 14.72765,
         "digital": "0:00:14",
         "decimal": "0.00",
@@ -949,6 +949,7 @@
       {
         "name": "status-page",
         "total_seconds": 6948.825983,
+        "color": null,
         "digital": "1:55:48",
         "decimal": "1.92",
         "text": "1 hr 55 mins",
