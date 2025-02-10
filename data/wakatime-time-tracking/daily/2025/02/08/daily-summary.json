@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 24,
-      "total_seconds": 1459.911702,
-      "digital": "0:24",
-      "decimal": "0.40",
-      "text": "24 mins"
-    },
-    "range": {
-      "start": "2025-02-08T19:00:00Z",
-      "end": "2025-02-09T18:59:59Z",
-      "date": "2025-02-09",
-      "text": "Sun Feb 9th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "status-page",
-        "total_seconds": 1459.911702,
-        "color": null,
-        "digital": "0:24:19",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 19,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -64,6 +35,53 @@
         "percent": 10.82
       }
     ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 24,
+      "total_seconds": 1459.911702,
+      "digital": "0:24",
+      "decimal": "0.40",
+      "text": "24 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1459.911702,
+        "digital": "0:24:19",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 1459.911702,
+        "digital": "0:24:19",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1459.911702,
+        "digital": "0:24:19",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
     "dependencies": [
       {
         "name": "prisma",
@@ -88,7 +106,7 @@
         "percent": 14.96
       },
       {
-        "name": "credentials",
+        "name": "github",
         "total_seconds": 570.139763,
         "digital": "0:09:30",
         "decimal": "0.15",
@@ -110,7 +128,7 @@
         "percent": 13.78
       },
       {
-        "name": "github",
+        "name": "credentials",
         "total_seconds": 570.139763,
         "digital": "0:09:30",
         "decimal": "0.15",
@@ -121,7 +139,7 @@
         "percent": 13.78
       },
       {
-        "name": "sonner",
+        "name": "react",
         "total_seconds": 239.650979,
         "digital": "0:03:59",
         "decimal": "0.05",
@@ -132,7 +150,7 @@
         "percent": 5.79
       },
       {
-        "name": "react",
+        "name": "sonner",
         "total_seconds": 239.650979,
         "digital": "0:03:59",
         "decimal": "0.05",
@@ -165,7 +183,7 @@
         "percent": 3.66
       },
       {
-        "name": "next-auth",
+        "name": "options",
         "total_seconds": 97.408611,
         "digital": "0:01:37",
         "decimal": "0.02",
@@ -176,7 +194,7 @@
         "percent": 2.36
       },
       {
-        "name": "options",
+        "name": "next-auth",
         "total_seconds": 97.408611,
         "digital": "0:01:37",
         "decimal": "0.02",
@@ -245,9 +263,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "status-page",
         "total_seconds": 1459.911702,
         "digital": "0:24:19",
         "decimal": "0.40",
@@ -258,31 +276,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 1459.911702,
-        "digital": "0:24:19",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 19,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1459.911702,
-        "digital": "0:24:19",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 19,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-08T19:00:00Z",
+      "end": "2025-02-09T18:59:59Z",
+      "date": "2025-02-09",
+      "text": "Sun Feb 9th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
