@@ -73,17 +73,6 @@
     ],
     "dependencies": [
       {
-        "name": "separator",
-        "total_seconds": 459.992944,
-        "digital": "0:07:39",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 39,
-        "percent": 20
-      },
-      {
         "name": "personal-section",
         "total_seconds": 459.992944,
         "digital": "0:07:39",
@@ -95,7 +84,7 @@
         "percent": 20
       },
       {
-        "name": "sidebar",
+        "name": "react",
         "total_seconds": 459.992944,
         "digital": "0:07:39",
         "decimal": "0.12",
@@ -117,7 +106,18 @@
         "percent": 20
       },
       {
-        "name": "react",
+        "name": "sidebar",
+        "total_seconds": 459.992944,
+        "digital": "0:07:39",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 39,
+        "percent": 20
+      },
+      {
+        "name": "separator",
         "total_seconds": 459.992944,
         "digital": "0:07:39",
         "decimal": "0.12",
@@ -157,6 +157,7 @@
       {
         "name": "youtube-clone",
         "total_seconds": 465.033258,
+        "color": null,
         "digital": "0:07:45",
         "decimal": "0.12",
         "text": "7 mins",
