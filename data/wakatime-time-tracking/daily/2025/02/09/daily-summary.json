@@ -95,7 +95,7 @@
         "percent": 7.82
       },
       {
-        "name": "auth-utils",
+        "name": "prisma-adapter",
         "total_seconds": 374.078826,
         "digital": "0:06:14",
         "decimal": "0.10",
@@ -117,7 +117,7 @@
         "percent": 7.54
       },
       {
-        "name": "credentials",
+        "name": "auth-utils",
         "total_seconds": 374.078826,
         "digital": "0:06:14",
         "decimal": "0.10",
@@ -128,7 +128,7 @@
         "percent": 7.54
       },
       {
-        "name": "prisma-adapter",
+        "name": "credentials",
         "total_seconds": 374.078826,
         "digital": "0:06:14",
         "decimal": "0.10",
@@ -227,7 +227,7 @@
         "percent": 3.35
       },
       {
-        "name": "main-section",
+        "name": "personal-section",
         "total_seconds": 122.454778,
         "digital": "0:02:02",
         "decimal": "0.03",
@@ -238,7 +238,7 @@
         "percent": 2.47
       },
       {
-        "name": "personal-section",
+        "name": "main-section",
         "total_seconds": 122.454778,
         "digital": "0:02:02",
         "decimal": "0.03",
@@ -260,7 +260,62 @@
         "percent": 2.23
       },
       {
+        "name": "skeleton",
+        "total_seconds": 79.842868,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.61
+      },
+      {
         "name": "tooltip",
+        "total_seconds": 79.842868,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.61
+      },
+      {
+        "name": "sheet",
+        "total_seconds": 79.842868,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.61
+      },
+      {
+        "name": "input",
+        "total_seconds": 79.842868,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.61
+      },
+      {
+        "name": "use-mobile",
+        "total_seconds": 79.842868,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.61
+      },
+      {
+        "name": "class-variance-authority",
         "total_seconds": 79.842868,
         "digital": "0:01:19",
         "decimal": "0.02",
@@ -293,61 +348,6 @@
         "percent": 1.61
       },
       {
-        "name": "sheet",
-        "total_seconds": 79.842868,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 1.61
-      },
-      {
-        "name": "class-variance-authority",
-        "total_seconds": 79.842868,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 1.61
-      },
-      {
-        "name": "use-mobile",
-        "total_seconds": 79.842868,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 1.61
-      },
-      {
-        "name": "input",
-        "total_seconds": 79.842868,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 1.61
-      },
-      {
-        "name": "skeleton",
-        "total_seconds": 79.842868,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 1.61
-      },
-      {
         "name": "react-slot",
         "total_seconds": 79.842868,
         "digital": "0:01:19",
@@ -370,17 +370,6 @@
         "percent": 0.56
       },
       {
-        "name": "DeleteSiteButton",
-        "total_seconds": 18.108855,
-        "digital": "0:00:18",
-        "decimal": "0.00",
-        "text": "18 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 18,
-        "percent": 0.37
-      },
-      {
         "name": "time",
         "total_seconds": 18.108855,
         "digital": "0:00:18",
@@ -392,7 +381,18 @@
         "percent": 0.37
       },
       {
-        "name": "server",
+        "name": "DeleteSiteButton",
+        "total_seconds": 18.108855,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.37
+      },
+      {
+        "name": "next-auth",
         "total_seconds": 9.757253,
         "digital": "0:00:09",
         "decimal": "0.00",
@@ -403,7 +403,7 @@
         "percent": 0.2
       },
       {
-        "name": "next-auth",
+        "name": "server",
         "total_seconds": 9.757253,
         "digital": "0:00:09",
         "decimal": "0.00",
@@ -436,7 +436,7 @@
         "percent": 0.2
       },
       {
-        "name": "home-navbar",
+        "name": "home-sidebar",
         "total_seconds": 3.797199,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -447,7 +447,7 @@
         "percent": 0.08
       },
       {
-        "name": "home-sidebar",
+        "name": "home-navbar",
         "total_seconds": 3.797199,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -487,6 +487,7 @@
       {
         "name": "status-page",
         "total_seconds": 1357.823375,
+        "color": null,
         "digital": "0:22:37",
         "decimal": "0.37",
         "text": "22 mins",
@@ -498,6 +499,7 @@
       {
         "name": "youtube-clone",
         "total_seconds": 1103.23999,
+        "color": null,
         "digital": "0:18:23",
         "decimal": "0.30",
         "text": "18 mins",
