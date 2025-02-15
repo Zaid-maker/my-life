@@ -1,0 +1,277 @@
+[
+  {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 10,
+      "total_seconds": 4249.739551,
+      "digital": "1:10",
+      "decimal": "1.17",
+      "text": "1 hr 10 mins"
+    },
+    "range": {
+      "start": "2025-02-14T19:00:00Z",
+      "end": "2025-02-15T18:59:59Z",
+      "date": "2025-02-15",
+      "text": "Sat Feb 15th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "apnagram",
+        "total_seconds": 4249.739551,
+        "color": null,
+        "digital": "1:10:49",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3888.223728,
+        "digital": "1:04:48",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 48,
+        "percent": 91.49
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 361.515823,
+        "digital": "0:06:01",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 1,
+        "percent": 8.51
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "server",
+        "total_seconds": 2080.445515,
+        "digital": "0:34:40",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 40,
+        "percent": 26.7
+      },
+      {
+        "name": "prisma",
+        "total_seconds": 1221.720825,
+        "digital": "0:20:21",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 21,
+        "percent": 15.68
+      },
+      {
+        "name": "button",
+        "total_seconds": 892.284083,
+        "digital": "0:14:52",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 52,
+        "percent": 11.45
+      },
+      {
+        "name": "image",
+        "total_seconds": 877.828157,
+        "digital": "0:14:37",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 37,
+        "percent": 11.27
+      },
+      {
+        "name": "upstash-redis",
+        "total_seconds": 608.136783,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 7.81
+      },
+      {
+        "name": "react",
+        "total_seconds": 528.982401,
+        "digital": "0:08:48",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 48,
+        "percent": 6.79
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 521.844238,
+        "digital": "0:08:41",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 41,
+        "percent": 6.7
+      },
+      {
+        "name": "link",
+        "total_seconds": 381.647681,
+        "digital": "0:06:21",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 21,
+        "percent": 4.9
+      },
+      {
+        "name": "next",
+        "total_seconds": 188.421861,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 2.42
+      },
+      {
+        "name": "globals",
+        "total_seconds": 188.421861,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 2.42
+      },
+      {
+        "name": "google",
+        "total_seconds": 188.421861,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 2.42
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 46.430584,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.6
+      },
+      {
+        "name": "redis",
+        "total_seconds": 38.848975,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.5
+      },
+      {
+        "name": "Button",
+        "total_seconds": 26.649367,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.34
+      },
+      {
+        "name": "client",
+        "total_seconds": 0.829855,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 4249.739551,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "1:10:49",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4249.739551,
+        "digital": "1:10:49",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 4249.739551,
+        "digital": "1:10:49",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4249.739551,
+        "digital": "1:10:49",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 49,
+        "percent": 100
+      }
+    ]
+  }
+]
