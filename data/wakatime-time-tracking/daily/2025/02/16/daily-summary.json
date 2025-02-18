@@ -1,26 +1,277 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 71.31
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 28.69
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 7,
+      "total_seconds": 454.852389,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 454.852389,
+        "digital": "0:07:34",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 71.31
+      },
+      {
+        "name": "WSL",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 28.69
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 454.852389,
+        "digital": "0:07:34",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"theme.js\"",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 12.79
+      },
+      {
+        "name": "\"main.js\"",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 12.79
+      },
+      {
+        "name": "\"constants.js\"",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 12.79
+      },
+      {
+        "name": "\"toast.js\"",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 12.79
+      },
+      {
+        "name": "\"monitor.js\"",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 12.79
+      },
+      {
+        "name": "button",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      },
+      {
+        "name": "link",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      },
+      {
+        "name": "framer-motion",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      },
+      {
+        "name": "image",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      },
+      {
+        "name": "use-toast",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 5.15
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 324.339622,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 71.31
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 139.135.41.156",
+        "total_seconds": 130.512767,
+        "machine_name_id": "2c25bc9e-ebe4-4b03-bf63-b8296e4712b8",
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 28.69
+      }
+    ],
+    "projects": [
+      {
+        "name": "status-page",
+        "total_seconds": 324.339622,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 71.31
+      },
+      {
+        "name": "apnagram",
+        "total_seconds": 130.512767,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 28.69
+      }
+    ],
     "range": {
       "start": "2025-02-16T19:00:00Z",
       "end": "2025-02-17T18:59:59Z",
       "date": "2025-02-17",
       "text": "Mon Feb 17th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
