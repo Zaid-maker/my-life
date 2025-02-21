@@ -1,0 +1,310 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 58,
+      "total_seconds": 3539.375905,
+      "digital": "0:58",
+      "decimal": "0.97",
+      "text": "58 mins"
+    },
+    "range": {
+      "start": "2025-02-20T19:00:00Z",
+      "end": "2025-02-21T18:59:59Z",
+      "date": "2025-02-21",
+      "text": "Fri Feb 21st 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "youtube-clone",
+        "total_seconds": 3539.375905,
+        "color": null,
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3095.423174,
+        "digital": "0:51:35",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 35,
+        "percent": 87.46
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 229.699218,
+        "digital": "0:03:49",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 6.49
+      },
+      {
+        "name": "Other",
+        "total_seconds": 184.650821,
+        "digital": "0:03:04",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 4,
+        "percent": 5.22
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 29.602692,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.84
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "server",
+        "total_seconds": 1993.739653,
+        "digital": "0:33:13",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 13,
+        "percent": 19.4
+      },
+      {
+        "name": "react",
+        "total_seconds": 1689.265986,
+        "digital": "0:28:09",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 9,
+        "percent": 16.43
+      },
+      {
+        "name": "superjson",
+        "total_seconds": 1053.15946,
+        "digital": "0:17:33",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 33,
+        "percent": 10.25
+      },
+      {
+        "name": "schema",
+        "total_seconds": 793.882285,
+        "digital": "0:13:13",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 13,
+        "percent": 7.72
+      },
+      {
+        "name": "db",
+        "total_seconds": 793.882285,
+        "digital": "0:13:13",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 13,
+        "percent": 7.72
+      },
+      {
+        "name": "drizzle-orm",
+        "total_seconds": 793.882285,
+        "digital": "0:13:13",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 13,
+        "percent": 7.72
+      },
+      {
+        "name": "init",
+        "total_seconds": 699.180223,
+        "digital": "0:11:39",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 39,
+        "percent": 6.8
+      },
+      {
+        "name": "zod",
+        "total_seconds": 693.432096,
+        "digital": "0:11:33",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 33,
+        "percent": 6.75
+      },
+      {
+        "name": "react-error-boundary",
+        "total_seconds": 636.106526,
+        "digital": "0:10:36",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 36,
+        "percent": 6.19
+      },
+      {
+        "name": "redis",
+        "total_seconds": 354.858214,
+        "digital": "0:05:54",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 54,
+        "percent": 3.45
+      },
+      {
+        "name": "headers",
+        "total_seconds": 304.473667,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 2.96
+      },
+      {
+        "name": "svix",
+        "total_seconds": 304.473667,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 2.96
+      },
+      {
+        "name": "ratelimit",
+        "total_seconds": 140.674579,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.37
+      },
+      {
+        "name": "client",
+        "total_seconds": 16.492835,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.16
+      },
+      {
+        "name": "_app",
+        "total_seconds": 5.748127,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "fetch",
+        "total_seconds": 5.748127,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 3539.375905,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3539.375905,
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 3539.375905,
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3539.375905,
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 100
+      }
+    ]
+  }
+]
