@@ -183,17 +183,6 @@
         "percent": 3.79
       },
       {
-        "name": "db",
-        "total_seconds": 853.948451,
-        "digital": "0:14:13",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 13,
-        "percent": 3.71
-      },
-      {
         "name": "schema",
         "total_seconds": 853.948451,
         "digital": "0:14:13",
@@ -205,15 +194,15 @@
         "percent": 3.71
       },
       {
-        "name": "prisma",
-        "total_seconds": 771.888263,
-        "digital": "0:12:51",
-        "decimal": "0.20",
-        "text": "12 mins",
+        "name": "db",
+        "total_seconds": 853.948451,
+        "digital": "0:14:13",
+        "decimal": "0.23",
+        "text": "14 mins",
         "hours": 0,
-        "minutes": 12,
-        "seconds": 51,
-        "percent": 3.36
+        "minutes": 14,
+        "seconds": 13,
+        "percent": 3.71
       },
       {
         "name": "image",
@@ -238,7 +227,7 @@
         "percent": 3.36
       },
       {
-        "name": "navigation",
+        "name": "link",
         "total_seconds": 771.888263,
         "digital": "0:12:51",
         "decimal": "0.20",
@@ -260,7 +249,18 @@
         "percent": 3.36
       },
       {
-        "name": "link",
+        "name": "prisma",
+        "total_seconds": 771.888263,
+        "digital": "0:12:51",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 51,
+        "percent": 3.36
+      },
+      {
+        "name": "navigation",
         "total_seconds": 771.888263,
         "digital": "0:12:51",
         "decimal": "0.20",
@@ -293,17 +293,6 @@
         "percent": 2.38
       },
       {
-        "name": "react-query",
-        "total_seconds": 323.154847,
-        "digital": "0:05:23",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 23,
-        "percent": 1.41
-      },
-      {
         "name": "query-client",
         "total_seconds": 323.154847,
         "digital": "0:05:23",
@@ -316,6 +305,17 @@
       },
       {
         "name": "_app",
+        "total_seconds": 323.154847,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 1.41
+      },
+      {
+        "name": "react-query",
         "total_seconds": 323.154847,
         "digital": "0:05:23",
         "decimal": "0.08",
@@ -414,17 +414,6 @@
         "percent": 0.14
       },
       {
-        "name": "nextjs",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
         "name": "use-toast",
         "total_seconds": 0,
         "digital": "0:00:00",
@@ -437,6 +426,17 @@
       },
       {
         "name": "framer-motion",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "nextjs",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -465,6 +465,7 @@
       {
         "name": "youtube-clone",
         "total_seconds": 7459.996347,
+        "color": null,
         "digital": "2:04:19",
         "decimal": "2.07",
         "text": "2 hrs 4 mins",
@@ -476,6 +477,7 @@
       {
         "name": "apnagram",
         "total_seconds": 1920.918707,
+        "color": null,
         "digital": "0:32:00",
         "decimal": "0.53",
         "text": "32 mins",
