@@ -1,56 +1,73 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1298.761931,
+        "digital": "0:21:38",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 19,
-      "total_seconds": 1189.3786,
-      "digital": "0:19",
-      "decimal": "0.32",
-      "text": "19 mins"
+      "minutes": 21,
+      "total_seconds": 1298.761931,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
     },
-    "range": {
-      "start": "2025-02-23T19:00:00Z",
-      "end": "2025-02-24T18:59:59Z",
-      "date": "2025-02-24",
-      "text": "Mon Feb 24th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "editors": [
       {
-        "name": "newtube",
+        "name": "VS Code",
+        "total_seconds": 1298.761931,
+        "digital": "0:21:38",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
         "total_seconds": 786.401679,
-        "color": null,
         "digital": "0:13:06",
         "decimal": "0.22",
         "text": "13 mins",
         "hours": 0,
         "minutes": 13,
         "seconds": 6,
-        "percent": 66.12
+        "percent": 60.55
       },
       {
-        "name": "youtube-clone",
-        "total_seconds": 402.976921,
-        "color": null,
-        "digital": "0:06:42",
-        "decimal": "0.10",
-        "text": "6 mins",
+        "name": "WSL",
+        "total_seconds": 512.360252,
+        "digital": "0:08:32",
+        "decimal": "0.13",
+        "text": "8 mins",
         "hours": 0,
-        "minutes": 6,
-        "seconds": 42,
-        "percent": 33.88
+        "minutes": 8,
+        "seconds": 32,
+        "percent": 39.45
       }
     ],
-    "languages": [
+    "categories": [
       {
-        "name": "TypeScript",
-        "total_seconds": 1189.3786,
-        "digital": "0:19:49",
-        "decimal": "0.32",
-        "text": "19 mins",
+        "name": "Coding",
+        "total_seconds": 1298.761931,
+        "digital": "0:21:38",
+        "decimal": "0.35",
+        "text": "21 mins",
         "hours": 0,
-        "minutes": 19,
-        "seconds": 49,
+        "minutes": 21,
+        "seconds": 38,
         "percent": 100
       }
     ],
@@ -64,7 +81,7 @@
         "hours": 0,
         "minutes": 19,
         "seconds": 49,
-        "percent": 36.18
+        "percent": 31.93
       },
       {
         "name": "home-layout",
@@ -75,18 +92,51 @@
         "hours": 0,
         "minutes": 13,
         "seconds": 6,
-        "percent": 23.92
+        "percent": 21.11
       },
       {
         "name": "sidebar",
-        "total_seconds": 331.389289,
-        "digital": "0:05:31",
-        "decimal": "0.08",
-        "text": "5 mins",
+        "total_seconds": 440.77262,
+        "digital": "0:07:20",
+        "decimal": "0.12",
+        "text": "7 mins",
         "hours": 0,
-        "minutes": 5,
-        "seconds": 31,
-        "percent": 10.08
+        "minutes": 7,
+        "seconds": 20,
+        "percent": 11.83
+      },
+      {
+        "name": "link",
+        "total_seconds": 236.242722,
+        "digital": "0:03:56",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 6.34
+      },
+      {
+        "name": "image",
+        "total_seconds": 236.242722,
+        "digital": "0:03:56",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 6.34
+      },
+      {
+        "name": "auth-button",
+        "total_seconds": 236.242722,
+        "digital": "0:03:56",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 6.34
       },
       {
         "name": "search-input",
@@ -97,51 +147,7 @@
         "hours": 0,
         "minutes": 2,
         "seconds": 6,
-        "percent": 3.86
-      },
-      {
-        "name": "image",
-        "total_seconds": 126.859391,
-        "digital": "0:02:06",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 6,
-        "percent": 3.86
-      },
-      {
-        "name": "link",
-        "total_seconds": 126.859391,
-        "digital": "0:02:06",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 6,
-        "percent": 3.86
-      },
-      {
-        "name": "auth-button",
-        "total_seconds": 126.859391,
-        "digital": "0:02:06",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 6,
-        "percent": 3.86
-      },
-      {
-        "name": "studio-navbar",
-        "total_seconds": 116.048786,
-        "digital": "0:01:56",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 56,
-        "percent": 3.53
+        "percent": 3.41
       },
       {
         "name": "studio-sidebar",
@@ -152,7 +158,18 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 56,
-        "percent": 3.53
+        "percent": 3.12
+      },
+      {
+        "name": "studio-navbar",
+        "total_seconds": 116.048786,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 3.12
       },
       {
         "name": "home-sidebar",
@@ -163,7 +180,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
-        "percent": 2.21
+        "percent": 1.95
       },
       {
         "name": "home-navbar",
@@ -174,7 +191,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
-        "percent": 2.21
+        "percent": 1.95
       },
       {
         "name": "studio-layout",
@@ -185,18 +202,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 46,
-        "percent": 1.4
-      },
-      {
-        "name": "personal-section",
-        "total_seconds": 15.850903,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 0.48
+        "percent": 1.24
       },
       {
         "name": "main-section",
@@ -207,7 +213,18 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 15,
-        "percent": 0.48
+        "percent": 0.43
+      },
+      {
+        "name": "personal-section",
+        "total_seconds": 15.850903,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.43
       },
       {
         "name": "separator",
@@ -218,7 +235,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 15,
-        "percent": 0.48
+        "percent": 0.43
       },
       {
         "name": "lucide-react",
@@ -243,37 +260,24 @@
         "hours": 0,
         "minutes": 13,
         "seconds": 6,
-        "percent": 66.12
+        "percent": 60.55
       },
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 402.976921,
+        "total_seconds": 512.360252,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:06:42",
-        "decimal": "0.10",
-        "text": "6 mins",
+        "digital": "0:08:32",
+        "decimal": "0.13",
+        "text": "8 mins",
         "hours": 0,
-        "minutes": 6,
-        "seconds": 42,
-        "percent": 33.88
+        "minutes": 8,
+        "seconds": 32,
+        "percent": 39.45
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1189.3786,
-        "digital": "0:19:49",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Linux",
+        "name": "newtube",
         "total_seconds": 786.401679,
         "digital": "0:13:06",
         "decimal": "0.22",
@@ -281,32 +285,26 @@
         "hours": 0,
         "minutes": 13,
         "seconds": 6,
-        "percent": 66.12
+        "percent": 60.55
       },
       {
-        "name": "WSL",
-        "total_seconds": 402.976921,
-        "digital": "0:06:42",
-        "decimal": "0.10",
-        "text": "6 mins",
+        "name": "youtube-clone",
+        "total_seconds": 512.360252,
+        "digital": "0:08:32",
+        "decimal": "0.13",
+        "text": "8 mins",
         "hours": 0,
-        "minutes": 6,
-        "seconds": 42,
-        "percent": 33.88
+        "minutes": 8,
+        "seconds": 32,
+        "percent": 39.45
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1189.3786,
-        "digital": "0:19:49",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 49,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-23T19:00:00Z",
+      "end": "2025-02-24T18:59:59Z",
+      "date": "2025-02-24",
+      "text": "Mon Feb 24th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

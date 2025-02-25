@@ -1,0 +1,266 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 12,
+      "total_seconds": 755.189803,
+      "digital": "0:12",
+      "decimal": "0.20",
+      "text": "12 mins"
+    },
+    "range": {
+      "start": "2025-02-24T19:00:00Z",
+      "end": "2025-02-25T18:59:59Z",
+      "date": "2025-02-25",
+      "text": "Tue Feb 25th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "taskmaster",
+        "total_seconds": 755.189803,
+        "color": null,
+        "digital": "0:12:35",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 687.748356,
+        "digital": "0:11:27",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 27,
+        "percent": 91.07
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 67.441447,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 8.93
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "commander",
+        "total_seconds": 702.140895,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 12.21
+      },
+      {
+        "name": "chalk",
+        "total_seconds": 702.140895,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 12.21
+      },
+      {
+        "name": "inquirer",
+        "total_seconds": 702.140895,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 12.21
+      },
+      {
+        "name": "uuid",
+        "total_seconds": 702.140895,
+        "digital": "0:11:42",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 42,
+        "percent": 12.21
+      },
+      {
+        "name": "path",
+        "total_seconds": 634.699448,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 11.03
+      },
+      {
+        "name": "promises",
+        "total_seconds": 634.699448,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 11.03
+      },
+      {
+        "name": "ora",
+        "total_seconds": 583.90539,
+        "digital": "0:09:43",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 43,
+        "percent": 10.15
+      },
+      {
+        "name": "cli-table3",
+        "total_seconds": 583.90539,
+        "digital": "0:09:43",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 43,
+        "percent": 10.15
+      },
+      {
+        "name": "console-table-printer",
+        "total_seconds": 118.235505,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 2.06
+      },
+      {
+        "name": "bun",
+        "total_seconds": 118.235505,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 2.06
+      },
+      {
+        "name": "npm",
+        "total_seconds": 67.441447,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 1.17
+      },
+      {
+        "name": "@types/inquirer",
+        "total_seconds": 67.441447,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 1.17
+      },
+      {
+        "name": "@types/uuid",
+        "total_seconds": 67.441447,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 1.17
+      },
+      {
+        "name": "@types/bun",
+        "total_seconds": 67.441447,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 1.17
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 755.189803,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:12:35",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 755.189803,
+        "digital": "0:12:35",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 755.189803,
+        "digital": "0:12:35",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 755.189803,
+        "digital": "0:12:35",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 35,
+        "percent": 100
+      }
+    ]
+  }
+]
