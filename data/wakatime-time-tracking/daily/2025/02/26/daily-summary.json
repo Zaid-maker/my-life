@@ -337,7 +337,7 @@
         "percent": 0.37
       },
       {
-        "name": "utils",
+        "name": "avatar",
         "total_seconds": 164.170836,
         "digital": "0:02:44",
         "decimal": "0.03",
@@ -348,7 +348,7 @@
         "percent": 0.34
       },
       {
-        "name": "avatar",
+        "name": "utils",
         "total_seconds": 164.170836,
         "digital": "0:02:44",
         "decimal": "0.03",
@@ -403,6 +403,17 @@
         "percent": 0.17
       },
       {
+        "name": "google",
+        "total_seconds": 39.507148,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.08
+      },
+      {
         "name": "globals",
         "total_seconds": 39.507148,
         "digital": "0:00:39",
@@ -415,17 +426,6 @@
       },
       {
         "name": "next",
-        "total_seconds": 39.507148,
-        "digital": "0:00:39",
-        "decimal": "0.00",
-        "text": "39 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 39,
-        "percent": 0.08
-      },
-      {
-        "name": "google",
         "total_seconds": 39.507148,
         "digital": "0:00:39",
         "decimal": "0.00",
@@ -568,6 +568,7 @@
       {
         "name": "youtube-clone",
         "total_seconds": 14893.854093,
+        "color": null,
         "digital": "4:08:13",
         "decimal": "4.13",
         "text": "4 hrs 8 mins",
@@ -579,6 +580,7 @@
       {
         "name": "react-mirror",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
