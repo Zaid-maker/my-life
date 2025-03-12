@@ -1,26 +1,146 @@
 [
   {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 3110.613541,
+        "digital": "0:51:50",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 50,
+        "percent": 93.54
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 147.847338,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 4.45
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 66.942956,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 2.01
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 55,
+      "total_seconds": 3325.403835,
+      "digital": "0:55",
+      "decimal": "0.92",
+      "text": "55 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3325.403835,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3325.403835,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3325.403835,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"script.js\"",
+        "total_seconds": 404.153328,
+        "digital": "0:06:44",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 2771.316632,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:46:11",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 11,
+        "percent": 83.34
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 139.135.41.156",
+        "total_seconds": 554.087203,
+        "machine_name_id": "2c25bc9e-ebe4-4b03-bf63-b8296e4712b8",
+        "digital": "0:09:14",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 14,
+        "percent": 16.66
+      }
+    ],
+    "projects": [
+      {
+        "name": "time",
+        "total_seconds": 3325.403835,
+        "color": null,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2025-03-10T19:00:00Z",
       "end": "2025-03-11T18:59:59Z",
       "date": "2025-03-11",
       "text": "Tue Mar 11th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
