@@ -10,10 +10,32 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 8,
-        "percent": 100
+        "percent": 87.69
       },
       {
         "name": "Markdown",
+        "total_seconds": 78.258671,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 11.28
+      },
+      {
+        "name": "Other",
+        "total_seconds": 7.124563,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 1.03
+      },
+      {
+        "name": "JSON",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -37,22 +59,22 @@
     ],
     "grand_total": {
       "hours": 0,
-      "minutes": 10,
-      "total_seconds": 608.401612,
-      "digital": "0:10",
-      "decimal": "0.17",
-      "text": "10 mins"
+      "minutes": 11,
+      "total_seconds": 693.784846,
+      "digital": "0:11",
+      "decimal": "0.18",
+      "text": "11 mins"
     },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 608.401612,
-        "digital": "0:10:08",
-        "decimal": "0.17",
-        "text": "10 mins",
+        "total_seconds": 693.784846,
+        "digital": "0:11:33",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 10,
-        "seconds": 8,
+        "minutes": 11,
+        "seconds": 33,
         "percent": 100
       }
     ],
@@ -66,30 +88,30 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 8,
-        "percent": 100
+        "percent": 87.69
       },
       {
         "name": "WSL",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "total_seconds": 85.383234,
+        "digital": "0:01:25",
+        "decimal": "0.02",
+        "text": "1 min",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 12.31
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 608.401612,
-        "digital": "0:10:08",
-        "decimal": "0.17",
-        "text": "10 mins",
+        "total_seconds": 693.784846,
+        "digital": "0:11:33",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 10,
-        "seconds": 8,
+        "minutes": 11,
+        "seconds": 33,
         "percent": 100
       }
     ],
@@ -346,19 +368,151 @@
         "minutes": 0,
         "seconds": 41,
         "percent": 2.81
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "npm",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "dprint",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "json-schema-to-typescript-lite",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "chokidar",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "execa",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "@types/which",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "hereby",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "glob",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "which",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "picocolors",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 608.401612,
+        "total_seconds": 693.784846,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:10:08",
-        "decimal": "0.17",
-        "text": "10 mins",
+        "digital": "0:11:33",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 10,
-        "seconds": 8,
+        "minutes": 11,
+        "seconds": 33,
         "percent": 100
       }
     ],
@@ -373,19 +527,19 @@
         "hours": 0,
         "minutes": 10,
         "seconds": 8,
-        "percent": 100
+        "percent": 87.69
       },
       {
         "name": "typescript-go",
-        "total_seconds": 0,
+        "total_seconds": 85.383234,
         "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "digital": "0:01:25",
+        "decimal": "0.02",
+        "text": "1 min",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 12.31
       },
       {
         "name": "time",
