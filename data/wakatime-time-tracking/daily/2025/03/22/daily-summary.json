@@ -1,57 +1,49 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 7,
-      "total_seconds": 435.493271,
-      "digital": "0:07",
-      "decimal": "0.12",
-      "text": "7 mins"
-    },
-    "range": {
-      "start": "2025-03-22T19:00:00Z",
-      "end": "2025-03-23T18:59:59Z",
-      "date": "2025-03-23",
-      "text": "Sun Mar 23rd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "newtube",
-        "total_seconds": 435.493271,
-        "color": null,
-        "digital": "0:07:15",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 15,
-        "percent": 100
-      },
-      {
-        "name": "typescript-go",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
-        "name": "YAML",
-        "total_seconds": 435.493271,
-        "digital": "0:07:15",
-        "decimal": "0.12",
-        "text": "7 mins",
+        "name": "TypeScript",
+        "total_seconds": 1789.579634,
+        "digital": "0:29:49",
+        "decimal": "0.48",
+        "text": "29 mins",
         "hours": 0,
-        "minutes": 7,
-        "seconds": 15,
-        "percent": 100
+        "minutes": 29,
+        "seconds": 49,
+        "percent": 46.23
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 1462.622117,
+        "digital": "0:24:22",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 22,
+        "percent": 37.78
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 584.976899,
+        "digital": "0:09:44",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 44,
+        "percent": 15.11
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 34.060251,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.88
       },
       {
         "name": "Go",
@@ -63,11 +55,9 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
-      }
-    ],
-    "dependencies": [
+      },
       {
-        "name": "github.com/microsoft/typescript-go/internal/bundled",
+        "name": "Other",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -76,6 +66,220 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 4,
+      "total_seconds": 3871.238901,
+      "digital": "1:04",
+      "decimal": "1.07",
+      "text": "1 hr 4 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3871.238901,
+        "digital": "1:04:31",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2374.556533,
+        "digital": "0:39:34",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 34,
+        "percent": 61.34
+      },
+      {
+        "name": "WSL",
+        "total_seconds": 1496.682368,
+        "digital": "0:24:56",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 56,
+        "percent": 38.66
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3871.238901,
+        "digital": "1:04:31",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "responsive-modal",
+        "total_seconds": 1566.329825,
+        "digital": "0:26:06",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 12.91
+      },
+      {
+        "name": "uploadthing",
+        "total_seconds": 1566.329825,
+        "digital": "0:26:06",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 12.91
+      },
+      {
+        "name": "client",
+        "total_seconds": 1503.559561,
+        "digital": "0:25:03",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 3,
+        "percent": 12.39
+      },
+      {
+        "name": "react",
+        "total_seconds": 1422.212992,
+        "digital": "0:23:42",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 42,
+        "percent": 11.72
+      },
+      {
+        "name": "auto",
+        "total_seconds": 1399.921365,
+        "digital": "0:23:19",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 19,
+        "percent": 11.54
+      },
+      {
+        "name": "solid",
+        "total_seconds": 1399.921365,
+        "digital": "0:23:19",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 19,
+        "percent": 11.54
+      },
+      {
+        "name": "axios",
+        "total_seconds": 1399.921365,
+        "digital": "0:23:19",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 19,
+        "percent": 11.54
+      },
+      {
+        "name": "react-chartjs-2",
+        "total_seconds": 1399.921365,
+        "digital": "0:23:19",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 19,
+        "percent": 11.54
+      },
+      {
+        "name": "next",
+        "total_seconds": 223.249809,
+        "digital": "0:03:43",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 43,
+        "percent": 1.84
+      },
+      {
+        "name": "globals",
+        "total_seconds": 69.519203,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 0.57
+      },
+      {
+        "name": "nextjs",
+        "total_seconds": 69.519203,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 0.57
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 69.519203,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 0.57
+      },
+      {
+        "name": "App",
+        "total_seconds": 22.291627,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.18
+      },
+      {
+        "name": "vite",
+        "total_seconds": 22.291627,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.18
       },
       {
         "name": "github.com/microsoft/typescript-go/internal/vfs/osvfs",
@@ -89,51 +293,7 @@
         "percent": 0
       },
       {
-        "name": "github.com/microsoft/typescript-go/internal/execute",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "time",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "runtime",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "github.com/microsoft/typescript-go/internal/core",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "os",
+        "name": "github.com/microsoft/typescript-go/internal/tspath",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -155,7 +315,62 @@
         "percent": 0
       },
       {
-        "name": "github.com/microsoft/typescript-go/internal/tspath",
+        "name": "github.com/microsoft/typescript-go/internal/bundled",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "runtime",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "time",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "os",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "github.com/microsoft/typescript-go/internal/core",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "github.com/microsoft/typescript-go/internal/execute",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -180,44 +395,42 @@
     "machines": [
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 435.493271,
+        "total_seconds": 3871.238901,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:07:15",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 15,
+        "digital": "1:04:31",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 31,
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 435.493271,
-        "digital": "0:07:15",
-        "decimal": "0.12",
-        "text": "7 mins",
+        "name": "newtube",
+        "total_seconds": 2374.556533,
+        "digital": "0:39:34",
+        "decimal": "0.65",
+        "text": "39 mins",
         "hours": 0,
-        "minutes": 7,
-        "seconds": 15,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 435.493271,
-        "digital": "0:07:15",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 15,
-        "percent": 100
+        "minutes": 39,
+        "seconds": 34,
+        "percent": 61.34
       },
       {
-        "name": "WSL",
+        "name": "package-visualizer",
+        "total_seconds": 1496.682368,
+        "digital": "0:24:56",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 56,
+        "percent": 38.66
+      },
+      {
+        "name": "typescript-go",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -228,18 +441,12 @@
         "percent": 0
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 435.493271,
-        "digital": "0:07:15",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 15,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-03-22T19:00:00Z",
+      "end": "2025-03-23T18:59:59Z",
+      "date": "2025-03-23",
+      "text": "Sun Mar 23rd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
