@@ -1,15 +1,44 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 885.0075,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins"
+    },
+    "range": {
+      "start": "2025-03-27T19:00:00Z",
+      "end": "2025-03-28T18:59:59Z",
+      "date": "2025-03-28",
+      "text": "Fri Mar 28th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "newtube",
+        "total_seconds": 885.0075,
+        "color": null,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
-        "name": "YAML",
-        "total_seconds": 24.433636,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
+        "name": "TypeScript",
+        "total_seconds": 885.0075,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
+        "minutes": 14,
+        "seconds": 45,
         "percent": 100
       },
       {
@@ -22,67 +51,119 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
-      },
-      {
-        "name": "TypeScript",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 24.433636,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 24.433636,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 24.433636,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 24.433636,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
-        "percent": 100
       }
     ],
     "dependencies": [
+      {
+        "name": "server",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "drizzle-orm",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "schema",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "db",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "zod",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "init",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "mux",
+        "total_seconds": 495.267002,
+        "digital": "0:08:15",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 15,
+        "percent": 10.68
+      },
+      {
+        "name": "uploadthing",
+        "total_seconds": 389.740498,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 8.41
+      },
+      {
+        "name": "responsive-modal",
+        "total_seconds": 389.740498,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 8.41
+      },
+      {
+        "name": "client",
+        "total_seconds": 389.740498,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 8.41
+      },
       {
         "name": "typescript",
         "total_seconds": 0,
@@ -326,17 +407,6 @@
         "percent": 0
       },
       {
-        "name": "drizzle-orm",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
         "name": "embla-carousel-react",
         "total_seconds": 0,
         "digital": "0:00:00",
@@ -522,53 +592,60 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
-      },
-      {
-        "name": "server",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 24.433636,
+        "total_seconds": 885.0075,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
+        "minutes": 14,
+        "seconds": 45,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "newtube",
-        "total_seconds": 24.433636,
-        "color": null,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
+        "name": "VS Code",
+        "total_seconds": 885.0075,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
+        "minutes": 14,
+        "seconds": 45,
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2025-03-25T19:00:00Z",
-      "end": "2025-03-26T18:59:59Z",
-      "date": "2025-03-26",
-      "text": "Wed Mar 26th 2025",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 885.0075,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 885.0075,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 45,
+        "percent": 100
+      }
+    ]
   }
 ]
