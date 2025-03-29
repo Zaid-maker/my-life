@@ -1,8 +1,37 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2025-03-28T19:00:00Z",
+      "end": "2025-03-29T18:59:59Z",
+      "date": "2025-03-29",
+      "text": "Sat Mar 29th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "helpconnect",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "languages": [
       {
-        "name": "TypeScript",
+        "name": "JSON",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -13,17 +42,24 @@
         "percent": 0
       }
     ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 139.135.41.156",
+        "total_seconds": 0,
+        "machine_name_id": "2c25bc9e-ebe4-4b03-bf63-b8296e4712b8",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "editors": [
       {
-        "name": "VS Code",
+        "name": "Cursor",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -59,76 +95,6 @@
         "seconds": 0,
         "percent": 0
       }
-    ],
-    "dependencies": [
-      {
-        "name": "responsive-modal",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "client",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "uploadthing",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 0,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "projects": [
-      {
-        "name": "newtube",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "range": {
-      "start": "2025-03-26T19:00:00Z",
-      "end": "2025-03-27T18:59:59Z",
-      "date": "2025-03-27",
-      "text": "Thu Mar 27th 2025",
-      "timezone": "Asia/Karachi"
-    }
+    ]
   }
 ]
