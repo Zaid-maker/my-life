@@ -1,26 +1,289 @@
 [
   {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 819.951365,
+        "digital": "0:13:39",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 39,
+        "percent": 57.99
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 594.015777,
+        "digital": "0:09:54",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 54,
+        "percent": 42.01
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 23,
+      "total_seconds": 1413.967142,
+      "digital": "0:23",
+      "decimal": "0.38",
+      "text": "23 mins"
     },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 1090.29321,
+        "digital": "0:18:10",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 10,
+        "percent": 77.11
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 323.673932,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 22.89
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1413.967142,
+        "digital": "0:23:33",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1413.967142,
+        "digital": "0:23:33",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "framer-motion",
+        "total_seconds": 581.579195,
+        "digital": "0:09:41",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 41,
+        "percent": 19.2
+      },
+      {
+        "name": "link",
+        "total_seconds": 581.579195,
+        "digital": "0:09:41",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 41,
+        "percent": 19.2
+      },
+      {
+        "name": "Navigation",
+        "total_seconds": 581.579195,
+        "digital": "0:09:41",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 41,
+        "percent": 19.2
+      },
+      {
+        "name": "image",
+        "total_seconds": 581.579195,
+        "digital": "0:09:41",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 41,
+        "percent": 19.2
+      },
+      {
+        "name": "headers",
+        "total_seconds": 301.915461,
+        "digital": "0:05:01",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 1,
+        "percent": 9.97
+      },
+      {
+        "name": "auth-helpers-nextjs",
+        "total_seconds": 301.915461,
+        "digital": "0:05:01",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 1,
+        "percent": 9.97
+      },
+      {
+        "name": "next",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "PageContainer",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "Card",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "Heading",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "index",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "Button",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      },
+      {
+        "name": "HelpFeed",
+        "total_seconds": 12.436582,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.41
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 1413.967142,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:23:33",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "helpconnect",
+        "total_seconds": 1090.29321,
+        "color": null,
+        "digital": "0:18:10",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 10,
+        "percent": 77.11
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 323.673932,
+        "color": null,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 22.89
+      }
+    ],
     "range": {
       "start": "2025-04-07T19:00:00Z",
       "end": "2025-04-08T18:59:59Z",
       "date": "2025-04-08",
       "text": "Tue Apr 8th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
