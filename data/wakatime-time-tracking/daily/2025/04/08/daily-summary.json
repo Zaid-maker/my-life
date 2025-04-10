@@ -1,100 +1,210 @@
 [
   {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 582.483305,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 58.98
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 405.106253,
+        "digital": "0:06:45",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 45,
+        "percent": 41.02
+      },
+      {
+        "name": "Text",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 16,
+      "total_seconds": 987.589558,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
     },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 987.589558,
+        "digital": "0:16:27",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 987.589558,
+        "digital": "0:16:27",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 987.589558,
+        "digital": "0:16:27",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "supabase-js",
+        "total_seconds": 311.039154,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 22.51
+      },
+      {
+        "name": "react",
+        "total_seconds": 311.039154,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 22.51
+      },
+      {
+        "name": "client",
+        "total_seconds": 242.115597,
+        "digital": "0:04:02",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 2,
+        "percent": 17.52
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 242.115597,
+        "digital": "0:04:02",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 2,
+        "percent": 17.52
+      },
+      {
+        "name": "alert",
+        "total_seconds": 68.923557,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 4.99
+      },
+      {
+        "name": "button",
+        "total_seconds": 68.923557,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 4.99
+      },
+      {
+        "name": "auth-helpers-nextjs",
+        "total_seconds": 68.923557,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 4.99
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 68.923557,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 4.99
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 987.589558,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:16:27",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "helpconnect",
+        "total_seconds": 987.589558,
+        "digital": "0:16:27",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2025-04-08T19:00:00Z",
       "end": "2025-04-09T18:59:59Z",
       "date": "2025-04-09",
       "text": "Wed Apr 9th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "helpconnect",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "languages": [
-      {
-        "name": "TypeScript",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 0,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "editors": [
-      {
-        "name": "Cursor",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ]
+    }
   }
 ]
