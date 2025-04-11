@@ -1,0 +1,310 @@
+[
+  {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 7,
+      "total_seconds": 4073.225211,
+      "digital": "1:07",
+      "decimal": "1.12",
+      "text": "1 hr 7 mins"
+    },
+    "range": {
+      "start": "2025-04-10T19:00:00Z",
+      "end": "2025-04-11T18:59:59Z",
+      "date": "2025-04-11",
+      "text": "Fri Apr 11th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "helpconnect",
+        "total_seconds": 4073.225211,
+        "color": null,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2758.474526,
+        "digital": "0:45:58",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 58,
+        "percent": 67.72
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 1058.458855,
+        "digital": "0:17:38",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 38,
+        "percent": 25.99
+      },
+      {
+        "name": "Other",
+        "total_seconds": 256.29183,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 6.29
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "auth-helpers-nextjs",
+        "total_seconds": 2081.142115,
+        "digital": "0:34:41",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 41,
+        "percent": 20.52
+      },
+      {
+        "name": "server",
+        "total_seconds": 1310.748397,
+        "digital": "0:21:50",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 50,
+        "percent": 12.93
+      },
+      {
+        "name": "react",
+        "total_seconds": 1184.897036,
+        "digital": "0:19:44",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 44,
+        "percent": 11.69
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 1118.120729,
+        "digital": "0:18:38",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 38,
+        "percent": 11.03
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 847.628286,
+        "digital": "0:14:07",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 7,
+        "percent": 8.36
+      },
+      {
+        "name": "Button",
+        "total_seconds": 682.20643,
+        "digital": "0:11:22",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 22,
+        "percent": 6.73
+      },
+      {
+        "name": "types",
+        "total_seconds": 639.682697,
+        "digital": "0:10:39",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 39,
+        "percent": 6.31
+      },
+      {
+        "name": "index",
+        "total_seconds": 491.329362,
+        "digital": "0:08:11",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 11,
+        "percent": 4.85
+      },
+      {
+        "name": "client",
+        "total_seconds": 477.800936,
+        "digital": "0:07:57",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 57,
+        "percent": 4.71
+      },
+      {
+        "name": "RequestCard",
+        "total_seconds": 337.26875,
+        "digital": "0:05:37",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 37,
+        "percent": 3.33
+      },
+      {
+        "name": "Select",
+        "total_seconds": 337.26875,
+        "digital": "0:05:37",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 37,
+        "percent": 3.33
+      },
+      {
+        "name": "supabase-js",
+        "total_seconds": 297.611027,
+        "digital": "0:04:57",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 57,
+        "percent": 2.94
+      },
+      {
+        "name": "headers",
+        "total_seconds": 142.367736,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 1.4
+      },
+      {
+        "name": "link",
+        "total_seconds": 104.517315,
+        "digital": "0:01:44",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 44,
+        "percent": 1.03
+      },
+      {
+        "name": "next",
+        "total_seconds": 37.433729,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.37
+      },
+      {
+        "name": "RequestStatus",
+        "total_seconds": 24.88967,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.25
+      },
+      {
+        "name": "UrgencyLevel",
+        "total_seconds": 24.88967,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.25
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 4073.225211,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4073.225211,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4073.225211,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4073.225211,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ]
+  }
+]
