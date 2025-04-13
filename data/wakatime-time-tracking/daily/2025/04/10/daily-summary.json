@@ -216,7 +216,7 @@
         "percent": 3.15
       },
       {
-        "name": "Card",
+        "name": "Heading",
         "total_seconds": 876.045228,
         "digital": "0:14:36",
         "decimal": "0.23",
@@ -227,7 +227,7 @@
         "percent": 3.15
       },
       {
-        "name": "Heading",
+        "name": "Card",
         "total_seconds": 876.045228,
         "digital": "0:14:36",
         "decimal": "0.23",
@@ -370,7 +370,7 @@
         "percent": 0.28
       },
       {
-        "name": "UrgencyLevel",
+        "name": "RequestStatus",
         "total_seconds": 24.88967,
         "digital": "0:00:24",
         "decimal": "0.00",
@@ -381,7 +381,7 @@
         "percent": 0.09
       },
       {
-        "name": "RequestStatus",
+        "name": "UrgencyLevel",
         "total_seconds": 24.88967,
         "digital": "0:00:24",
         "decimal": "0.00",
@@ -421,6 +421,7 @@
       {
         "name": "helpconnect",
         "total_seconds": 8340.725426,
+        "color": null,
         "digital": "2:19:00",
         "decimal": "2.32",
         "text": "2 hrs 19 mins",
