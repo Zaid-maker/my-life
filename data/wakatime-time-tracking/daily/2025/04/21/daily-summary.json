@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 17,
-      "total_seconds": 1024.849339,
-      "digital": "0:17",
-      "decimal": "0.28",
-      "text": "17 mins"
-    },
-    "range": {
-      "start": "2025-04-21T19:00:00Z",
-      "end": "2025-04-22T18:59:59Z",
-      "date": "2025-04-22",
-      "text": "Tue Apr 22nd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "package-visualizer",
-        "total_seconds": 895.244714,
-        "color": null,
-        "digital": "0:14:55",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 55,
-        "percent": 87.35
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 129.604625,
-        "color": null,
-        "digital": "0:02:09",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 9,
-        "percent": 12.65
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -65,33 +24,14 @@
         "percent": 12.65
       }
     ],
-    "dependencies": [
-      {
-        "name": "solid",
-        "total_seconds": 895.244714,
-        "digital": "0:14:55",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 55,
-        "percent": 100
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 1024.849339,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:17:04",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 4,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 17,
+      "total_seconds": 1024.849339,
+      "digital": "0:17",
+      "decimal": "0.28",
+      "text": "17 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -141,6 +81,64 @@
         "seconds": 4,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "solid",
+        "total_seconds": 895.244714,
+        "digital": "0:14:55",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 1024.849339,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:17:04",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "package-visualizer",
+        "total_seconds": 895.244714,
+        "digital": "0:14:55",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 55,
+        "percent": 87.35
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 129.604625,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 12.65
+      }
+    ],
+    "range": {
+      "start": "2025-04-21T19:00:00Z",
+      "end": "2025-04-22T18:59:59Z",
+      "date": "2025-04-22",
+      "text": "Tue Apr 22nd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
