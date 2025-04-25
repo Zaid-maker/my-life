@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
-    },
-    "range": {
-      "start": "2025-04-23T19:00:00Z",
-      "end": "2025-04-24T18:59:59Z",
-      "date": "2025-04-24",
-      "text": "Thu Apr 24th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "CarePulse",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "Other",
@@ -42,21 +13,14 @@
         "percent": 0
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "codespaces-866d30 from 20.192.21.53",
-        "total_seconds": 0,
-        "machine_name_id": "9250a5a9-b541-4b22-80ba-de44fc650c63",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -95,6 +59,41 @@
         "seconds": 0,
         "percent": 0
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "codespaces-866d30 from 20.192.21.53",
+        "total_seconds": 0,
+        "machine_name_id": "9250a5a9-b541-4b22-80ba-de44fc650c63",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "CarePulse",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2025-04-23T19:00:00Z",
+      "end": "2025-04-24T18:59:59Z",
+      "date": "2025-04-24",
+      "text": "Thu Apr 24th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
