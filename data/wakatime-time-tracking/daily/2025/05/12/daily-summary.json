@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 387.984615,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2025-05-12T19:00:00Z",
-      "end": "2025-05-13T18:59:59Z",
-      "date": "2025-05-13",
-      "text": "Tue May 13th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "loom_clone",
-        "total_seconds": 387.984615,
-        "color": null,
-        "digital": "0:06:27",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 27,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -42,66 +13,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [
-      {
-        "name": "constants",
-        "total_seconds": 387.984615,
-        "digital": "0:06:27",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 27,
-        "percent": 25
-      },
-      {
-        "name": "react",
-        "total_seconds": 387.984615,
-        "digital": "0:06:27",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 27,
-        "percent": 25
-      },
-      {
-        "name": "link",
-        "total_seconds": 387.984615,
-        "digital": "0:06:27",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 27,
-        "percent": 25
-      },
-      {
-        "name": "image",
-        "total_seconds": 387.984615,
-        "digital": "0:06:27",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 27,
-        "percent": 25
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 387.984615,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:06:27",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 27,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 387.984615,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -140,6 +59,86 @@
         "seconds": 27,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "link",
+        "total_seconds": 387.984615,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 25
+      },
+      {
+        "name": "image",
+        "total_seconds": 387.984615,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 25
+      },
+      {
+        "name": "react",
+        "total_seconds": 387.984615,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 25
+      },
+      {
+        "name": "constants",
+        "total_seconds": 387.984615,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 25
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 387.984615,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "loom_clone",
+        "total_seconds": 387.984615,
+        "digital": "0:06:27",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2025-05-12T19:00:00Z",
+      "end": "2025-05-13T18:59:59Z",
+      "date": "2025-05-13",
+      "text": "Tue May 13th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
