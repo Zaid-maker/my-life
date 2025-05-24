@@ -1,167 +1,189 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 17,
-      "total_seconds": 1073.584795,
-      "digital": "0:17",
-      "decimal": "0.28",
-      "text": "17 mins"
-    },
-    "range": {
-      "start": "2025-05-22T19:00:00Z",
-      "end": "2025-05-23T18:59:59Z",
-      "date": "2025-05-23",
-      "text": "Fri May 23rd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "loom_clone",
-        "total_seconds": 1073.584795,
-        "color": null,
-        "digital": "0:17:53",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 1073.584795,
-        "digital": "0:17:53",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "total_seconds": 2517.422431,
+        "digital": "0:41:57",
+        "decimal": "0.68",
+        "text": "41 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 53,
+        "minutes": 41,
+        "seconds": 57,
         "percent": 100
       }
     ],
-    "dependencies": [
-      {
-        "name": "react",
-        "total_seconds": 1063.061657,
-        "digital": "0:17:43",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 43,
-        "percent": 34.92
-      },
-      {
-        "name": "Header",
-        "total_seconds": 535.744136,
-        "digital": "0:08:55",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 55,
-        "percent": 17.6
-      },
-      {
-        "name": "VideoCard",
-        "total_seconds": 535.744136,
-        "digital": "0:08:55",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 55,
-        "percent": 17.6
-      },
-      {
-        "name": "image",
-        "total_seconds": 442.886949,
-        "digital": "0:07:22",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 22,
-        "percent": 14.55
-      },
-      {
-        "name": "link",
-        "total_seconds": 442.886949,
-        "digital": "0:07:22",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 22,
-        "percent": 14.55
-      },
-      {
-        "name": "ImageWithFallback",
-        "total_seconds": 24.325078,
-        "digital": "0:00:24",
-        "decimal": "0.00",
-        "text": "24 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 24,
-        "percent": 0.8
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 1073.584795,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:17:53",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 41,
+      "total_seconds": 2517.422431,
+      "digital": "0:41",
+      "decimal": "0.68",
+      "text": "41 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 1073.584795,
-        "digital": "0:17:53",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "total_seconds": 2517.422431,
+        "digital": "0:41:57",
+        "decimal": "0.68",
+        "text": "41 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 53,
+        "minutes": 41,
+        "seconds": 57,
         "percent": 100
       }
     ],
     "operating_systems": [
       {
         "name": "WSL",
-        "total_seconds": 1073.584795,
-        "digital": "0:17:53",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "total_seconds": 2517.422431,
+        "digital": "0:41:57",
+        "decimal": "0.68",
+        "text": "41 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 53,
+        "minutes": 41,
+        "seconds": 57,
         "percent": 100
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 1073.584795,
-        "digital": "0:17:53",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "total_seconds": 2517.422431,
+        "digital": "0:41:57",
+        "decimal": "0.68",
+        "text": "41 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 53,
+        "minutes": 41,
+        "seconds": 57,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 1998.650205,
+        "digital": "0:33:18",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 18,
+        "percent": 31.89
+      },
+      {
+        "name": "image",
+        "total_seconds": 1129.557177,
+        "digital": "0:18:49",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 49,
+        "percent": 18.02
+      },
+      {
+        "name": "link",
+        "total_seconds": 1112.342559,
+        "digital": "0:18:32",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 32,
+        "percent": 17.75
+      },
+      {
+        "name": "ImageWithFallback",
+        "total_seconds": 693.780688,
+        "digital": "0:11:33",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 33,
+        "percent": 11.07
+      },
+      {
+        "name": "VideoCard",
+        "total_seconds": 542.458777,
+        "digital": "0:09:02",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 2,
+        "percent": 8.65
+      },
+      {
+        "name": "Header",
+        "total_seconds": 542.458777,
+        "digital": "0:09:02",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 2,
+        "percent": 8.65
+      },
+      {
+        "name": "utils",
+        "total_seconds": 182.014541,
+        "digital": "0:03:02",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 2,
+        "percent": 2.9
+      },
+      {
+        "name": "constants",
+        "total_seconds": 66.726694,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 1.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 2517.422431,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:41:57",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "loom_clone",
+        "total_seconds": 2517.422431,
+        "color": null,
+        "digital": "0:41:57",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2025-05-22T19:00:00Z",
+      "end": "2025-05-23T18:59:59Z",
+      "date": "2025-05-23",
+      "text": "Fri May 23rd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
