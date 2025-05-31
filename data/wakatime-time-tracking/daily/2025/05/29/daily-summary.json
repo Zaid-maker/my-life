@@ -1,69 +1,87 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 26,
-      "total_seconds": 1616.169063,
-      "digital": "0:26",
-      "decimal": "0.43",
-      "text": "26 mins"
-    },
-    "range": {
-      "start": "2025-05-29T19:00:00Z",
-      "end": "2025-05-30T18:59:59Z",
-      "date": "2025-05-30",
-      "text": "Fri May 30th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "loom_clone",
-        "total_seconds": 1616.169063,
-        "color": null,
-        "digital": "0:26:56",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 1616.169063,
-        "digital": "0:26:56",
-        "decimal": "0.43",
-        "text": "26 mins",
+        "total_seconds": 1625.532904,
+        "digital": "0:27:05",
+        "decimal": "0.45",
+        "text": "27 mins",
         "hours": 0,
-        "minutes": 26,
-        "seconds": 56,
-        "percent": 100
+        "minutes": 27,
+        "seconds": 5,
+        "percent": 78.25
       },
       {
         "name": "Bash",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
+        "total_seconds": 451.899983,
+        "digital": "0:07:31",
+        "decimal": "0.12",
+        "text": "7 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
+        "minutes": 7,
+        "seconds": 31,
+        "percent": 21.75
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 34,
+      "total_seconds": 2077.432887,
+      "digital": "0:34",
+      "decimal": "0.57",
+      "text": "34 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2077.432887,
+        "digital": "0:34:37",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 2077.432887,
+        "digital": "0:34:37",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2077.432887,
+        "digital": "0:34:37",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 37,
+        "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "next-js",
-        "total_seconds": 1282.349976,
-        "digital": "0:21:22",
+        "total_seconds": 1286.732899,
+        "digital": "0:21:26",
         "decimal": "0.35",
         "text": "21 mins",
         "hours": 0,
         "minutes": 21,
-        "seconds": 22,
-        "percent": 26.9
+        "seconds": 26,
+        "percent": 26.83
       },
       {
         "name": "server",
@@ -74,7 +92,7 @@
         "hours": 0,
         "minutes": 21,
         "seconds": 16,
-        "percent": 26.77
+        "percent": 26.61
       },
       {
         "name": "auth",
@@ -85,116 +103,109 @@
         "hours": 0,
         "minutes": 21,
         "seconds": 2,
-        "percent": 26.49
+        "percent": 26.33
       },
       {
         "name": "auth-client",
-        "total_seconds": 275.968421,
-        "digital": "0:04:35",
+        "total_seconds": 280.949339,
+        "digital": "0:04:40",
         "decimal": "0.07",
         "text": "4 mins",
         "hours": 0,
         "minutes": 4,
-        "seconds": 35,
-        "percent": 5.79
+        "seconds": 40,
+        "percent": 5.86
       },
       {
         "name": "react",
-        "total_seconds": 209.311139,
-        "digital": "0:03:29",
+        "total_seconds": 214.292057,
+        "digital": "0:03:34",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 29,
-        "percent": 4.39
-      },
-      {
-        "name": "link",
-        "total_seconds": 203.359155,
-        "digital": "0:03:23",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 23,
-        "percent": 4.27
+        "seconds": 34,
+        "percent": 4.47
       },
       {
         "name": "image",
-        "total_seconds": 203.359155,
-        "digital": "0:03:23",
+        "total_seconds": 208.340073,
+        "digital": "0:03:28",
         "decimal": "0.05",
         "text": "3 mins",
         "hours": 0,
         "minutes": 3,
-        "seconds": 23,
-        "percent": 4.27
+        "seconds": 28,
+        "percent": 4.34
+      },
+      {
+        "name": "link",
+        "total_seconds": 208.340073,
+        "digital": "0:03:28",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 28,
+        "percent": 4.34
       },
       {
         "name": "better-auth",
-        "total_seconds": 53.616442,
-        "digital": "0:00:53",
+        "total_seconds": 57.999365,
+        "digital": "0:00:57",
         "decimal": "0.00",
-        "text": "53 secs",
+        "text": "57 secs",
         "hours": 0,
         "minutes": 0,
-        "seconds": 53,
-        "percent": 1.12
+        "seconds": 57,
+        "percent": 1.21
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 1616.169063,
+        "total_seconds": 1631.516495,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:26:56",
-        "decimal": "0.43",
-        "text": "26 mins",
+        "digital": "0:27:11",
+        "decimal": "0.45",
+        "text": "27 mins",
         "hours": 0,
-        "minutes": 26,
-        "seconds": 56,
+        "minutes": 27,
+        "seconds": 11,
+        "percent": 78.54
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 104.28.212.130",
+        "total_seconds": 445.916392,
+        "machine_name_id": "96e9e5de-44f8-4627-aff2-4769ce37681b",
+        "digital": "0:07:25",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 25,
+        "percent": 21.46
+      }
+    ],
+    "projects": [
+      {
+        "name": "loom_clone",
+        "total_seconds": 2077.432887,
+        "digital": "0:34:37",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 37,
         "percent": 100
       }
     ],
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 1616.169063,
-        "digital": "0:26:56",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 1616.169063,
-        "digital": "0:26:56",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1616.169063,
-        "digital": "0:26:56",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 56,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-05-29T19:00:00Z",
+      "end": "2025-05-30T18:59:59Z",
+      "date": "2025-05-30",
+      "text": "Fri May 30th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
