@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 32,
-      "total_seconds": 1955.607475,
-      "digital": "0:32",
-      "decimal": "0.53",
-      "text": "32 mins"
-    },
-    "range": {
-      "start": "2025-05-31T19:00:00Z",
-      "end": "2025-06-01T18:59:59Z",
-      "date": "2025-06-01",
-      "text": "Sun Jun 1st 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "loom_clone",
-        "total_seconds": 1955.607475,
-        "color": null,
-        "digital": "0:32:35",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 35,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -39,7 +10,18 @@
         "hours": 0,
         "minutes": 27,
         "seconds": 25,
-        "percent": 84.15
+        "percent": 64.85
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 582.30848,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 22.94
       },
       {
         "name": "Bash",
@@ -50,7 +32,76 @@
         "hours": 0,
         "minutes": 5,
         "seconds": 9,
-        "percent": 15.85
+        "percent": 12.21
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 42,
+      "total_seconds": 2537.915955,
+      "digital": "0:42",
+      "decimal": "0.70",
+      "text": "42 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1955.607475,
+        "digital": "0:32:35",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 35,
+        "percent": 77.06
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 582.30848,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 22.94
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 1955.607475,
+        "digital": "0:32:35",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 35,
+        "percent": 77.06
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 582.30848,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 22.94
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2537.915955,
+        "digital": "0:42:17",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 17,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -88,7 +139,7 @@
         "percent": 11.13
       },
       {
-        "name": "db",
+        "name": "drizzle",
         "total_seconds": 238.707197,
         "digital": "0:03:58",
         "decimal": "0.05",
@@ -99,7 +150,7 @@
         "percent": 9.37
       },
       {
-        "name": "drizzle",
+        "name": "db",
         "total_seconds": 238.707197,
         "digital": "0:03:58",
         "decimal": "0.05",
@@ -168,15 +219,15 @@
     "machines": [
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 1695.096739,
+        "total_seconds": 2277.405219,
         "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:28:15",
-        "decimal": "0.47",
-        "text": "28 mins",
+        "digital": "0:37:57",
+        "decimal": "0.62",
+        "text": "37 mins",
         "hours": 0,
-        "minutes": 28,
-        "seconds": 15,
-        "percent": 86.68
+        "minutes": 37,
+        "seconds": 57,
+        "percent": 89.74
       },
       {
         "name": "DESKTOP-RBS8QJL from 104.28.212.131",
@@ -188,12 +239,12 @@
         "hours": 0,
         "minutes": 4,
         "seconds": 20,
-        "percent": 13.32
+        "percent": 10.26
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "loom_clone",
         "total_seconds": 1955.607475,
         "digital": "0:32:35",
         "decimal": "0.53",
@@ -201,34 +252,26 @@
         "hours": 0,
         "minutes": 32,
         "seconds": 35,
-        "percent": 100
+        "percent": 77.06
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 582.30848,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 22.94
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 1955.607475,
-        "digital": "0:32:35",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 35,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1955.607475,
-        "digital": "0:32:35",
-        "decimal": "0.53",
-        "text": "32 mins",
-        "hours": 0,
-        "minutes": 32,
-        "seconds": 35,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-05-31T19:00:00Z",
+      "end": "2025-06-01T18:59:59Z",
+      "date": "2025-06-01",
+      "text": "Sun Jun 1st 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
