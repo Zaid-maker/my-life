@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 389.699765,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2025-06-07T19:00:00Z",
-      "end": "2025-06-08T18:59:59Z",
-      "date": "2025-06-08",
-      "text": "Sun Jun 8th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "meet.ai",
-        "total_seconds": 389.699765,
-        "color": null,
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -42,55 +13,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [
-      {
-        "name": "input",
-        "total_seconds": 389.699765,
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 33.33
-      },
-      {
-        "name": "react",
-        "total_seconds": 389.699765,
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 33.33
-      },
-      {
-        "name": "button",
-        "total_seconds": 389.699765,
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 33.33
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 389.699765,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 389.699765,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
     "editors": [
       {
         "name": "Cursor",
@@ -129,6 +59,75 @@
         "seconds": 29,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 389.699765,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 33.33
+      },
+      {
+        "name": "button",
+        "total_seconds": 389.699765,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 33.33
+      },
+      {
+        "name": "input",
+        "total_seconds": 389.699765,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 33.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 389.699765,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "meet.ai",
+        "total_seconds": 389.699765,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2025-06-07T19:00:00Z",
+      "end": "2025-06-08T18:59:59Z",
+      "date": "2025-06-08",
+      "text": "Sun Jun 8th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
