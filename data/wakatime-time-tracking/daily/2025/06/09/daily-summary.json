@@ -1,37 +1,40 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 1,
-      "total_seconds": 72.685772,
-      "digital": "0:01",
-      "decimal": "0.02",
-      "text": "1 min"
-    },
-    "range": {
-      "start": "2025-06-09T19:00:00Z",
-      "end": "2025-06-10T18:59:59Z",
-      "date": "2025-06-10",
-      "text": "Tue Jun 10th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "meet.ai",
-        "total_seconds": 72.685772,
-        "color": null,
-        "digital": "0:01:12",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 12,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
+        "total_seconds": 716.26026,
+        "digital": "0:11:56",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 11,
+      "total_seconds": 716.26026,
+      "digital": "0:11",
+      "decimal": "0.18",
+      "text": "11 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 643.574488,
+        "digital": "0:10:43",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 43,
+        "percent": 89.85
+      },
+      {
+        "name": "Cursor",
         "total_seconds": 72.685772,
         "digital": "0:01:12",
         "decimal": "0.02",
@@ -39,31 +42,79 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
+        "percent": 10.15
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 643.574488,
+        "digital": "0:10:43",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 43,
+        "percent": 89.85
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 72.685772,
+        "digital": "0:01:12",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 10.15
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 716.26026,
+        "digital": "0:11:56",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 56,
         "percent": 100
       }
     ],
     "dependencies": [
       {
-        "name": "zod",
-        "total_seconds": 72.685772,
-        "digital": "0:01:12",
-        "decimal": "0.02",
-        "text": "1 min",
+        "name": "input",
+        "total_seconds": 716.26026,
+        "digital": "0:11:56",
+        "decimal": "0.18",
+        "text": "11 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 12,
-        "percent": 20
+        "minutes": 11,
+        "seconds": 56,
+        "percent": 31.22
       },
       {
-        "name": "card",
-        "total_seconds": 72.685772,
-        "digital": "0:01:12",
-        "decimal": "0.02",
-        "text": "1 min",
+        "name": "button",
+        "total_seconds": 643.574488,
+        "digital": "0:10:43",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 12,
-        "percent": 20
+        "minutes": 10,
+        "seconds": 43,
+        "percent": 28.05
+      },
+      {
+        "name": "react",
+        "total_seconds": 643.574488,
+        "digital": "0:10:43",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 43,
+        "percent": 28.05
       },
       {
         "name": "form",
@@ -74,7 +125,7 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
-        "percent": 20
+        "percent": 3.17
       },
       {
         "name": "react-hook-form",
@@ -85,10 +136,10 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
-        "percent": 20
+        "percent": 3.17
       },
       {
-        "name": "input",
+        "name": "zod",
         "total_seconds": 72.685772,
         "digital": "0:01:12",
         "decimal": "0.02",
@@ -96,10 +147,33 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
-        "percent": 20
+        "percent": 3.17
+      },
+      {
+        "name": "card",
+        "total_seconds": 72.685772,
+        "digital": "0:01:12",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 3.17
       }
     ],
     "machines": [
+      {
+        "name": "codespaces-bc9d13 from 4.240.39.196",
+        "total_seconds": 643.574488,
+        "machine_name_id": "f616f229-a432-4f50-9e9b-49342d364b81",
+        "digital": "0:10:43",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 43,
+        "percent": 89.85
+      },
       {
         "name": "DESKTOP-RBS8QJL from 103.151.47.214",
         "total_seconds": 72.685772,
@@ -110,47 +184,40 @@
         "hours": 0,
         "minutes": 1,
         "seconds": 12,
+        "percent": 10.15
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 203.101.186.196",
+        "total_seconds": 0,
+        "machine_name_id": "03ea0689-24ef-4f4b-801f-ba77414778fe",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "meet.ai",
+        "total_seconds": 716.26026,
+        "digital": "0:11:56",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 56,
         "percent": 100
       }
     ],
-    "editors": [
-      {
-        "name": "Cursor",
-        "total_seconds": 72.685772,
-        "digital": "0:01:12",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 12,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 72.685772,
-        "digital": "0:01:12",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 12,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 72.685772,
-        "digital": "0:01:12",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 12,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-06-09T19:00:00Z",
+      "end": "2025-06-10T18:59:59Z",
+      "date": "2025-06-10",
+      "text": "Tue Jun 10th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
