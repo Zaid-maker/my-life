@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 27,
-      "total_seconds": 1674.7995,
-      "digital": "0:27",
-      "decimal": "0.45",
-      "text": "27 mins"
-    },
-    "range": {
-      "start": "2025-06-11T19:00:00Z",
-      "end": "2025-06-12T18:59:59Z",
-      "date": "2025-06-12",
-      "text": "Thu Jun 12th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "meet.ai",
-        "total_seconds": 1674.7995,
-        "color": null,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -42,101 +13,14 @@
         "percent": 100
       }
     ],
-    "dependencies": [
-      {
-        "name": "zod",
-        "total_seconds": 1674.7995,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 20
-      },
-      {
-        "name": "card",
-        "total_seconds": 1674.7995,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 20
-      },
-      {
-        "name": "form",
-        "total_seconds": 1674.7995,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 20
-      },
-      {
-        "name": "react-hook-form",
-        "total_seconds": 1674.7995,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 20
-      },
-      {
-        "name": "input",
-        "total_seconds": 1674.7995,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 20
-      }
-    ],
-    "machines": [
-      {
-        "name": "codespaces-bc9d13 from 4.240.39.196",
-        "total_seconds": 1596.559411,
-        "machine_name_id": "f616f229-a432-4f50-9e9b-49342d364b81",
-        "digital": "0:26:36",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 36,
-        "percent": 95.33
-      },
-      {
-        "name": "DESKTOP-RBS8QJL from 203.101.186.196",
-        "total_seconds": 78.240089,
-        "machine_name_id": "03ea0689-24ef-4f4b-801f-ba77414778fe",
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 4.67
-      },
-      {
-        "name": "codespaces-bc9d13 from 13.71.3.101",
-        "total_seconds": 0,
-        "machine_name_id": "9b7899d3-c323-4dc4-9939-52d89619a21d",
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 27,
+      "total_seconds": 1674.7995,
+      "digital": "0:27",
+      "decimal": "0.45",
+      "text": "27 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -197,6 +81,121 @@
         "seconds": 54,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "input",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "form",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "react-hook-form",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "zod",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "card",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 20
+      }
+    ],
+    "machines": [
+      {
+        "name": "codespaces-bc9d13 from 4.240.39.196",
+        "total_seconds": 1596.559411,
+        "machine_name_id": "f616f229-a432-4f50-9e9b-49342d364b81",
+        "digital": "0:26:36",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 36,
+        "percent": 95.33
+      },
+      {
+        "name": "DESKTOP-RBS8QJL from 203.101.186.196",
+        "total_seconds": 78.240089,
+        "machine_name_id": "03ea0689-24ef-4f4b-801f-ba77414778fe",
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 4.67
+      },
+      {
+        "name": "codespaces-bc9d13 from 13.71.3.101",
+        "total_seconds": 0,
+        "machine_name_id": "9b7899d3-c323-4dc4-9939-52d89619a21d",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "meet.ai",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2025-06-11T19:00:00Z",
+      "end": "2025-06-12T18:59:59Z",
+      "date": "2025-06-12",
+      "text": "Thu Jun 12th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
