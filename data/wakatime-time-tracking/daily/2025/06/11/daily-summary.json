@@ -84,7 +84,18 @@
     ],
     "dependencies": [
       {
-        "name": "input",
+        "name": "zod",
+        "total_seconds": 1674.7995,
+        "digital": "0:27:54",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "card",
         "total_seconds": 1674.7995,
         "digital": "0:27:54",
         "decimal": "0.45",
@@ -117,18 +128,7 @@
         "percent": 20
       },
       {
-        "name": "zod",
-        "total_seconds": 1674.7995,
-        "digital": "0:27:54",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 54,
-        "percent": 20
-      },
-      {
-        "name": "card",
+        "name": "input",
         "total_seconds": 1674.7995,
         "digital": "0:27:54",
         "decimal": "0.45",
@@ -181,6 +181,7 @@
       {
         "name": "meet.ai",
         "total_seconds": 1674.7995,
+        "color": null,
         "digital": "0:27:54",
         "decimal": "0.45",
         "text": "27 mins",
