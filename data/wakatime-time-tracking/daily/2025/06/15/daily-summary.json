@@ -1,26 +1,375 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 61.37
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 365.637068,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 16.5
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 345.981097,
+        "digital": "0:05:45",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 45,
+        "percent": 15.61
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 127.260356,
+        "digital": "0:02:07",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 7,
+        "percent": 5.74
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 8.907375,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.4
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 6.047377,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.27
+      },
+      {
+        "name": "Image (svg)",
+        "total_seconds": 2.200169,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.1
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 36,
+      "total_seconds": 2216.097662,
+      "digital": "0:36",
+      "decimal": "0.60",
+      "text": "36 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 61.37
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 856.033442,
+        "digital": "0:14:16",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 38.63
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2216.097662,
+        "digital": "0:36:56",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2216.097662,
+        "digital": "0:36:56",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "form",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "button",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "zod",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "react",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "navigation",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "alert",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "input",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "auth-client",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "link",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "card",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "react-hook-form",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 8.23
+      },
+      {
+        "name": "config",
+        "total_seconds": 65.597835,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.4
+      },
+      {
+        "name": "fs",
+        "total_seconds": 65.597835,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.4
+      },
+      {
+        "name": "config.js?refresh=",
+        "total_seconds": 65.597835,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.4
+      },
+      {
+        "name": "\"https://buttons.github.io/buttons.js\"",
+        "total_seconds": 6.047377,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      },
+      {
+        "name": "\"client.js\"",
+        "total_seconds": 6.047377,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 2216.097662,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:36:56",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "meet.ai",
+        "total_seconds": 1360.06422,
+        "digital": "0:22:40",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 40,
+        "percent": 61.37
+      },
+      {
+        "name": "aPulse",
+        "total_seconds": 856.033442,
+        "digital": "0:14:16",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 38.63
+      }
+    ],
     "range": {
       "start": "2025-06-15T19:00:00Z",
       "end": "2025-06-16T18:59:59Z",
       "date": "2025-06-16",
       "text": "Mon Jun 16th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
