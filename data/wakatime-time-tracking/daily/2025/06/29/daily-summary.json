@@ -1,26 +1,177 @@
 [
   {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 137.483384,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 83.82
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 16.188872,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 9.87
+      },
+      {
+        "name": "Svelte",
+        "total_seconds": 10.347105,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 6.31
+      }
+    ],
     "grand_total": {
       "hours": 0,
-      "minutes": 0,
-      "total_seconds": 0,
-      "digital": "0:00",
-      "decimal": "0.00",
-      "text": "0 secs"
+      "minutes": 2,
+      "total_seconds": 164.019361,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
     },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "npm",
+        "total_seconds": 137.483384,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 20
+      },
+      {
+        "name": "vite",
+        "total_seconds": 137.483384,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 20
+      },
+      {
+        "name": "@sveltejs/vite-plugin-svelte",
+        "total_seconds": 137.483384,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 20
+      },
+      {
+        "name": "svelte",
+        "total_seconds": 137.483384,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 20
+      },
+      {
+        "name": "idb",
+        "total_seconds": 137.483384,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 20
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 164.019361,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "todo-list-svelte",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
     "range": {
       "start": "2025-06-29T19:00:00Z",
       "end": "2025-06-30T18:59:59Z",
       "date": "2025-06-30",
       "text": "Mon Jun 30th 2025",
       "timezone": "Asia/Karachi"
-    },
-    "projects": [],
-    "languages": [],
-    "dependencies": [],
-    "machines": [],
-    "editors": [],
-    "operating_systems": [],
-    "categories": []
+    }
   }
 ]
