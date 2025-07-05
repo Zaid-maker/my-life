@@ -128,7 +128,7 @@
         "percent": 7.17
       },
       {
-        "name": "FadeInTextTemplate",
+        "name": "SlideInTextTemplate",
         "total_seconds": 3567.87749,
         "digital": "0:59:27",
         "decimal": "0.98",
@@ -139,7 +139,7 @@
         "percent": 7.17
       },
       {
-        "name": "SlideInTextTemplate",
+        "name": "FadeInTextTemplate",
         "total_seconds": 3567.87749,
         "digital": "0:59:27",
         "decimal": "0.98",
@@ -260,17 +260,6 @@
         "percent": 3.21
       },
       {
-        "name": "Main",
-        "total_seconds": 1555.848003,
-        "digital": "0:25:55",
-        "decimal": "0.42",
-        "text": "25 mins",
-        "hours": 0,
-        "minutes": 25,
-        "seconds": 55,
-        "percent": 3.13
-      },
-      {
         "name": "NextLogo",
         "total_seconds": 1555.848003,
         "digital": "0:25:55",
@@ -283,6 +272,17 @@
       },
       {
         "name": "constants",
+        "total_seconds": 1555.848003,
+        "digital": "0:25:55",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 55,
+        "percent": 3.13
+      },
+      {
+        "name": "Main",
         "total_seconds": 1555.848003,
         "digital": "0:25:55",
         "decimal": "0.42",
@@ -315,7 +315,7 @@
         "percent": 2.79
       },
       {
-        "name": "OldSchoolTextTemplate",
+        "name": "FluidTextTemplate",
         "total_seconds": 1390.170906,
         "digital": "0:23:10",
         "decimal": "0.38",
@@ -326,7 +326,7 @@
         "percent": 2.79
       },
       {
-        "name": "FluidTextTemplate",
+        "name": "OldSchoolTextTemplate",
         "total_seconds": 1390.170906,
         "digital": "0:23:10",
         "decimal": "0.38",
@@ -403,17 +403,6 @@
         "percent": 0.05
       },
       {
-        "name": "input",
-        "total_seconds": 23.464501,
-        "digital": "0:00:23",
-        "decimal": "0.00",
-        "text": "23 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 23,
-        "percent": 0.05
-      },
-      {
         "name": "slider",
         "total_seconds": 23.464501,
         "digital": "0:00:23",
@@ -426,6 +415,17 @@
       },
       {
         "name": "select",
+        "total_seconds": 23.464501,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.05
+      },
+      {
+        "name": "input",
         "total_seconds": 23.464501,
         "digital": "0:00:23",
         "decimal": "0.00",
@@ -476,6 +476,7 @@
       {
         "name": "intro-video-editor",
         "total_seconds": 10496.186255,
+        "color": null,
         "digital": "2:54:56",
         "decimal": "2.90",
         "text": "2 hrs 54 mins",
