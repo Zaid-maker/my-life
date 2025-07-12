@@ -249,17 +249,6 @@
         "percent": 2.08
       },
       {
-        "name": "select",
-        "total_seconds": 1275.105341,
-        "digital": "0:21:15",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 15,
-        "percent": 1.81
-      },
-      {
         "name": "textarea",
         "total_seconds": 1275.105341,
         "digital": "0:21:15",
@@ -283,6 +272,17 @@
       },
       {
         "name": "input",
+        "total_seconds": 1275.105341,
+        "digital": "0:21:15",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 15,
+        "percent": 1.81
+      },
+      {
+        "name": "select",
         "total_seconds": 1275.105341,
         "digital": "0:21:15",
         "decimal": "0.35",
@@ -348,7 +348,7 @@
         "percent": 0.96
       },
       {
-        "name": "card",
+        "name": "CreateProjectDialog",
         "total_seconds": 674.270067,
         "digital": "0:11:14",
         "decimal": "0.18",
@@ -359,7 +359,7 @@
         "percent": 0.96
       },
       {
-        "name": "CreateProjectDialog",
+        "name": "card",
         "total_seconds": 674.270067,
         "digital": "0:11:14",
         "decimal": "0.18",
@@ -447,7 +447,7 @@
         "percent": 0.45
       },
       {
-        "name": "Footer",
+        "name": "LandingPageNavbar",
         "total_seconds": 309.158283,
         "digital": "0:05:09",
         "decimal": "0.08",
@@ -458,7 +458,7 @@
         "percent": 0.44
       },
       {
-        "name": "LandingPageNavbar",
+        "name": "Footer",
         "total_seconds": 309.158283,
         "digital": "0:05:09",
         "decimal": "0.08",
@@ -513,7 +513,7 @@
         "percent": 0.02
       },
       {
-        "name": "Inter",
+        "name": "NextLogo",
         "total_seconds": 3.168289,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -524,7 +524,7 @@
         "percent": 0
       },
       {
-        "name": "Rings",
+        "name": "constants",
         "total_seconds": 3.168289,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -546,7 +546,7 @@
         "percent": 0
       },
       {
-        "name": "NextLogo",
+        "name": "Inter",
         "total_seconds": 3.168289,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -557,7 +557,7 @@
         "percent": 0
       },
       {
-        "name": "constants",
+        "name": "Rings",
         "total_seconds": 3.168289,
         "digital": "0:00:03",
         "decimal": "0.00",
@@ -609,6 +609,7 @@
       {
         "name": "intro-video-editor",
         "total_seconds": 10187.038155,
+        "color": null,
         "digital": "2:49:47",
         "decimal": "2.82",
         "text": "2 hrs 49 mins",
