@@ -1,0 +1,365 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 42,
+      "total_seconds": 2568.794789,
+      "digital": "0:42",
+      "decimal": "0.70",
+      "text": "42 mins"
+    },
+    "range": {
+      "start": "2025-07-24T19:00:00Z",
+      "end": "2025-07-25T18:59:59Z",
+      "date": "2025-07-25",
+      "text": "Fri Jul 25th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "intro-video-editor",
+        "total_seconds": 2568.794789,
+        "color": null,
+        "digital": "0:42:48",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1771.417825,
+        "digital": "0:29:31",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 31,
+        "percent": 68.96
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 766.320385,
+        "digital": "0:12:46",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 46,
+        "percent": 29.83
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 31.056579,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 1.21
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "remotion",
+        "total_seconds": 1619.049425,
+        "digital": "0:26:59",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 59,
+        "percent": 13.25
+      },
+      {
+        "name": "react",
+        "total_seconds": 1199.162261,
+        "digital": "0:19:59",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 59,
+        "percent": 9.81
+      },
+      {
+        "name": "zod",
+        "total_seconds": 1046.793861,
+        "digital": "0:17:26",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 26,
+        "percent": 8.57
+      },
+      {
+        "name": "ParticleExplosionTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "constants",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "FunTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "FluidTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "TypewriterTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "Main",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "Text3DTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "GlitchTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "FadeInTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "SlideInTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "BounceTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "OldSchoolTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "NeonTextTemplate",
+        "total_seconds": 572.255564,
+        "digital": "0:09:32",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 4.68
+      },
+      {
+        "name": "button",
+        "total_seconds": 152.3684,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 1.25
+      },
+      {
+        "name": "sonner",
+        "total_seconds": 152.3684,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 1.25
+      },
+      {
+        "name": "label",
+        "total_seconds": 152.3684,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 1.25
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 152.3684,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 1.25
+      },
+      {
+        "name": "uploadthing",
+        "total_seconds": 152.3684,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 1.25
+      },
+      {
+        "name": "slider",
+        "total_seconds": 152.3684,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 1.25
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 2a09:bac1:5b60:28::cf:29",
+        "total_seconds": 2568.794789,
+        "machine_name_id": "7d2ea647-1bdf-401d-9116-3e4a7803104b",
+        "digital": "0:42:48",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2568.794789,
+        "digital": "0:42:48",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2568.794789,
+        "digital": "0:42:48",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2568.794789,
+        "digital": "0:42:48",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 100
+      }
+    ]
+  }
+]
