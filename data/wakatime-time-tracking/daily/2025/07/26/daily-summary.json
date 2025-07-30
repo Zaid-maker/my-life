@@ -41,7 +41,11 @@
       "total_seconds": 1441.379669,
       "digital": "0:24",
       "decimal": "0.40",
-      "text": "24 mins"
+      "text": "24 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
     },
     "editors": [
       {
@@ -84,7 +88,7 @@
     ],
     "dependencies": [
       {
-        "name": "remotion",
+        "name": "react",
         "total_seconds": 1056.991063,
         "digital": "0:17:36",
         "decimal": "0.28",
@@ -106,7 +110,7 @@
         "percent": 33.33
       },
       {
-        "name": "react",
+        "name": "remotion",
         "total_seconds": 1056.991063,
         "digital": "0:17:36",
         "decimal": "0.28",
@@ -117,7 +121,7 @@
         "percent": 33.33
       },
       {
-        "name": "LandingPageNavbar",
+        "name": "Hero",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -139,7 +143,7 @@
         "percent": 0
       },
       {
-        "name": "Hero",
+        "name": "LandingPageNavbar",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -168,6 +172,10 @@
       {
         "name": "intro-video-editor",
         "total_seconds": 1441.379669,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
         "digital": "0:24:01",
         "decimal": "0.40",
         "text": "24 mins",
@@ -183,6 +191,10 @@
       "date": "2025-07-27",
       "text": "Sun Jul 27th 2025",
       "timezone": "Asia/Karachi"
-    }
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
   }
 ]
