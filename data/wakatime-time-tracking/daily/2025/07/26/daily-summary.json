@@ -88,7 +88,7 @@
     ],
     "dependencies": [
       {
-        "name": "react",
+        "name": "remotion",
         "total_seconds": 1056.991063,
         "digital": "0:17:36",
         "decimal": "0.28",
@@ -110,7 +110,7 @@
         "percent": 33.33
       },
       {
-        "name": "remotion",
+        "name": "react",
         "total_seconds": 1056.991063,
         "digital": "0:17:36",
         "decimal": "0.28",
@@ -119,17 +119,6 @@
         "minutes": 17,
         "seconds": 36,
         "percent": 33.33
-      },
-      {
-        "name": "Hero",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
       },
       {
         "name": "Footer",
@@ -144,6 +133,17 @@
       },
       {
         "name": "LandingPageNavbar",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Hero",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -176,6 +176,7 @@
         "ai_deletions": 0,
         "human_additions": 0,
         "human_deletions": 0,
+        "color": null,
         "digital": "0:24:01",
         "decimal": "0.40",
         "text": "24 mins",

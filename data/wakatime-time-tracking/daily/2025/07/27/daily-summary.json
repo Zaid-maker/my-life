@@ -132,7 +132,7 @@
         "percent": 8.64
       },
       {
-        "name": "noise",
+        "name": "motion-blur",
         "total_seconds": 2253.207201,
         "digital": "0:37:33",
         "decimal": "0.62",
@@ -143,7 +143,7 @@
         "percent": 5.44
       },
       {
-        "name": "motion-blur",
+        "name": "noise",
         "total_seconds": 2253.207201,
         "digital": "0:37:33",
         "decimal": "0.62",
@@ -198,17 +198,6 @@
         "percent": 2.43
       },
       {
-        "name": "input",
-        "total_seconds": 1007.415415,
-        "digital": "0:16:47",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 47,
-        "percent": 2.43
-      },
-      {
         "name": "textarea",
         "total_seconds": 1007.415415,
         "digital": "0:16:47",
@@ -220,7 +209,18 @@
         "percent": 2.43
       },
       {
-        "name": "AudioUploader",
+        "name": "MediaUploader",
+        "total_seconds": 1007.415415,
+        "digital": "0:16:47",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 47,
+        "percent": 2.43
+      },
+      {
+        "name": "label",
         "total_seconds": 1007.415415,
         "digital": "0:16:47",
         "decimal": "0.27",
@@ -253,7 +253,18 @@
         "percent": 2.43
       },
       {
-        "name": "MediaUploader",
+        "name": "input",
+        "total_seconds": 1007.415415,
+        "digital": "0:16:47",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 47,
+        "percent": 2.43
+      },
+      {
+        "name": "AudioUploader",
         "total_seconds": 1007.415415,
         "digital": "0:16:47",
         "decimal": "0.27",
@@ -275,17 +286,6 @@
         "percent": 2.43
       },
       {
-        "name": "label",
-        "total_seconds": 1007.415415,
-        "digital": "0:16:47",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 47,
-        "percent": 2.43
-      },
-      {
         "name": "constants",
         "total_seconds": 643.917663,
         "digital": "0:10:43",
@@ -295,17 +295,6 @@
         "minutes": 10,
         "seconds": 43,
         "percent": 1.55
-      },
-      {
-        "name": "Hero",
-        "total_seconds": 637.738221,
-        "digital": "0:10:37",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 37,
-        "percent": 1.54
       },
       {
         "name": "Footer",
@@ -330,37 +319,15 @@
         "percent": 1.54
       },
       {
-        "name": "FluidTextTemplate",
-        "total_seconds": 518.492233,
-        "digital": "0:08:38",
-        "decimal": "0.13",
-        "text": "8 mins",
+        "name": "Hero",
+        "total_seconds": 637.738221,
+        "digital": "0:10:37",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 8,
-        "seconds": 38,
-        "percent": 1.25
-      },
-      {
-        "name": "Text3DTemplate",
-        "total_seconds": 518.492233,
-        "digital": "0:08:38",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 38,
-        "percent": 1.25
-      },
-      {
-        "name": "FadeInTextTemplate",
-        "total_seconds": 518.492233,
-        "digital": "0:08:38",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 38,
-        "percent": 1.25
+        "minutes": 10,
+        "seconds": 37,
+        "percent": 1.54
       },
       {
         "name": "ModernTextTemplate",
@@ -374,7 +341,7 @@
         "percent": 1.25
       },
       {
-        "name": "SlideInTextTemplate",
+        "name": "TypewriterTemplate",
         "total_seconds": 518.492233,
         "digital": "0:08:38",
         "decimal": "0.13",
@@ -407,29 +374,7 @@
         "percent": 1.25
       },
       {
-        "name": "TypewriterTemplate",
-        "total_seconds": 518.492233,
-        "digital": "0:08:38",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 38,
-        "percent": 1.25
-      },
-      {
-        "name": "ParticleExplosionTemplate",
-        "total_seconds": 518.492233,
-        "digital": "0:08:38",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 38,
-        "percent": 1.25
-      },
-      {
-        "name": "GlitchTextTemplate",
+        "name": "Text3DTemplate",
         "total_seconds": 518.492233,
         "digital": "0:08:38",
         "decimal": "0.13",
@@ -462,6 +407,61 @@
         "percent": 1.25
       },
       {
+        "name": "FluidTextTemplate",
+        "total_seconds": 518.492233,
+        "digital": "0:08:38",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 38,
+        "percent": 1.25
+      },
+      {
+        "name": "FadeInTextTemplate",
+        "total_seconds": 518.492233,
+        "digital": "0:08:38",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 38,
+        "percent": 1.25
+      },
+      {
+        "name": "SlideInTextTemplate",
+        "total_seconds": 518.492233,
+        "digital": "0:08:38",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 38,
+        "percent": 1.25
+      },
+      {
+        "name": "ParticleExplosionTemplate",
+        "total_seconds": 518.492233,
+        "digital": "0:08:38",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 38,
+        "percent": 1.25
+      },
+      {
+        "name": "GlitchTextTemplate",
+        "total_seconds": 518.492233,
+        "digital": "0:08:38",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 38,
+        "percent": 1.25
+      },
+      {
         "name": "Icons",
         "total_seconds": 481.743897,
         "digital": "0:08:01",
@@ -484,29 +484,7 @@
         "percent": 1.16
       },
       {
-        "name": "renderer",
-        "total_seconds": 321.600156,
-        "digital": "0:05:21",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 21,
-        "percent": 0.78
-      },
-      {
         "name": "bundler",
-        "total_seconds": 321.600156,
-        "digital": "0:05:21",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 21,
-        "percent": 0.78
-      },
-      {
-        "name": "path",
         "total_seconds": 321.600156,
         "digital": "0:05:21",
         "decimal": "0.08",
@@ -528,7 +506,29 @@
         "percent": 0.78
       },
       {
-        "name": "Rings",
+        "name": "path",
+        "total_seconds": 321.600156,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 0.78
+      },
+      {
+        "name": "renderer",
+        "total_seconds": 321.600156,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 0.78
+      },
+      {
+        "name": "TextFade",
         "total_seconds": 284.100281,
         "digital": "0:04:44",
         "decimal": "0.07",
@@ -550,7 +550,7 @@
         "percent": 0.69
       },
       {
-        "name": "TextFade",
+        "name": "Rings",
         "total_seconds": 284.100281,
         "digital": "0:04:44",
         "decimal": "0.07",
@@ -605,6 +605,7 @@
         "ai_deletions": 0,
         "human_additions": 0,
         "human_deletions": 0,
+        "color": null,
         "digital": "1:46:49",
         "decimal": "1.77",
         "text": "1 hr 46 mins",

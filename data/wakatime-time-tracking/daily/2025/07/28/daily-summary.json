@@ -19,7 +19,11 @@
       "total_seconds": 525.778468,
       "digital": "0:08",
       "decimal": "0.13",
-      "text": "8 mins"
+      "text": "8 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
     },
     "editors": [
       {
@@ -62,6 +66,17 @@
     ],
     "dependencies": [
       {
+        "name": "Footer",
+        "total_seconds": 525.778468,
+        "digital": "0:08:45",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 45,
+        "percent": 33.33
+      },
+      {
         "name": "LandingPageNavbar",
         "total_seconds": 525.778468,
         "digital": "0:08:45",
@@ -74,17 +89,6 @@
       },
       {
         "name": "Hero",
-        "total_seconds": 525.778468,
-        "digital": "0:08:45",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 45,
-        "percent": 33.33
-      },
-      {
-        "name": "Footer",
         "total_seconds": 525.778468,
         "digital": "0:08:45",
         "decimal": "0.13",
@@ -113,6 +117,11 @@
       {
         "name": "intro-video-editor",
         "total_seconds": 525.778468,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
         "digital": "0:08:45",
         "decimal": "0.13",
         "text": "8 mins",
