@@ -1,0 +1,52 @@
+{
+  "format": 3,
+  "generatedAt": "2026-09-05T02:49:20.137Z",
+  "generator": {
+    "actionVersion": "1.2.11",
+    "integrationsVersion": "2.4.1",
+    "sourceSha": "079955c25d7c7fea69fe92e43dac514c1991c216"
+  },
+  "adapters": [
+    {
+      "name": "spotify",
+      "status": "skipped"
+    },
+    {
+      "name": "rescuetime",
+      "status": "skipped"
+    },
+    {
+      "name": "last-fm",
+      "status": "succeeded"
+    },
+    {
+      "name": "pocket-casts",
+      "status": "skipped"
+    },
+    {
+      "name": "wakatime",
+      "status": "failed"
+    },
+    {
+      "name": "clockify",
+      "status": "succeeded"
+    },
+    {
+      "name": "google-fit",
+      "status": "skipped"
+    },
+    {
+      "name": "oura-ring",
+      "status": "skipped"
+    },
+    {
+      "name": "goodreads",
+      "status": "skipped"
+    },
+    {
+      "name": "twitter",
+      "status": "skipped"
+    }
+  ],
+  "v2Files": {}
+}
