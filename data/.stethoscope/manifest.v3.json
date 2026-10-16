@@ -1,10 +1,10 @@
 {
   "format": 3,
-  "generatedAt": "2026-10-15T03:03:41.118Z",
+  "generatedAt": "2026-10-16T03:00:23.619Z",
   "generator": {
     "actionVersion": "1.2.11",
-    "integrationsVersion": "2.4.4",
-    "sourceSha": "837c69286c9d8969872a4871fbb3c98f6ba9d80e"
+    "integrationsVersion": "2.4.5",
+    "sourceSha": "093712b1d7b13dc22599870deca763ccd0410a1a"
   },
   "adapters": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "name": "last-fm",
-      "status": "failed"
+      "status": "succeeded"
     },
     {
       "name": "pocket-casts",
