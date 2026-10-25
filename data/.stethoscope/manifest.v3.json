@@ -1,10 +1,10 @@
 {
   "format": 3,
-  "generatedAt": "2026-10-24T03:09:23.258Z",
+  "generatedAt": "2026-10-25T03:04:29.432Z",
   "generator": {
     "actionVersion": "1.2.11",
     "integrationsVersion": "2.4.5",
-    "sourceSha": "55ba057cf9cf080af55ea6f85fea2e299a4841ae"
+    "sourceSha": "b550fe56ac591d7938fea461a2e48d7d440123c7"
   },
   "adapters": [
     {
@@ -48,5 +48,9 @@
       "status": "skipped"
     }
   ],
-  "v2Files": {}
+  "v2Files": {
+    "last-fm-music/weekly/top-albums/2026/44.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "last-fm-music/weekly/top-artists/2026/44.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "last-fm-music/weekly/top-tracks/2026/44.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  }
 }
